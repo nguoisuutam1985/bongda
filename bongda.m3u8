@@ -1,4 +1,10 @@
 #EXTM3U
+#EXTINF:0 group-title="daily",2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://2024.wuaze.com/daily.php?id=x8z5z70
+#EXTINF:0 group-title="daily",202x
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://202x.io.vn/daily.php?id=x8z5z70
 #EXTINF:0 group-title="27",27 17h30 Ansan Greeners FC vs Busan I Park[soco][BLV ĐỐM]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/bongda/soc.php?r=434982&t=m3u8
