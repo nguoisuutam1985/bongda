@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 group-title="0",test xoilac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://acdn.p2pcdn.xyz/xoilac/channel51.m3u8?auth_key=3000001716968693-0-0-f32bef058f6756f66dc4e1d641243228
 #EXTINF:0 group-title="29",29 07h00 CR Flamengo vs Millonarios[soco][BLV PIRLO]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/bongda/soc.php?r=351530&t=m3u8
