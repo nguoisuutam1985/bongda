@@ -1,8 +1,5 @@
 #EXTM3U
-#EXTINF:0 group-title="(socolive) 05",05 18h30 San Miguel Beermen vs Meralco Bolts (socolive)[BLV BEAN]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://202x.io.vn/bongda/soc.php?r=166054&t=m3u8
-#EXTINF:0 group-title="(socolive) 05",05 19h00 Ivory Coast U23 vs Korea Republic U21 (socolive)[BLV MESSI]
+#EXTINF:0 group-title="(socolive) 05",05 19h00 Ivory Coast U23 vs Korea Republic U21 (socolive)[BLV MESSI]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/bongda/soc.php?r=494201&t=m3u8
 #EXTINF:0 group-title="(socolive) 05",05 19h00 Ivory Coast U23 vs Korea Republic U21 (socolive)[BLV KEVILL]
@@ -74,9 +71,6 @@ https://202x.io.vn/bongda/soc.php?r=9912060&t=m3u8
 #EXTINF:0 group-title="(socolive) 05",05 23h00 San Marino vs Slovakia (socolive)[BLV CRIS]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/bongda/soc.php?r=499765&t=m3u8
-#EXTINF:0 group-title="(socolive) 05",05 23h00 San Marino vs Slovakia (socolive)[BLV TÍCH]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://202x.io.vn/bongda/soc.php?r=478026&t=m3u8
 #EXTINF:0 group-title="(socolive) 05",05 23h00 San Marino vs Slovakia (socolive)[BLV PEWPEW]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/bongda/soc.php?r=9912015&t=m3u8
@@ -236,9 +230,6 @@ https://202x.io.vn/bongda/soc.php?r=9912011&t=m3u8
 #EXTINF:0 group-title="(socolive) 06",06 02h00 Vicenza vs Carrarese (socolive)[BLV JAKIE]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/bongda/soc.php?r=278654&t=m3u8
-#EXTINF:0 group-title="(socolive) 06",06 02h30 Spain vs Andorra (socolive)[BLV TÍCH]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-https://202x.io.vn/bongda/soc.php?r=478026&t=m3u8
 #EXTINF:0 group-title="(socolive) 06",06 02h30 Spain vs Andorra (socolive)[BẬP BÙNG]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/bongda/soc.php?r=361284&t=m3u8
@@ -359,6 +350,9 @@ https://202x.io.vn/bongda/soc.php?r=346184&t=m3u8
 #EXTINF:0 group-title="(socolive) 06",06 08h00 San Antonio vs El Paso Locomotive FC (socolive)[BLV ENZO]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/bongda/soc.php?r=380460&t=m3u8
+#EXTINF:0 group-title="(socolive) 06",06 08h00 San Antonio vs El Paso Locomotive FC (socolive)[BLV TÍCH]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://202x.io.vn/bongda/soc.php?r=478026&t=m3u8
 #EXTINF:0 group-title="(socolive) 06",06 09h00 Nicaragua vs Montserrat (socolive)[BLV GÔN]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/bongda/soc.php?r=445260&t=m3u8
@@ -654,15 +648,7 @@ https://202x.io.vn/bongda/soc.php?r=389145&t=m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/bongda/soc.php?r=359960&t=m3u8
 
-#EXTINF:0 group-title="(xoilac) 05",05 17h30 C. Sapporo vs Kataller Toyama (xoilac)(androma)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
-https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/c-sapporo-vs-kataller-toyama-luc-1730-ngay-05-06-2024/
-#EXTINF:0 group-title="(xoilac) 05",05 17h30 Nu Heidelberg United vs Nu Emerging Athlete (xoilac)(androma)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
-https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/nu-heidelberg-united-vs-nu-emerging-athlete-luc-1730-ngay-05-06-2024/
-#EXTINF:0 group-title="(xoilac) 05",05 18h30 China (w) vs Japan (W) (xoilac)(androma)
+#EXTINF:0 group-title="(xoilac) 05",05 18h30 China (w) vs Japan (W) (xoilac)(androma)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
 https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/china-w-vs-japan-w-luc-1830-ngay-05-06-2024/
@@ -682,10 +668,10 @@ https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/dreams-metro-g
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
 https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/richards-bay-vs-pretoria-univ-luc-2000-ngay-05-06-2024/
-#EXTINF:0 group-title="(xoilac) 05",05 20h00 Uruguay U20 vs Australia U20 (xoilac)(androma)
+#EXTINF:0 group-title="(xoilac) 05",05 20h00 Chacarita Juniors R. vs Dep. Camioneros Res (xoilac)(androma)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
-https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/uruguay-u20-vs-australia-u20-luc-2000-ngay-05-06-2024/
+https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/chacarita-juniors-r-vs-dep-camioneros-res-luc-2000-ngay-05-06-2024/
 #EXTINF:0 group-title="(xoilac) 05",05 21h20 Emirates Club vs Al Ain (xoilac)(androma)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
@@ -782,10 +768,6 @@ https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/bi-vs-monteneg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
 https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/tacuarembo-vs-rentistas-luc-0130-ngay-06-06-2024/
-#EXTINF:0 group-title="(xoilac) 06",06 01h45 Tay Ban Nha vs Andorra (xoilac)(androma)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
-https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/tay-ban-nha-vs-andorra-luc-0145-ngay-06-06-2024/
 #EXTINF:0 group-title="(xoilac) 06",06 02h00 Phap vs Luxembourg (xoilac)(androma)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
@@ -806,6 +788,10 @@ https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/antigua-barbud
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
 https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/sportivo-luqueno-vs-sportivo-trinidense-luc-0230-ngay-06-06-2024/
+#EXTINF:0 group-title="(xoilac) 06",06 02h30 Tay Ban Nha vs Andorra (xoilac)(androma)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
+https://202x.io.vn/bongda/xl.php?x=https://andromda.org/truc-tiep/tay-ban-nha-vs-andorra-luc-0145-ngay-06-06-2024/
 #EXTINF:0 group-title="(xoilac) 06",06 03h00 Nu Bragantino vs Nu Ferroviaria SP (xoilac)(androma)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vb.plcdn.xyz
