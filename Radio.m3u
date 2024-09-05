@@ -1,9 +1,9 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="Radio" tvg-logo="https://i.imgur.com/05t6W7v.png",Bắc Giang
-https://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
+#https://live.mediatech.vn/live/28584e20827396945f5a4fd57fadd4be21a/chunklist.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://bacgiangtv.vn/templates/frontend/bgtv/Assets/img/radio_bg.png",Bắc Giang
-https://202x.io.vn/online/bacgiang.php
+#https://202x.io.vn/online/bacgiang.php
 #EXTINF:-1 group-title="Radio" tvg-logo="https://cdn.hqth.me/logo/thumbs/111.png",Bắc Kạn
 http://14.224.167.97:8080/hls/radio.m3u8
 #EXTINF:-1 group-title="Radio" tvg-logo="https://i.imgur.com/FoAzh3R.png",Bạc Liêu
