@@ -305,14 +305,18 @@ https://202x.io.vn/tv.php?id=108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 https://202x.io.vn/tv.php?id=109
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 17/09",17/09 06h00 [Brazilian Serie A] football Internacional RS vs Cuiaba
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d7953d539bd0e8ecfdb412e79b8ce04e.png" group-title="Ngày 17/09",17/09 07h00 [Ecuadorian Primera Division] football Tecnico Universitario vs Libertad FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Q9Eky11&t=1726527600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 17/09",17/09 06h00 [Brazilian Serie A] football Internacional RS vs Cuiaba
+https://202x.io.vn/bongda/tc.php?id=4FCwltK&t=1726531200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png" group-title="Ngày 17/09",17/09 07h00 [Argentine Division 1] football Independiente Rivadavia vs Defensa Y Justicia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Q9Eky11&t=1726527600
+https://202x.io.vn/bongda/tc.php?id=sx68xM0&t=1726531200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d7953d539bd0e8ecfdb412e79b8ce04e.png" group-title="Ngày 17/09",17/09 07h00 [Ecuadorian Primera Division] football Tecnico Universitario vs Libertad FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=4FCwltK&t=1726531200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="Ngày 17/09",17/09 15h30 [Indonesian Liga 1] football PSBS Biak vs Madura United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -353,10 +357,6 @@ https://202x.io.vn/bongda/tc.php?id=9Cejk2Q&t=1726591500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=PV6LFS5&t=1726591500
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d7953d539bd0e8ecfdb412e79b8ce04e.png" group-title="Ngày 17/09",17/09 07h00 [Ecuadorian Primera Division] football Tecnico Universitario vs Libertad FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=4FCwltK&t=1726531200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png" group-title="Ngày 17/09",17/09 21h00 [Indian Super League] football FC Goa vs Jamshedpur FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
