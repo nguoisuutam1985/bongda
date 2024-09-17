@@ -305,10 +305,6 @@ https://202x.io.vn/tv.php?id=108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 https://202x.io.vn/tv.php?id=109
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 17/09",17/09 19h00 [AFC Champions League Elite] football Shanghai Shenhua vs Pohang Steelers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=iPNpWLA&t=1726574400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 17/09",17/09 19h00 [AFC Champions League Elite] football Buriram United vs Vissel Kobe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -317,18 +313,10 @@ https://202x.io.vn/bongda/tc.php?id=c4DMFTv&t=1726574400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=7rG3Vx1&t=1726576200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="Ngày 17/09",17/09 19h00 [Indonesian Liga 1] football Borneo FC vs Malut United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=kMqtBVY&t=1726574400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 17/09",17/09 19h00 [UEFA Youth League] football Juventus Youth vs PSV Eindhoven U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=kqJoyM7&t=1726574400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 17/09",17/09 19h00 [AFC Champions League Elite] football Shanghai Shenhua vs Pohang Steelers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=iPNpWLA&t=1726574400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 17/09",17/09 19h00 [AFC Champions League Elite] football Buriram United vs Vissel Kobe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -425,6 +413,14 @@ https://202x.io.vn/bongda/tc.php?id=RZNbAHH&t=1726619400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=stxJGDq&t=1726619400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 18/09",18/09 17h00 [AFC Champions League Elite] football Ulsan Hyundai FC vs Kawasaki Frontale
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ppx4YFr&t=1726653600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 18/09",18/09 19h00 [AFC Champions League Elite] football Shanghai Port vs Johor Darul Takzim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=VSxkD5X&t=1726660800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 19/09",19/09 02h00 [UEFA Champions League] football Club Brugge vs Borussia Dortmund
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2393,10 +2389,6 @@ https://202x.io.vn/bongda/tc.php?id=fSv19t4&t=1726542000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=vU4Ft1O&t=1726545600
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 17/09",17/09 16h00 [WTA250 Thailand Open] tennis Lesia Tsurenko vs Magda Linette
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=0I4INZO&t=1726563600
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 17/09",17/09 10h00 [Tennis] tennis WTA500 Korea Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2405,10 +2397,6 @@ https://202x.io.vn/bongda/tc.php?id=fSv19t4&t=1726542000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=vU4Ft1O&t=1726545600
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 17/09",17/09 16h00 [WTA250 Thailand Open] tennis Lesia Tsurenko vs Magda Linette
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=0I4INZO&t=1726563600
 #EXTINF:0 tvg-logo="https://img-cdn.hltv.org/eventlogo/PhVPy7kXO_J_nfTng7a87h.png?ixlib=java-2.1.0&s=9c7929b8f0c744a14dce32f068cdec22" group-title="Ngày 17/09",17/09 18h00 [CS2: ESL Pro League Season 20] esports BIG vs MongolZ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2457,18 +2445,6 @@ https://202x.io.vn/bongda/tc.php?id=5E5vIOz&t=1726576200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=9m8Uzri&t=1726588800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 18/09",18/09 00h00 [Giao hữu bóng rổ] basketball CD Ponferrada vs Alimerka Oviedo Baloncesto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=6c3Ik2N&t=1726592400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 18/09",18/09 01h00 [Giao hữu bóng rổ] basketball CD Zamarat Women vs Ensino Lugo Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=qGGrqOG&t=1726596000
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 18/09",18/09 17h30 [Giao hữu bóng rổ] basketball Ryukyu Golden Kings vs Fukui Blowinds
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Vq8jCcE&t=1726655400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png" group-title="Ngày 18/09",18/09 06h00 [WNBA] basketball Connecticut Sun vs Minnesota Lynx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2497,10 +2473,6 @@ https://202x.io.vn/bongda/tc.php?id=PMTTDtO&t=1726650000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ilTBzPe&t=1726659000
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/449789c2ab1c50d5bba635ff557ee1d5.png" group-title="Ngày 18/09",18/09 19h30 [VBA] basketball Can Tho Catfish vs Hanoi buffalo
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=sGVZWqX&t=1726662600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 19/09",19/09 16h00 [Bóng rổ Philippines] basketball TNT Tropang Giga vs Terrafirma Dyip
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2685,7 +2657,19 @@ https://202x.io.vn/bongda/tc.php?id=QTwoj8D&t=1727004600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=7RkZa2r&t=1727006400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/WWE.png" group-title="Ngày 18/09",18/09 07h00 [WWE] wwe NXT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=shLYbRz&t=1726617600
 #EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 18/09",18/09 05h40 [MLB: Bóng chày Mỹ] other Marlins vs Dodgers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=CBDWf07&t=1726612800
+#EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 18/09",18/09 05h50 [MLB: Bóng chày Mỹ] other Rays vs Red Sox
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=iw3kC9o&t=1726613400
+#EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 18/09",18/09 08h40 [MLB: Bóng chày Mỹ] other Mariners vs Yankees
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=CeONIcI&t=1726623600
