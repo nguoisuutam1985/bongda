@@ -305,14 +305,26 @@ https://202x.io.vn/tv.php?id=108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 https://202x.io.vn/tv.php?id=109
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 18/09",18/09 19h00 [AFC Champions League Elite] football Shanghai Port vs Johor Darul Takzim
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 18/09",18/09 21h00 [AFC Champions League 2] football ATK Mohun Bagan vs Ravshan Kulob
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=VSxkD5X&t=1726660800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 18/09",18/09 19h00 [AFC Champions League Elite] football Shanghai Port vs Johor Darul Takzim
+https://202x.io.vn/bongda/tc.php?id=aw6TH6G&t=1726668000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 18/09",18/09 21h00 [UEFA Youth League] football Manchester City U19 vs Inter Milan U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=VSxkD5X&t=1726660800
+https://202x.io.vn/bongda/tc.php?id=NU2FLmd&t=1726668000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 18/09",18/09 21h00 [UEFA Youth League] football Manchester City U19 vs Inter Milan U19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=NU2FLmd&t=1726668000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 18/09",18/09 23h00 [UEFA Youth League] football FK Zalgiris Vilnius U19 vs The New Saints U19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=UvADSgQ&t=1726675200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 18/09",18/09 23h30 [UEFA Youth League] football JK Tallinna Kalev U19 vs FC Santa Coloma U19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Z8OvKKT&t=1726677000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 18/09",18/09 22h00 [Futsal World Cup] football Spain vs New Zealand
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -329,6 +341,22 @@ https://202x.io.vn/bongda/tc.php?id=ADyHtfQ&t=1726677900
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=GN4QUZF&t=1726677900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3846a13443fce5ec322369d88f642df7.png" group-title="Ngày 18/09",18/09 23h00 [Norway Eliteserien] football Kristiansund BK vs Molde
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=07CJ4cb&t=1726675200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 18/09",18/09 23h00 [Russian Cup] football Rostov FK vs Gazovik Orenburg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=G4gOAOB&t=1726675200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 18/09",18/09 23h00 [Russian Cup] football CSKA Moscow vs FC Krasnodar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=yLaibfa&t=1726675200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="Ngày 18/09",18/09 23h45 [Women's Champions League] football Paris FC (w) vs Manchester City (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=h11sdgB&t=1726677900
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 18/09",18/09 21h00 [AFC Champions League 2] football ATK Mohun Bagan vs Ravshan Kulob
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2373,10 +2401,6 @@ https://202x.io.vn/bongda/tc.php?id=3U6qNKL&t=1727008200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=xTTXi0T&t=1727017200
-#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 23/09",23/09 01h30 [Bóng chuyền nam Ba Lan] volleyball Stal Nysa vs GKS Katowice
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=DSKbJvw&t=1727029800
 #EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 23/09",23/09 22h30 [Bóng chuyền nam Ba Lan] volleyball Bedzin vs Projekt Warszawa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2405,6 +2429,10 @@ https://202x.io.vn/bongda/tc.php?id=vSfHUrF&t=1726657200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=bIzFlyK&t=1726657200
+#EXTINF:0 tvg-logo="https://img-cdn.hltv.org/eventlogo/PhVPy7kXO_J_nfTng7a87h.png?ixlib=java-2.1.0&s=9c7929b8f0c744a14dce32f068cdec22" group-title="Ngày 18/09",18/09 21h15 [CS2: ESL Pro League Season 20] esports Imperial vs Spirit
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2Y32r8p&t=1726668900
 #EXTINF:0 tvg-logo="https://img-cdn.hltv.org/eventlogo/PhVPy7kXO_J_nfTng7a87h.png?ixlib=java-2.1.0&s=9c7929b8f0c744a14dce32f068cdec22" group-title="Ngày 18/09",18/09 18h00 [CS2: ESL Pro League Season 20] esports Eternal Fire vs The Mongolz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
