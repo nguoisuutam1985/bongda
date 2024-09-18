@@ -305,6 +305,10 @@ https://202x.io.vn/tv.php?id=108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 https://202x.io.vn/tv.php?id=109
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 18/09",18/09 16h30 [Giao hữu] football Hungary U18 vs Bosnia Herzeg U18
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=KfUQ3Zg&t=1726651800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 18/09",18/09 17h00 [AFC Champions League Elite] football Ulsan Hyundai FC vs Kawasaki Frontale
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
