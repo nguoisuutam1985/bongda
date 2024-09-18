@@ -309,14 +309,14 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Av81gtY&t=1726632900
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 18/09",18/09 10h00 [Mexico Liga MX] football Queretaro FC vs Tigres UANL
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=njhd60R&t=1726628400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 18/09",18/09 10h05 [Mexico Liga MX] football Pumas U.N.A.M. vs Puebla
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Mck99uz&t=1726628700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 18/09",18/09 10h10 [Mexico Liga MX] football Queretaro FC vs Tigres UANL
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=njhd60R&t=1726629000
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 18/09",18/09 11h15 [WTA500 Korea Open] football Diana Shnaider vs Carol Zhao
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2417,6 +2417,18 @@ https://202x.io.vn/bongda/tc.php?id=o4hBvO1&t=1727105400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=fSv19t4&t=1726628400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 18/09",18/09 11h00 [Tennis] tennis WTA250 Thailand Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=vU4Ft1O&t=1726632000
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 18/09",18/09 12h00 [Tennis] tennis ATP250 Hangzhou Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1726635600
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 18/09",18/09 13h00 [Tennis] tennis ATP250 Chengdu Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=k7XakoH&t=1726639200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 18/09",18/09 12h30 [WTA500 Korea Open] tennis Heather Watson vs Marta Kostyuk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2425,10 +2437,10 @@ https://202x.io.vn/bongda/tc.php?id=vxf3xGl&t=1726637400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=cCkgw63&t=1726641900
-#EXTINF:0 tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/chengdu.png" group-title="Ngày 18/09",18/09 13h20 [ATP250 Chengdu Open] tennis Taro Daniel vs Lorenzo Sonego
+#EXTINF:0 tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/chengdu.png" group-title="Ngày 18/09",18/09 14h20 [ATP250 Chengdu Open] tennis Taro Daniel vs Lorenzo Sonego
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=aAsVtwN&t=1726640400
+https://202x.io.vn/bongda/tc.php?id=aAsVtwN&t=1726644000
 #EXTINF:0 tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/chengdu.png" group-title="Ngày 18/09",18/09 15h30 [ATP250 Chengdu Open] tennis Giovanni Mpetshi Perricard vs Fajing Sun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
