@@ -305,6 +305,18 @@ https://202x.io.vn/tv.php?id=108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 https://202x.io.vn/tv.php?id=109
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="Ngày 18/09",18/09 15h30 [Indonesian Liga 1] football Persik Kediri vs Persita Tangerang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Wv7424j&t=1726648200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="Ngày 18/09",18/09 15h30 [Indonesian Liga 1] football Semen Padang vs Barito Putera
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=jAVgHMT&t=1726648200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 18/09",18/09 15h45 [International Club Friendly] football Gombak United Fc vs KL Rovers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=KZbfmNH&t=1726649100
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 18/09",18/09 17h00 [AFC Champions League Elite] football Ulsan Hyundai FC vs Kawasaki Frontale
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2413,18 +2425,14 @@ https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1726635600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=k7XakoH&t=1726639200
-#EXTINF:0 tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/chengdu.png" group-title="Ngày 18/09",18/09 13h20 [ATP250 Chengdu Open] tennis Taro Daniel vs Lorenzo Sonego
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=aAsVtwN&t=1726640400
-#EXTINF:0 tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/chengdu.png" group-title="Ngày 18/09",18/09 15h30 [ATP250 Chengdu Open] tennis Giovanni Mpetshi Perricard vs Fajing Sun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=qSFejJ7&t=1726648200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 18/09",18/09 13h45 [WTA500 Korea Open] tennis Liudmila Samsonova vs Veronika Kudermetova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=cCkgw63&t=1726641900
+#EXTINF:0 tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/chengdu.png" group-title="Ngày 18/09",18/09 15h30 [ATP250 Chengdu Open] tennis Giovanni Mpetshi Perricard vs Fajing Sun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qSFejJ7&t=1726648200
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/YooJOq97-Gzfp2Bm1.png" group-title="Ngày 18/09",18/09 14h20 [ATP250 Hangzhou Open] tennis Luciano Darderi vs Mikhail Kukushkin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2445,18 +2453,14 @@ https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1726635600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=k7XakoH&t=1726639200
-#EXTINF:0 tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/chengdu.png" group-title="Ngày 18/09",18/09 13h20 [ATP250 Chengdu Open] tennis Taro Daniel vs Lorenzo Sonego
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=aAsVtwN&t=1726640400
-#EXTINF:0 tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/chengdu.png" group-title="Ngày 18/09",18/09 15h30 [ATP250 Chengdu Open] tennis Giovanni Mpetshi Perricard vs Fajing Sun
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=qSFejJ7&t=1726648200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 18/09",18/09 13h45 [WTA500 Korea Open] tennis Liudmila Samsonova vs Veronika Kudermetova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=cCkgw63&t=1726641900
+#EXTINF:0 tvg-logo="https://www.atptour.com/-/media/images/atp-tournaments/logos-white/chengdu.png" group-title="Ngày 18/09",18/09 15h30 [ATP250 Chengdu Open] tennis Giovanni Mpetshi Perricard vs Fajing Sun
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qSFejJ7&t=1726648200
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/YooJOq97-Gzfp2Bm1.png" group-title="Ngày 18/09",18/09 14h20 [ATP250 Hangzhou Open] tennis Luciano Darderi vs Mikhail Kukushkin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2489,6 +2493,10 @@ https://202x.io.vn/bongda/tc.php?id=wDrKydo&t=1726621200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=wDrKydo&t=1726621200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 18/09",18/09 16h00 [Bóng rổ Philippines] basketball Meralco Bolts vs Converge FiberXers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=PMTTDtO&t=1726650000
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 18/09",18/09 16h00 [Bóng rổ Philippines] basketball Meralco Bolts vs Converge FiberXers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
