@@ -305,14 +305,6 @@ https://202x.io.vn/tv.php?id=108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 https://202x.io.vn/tv.php?id=109
-#EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 19/09",19/09 05h40 [MLB: Bóng chày Mỹ] football Marlins vs Dodgers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=JDMZeqj&t=1726699200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 19/09",19/09 06h30 [Major League Soccer] football Atlanta United vs Inter Miami CF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=y3vVJrh&t=1726702200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="Ngày 19/09",19/09 07h30 [Copa Libertadores] football Botafogo RJ vs Sao Paulo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -321,22 +313,14 @@ https://202x.io.vn/bongda/tc.php?id=ZAxQEFW&t=1726705800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=McfNqu3&t=1726707600
-#EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 19/09",19/09 05h40 [MLB: Bóng chày Mỹ] football Marlins vs Dodgers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=JDMZeqj&t=1726699200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 19/09",19/09 06h30 [Major League Soccer] football Atlanta United vs Inter Miami CF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=y3vVJrh&t=1726702200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 19/09",19/09 09h30 [Major League Soccer] football Portland Timbers vs LA Galaxy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=XCKfYA3&t=1726713000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/59bd81b686fe94b57f0e3c3ff2a28c45.png" group-title="Ngày 19/09",19/09 07h30 [Copa Libertadores] football Botafogo RJ vs Sao Paulo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ZAxQEFW&t=1726705800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 19/09",19/09 09h30 [Major League Soccer] football Portland Timbers vs LA Galaxy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=XCKfYA3&t=1726713000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 19/09",19/09 19h30 [Futsal World Cup] football Iran vs Guatemala
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2545,6 +2529,10 @@ https://202x.io.vn/bongda/tc.php?id=Hdb1KS4&t=1727038800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=9vSYO5Y&t=1726702800
+#EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 19/09",19/09 08h40 [MLB: Bóng chày Mỹ] other Mariners vs Yankees
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=1SoH2ym&t=1726710000
 #EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 19/09",19/09 06h40 [MLB: Bóng chày Mỹ] other Brewers vs Phillies
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
