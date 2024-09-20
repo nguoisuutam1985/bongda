@@ -305,10 +305,6 @@ https://202x.io.vn/tv.php?id=108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 https://202x.io.vn/tv.php?id=109
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="Ngày 21/09",21/09 02h15 [Vô địch Bồ Đào Nha] football Nacional da Madeira vs Sporting Braga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=qFA50Qw&t=1726859700
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 21/09",21/09 08h00 [Mexico Liga MX] football Atlas vs Queretaro FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -693,22 +689,6 @@ https://202x.io.vn/bongda/tc.php?id=Fc4Wf3a&t=1727046000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ZaVmU7h&t=1727028000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 23/09",23/09 01h00 [Peru - Primera Division] football Cusco FC vs Sporting Cristal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=01HL9QW&t=1727028000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 23/09",23/09 03h30 [Peru - Primera Division] football Universitario De Deportes vs Deportivo Union Comercio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ey2VPUl&t=1727037000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 23/09",23/09 06h00 [Peru - Primera Division] football Univ.Cesar Vallejo vs AD Tarma
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ytDCIqY&t=1727046000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 23/09",23/09 23h00 [Peru - Primera Division] football Alianza Atletico Sullana vs Comerciantes Unidos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=elfhACr&t=1727107200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ebb529b8f55e325ab03e8382c7473562.png" group-title="Ngày 23/09",23/09 01h00 [CAF Champions League] football FAR Forces Armee Royales vs Al Merreikh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -801,6 +781,18 @@ https://202x.io.vn/bongda/tc.php?id=WfQXxEe&t=1727042400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=pfUcUIK&t=1727032500
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 23/09",23/09 03h00 [Peru - Primera Division] football Cusco FC vs Sporting Cristal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=01HL9QW&t=1727035200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 23/09",23/09 05h30 [Peru - Primera Division] football Universitario De Deportes vs Deportivo Union Comercio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ey2VPUl&t=1727044200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 23/09",23/09 08h00 [Peru - Primera Division] football Univ.Cesar Vallejo vs AD Tarma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ytDCIqY&t=1727053200
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/WvOnZZA7-0QM0N4B9.png" group-title="Ngày 23/09",23/09 04h00 [U20 Women's World Cup] football North Korea (w) U20 vs Japan (w) U20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -909,22 +901,26 @@ https://202x.io.vn/bongda/tc.php?id=F3BUpVa&t=1727192700
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=pYsX52U&t=1727114400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 24/09",24/09 01h00 [Peru - Primera Division] football Alianza Atletico Sullana vs Comerciantes Unidos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=elfhACr&t=1727114400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 24/09",24/09 03h15 [Peru - Primera Division] football UTC Cajamarca vs Carlos Mannucci
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=SuNl7CX&t=1727122500
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 24/09",24/09 05h30 [Peru - Primera Division] football Sport Huancayo vs Los Chankas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ky2wqha&t=1727130600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 24/09",24/09 08h00 [Peru - Primera Division] football FBC Melgar vs Atletico Grau
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=whNUEMz&t=1727139600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" group-title="Ngày 24/09",24/09 01h00 [Jordan Premier League] football Al Hussein Irbid vs Maan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=LwEDaHc&t=1727114400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 24/09",24/09 01h15 [Peru - Primera Division] football UTC Cajamarca vs Carlos Mannucci
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=SuNl7CX&t=1727115300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 24/09",24/09 03h30 [Peru - Primera Division] football Sport Huancayo vs Los Chankas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ky2wqha&t=1727123400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 24/09",24/09 06h00 [Peru - Primera Division] football FBC Melgar vs Atletico Grau
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=whNUEMz&t=1727132400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="Ngày 24/09",24/09 01h30 [Spanish Segunda Division] football SD Huesca vs Cordoba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1497,18 +1493,6 @@ https://202x.io.vn/bongda/tc.php?id=GO3fPng&t=1727353800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=1TaU0vW&t=1727355600
-#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 21/09",21/09 01h30 [Bóng chuyền nam Ba Lan] volleyball Lublin vs Gdansk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=NELEj48&t=1726857000
-#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 21/09",21/09 01h30 [Bóng chuyền nam Ba Lan] volleyball Lublin vs Gdansk
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=NELEj48&t=1726857000
-#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 21/09",21/09 19h45 [Bóng chuyền nam Ba Lan] volleyball Jastrzebski vs Rzeszow
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=WaLQVUY&t=1726922700
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/1f52616839b25e890624c1433a1662fc.png" group-title="Ngày 21/09",21/09 18h00 [Turkish Cup Women Volleyball] volleyball Sariyer W vs Galatasaray W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1521,6 +1505,10 @@ https://202x.io.vn/bongda/tc.php?id=DGANruW&t=1726925400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=uxSGFLE&t=1726934400
+#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 21/09",21/09 19h45 [Bóng chuyền nam Ba Lan] volleyball Jastrzebski vs Rzeszow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=WaLQVUY&t=1726922700
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png" group-title="Ngày 21/09",21/09 20h30 [Siêu cúp bóng chuyền nam Italy] volleyball Perugia vs Piacenza
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
