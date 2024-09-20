@@ -305,10 +305,22 @@ https://202x.io.vn/tv.php?id=108
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 https://202x.io.vn/tv.php?id=109
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 20/09",20/09 19h15 [V League] football Công An Hà Nội vs Thanh Hóa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2jkZ9rJ&t=1726834500
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 20/09",20/09 19h30 [Futsal World Cup] football Thailand vs Brazil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=0GguZ65&t=1726835400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png" group-title="Ngày 20/09",20/09 18h35 [China Super League] football Meizhou Hakka vs Beijing Guoan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=lv97yKx&t=1726832100
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 20/09",20/09 19h15 [V League] football Công An Hà Nội vs Thanh Hóa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2jkZ9rJ&t=1726834500
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 20/09",20/09 19h30 [Futsal World Cup] football Thailand vs Brazil
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2017,6 +2029,10 @@ https://202x.io.vn/bongda/tc.php?id=H4UIRXl&t=1727264100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=q7nkjrh&t=1726837200
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/1f52616839b25e890624c1433a1662fc.png" group-title="Ngày 20/09",20/09 20h00 [Turkish Cup Women Volleyball] volleyball Galatasaray W vs Zeren Spor W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=q7nkjrh&t=1726837200
 #EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 20/09",20/09 22h30 [Bóng chuyền nam Ba Lan] volleyball Kedzierzyn-Kozle vs Norwid Czestochowa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2117,18 +2133,14 @@ https://202x.io.vn/bongda/tc.php?id=fSv19t4&t=1726808400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=vU4Ft1O&t=1726808400
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 20/09",20/09 12h00 [Tennis] tennis ATP250 Chengdu Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=k7XakoH&t=1726808400
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 20/09",20/09 12h30 [Tennis] tennis ATP250 Hangzhou Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1726810200
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/v3MSo9kd-8WmryAgb.png" group-title="Ngày 20/09",20/09 18h00 [Tennis Laver Cup] tennis Casper Ruud vs Francisco Cerundolo
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/v3MSo9kd-8WmryAgb.png" group-title="Ngày 20/09",20/09 20h15 [Tennis Laver Cup] tennis Stefanos Tsitsipas vs Thanasi Kokkinakis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=vkxHSKH&t=1726830000
+https://202x.io.vn/bongda/tc.php?id=BuC9ZWx&t=1726838100
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 20/09",20/09 12h00 [Tennis] tennis WTA500 Korea Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2137,22 +2149,14 @@ https://202x.io.vn/bongda/tc.php?id=fSv19t4&t=1726808400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=vU4Ft1O&t=1726808400
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 20/09",20/09 12h00 [Tennis] tennis ATP250 Chengdu Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=k7XakoH&t=1726808400
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 20/09",20/09 12h30 [Tennis] tennis ATP250 Hangzhou Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1726810200
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/v3MSo9kd-8WmryAgb.png" group-title="Ngày 20/09",20/09 18h00 [Tennis Laver Cup] tennis Casper Ruud vs Francisco Cerundolo
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/v3MSo9kd-8WmryAgb.png" group-title="Ngày 20/09",20/09 20h15 [Tennis Laver Cup] tennis Stefanos Tsitsipas vs Thanasi Kokkinakis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=vkxHSKH&t=1726830000
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/v3MSo9kd-8WmryAgb.png" group-title="Ngày 20/09",20/09 20h00 [Tennis Laver Cup] tennis Stefanos Tsitsipas vs Thanasi Kokkinakis
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=BuC9ZWx&t=1726837200
+https://202x.io.vn/bongda/tc.php?id=BuC9ZWx&t=1726838100
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/v3MSo9kd-8WmryAgb.png" group-title="Ngày 21/09",21/09 00h00 [Tennis Laver Cup] tennis Grigor Dimitrov vs Alejandro Tabilo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2161,6 +2165,10 @@ https://202x.io.vn/bongda/tc.php?id=RNzpDU0&t=1726851600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=1qRHd8t&t=1726856400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 21/09",21/09 12h00 [Tennis] tennis ATP250 Chengdu Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=k7XakoH&t=1726894800
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/motoGP.png" group-title="Ngày 20/09",20/09 14h00 [MotoGP] race Emilia-Romagna GP: Moto3 Moto2 MotoGP practice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2201,14 +2209,6 @@ https://202x.io.vn/bongda/tc.php?id=BAcbccR&t=1726831800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=grYgc4m&t=1726833600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 20/09",20/09 18h30 [Bóng rổ Trung Quốc] basketball Fujian Sturgeons vs Tianjin Pioneers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=mh8x7kc&t=1726831800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 20/09",20/09 18h30 [Bóng rổ Trung Quốc] basketball Suzhou Kendiya vs Zhejiang Chouzhou Golden
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=49laYyy&t=1726831800
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 20/09",20/09 19h00 [Bóng rổ Trung Quốc] basketball Xinjiang Yili vs Sichuan Blue Whales
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2225,14 +2225,6 @@ https://202x.io.vn/bongda/tc.php?id=BAcbccR&t=1726831800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=grYgc4m&t=1726833600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 20/09",20/09 18h30 [Bóng rổ Trung Quốc] basketball Fujian Sturgeons vs Tianjin Pioneers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=mh8x7kc&t=1726831800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 20/09",20/09 18h30 [Bóng rổ Trung Quốc] basketball Suzhou Kendiya vs Zhejiang Chouzhou Golden
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=49laYyy&t=1726831800
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 20/09",20/09 19h00 [Bóng rổ Trung Quốc] basketball Xinjiang Yili vs Sichuan Blue Whales
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2257,6 +2249,10 @@ https://202x.io.vn/bongda/tc.php?id=yE5Ea5k&t=1726914600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=V2EPZVi&t=1726921800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 21/09",21/09 20h00 [Giao hữu bóng rổ] basketball Beirut Club vs Al Difaa Aljawie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=1gKxOs2&t=1726923600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 21/09",21/09 21h30 [Giao hữu bóng rổ] basketball Sagesse Al Hekmeh Beirut vs FUS Rabat
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2337,6 +2333,10 @@ https://202x.io.vn/bongda/tc.php?id=M2UinW0&t=1726939800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=beqOgNe&t=1726941600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 01h00 [Giao hữu bóng rổ] basketball Circulo Gijon vs AD Cantbasket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=FRldYz5&t=1726941600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 18h30 [Giao hữu bóng rổ] basketball Energa Torun Women vs 25 Bydgoszcz (W)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
