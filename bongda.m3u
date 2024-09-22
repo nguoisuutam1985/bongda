@@ -312,14 +312,14 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Y0ThqrH&t=1727007300
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 22/09",22/09 18h00 [V League] football Bình Định vs TP Hồ Chí Minh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ueP0Rz8&t=1727002800
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 22/09",22/09 19h30 [Futsal World Cup] football Morocco vs Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=YpdklVE&t=1727008200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 22/09",22/09 20h00 [Ngoại hạng Anh] football Brighton Hove Albion vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=aI2pOmH&t=1727010000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="Ngày 22/09",22/09 19h00 [La Liga] football Getafe vs Leganes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -332,14 +332,18 @@ https://202x.io.vn/bongda/tc.php?id=7DeYVSB&t=1727008200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=kp9ZwaJ&t=1727008200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ngày 22/09",22/09 20h00 [Ligue 1] football Monaco vs Le Havre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=tBNAG6n&t=1727010000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 22/09",22/09 20h00 [Serie A] football Monza vs Bologna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=XbEGPnd&t=1727010000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 22/09",22/09 19h15 [V League] football Viettel vs Hà Nội
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Y0ThqrH&t=1727007300
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 22/09",22/09 18h00 [V League] football Bình Định vs TP Hồ Chí Minh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ueP0Rz8&t=1727002800
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 22/09",22/09 19h30 [Futsal World Cup] football Morocco vs Portugal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -348,6 +352,22 @@ https://202x.io.vn/bongda/tc.php?id=YpdklVE&t=1727008200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=RFIgIS7&t=1727017200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 22/09",22/09 20h00 [Ngoại hạng Anh] football Brighton Hove Albion vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=aI2pOmH&t=1727010000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 22/09",22/09 22h31 [Ngoại hạng Anh] football Manchester City vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=iYiM4uU&t=1727019060
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 22/09",22/09 22h31 [Ngoại hạng Anh] football Manchester City vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=R40iAH3&t=1727019060
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 22/09",22/09 22h31 [Ngoại hạng Anh] football Manchester City vs Arsenal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=6XffC1e&t=1727019060
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="Ngày 22/09",22/09 19h00 [La Liga] football Getafe vs Leganes
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -360,22 +380,14 @@ https://202x.io.vn/bongda/tc.php?id=NGgkKvL&t=1727014500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=so8qyJz&t=1727022600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 22/09",22/09 20h00 [Ngoại hạng Anh] football Brighton Hove Albion vs Nottingham Forest
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 22/09",22/09 20h00 [Serie A] football Monza vs Bologna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=aI2pOmH&t=1727010000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 22/09",22/09 22h30 [Ngoại hạng Anh] football Manchester City vs Arsenal
+https://202x.io.vn/bongda/tc.php?id=XbEGPnd&t=1727010000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 22/09",22/09 23h00 [Serie A] football AS Roma vs Udinese
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=iYiM4uU&t=1727019000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 22/09",22/09 22h30 [Ngoại hạng Anh] football Manchester City vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=R40iAH3&t=1727019000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 22/09",22/09 22h30 [Ngoại hạng Anh] football Manchester City vs Arsenal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=6XffC1e&t=1727019000
+https://202x.io.vn/bongda/tc.php?id=3QztomT&t=1727020800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Ngày 22/09",22/09 20h30 [Bundesliga] football Bayer Leverkusen vs VfL Wolfsburg
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -384,14 +396,6 @@ https://202x.io.vn/bongda/tc.php?id=cRukVC3&t=1727011800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=EKPvt1r&t=1727019000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 22/09",22/09 23h00 [Serie A] football AS Roma vs Udinese
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=3QztomT&t=1727020800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 22/09",22/09 20h00 [Serie A] football Monza vs Bologna
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=XbEGPnd&t=1727010000
 #EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image" group-title="Ngày 23/09",23/09 03h25 [NFL: Bóng bầu dục Mỹ] football Los Angeles Rams vs San Francisco 49ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1328,14 +1332,10 @@ https://202x.io.vn/bongda/tc.php?id=knu3Ar7&t=1727454600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=jPiBS7q&t=1727402700
-#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/5e72b948cfc52cd1b450f993030ada52.png" group-title="Ngày 22/09",22/09 19h00 [Asian Club Championship Women] volleyball Nakhon Ratchasima W vs Kwai Tsing W
+#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 22/09",22/09 19h45 [Bóng chuyền nam Ba Lan] volleyball Belchatow vs Cuprum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=cGYW6Xi&t=1727006400
-#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/5e72b948cfc52cd1b450f993030ada52.png" group-title="Ngày 22/09",22/09 19h00 [Asian Club Championship Women] volleyball Nakhon Ratchasima W vs Kwai Tsing W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=cGYW6Xi&t=1727006400
+https://202x.io.vn/bongda/tc.php?id=uccufrQ&t=1727009100
 #EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 22/09",22/09 19h45 [Bóng chuyền nam Ba Lan] volleyball Belchatow vs Cuprum
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1412,10 +1412,6 @@ https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1726983000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=8RtG3kV&t=1726999200
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/v3MSo9kd-8WmryAgb.png" group-title="Ngày 22/09",22/09 17h00 [Tennis Laver Cup] tennis Carlos Alcaraz / Casper Ruud vs Ben Shelton / Frances Tiafoe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=KvkC7PK&t=1726999200
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/v3MSo9kd-8WmryAgb.png" group-title="Ngày 22/09",22/09 19h00 [Tennis Laver Cup] tennis Daniil Medvedev vs Ben Shelton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1432,10 +1428,6 @@ https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1726983000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=8RtG3kV&t=1726999200
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/v3MSo9kd-8WmryAgb.png" group-title="Ngày 22/09",22/09 17h00 [Tennis Laver Cup] tennis Carlos Alcaraz / Casper Ruud vs Ben Shelton / Frances Tiafoe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=KvkC7PK&t=1726999200
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/v3MSo9kd-8WmryAgb.png" group-title="Ngày 22/09",22/09 19h00 [Tennis Laver Cup] tennis Daniil Medvedev vs Ben Shelton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1472,22 +1464,6 @@ https://202x.io.vn/bongda/tc.php?id=WLaOOnX&t=1727017200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=amAcfLq&t=1727004600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 18h30 [Bóng rổ Trung Quốc] basketball Beijing Ducks vs Flying Leopards
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=QTwoj8D&t=1727004600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 18h30 [Bóng rổ Trung Quốc] basketball Shanxi Fenjiu vs Beijing Royal Fighters
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=yyaXPAn&t=1727004600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 18h30 [Bóng rổ Trung Quốc] basketball Zhejiang Chouzhou Golden vs Shandong Hi-Speed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=KvN1PQW&t=1727004600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 18h30 [Bóng rổ Trung Quốc] basketball Guangdong Hongyuan vs Fujian Sturgeons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=SY8Asux&t=1727004600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 19h00 [Bóng rổ Trung Quốc] basketball Nanjing Toupaisujiu vs Sichuan Blue Whales
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1496,22 +1472,6 @@ https://202x.io.vn/bongda/tc.php?id=7RkZa2r&t=1727006400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=amAcfLq&t=1727004600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 18h30 [Bóng rổ Trung Quốc] basketball Beijing Ducks vs Flying Leopards
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=QTwoj8D&t=1727004600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 18h30 [Bóng rổ Trung Quốc] basketball Shanxi Fenjiu vs Beijing Royal Fighters
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=yyaXPAn&t=1727004600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 18h30 [Bóng rổ Trung Quốc] basketball Zhejiang Chouzhou Golden vs Shandong Hi-Speed
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=KvN1PQW&t=1727004600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 18h30 [Bóng rổ Trung Quốc] basketball Guangdong Hongyuan vs Fujian Sturgeons
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=SY8Asux&t=1727004600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 19h00 [Bóng rổ Trung Quốc] basketball Nanjing Toupaisujiu vs Sichuan Blue Whales
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
