@@ -307,27 +307,11 @@ https://202x.io.vn/tv.php?id=108
 https://202x.io.vn/tv.php?id=109
 
 
-#EXTINF:-2 tvg-id="axnhd" group-title="Quốc tế" tvg-logo="https://imagizer.imageshack.us/a/img922/5438/ELcsyE.png",AXN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/ok/vtv/vtv62.php
-https://202x.io.vn/1.php?id=2
-#EXTINF:-5 tvg-id="cartoonhd" group-title="Quốc tế" tvg-logo="https://imagizer.imageshack.us/a/img923/5215/Y6Nbjo.png",Cartoon Network
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/ok/vtv/vtv62.php
-https://202x.io.vn/1.php?id=5
-#EXTINF:-6 tvg-id="dmax" group-title="Quốc tế" tvg-logo="https://i.imgur.com/Eh98fvu.png",Dmax
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/ok/vtv/vtv62.php
-https://202x.io.vn/1.php?id=6
-#EXTINF:-10 tvg-id="hbohd" group-title="Quốc tế" tvg-logo="https://i.imgur.com/luaJsUM.png",HBO
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_5) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.25 Safari/537.36
-#EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/ok/vtv/vtv62.php
-https://202x.io.vn/1.php?id=10
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 22/09",22/09 13h00 [International Club Friendly] football Jubilo Iwata vs Honda FC
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 22/09",22/09 14h00 [Japanese J1 League] football Nagoya Grampus vs Kawasaki Frontale
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=jmiSLU5&t=1726984800
+https://202x.io.vn/bongda/tc.php?id=zNgUjL8&t=1726988400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 22/09",22/09 17h30 [Serie A] football Fiorentina vs Lazio
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1364,6 +1348,18 @@ https://202x.io.vn/bongda/tc.php?id=GaucXCE&t=1726995600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=cGYW6Xi&t=1727006400
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/669218391a086c96db55f78f63f70c1a.png" group-title="Ngày 22/09",22/09 15h00 [Giao hữu bóng chuyền] volleyball Stiinta Baia Mare vs Komarno
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=vL7iGRd&t=1726992000
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/669218391a086c96db55f78f63f70c1a.png" group-title="Ngày 22/09",22/09 16h00 [Giao hữu bóng chuyền] volleyball Arcada Galati vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ejJGoXl&t=1726995600
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/669218391a086c96db55f78f63f70c1a.png" group-title="Ngày 22/09",22/09 21h45 [Giao hữu bóng chuyền] volleyball MAV Elore SC vs UVC Graz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=6d9n6j5&t=1727016300
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/1f52616839b25e890624c1433a1662fc.png" group-title="Ngày 22/09",22/09 17h00 [Turkish Cup Women Volleyball] volleyball Besiktas W vs Aras Kargo W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1460,6 +1456,10 @@ https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1726983000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=6C9ag5o&t=1726986000
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 22/09",22/09 14h00 [Chung kết WTA500 Korea Open] tennis Beatriz Haddad Maia vs Daria Kasatkina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=z5APVRu&t=1726988400
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 22/09",22/09 12h00 [Tennis] tennis ATP250 Chengdu Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1520,14 +1520,10 @@ https://202x.io.vn/bongda/tc.php?id=wDrKydo&t=1726981200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=wDrKydo&t=1726981200
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png" group-title="Ngày 22/09",22/09 11h30 [NBL: Bóng Rổ Úc] basketball Adelaide 36ers vs Sydney Kings
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 14h30 [Bóng rổ Trung Quốc] basketball Suzhou Kendiya vs Shanghai Jiushi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Vs9Zw2k&t=1726979400
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png" group-title="Ngày 22/09",22/09 11h30 [NBL: Bóng Rổ Úc] basketball Adelaide 36ers vs Sydney Kings
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Vs9Zw2k&t=1726979400
+https://202x.io.vn/bongda/tc.php?id=q7Q9Fbm&t=1726990200
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 22/09",22/09 14h30 [Bóng rổ Trung Quốc] basketball Suzhou Kendiya vs Shanghai Jiushi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1576,6 +1572,58 @@ https://202x.io.vn/bongda/tc.php?id=HsdAjrS&t=1726995600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=amAcfLq&t=1727004600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 15h00 [Giao hữu bóng rổ] basketball Dien Bien Warriors U20 vs PKKQ Peak U20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=AY0Xyyd&t=1726992000
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 16h00 [Giao hữu bóng rổ] basketball Arka Gdynia 2 (W) vs Podlasesokow women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=PgWxS5R&t=1726995600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 16h00 [Giao hữu bóng rổ] basketball Polonia Warszawa Women vs Enea AZS Poznan Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qwtJWH4&t=1726995600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 17h00 [Giao hữu bóng rổ] basketball Al-Qazeres Women vs miralvalle plasencia Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=HV1PrFR&t=1726999200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 17h00 [Giao hữu bóng rổ] basketball Club Jairis Women vs Ros Casares Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=HG4azeT&t=1726999200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 17h00 [Giao hữu bóng rổ] basketball Cadi La Seu Women vs Spar Girona Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=v27oDbK&t=1726999200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 17h30 [Giao hữu bóng rổ] basketball FUS Rabat vs Al Bashaer
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=XKgWzGI&t=1727001000
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 18h00 [Giao hữu bóng rổ] basketball Al Zamalek vs Antranik Beirut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ZjGEKhv&t=1727002800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 18h15 [Giao hữu bóng rổ] basketball MOSiR Behernia Women vs KK ROW Rybnik Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=CYBi3hL&t=1727003700
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 19h30 [Giao hữu bóng rổ] basketball Al-Jaish Damascus vs Sagesse Al Hekmeh Beirut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=hxyIRun&t=1727008200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 21h30 [Giao hữu bóng rổ] basketball Pirot vs Zdravlje Leskovac
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=QnzkE2I&t=1727015400
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 23h00 [Giao hữu bóng rổ] basketball Araski Women vs Navarra Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=LlUscFU&t=1727020800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 22/09",22/09 23h00 [Giao hữu bóng rổ] basketball AEK Athens vs Peristeri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=xkd7D8o&t=1727020800
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png" group-title="Ngày 23/09",23/09 00h00 [WNBA] basketball New York Liberty vs Atlanta Dream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
