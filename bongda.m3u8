@@ -312,18 +312,30 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=x90FlWd&t=1727082000
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 16h30 [ATP250 Hangzhou Open] Marin Cilic vs Brandon Nakashima
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=9YIQj2J&t=1727083800
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 15h30 [Indonesian Liga 1] Persib Bandung vs Persija Jakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=LFtjMQx&t=1727080200
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 15h30 [Indonesian Liga 1] Persis Solo FC vs Persik Kediri
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=glsjWbu&t=1727080200
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/volleyball.png" group-title="23/09",23/09 16h00 [Asian Club Championship Women] Nakhon Ratchasima W vs Kuanysh Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=mkZVG6F&t=1727082000
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 16h30 [Tennis] ATP250 Hangzhou Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1727083800
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 15h30 [Indonesian Liga 1] Persis Solo FC vs Persik Kediri
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=glsjWbu&t=1727080200
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 16h00 [U20 châu Á] Guam U20 vs Bangladesh U20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=effIV8m&t=1727082000
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 16h00 [Tennis] ATP250 Chengdu Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -332,18 +344,6 @@ https://202x.io.vn/bongda/tc.php?id=k7XakoH&t=1727082000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ZPG0UGi&t=1727082000
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 16h30 [Tennis] ATP250 Hangzhou Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1727083800
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 16h30 [ATP250 Hangzhou Open] Marin Cilic vs Brandon Nakashima
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=9YIQj2J&t=1727083800
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 18h00 [V League] Nam Định vs Quảng Nam
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=5P24BRP&t=1727089200
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 15h30 [Indonesian Liga 1] Persib Bandung vs Persija Jakarta
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -352,6 +352,10 @@ https://202x.io.vn/bongda/tc.php?id=LFtjMQx&t=1727080200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=glsjWbu&t=1727080200
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 16h00 [U20 châu Á] Guam U20 vs Bangladesh U20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=effIV8m&t=1727082000
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 18h00 [V League] Nam Định vs Quảng Nam
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -384,14 +388,14 @@ https://202x.io.vn/bongda/tc.php?id=VEOS7L6&t=1727118000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=OLMc8hT&t=1727118900
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="25/09",25/09 01h45 [Carabao Cup] Manchester City vs Watford
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=TGEpBaX&t=1727203500
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="25/09",25/09 01h45 [Carabao Cup] Chelsea vs Barrow
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=wQqPSrh&t=1727203500
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="25/09",25/09 01h45 [Carabao Cup] Manchester City vs Watford
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=TGEpBaX&t=1727203500
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="25/09",25/09 01h45 [Carabao Cup] AFC Wimbledon vs Newcastle United
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -428,14 +432,6 @@ https://202x.io.vn/bongda/tc.php?id=bMs2BgL&t=1727450400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=7O3AOmK&t=1727532000
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 16h00 [Tennis] ATP250 Chengdu Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=k7XakoH&t=1727082000
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 16h00 [Bán kết ATP250 Chengdu Open] Lorenzo Musetti vs Alibek Kachmazov
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ZPG0UGi&t=1727082000
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 16h30 [Tennis] ATP250 Hangzhou Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -444,6 +440,14 @@ https://202x.io.vn/bongda/tc.php?id=ScyaEQR&t=1727083800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=9YIQj2J&t=1727083800
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 16h00 [Tennis] ATP250 Chengdu Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=k7XakoH&t=1727082000
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 16h00 [Bán kết ATP250 Chengdu Open] Lorenzo Musetti vs Alibek Kachmazov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ZPG0UGi&t=1727082000
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="23/09",23/09 18h00 [Bán kết ATP250 Chengdu Open] Yannick Hanfmann vs Juncheng Shang
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -476,6 +480,10 @@ https://202x.io.vn/bongda/tc.php?id=hDwpPsq&t=1727159400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=rWdrLEh&t=1727181000
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/basketball.png" group-title="25/09",25/09 00h00 [Giao hữu bóng rổ] CB salad vs Santfeliuenc A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=kMdRj06&t=1727197200
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/basketball.png" group-title="25/09",25/09 06h30 [WNBA] New York Liberty vs Atlanta Dream
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -528,10 +536,6 @@ https://202x.io.vn/bongda/tc.php?id=JvYisGa&t=1727539140
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=PcCfVdB&t=1727539200
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/basketball.png" group-title="29/09",29/09 13h30 [NBL: Bóng Rổ Úc] New Zealand Breakers vs South East Melbourne Phoenix
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=0JBi47O&t=1727591400
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/other.png" group-title="24/09",24/09 06h30 [NFL: Bóng bầu dục Mỹ] Buffalo Bills vs Jacksonville Jaguars
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
