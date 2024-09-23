@@ -308,14 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 22h35 [Saudi Arabia Kings Cup] Al Hazm vs Al Nassr
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=mAfkUKT&t=1727105700
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/volleyball.png" group-title="23/09",23/09 22h30 [Bóng chuyền nam Ba Lan] Bedzin vs Projekt Warszawa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=o4hBvO1&t=1727105400
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 21h30 [Bulgarian First League] FK Levski Krumovgrad vs Botev Vratsa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -324,6 +316,10 @@ https://202x.io.vn/bongda/tc.php?id=Y236053&t=1727101800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=YcfRVS2&t=1727105400
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="24/09",24/09 00h00 [Denmark Super Liga] FC Copenhagen vs Aalborg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=G5OgFIa&t=1727110800
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="24/09",24/09 01h00 [Saudi Arabia Kings Cup] Al Ahli vs Al Jndal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -344,10 +340,10 @@ https://202x.io.vn/bongda/tc.php?id=VEOS7L6&t=1727118000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=OLMc8hT&t=1727118900
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 22h35 [Saudi Arabia Kings Cup] Al Hazm vs Al Nassr
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/basketball.png" group-title="24/09",24/09 06h00 [Giao hữu bóng rổ] Regatas de San Nicolas vs Pergamino Basket
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=mAfkUKT&t=1727105700
+https://202x.io.vn/bongda/tc.php?id=OsRdRtv&t=1727132400
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="23/09",23/09 21h30 [Bulgarian First League] FK Levski Krumovgrad vs Botev Vratsa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -356,6 +352,10 @@ https://202x.io.vn/bongda/tc.php?id=Y236053&t=1727101800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=YcfRVS2&t=1727105400
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="24/09",24/09 00h00 [Denmark Super Liga] FC Copenhagen vs Aalborg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=G5OgFIa&t=1727110800
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="24/09",24/09 01h00 [Saudi Arabia Kings Cup] Al Ahli vs Al Jndal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -392,14 +392,14 @@ https://202x.io.vn/bongda/tc.php?id=RCTpjgM&t=1727289900
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=jVQh1lj&t=1727290800
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="26/09",26/09 02h00 [La Liga] Barcelona vs Getafe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Iz8R4KU&t=1727290800
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="26/09",26/09 02h00 [Carabao Cup] Liverpool vs West Ham
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=h7UhPcZ&t=1727290800
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="26/09",26/09 02h00 [La Liga] Barcelona vs Getafe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Iz8R4KU&t=1727290800
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="27/09",27/09 02h00 [Europa League] Tottenham Hotspur vs Qarabag
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -412,26 +412,30 @@ https://202x.io.vn/bongda/tc.php?id=bMs2BgL&t=1727450400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=OSfu1WL&t=1727461800
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="28/09",28/09 01h45 [Serie A] AC Milan vs Lecce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=jG4wxKJ&t=1727462700
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="28/09",28/09 18h30 [Ngoại hạng Anh] Newcastle United vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=82Jhip2&t=1727523000
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="28/09",28/09 21h00 [Ngoại hạng Anh] Chelsea vs Brighton Hove Albion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=x4GlLyy&t=1727532000
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="28/09",28/09 21h00 [Ngoại hạng Anh] Arsenal vs Leicester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=7O3AOmK&t=1727532000
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="28/09",28/09 23h30 [Bundesliga] Bayern Munchen vs Bayer Leverkusen
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="28/09",28/09 21h00 [Ngoại hạng Anh] Chelsea vs Brighton Hove Albion
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=a5kMHPs&t=1727541000
+https://202x.io.vn/bongda/tc.php?id=x4GlLyy&t=1727532000
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="28/09",28/09 23h30 [Ngoại hạng Anh] Wolves vs Liverpool
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=miUCugt&t=1727541000
+#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/football.png" group-title="28/09",28/09 23h30 [Bundesliga] Bayern Munchen vs Bayer Leverkusen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=a5kMHPs&t=1727541000
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/tennis.png" group-title="24/09",24/09 16h30 [Tennis] ATP250 Hangzhou Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -544,10 +548,6 @@ https://202x.io.vn/bongda/tc.php?id=bpyY5lh&t=1727136600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=etIHCoJ&t=1727142000
-#EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/volleyball.png" group-title="23/09",23/09 22h30 [Bóng chuyền nam Ba Lan] Bedzin vs Projekt Warszawa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=o4hBvO1&t=1727105400
 #EXTINF:0 tvg-logo="https://live2.thapcam26.net/images/icons/volleyball.png" group-title="24/09",24/09 01h30 [Bóng chuyền nam Ba Lan] GKS Katowice vs Stal Nysa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
