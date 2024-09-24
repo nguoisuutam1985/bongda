@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:-1,HBO
+#EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
 https://stream.nct.vn/NhacCuaTui112/BenEmLaBienRong-CamVan_rts2.mp3?st=_Vxqolb881fBT2_ohDDuBg&e=1727478600&a=1&p=0&r=93a45b18ebe1b4386c25baf3beee059a
-#EXTINF:-1,aaa
+#EXT-X-STREAM-INF:BANDWIDTH=240000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
 https://stream.nct.vn/NhacCuaTui187/ConMuaLaoXao-CamVan_3e9mg.mp3?st=kNDb2Juhb3rOkzLXDPczdg&e=1727478601&a=1&p=0&r=9d7e91c6fad5bb2603246badac06bd8c
-#EXTINF:-1,2
+#EXT-X-STREAM-INF:BANDWIDTH=440000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
 https://stream.nct.vn/NhacCuaTui161/TinhKhucVang-DanTruong_36yvf.mp3?st=ZHB8OsNxrQnVgU2qv3JF4Q&e=1727478601&a=1&p=0&r=8bdf0ad56b3b37e375aaf61d44b52027
