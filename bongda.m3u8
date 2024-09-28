@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=I5GLcr4&t=1727559000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 29/09",29/09 04h30 [Brazilian Serie A] football Palmeiras vs Atletico Mineiro
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=I5GLcr4&t=1727559000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 29/09",29/09 07h00 [Brazilian Serie A] football Botafogo RJ vs Gremio (RS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
