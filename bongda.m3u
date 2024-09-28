@@ -308,10 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 14h00 [Japanese J1 League] football Nagoya Grampus vs Jubilo Iwata
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=QkwZ7hu&t=1727506800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="Ngày 28/09",28/09 14h30 [Korean K League 1] football Gangwon FC vs Daegu FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -320,18 +316,6 @@ https://202x.io.vn/bongda/tc.php?id=sacgTOl&t=1727508600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=bg48l46&t=1727508600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 14h00 [Japanese J1 League] football Nagoya Grampus vs Jubilo Iwata
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=QkwZ7hu&t=1727506800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 17h00 [Japanese J1 League] football Hiroshima Sanfrecce vs Machida Zelvia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=j6uDNg2&t=1727517600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 17h00 [Japanese J1 League] football Vissel Kobe vs Urawa Red Diamonds
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dcli3ZP&t=1727517600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 15h00 [Japanese J1 League] football Gamba Osaka vs Tokyo Verdy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -340,6 +324,22 @@ https://202x.io.vn/bongda/tc.php?id=E2nXHIm&t=1727510400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=HMQGKrI&t=1727510400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 15h00 [Japanese J1 League] football Gamba Osaka vs Tokyo Verdy
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=E2nXHIm&t=1727510400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 15h00 [Japanese J1 League] football Yokohama Marinos vs FC Tokyo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=HMQGKrI&t=1727510400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 17h00 [Japanese J1 League] football Hiroshima Sanfrecce vs Machida Zelvia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=j6uDNg2&t=1727517600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 17h00 [Japanese J1 League] football Vissel Kobe vs Urawa Red Diamonds
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=dcli3ZP&t=1727517600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 16h00 [Japanese J1 League] football Cerezo Osaka vs Kashiwa Reysol
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1740,6 +1740,10 @@ https://202x.io.vn/bongda/tc.php?id=cwHVhTo&t=1727496000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=y0ZuTOv&t=1727508600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 28/09",28/09 16h00 [Bóng rổ Philippines] basketball Converge FiberXers vs San Miguel Beermen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=EDNiFY3&t=1727514000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png" group-title="Ngày 28/09",28/09 14h30 [NBL: Bóng Rổ Úc] basketball Cairns Taipans vs Adelaide 36ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1776,6 +1780,10 @@ https://202x.io.vn/bongda/tc.php?id=VlLjhoO&t=1727549100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=pBCjFG6&t=1727542800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 29/09",29/09 00h00 [Giao hữu bóng rổ] basketball Sangalhos vs Clube Galitos
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=U8Xn2hR&t=1727542800
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 29/09",29/09 00h30 [Giao hữu bóng rổ] basketball MZT Skopje vs Pelister
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
