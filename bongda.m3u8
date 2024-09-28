@@ -312,6 +312,14 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=QkwZ7hu&t=1727506800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="Ngày 28/09",28/09 14h30 [Korean K League 1] football Gangwon FC vs Daegu FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=sacgTOl&t=1727508600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c5c201512031b5950e58c1f8ca04b47e.png" group-title="Ngày 28/09",28/09 14h30 [China Super League] football Qingdao Manatee vs Shanghai Shenhua
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=bg48l46&t=1727508600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 28/09",28/09 14h00 [Japanese J1 League] football Nagoya Grampus vs Jubilo Iwata
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1660,10 +1668,10 @@ https://202x.io.vn/bongda/tc.php?id=AcQAHB2&t=1727488800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=GXox0eY&t=1727492400
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 28/09",28/09 11h15 [WTA1000 China Open] tennis Aryna Sabalenka vs Mananchaya Sawangkaew
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 28/09",28/09 14h00 [ATP500 China Open] tennis Jannik Sinner vs Roman Safiullin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dkXGm2X&t=1727496900
+https://202x.io.vn/bongda/tc.php?id=v8G7ymE&t=1727506800
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 28/09",28/09 09h00 [Tennis] tennis ATP500 Tokyo Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1672,10 +1680,6 @@ https://202x.io.vn/bongda/tc.php?id=AcQAHB2&t=1727488800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=GXox0eY&t=1727492400
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 28/09",28/09 11h15 [WTA1000 China Open] tennis Aryna Sabalenka vs Mananchaya Sawangkaew
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dkXGm2X&t=1727496900
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 28/09",28/09 14h00 [ATP500 China Open] tennis Jannik Sinner vs Roman Safiullin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1684,18 +1688,14 @@ https://202x.io.vn/bongda/tc.php?id=v8G7ymE&t=1727506800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=PSloDR1&t=1727499000
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/motoGP.png" group-title="Ngày 28/09",28/09 14h00 [MotoGP] race Pertamina GP: MotoGP Sprint Race
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/fr.png" group-title="Ngày 28/09",28/09 15h20 [Formula Regional European] race Formula Regional EU by Alpine: Qualifying 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=zzozeu2&t=1727506800
+https://202x.io.vn/bongda/tc.php?id=RNd65vk&t=1727511600
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/motoGP.png" group-title="Ngày 28/09",28/09 11h50 [MotoGP] race Pertamina GP: Moto3 Moto2 Qualifying
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=PSloDR1&t=1727499000
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/motoGP.png" group-title="Ngày 28/09",28/09 14h00 [MotoGP] race Pertamina GP: MotoGP Sprint Race
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=zzozeu2&t=1727506800
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/fr.png" group-title="Ngày 28/09",28/09 15h20 [Formula Regional European] race Formula Regional EU by Alpine: Qualifying 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
