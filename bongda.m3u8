@@ -312,10 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Zchmd2z&t=1727605800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png" group-title="Ngày 29/09",29/09 16h10 [Australia FFA Cup] Melbourne Victory vs FC Macarthur
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 18h00 [V League] Sông Lam Nghệ An vs Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Wj3FKJq&t=1727601000
+https://202x.io.vn/bongda/tc.php?id=0KGH5HR&t=1727607600
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 17h00 [V League] Quảng Nam vs Đà Nẵng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -340,18 +340,14 @@ https://202x.io.vn/bongda/tc.php?id=TBTLWz0&t=1727625600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=xOpGXi2&t=1727614800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2c764cfc9ae1beacd2dcb28cb831755a.png" group-title="Ngày 29/09",29/09 16h10 [Australia FFA Cup] Melbourne Victory vs FC Macarthur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Wj3FKJq&t=1727601000
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 17h00 [V League] Quảng Nam vs Đà Nẵng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=TcZGqcx&t=1727604000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 18h00 [V League] Sông Lam Nghệ An vs Hà Tĩnh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=0KGH5HR&t=1727607600
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 17h00 [V League] Quảng Nam vs Đà Nẵng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=TcZGqcx&t=1727604000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 19h15 [V League] TP Hồ Chí Minh vs Hà Nội
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -368,7 +364,7 @@ https://202x.io.vn/bongda/tc.php?id=rRUHjgv&t=1727619300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=m1rM0vc&t=1727627400
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/2023_AFC_U-20_Asian_Cup.png" group-title="Ngày 29/09",29/09 19h00 [U20 châu Á] Việt Nam U20 vs Syria U20
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/2023_AFC_U-20_Asian_Cup.png" group-title="Ngày 29/09",29/09 19h00 [U20 châu Á] Vietnam U20 vs Syria U20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=FIPdG54&t=1727611200
@@ -1536,10 +1532,10 @@ https://202x.io.vn/bongda/tc.php?id=AcQAHB2&t=1727584200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=9ELbslF&t=1727600400
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/44djgvEO-SbVDZSva.png" group-title="Ngày 29/09",29/09 17h20 [ATP500 Tokyo Open] Arthur Fils vs Ben Shelton
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/44djgvEO-SbVDZSva.png" group-title="Ngày 29/09",29/09 18h40 [ATP500 Tokyo Open] Arthur Fils vs Ben Shelton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=1cg7JWQ&t=1727605200
+https://202x.io.vn/bongda/tc.php?id=1cg7JWQ&t=1727610000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 29/09",29/09 18h00 [ATP500 China Open] Tallon Griekspoor vs Carlos Alcaraz Garfia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1556,10 +1552,10 @@ https://202x.io.vn/bongda/tc.php?id=AcQAHB2&t=1727584200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=9ELbslF&t=1727600400
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/44djgvEO-SbVDZSva.png" group-title="Ngày 29/09",29/09 17h20 [ATP500 Tokyo Open] Arthur Fils vs Ben Shelton
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/44djgvEO-SbVDZSva.png" group-title="Ngày 29/09",29/09 18h40 [ATP500 Tokyo Open] Arthur Fils vs Ben Shelton
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=1cg7JWQ&t=1727605200
+https://202x.io.vn/bongda/tc.php?id=1cg7JWQ&t=1727610000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 29/09",29/09 18h00 [ATP500 China Open] Tallon Griekspoor vs Carlos Alcaraz Garfia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1576,22 +1572,18 @@ https://202x.io.vn/bongda/tc.php?id=Wc9AkqM&t=1727618700
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Xmuhl3z&t=1727611200
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png" group-title="Ngày 29/09",29/09 19h00 [2024 World Championship] PSG Talon vs 100 Thieves
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Xmuhl3z&t=1727611200
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png" group-title="Ngày 29/09",29/09 22h00 [2024 World Championship] Rainbow7 vs paiN Gaming
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=IDEaPWt&t=1727622000
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 29/09",29/09 16h10 [Bóng rổ Philippines] TNT Tropang Giga vs NLEX Road Warriors
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=pdeJHOM&t=1727601000
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 29/09",29/09 17h30 [Bóng rổ Tây Ban Nha] Winterthur F.C. Barcelona vs Granada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=wuVjllF&t=1727605800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 29/09",29/09 16h10 [Bóng rổ Philippines] TNT Tropang Giga vs NLEX Road Warriors
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=pdeJHOM&t=1727601000
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 29/09",29/09 17h30 [Bóng rổ Tây Ban Nha] Winterthur F.C. Barcelona vs Granada
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1600,22 +1592,10 @@ https://202x.io.vn/bongda/tc.php?id=wuVjllF&t=1727605800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=nSuqWig&t=1727627400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 29/09",29/09 19h00 [Giao hữu bóng rổ] Dentacon Apoel Nicosia vs Mykonos
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 29/09",29/09 18h30 [Bóng rổ Philippines] Magnolia Hotshots vs Rain or Shine Elastopainters
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=mpvScIO&t=1727611200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 29/09",29/09 19h30 [Giao hữu bóng rổ] Carugate Women vs Rovigo Woman
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=IBz81dl&t=1727613000
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 29/09",29/09 21h30 [Giao hữu bóng rổ] Delser LBS Udine Women vs Giussano Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=3vzBl8Y&t=1727620200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 29/09",29/09 22h00 [Giao hữu bóng rổ] Enosis Neon Paralimni vs Keravnos Strovolos
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=beYUt2n&t=1727622000
+https://202x.io.vn/bongda/tc.php?id=cBBcMfF&t=1727609400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 30/09",30/09 16h00 [Bóng rổ Philippines] Meralco Bolts vs Barangay Ginebra San Miguel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1624,34 +1604,6 @@ https://202x.io.vn/bongda/tc.php?id=oTZ2Js8&t=1727686800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=YmtnhWR&t=1727695800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 30/09",30/09 00h00 [Giao hữu bóng rổ] Illiabum Clube vs Sangaliush
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=fXV0DMH&t=1727629200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 30/09",30/09 00h00 [Giao hữu bóng rổ] Imortal vs UD Oliveirense
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=idGbcCh&t=1727629200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 30/09",30/09 00h30 [Giao hữu bóng rổ] Atletico CP vs Estoril BC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=iaQ7eMb&t=1727631000
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 30/09",30/09 03h00 [Giao hữu bóng rổ] Unifacisa vs Fortaleza B. C.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=myfMaUD&t=1727640000
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 30/09",30/09 05h00 [Giao hữu bóng rổ] Platense vs Uniao Corinthians
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=QResR7e&t=1727647200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 30/09",30/09 05h30 [Giao hữu bóng rổ] Penarol de Mar del Plata vs Pato
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=GdWIWjt&t=1727649000
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86c397baad3b2073cdcd8823c8e3f55d.png" group-title="Ngày 30/09",30/09 07h30 [Giao hữu bóng rổ] Regatas Corrientes vs San Martin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=cz8rOWn&t=1727656200
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png" group-title="Ngày 30/09",30/09 07h30 [WNBA] Minnesota Lynx vs Connecticut Sun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
