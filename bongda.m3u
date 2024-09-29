@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=wFFQF8l&t=1727650800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 30/09",30/09 06h00 [Brazilian Serie A] Flamengo vs Atletico Paranaense
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=wFFQF8l&t=1727650800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 30/09",30/09 07h00 [Mexico Liga MX] Club America vs Pumas U.N.A.M.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2052,14 +2056,38 @@ https://202x.io.vn/bongda/tc.php?id=rjWs4lb&t=1728144000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Zfda6fp&t=1728144000
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 30/09",30/09 10h00 [Tennis] ATP500 WTA1000 Beijing Open
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 30/09",30/09 12h00 [ATP500 China Open] Andrey Rublev vs Alejandro Davidovich Fokina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=GXox0eY&t=1727665200
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 30/09",30/09 14h00 [Tennis] ATP500 Tokyo Open
+https://202x.io.vn/bongda/tc.php?id=32YOYfc&t=1727672400
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 30/09",30/09 15h00 [ATP500 China Open] Karen Khachanov vs Carlos Alcaraz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=AcQAHB2&t=1727679600
+https://202x.io.vn/bongda/tc.php?id=lABhL1e&t=1727683200
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 30/09",30/09 15h00 [ATP500 China Open] Flavio Cobolli vs Daniil Medvedev
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=7UXlWqs&t=1727683200
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 30/09",30/09 18h00 [ATP500 China Open] Jannik Sinner vs Jiri Lehecka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=q47S9Sn&t=1727694000
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 30/09",30/09 12h00 [WTA1000 China Open] Aryna Sabalenka vs Ashlyn Krueger
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=zHvadrI&t=1727672400
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c2/China_Open_logo.png" group-title="Ngày 30/09",30/09 18h00 [WTA1000 China Open] Nadia Podoroska vs Zheng Qinwen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=aC79Zwj&t=1727694000
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/44djgvEO-SbVDZSva.png" group-title="Ngày 30/09",30/09 16h00 [ATP500 Tokyo Open] Tomas Machac vs Ugo Humbert
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=9Lb8gwG&t=1727686800
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/44djgvEO-SbVDZSva.png" group-title="Ngày 30/09",30/09 17h20 [ATP500 Tokyo Open] Arthur Fils vs Holger Rune
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=y2jb3vx&t=1727691600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png" group-title="Ngày 30/09",30/09 07h30 [WNBA] Minnesota Lynx vs Connecticut Sun
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
