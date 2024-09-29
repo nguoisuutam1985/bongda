@@ -308,14 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 18h00 [V League] Sông Lam Nghệ An vs Hà Tĩnh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=0KGH5HR&t=1727607600
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 19h15 [V League] TP Hồ Chí Minh vs Hà Nội
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Li6ecdX&t=1727612100
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="Ngày 29/09",29/09 19h00 [La Liga] Celta Vigo vs Girona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -324,18 +316,34 @@ https://202x.io.vn/bongda/tc.php?id=ZcT8YkL&t=1727611200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=FIPdG54&t=1727611200
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 29/09",29/09 19h30 [Futsal World Cup] Brazil vs Morocco
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/2023_AFC_U-20_Asian_Cup.png" group-title="Ngày 29/09",29/09 19h00 [U20 châu Á] Sri Lanka U20 vs Malaysia U20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=38aXwuU&t=1727613000
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 18h00 [V League] Sông Lam Nghệ An vs Hà Tĩnh
+https://202x.io.vn/bongda/tc.php?id=WwAcRVf&t=1727611200
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/2023_AFC_U-20_Asian_Cup.png" group-title="Ngày 29/09",29/09 19h00 [U20 châu Á] India U20 vs Laos U20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=0KGH5HR&t=1727607600
+https://202x.io.vn/bongda/tc.php?id=MxKVMrm&t=1727611200
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/2023_AFC_U-20_Asian_Cup.png" group-title="Ngày 29/09",29/09 19h30 [U20 châu Á] Indonesia U20 vs Yemen U20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=4vMHKgk&t=1727613000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 19h15 [V League] TP Hồ Chí Minh vs Hà Nội
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Li6ecdX&t=1727612100
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 29/09",29/09 19h30 [Futsal World Cup] Brazil vs Morocco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=38aXwuU&t=1727613000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 29/09",29/09 19h30 [Vô địch quốc gia Hà Lan] FC Twente Enschede vs NAC Breda
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=bH18ITi&t=1727613000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 29/09",29/09 19h30 [Vô địch quốc gia Hà Lan] Groningen vs Go Ahead Eagles
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=rt3FHyf&t=1727613000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="Ngày 29/09",29/09 19h00 [La Liga] Celta Vigo vs Girona
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -352,6 +360,22 @@ https://202x.io.vn/bongda/tc.php?id=m1rM0vc&t=1727627400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=FIPdG54&t=1727611200
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/2023_AFC_U-20_Asian_Cup.png" group-title="Ngày 29/09",29/09 19h00 [U20 châu Á] Sri Lanka U20 vs Malaysia U20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=WwAcRVf&t=1727611200
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/2023_AFC_U-20_Asian_Cup.png" group-title="Ngày 29/09",29/09 19h00 [U20 châu Á] India U20 vs Laos U20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=MxKVMrm&t=1727611200
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/2023_AFC_U-20_Asian_Cup.png" group-title="Ngày 29/09",29/09 19h30 [U20 châu Á] Indonesia U20 vs Yemen U20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=4vMHKgk&t=1727613000
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/4/4c/V.League_1_new_logo.svg/1200px-V.League_1_new_logo.svg.png" group-title="Ngày 29/09",29/09 19h15 [V League] TP Hồ Chí Minh vs Hà Nội
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Li6ecdX&t=1727612100
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 29/09",29/09 19h30 [Futsal World Cup] Brazil vs Morocco
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1416,6 +1440,10 @@ https://202x.io.vn/bongda/tc.php?id=dO9in3a&t=1728007500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=qvT675r&t=1727613900
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png" group-title="Ngày 29/09",29/09 19h45 [Bóng chuyền nữ Ba Lan] MKS Kalisz W vs Chemik Police W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qvT675r&t=1727613900
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png" group-title="Ngày 29/09",29/09 21h00 [Bóng chuyền nam Italy] Piacenza vs Modena
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1512,10 +1540,6 @@ https://202x.io.vn/bongda/tc.php?id=VB2Smvt&t=1727893800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=f9tao6r&t=1727978400
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 29/09",29/09 10h00 [Tennis] ATP500 WTA1000 Beijing Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=GXox0eY&t=1727578800
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 29/09",29/09 11h30 [Tennis] ATP500 Tokyo Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1528,10 +1552,6 @@ https://202x.io.vn/bongda/tc.php?id=1cg7JWQ&t=1727610000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Vjbnyml&t=1727613000
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 29/09",29/09 10h00 [Tennis] ATP500 WTA1000 Beijing Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=GXox0eY&t=1727578800
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 29/09",29/09 11h30 [Tennis] ATP500 Tokyo Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1544,6 +1564,10 @@ https://202x.io.vn/bongda/tc.php?id=1cg7JWQ&t=1727610000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Vjbnyml&t=1727613000
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 30/09",30/09 10h00 [Tennis] ATP500 WTA1000 Beijing Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=GXox0eY&t=1727665200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/fr.png" group-title="Ngày 29/09",29/09 21h05 [Formula Regional European] Formula Regional EU by Alpine: Race 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
