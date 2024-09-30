@@ -308,10 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 30/09",30/09 22h00 [Futsal World Cup] Kazakhstan vs Argentina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=4TqydOv&t=1727708400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 30/09",30/09 23h00 [AFC Champions League Elite] Al-Sadd vs Esteghlal Tehran
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -324,10 +320,6 @@ https://202x.io.vn/bongda/tc.php?id=6r6sXkc&t=1727712000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Tl4FMwh&t=1727712000
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/35/2024_FIFA_Futsal_World_Cup_logo.svg/200px-2024_FIFA_Futsal_World_Cup_logo.svg.png" group-title="Ngày 30/09",30/09 22h00 [Futsal World Cup] Kazakhstan vs Argentina
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=4TqydOv&t=1727708400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 30/09",30/09 23h00 [AFC Champions League Elite] Al-Sadd vs Esteghlal Tehran
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -376,6 +368,14 @@ https://202x.io.vn/bongda/tc.php?id=I5gx2JH&t=1727722800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ULsNqae&t=1727722800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 01/10",01/10 23h45 [UEFA Champions League] Red Bull Salzburg vs Stade Brestois
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=HKWyKuE&t=1727801100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 01/10",01/10 23h45 [UEFA Champions League] VfB Stuttgart vs Sparta Praha
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2EwQ5W3&t=1727801100
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png" group-title="Ngày 01/10",01/10 07h15 [Argentine Division 1] Lanus vs Gimnasia La Plata
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -384,7 +384,7 @@ https://202x.io.vn/bongda/tc.php?id=e64IdhQ&t=1727741700
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=aciVr8X&t=1727740800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="Ngày 02/10",02/10 01h45 [Carabao Cup] AFC Wimbledon vs Newcastle United
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="Ngày 02/10",02/10 01h45 [Carabao Cup] Newcastle United vs AFC Wimbledon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=o8JPDmK&t=1727808300
@@ -428,226 +428,14 @@ https://202x.io.vn/bongda/tc.php?id=mOUzqfa&t=1727887500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=G1N9eIc&t=1727863200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 02/10",02/10 00h45 [Russian Cup] FK Nizhny Novgorod vs CSKA Moscow
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=2gLwCrL&t=1727804700
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 02/10",02/10 20h15 [Russian Cup] Khimki vs Rostov FK
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=zMMSi02&t=1727874900
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 02/10",02/10 23h00 [Russian Cup] Dynamo Moscow vs Spartak Moscow
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=RyEnyRV&t=1727884800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 02/10",02/10 23h00 [Russian Cup] Krylya Sovetov vs FK Makhachkala
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=kRolYYK&t=1727884800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 02/10",02/10 01h00 [AFC Champions League Elite] Al-Garrafa vs Al Ain
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=MiX48me&t=1727805600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 02/10",02/10 01h00 [AFC Champions League Elite] Al Hilal vs Al Shorta
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=j2sots7&t=1727805600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 02/10",02/10 17h00 [AFC Champions League Elite] Vissel Kobe vs Shandong Taishan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=JWZiDvb&t=1727863200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 02/10",02/10 17h00 [AFC Champions League Elite] Yokohama Marinos vs Ulsan Hyundai FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=4k0XP94&t=1727863200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 01h00 [UEFA Youth League] The New Saints U19 vs FK Zalgiris Vilnius U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=uDwwgvA&t=1727805600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 19h00 [UEFA Youth League] FC Shakhtar Donetsk U19 vs Atalanta U20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=4lQALbC&t=1727870400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 19h00 [UEFA Youth League] Girona U19 vs Feyenoord U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dvx9xVv&t=1727870400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 19h00 [UEFA Youth League] Aston Villa U19 vs Bayern Munchen U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Iw7kYOr&t=1727870400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 19h00 [UEFA Youth League] Dinamo Zagreb U19 vs Monaco U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=VVAlAfi&t=1727870400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 19h00 [UEFA Youth League] KF 2 Korriku U19 vs FK Bylis Ballsh U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=jj0PpC9&t=1727870400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 19h00 [UEFA Youth League] Academia Rebeja U19 vs Kairat Almaty U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=8EJEo9Y&t=1727870400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 20h00 [UEFA Youth League] Lille U19 vs Real Madrid U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Rib9PeW&t=1727874000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 20h00 [UEFA Youth League] Liverpool U19 vs Bologna U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dFPZgk1&t=1727874000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 21h00 [UEFA Youth League] Benfica U19 vs Atletico de Madrid U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=2xL3wNQ&t=1727877600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 21h00 [UEFA Youth League] RB LeipzigU19 vs Juventus Youth
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=mz5L39v&t=1727877600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 21h00 [UEFA Youth League] Graz U19 vs Club Brugge U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=VmVx6ak&t=1727877600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 22h00 [UEFA Youth League] NK Maribor U20 vs Lincoln Red Imps FC U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=MZEAyQH&t=1727881200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 02/10",02/10 23h00 [UEFA Youth League] Sarajevo U19 vs Brera Strumica U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=8DhNE4A&t=1727884800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Ngày 02/10",02/10 01h45 [Hạng nhất Anh] Burnley vs Plymouth Argyle
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=geqGkJ8&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Ngày 02/10",02/10 01h45 [Hạng nhất Anh] Coventry City vs Blackburn Rovers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=fvIU63l&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Ngày 02/10",02/10 01h45 [Hạng nhất Anh] Luton Town vs Oxford United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=jUs5uFe&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Ngày 02/10",02/10 01h45 [Hạng nhất Anh] Queens Park Rangers (QPR) vs Hull City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=5bWlndp&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Ngày 02/10",02/10 01h45 [Hạng nhất Anh] Sunderland A.F.C vs Derby County
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=4UW14LW&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Ngày 02/10",02/10 01h45 [Hạng nhất Anh] Cardiff City vs Millwall
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=baAtzdo&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Ngày 02/10",02/10 01h45 [Hạng nhất Anh] Norwich City vs Leeds United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=0AO5BYi&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Ngày 02/10",02/10 02h00 [Hạng nhất Anh] West Bromwich(WBA) vs Middlesbrough
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Nni1nwm&t=1727809200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Barnsley vs Wycombe Wanderers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=wJYtUw0&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Birmingham City vs Huddersfield Town
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dbfgx9P&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Blackpool vs Lincoln City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=StYoBFv&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Bristol Rovers vs Charlton Athletic
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=kJJuA9k&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Cambridge United vs Rotherham United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=886do6P&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Crawley Town vs Mansfield Town
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=gbcoiVA&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Leyton Orient vs Exeter City
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=E8lI6Dc&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Northampton Town vs Bolton Wanderers
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=o7rbs4P&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Shrewsbury Town vs Stockport County
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=70R9cz9&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Stevenage Borough vs Wrexham
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=SlNrLKv&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 01h45 [English Football League One] Wigan Athletic vs Peterborough United
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=CFM41Hl&t=1727808300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 02/10",02/10 02h00 [English Football League One] Reading vs Burton Albion
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=GqGHvkA&t=1727809200
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 02/10",02/10 19h30 [Giao hữu] Italy (w) U17 vs Switzerland (w) U17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=obsoz8E&t=1727872200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e418b0f41368ff180330d44338ce2049.png" group-title="Ngày 02/10",02/10 21h00 [Czech Cup] Bzenec vs Sigma Olomouc
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=gKGZ7di&t=1727877600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e418b0f41368ff180330d44338ce2049.png" group-title="Ngày 02/10",02/10 21h00 [Czech Cup] Domazlice vs Baumit Jablonec
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=2DhvLBU&t=1727877600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="Ngày 02/10",02/10 21h30 [Europa Conference League] Istanbul Buyuksehir Belediyesi vs SK Rapid Plzen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=wMI8bQy&t=1727879400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/88637a74a2cbd634b8b9504a60d711cd.png" group-title="Ngày 02/10",02/10 21h30 [Europa Conference League] Vitoria Guimaraes vs NK Publikum Celje
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=yDKRVTJ&t=1727879400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 17h00 [AFC Champions League 2] Ravshan Kulob vs Al-Wakra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=y32ISP1&t=1727863200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 17h00 [AFC Champions League 2] Al Hussein Irbid vs Al Kuwait SC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=rKAQShw&t=1727863200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 19h00 [AFC Champions League 2] Nam Định vs Bangkok United FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=vuQwcF6&t=1727870400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 19h00 [AFC Champions League 2] Tampines Rovers FC vs LeeMan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=5pIcQ4R&t=1727870400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 21h00 [AFC Champions League 2] FC Altyn Asyr vs Al Khaldiya
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=JY1ny9o&t=1727877600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 21h00 [AFC Champions League 2] Nasaf Qarshi vs Al Ahli(UAE)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=V49Xm6s&t=1727877600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 02/10",02/10 23h00 [AFC Champions League 2] Tractor S.C. vs ATK Mohun Bagan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=4XCbE3g&t=1727884800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b9ea430273d03d5567f1edd406b4e1b5.png" group-title="Ngày 02/10",02/10 09h05 [Central American Cup] Deportivo Saprissa vs Antigua GFC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=hV8cug5&t=1727834700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png" group-title="Ngày 02/10",02/10 06h30 [Argentine Division 1] Rosario Central vs Velez Sarsfield
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=mAV6bEH&t=1727825400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 03/10",03/10 02h00 [UEFA Champions League] Aston Villa vs Bayern Munchen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1756,6 +1544,578 @@ https://202x.io.vn/bongda/tc.php?id=r73M2Bf&t=1728079200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=GEVWtkB&t=1728086400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 06/10",06/10 01h45 [Serie A] Inter Milan vs Torino
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=h9c9WVk&t=1728153900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 06/10",06/10 17h30 [Serie A] Juventus vs Cagliari
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=P98zXnW&t=1728210600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 06/10",06/10 20h00 [Serie A] Bologna vs Parma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=DDSvnuW&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 06/10",06/10 20h00 [Serie A] Lazio vs Empoli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=eTOxqc0&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 06/10",06/10 23h00 [Serie A] Monza vs AS Roma
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=t7DU1PX&t=1728230400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="Ngày 06/10",06/10 02h00 [La Liga] Real Madrid vs Villarreal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=4thHS6L&t=1728154800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="Ngày 06/10",06/10 21h15 [La Liga] Alaves vs Barcelona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=1kEXCzF&t=1728224100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="Ngày 06/10",06/10 19h00 [La Liga] Girona vs Athletic Bilbao
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=U88kgyZ&t=1728216000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="Ngày 06/10",06/10 23h30 [La Liga] Sevilla vs Real Betis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=gecJ69f&t=1728232200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 06/10",06/10 20h00 [Ngoại hạng Anh] Aston Villa vs Manchester United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=1nYvzPk&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 06/10",06/10 20h00 [Ngoại hạng Anh] Chelsea vs Nottingham Forest
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Lu6wPx9&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 06/10",06/10 22h30 [Ngoại hạng Anh] Brighton Hove Albion vs Tottenham Hotspur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=4RchAuc&t=1728228600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Ngày 06/10",06/10 22h30 [Bundesliga] Eintracht Frankfurt vs Bayern Munchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=yksTlUO&t=1728228600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="Ngày 06/10",06/10 20h30 [Bundesliga] Heidenheim vs RB Leipzig
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=V3SOb6T&t=1728221400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" group-title="Ngày 06/10",06/10 00h00 [Bulgarian First League] Botev Plovdiv vs Levski Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=j5qTljs&t=1728147600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" group-title="Ngày 06/10",06/10 19h00 [Bulgarian First League] FC Hebar Pazardzhik vs Botev Vratsa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=CdwcNUB&t=1728216000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" group-title="Ngày 06/10",06/10 21h30 [Bulgarian First League] Spartak Varna vs Lokomotiv Sofia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=GGqkZO9&t=1728225000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ngày 06/10",06/10 00h00 [Ligue 1] Lille vs Toulouse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=672jqe9&t=1728147600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ngày 06/10",06/10 02h00 [Ligue 1] Rennes vs Monaco
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=QJ4vNZf&t=1728154800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ngày 06/10",06/10 20h00 [Ligue 1] Lyon vs Nantes
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=lGF13wK&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ngày 06/10",06/10 22h00 [Ligue 1] Stade Brestois vs Le Havre
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=M94JA7A&t=1728226800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ngày 06/10",06/10 22h00 [Ligue 1] Reims vs Montpellier
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=tEVA3WI&t=1728226800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png" group-title="Ngày 06/10",06/10 22h00 [Ligue 1] Strasbourg vs Lens
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=w9X9I3T&t=1728226800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="Ngày 06/10",06/10 00h00 [Vô địch Bồ Đào Nha] FC Arouca vs AVS Futebol SAD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=yWVHk4D&t=1728147600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="Ngày 06/10",06/10 02h30 [Vô địch Bồ Đào Nha] Sporting CP vs Casa Pia AC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=YmuzjBT&t=1728156600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="Ngày 06/10",06/10 21h30 [Vô địch Bồ Đào Nha] SC Farense vs Estoril
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=iHe9mMI&t=1728225000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png" group-title="Ngày 06/10",06/10 21h30 [Vô địch Bồ Đào Nha] Vitoria Guimaraes vs Boavista FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=JDdaRbi&t=1728225000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8db9a5d445b772788d5a1f9719133e59.png" group-title="Ngày 06/10",06/10 01h00 [Canana Soccer League] HFX Wanderers FC vs Vancouver FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ThkKUVk&t=1728151200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8db9a5d445b772788d5a1f9719133e59.png" group-title="Ngày 06/10",06/10 04h00 [Canana Soccer League] Pacific FC vs Cavalry FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=MMjYpdy&t=1728162000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 06/10",06/10 01h00 [Vô địch quốc gia Hà Lan] PSV Eindhoven vs Sparta Rotterdam
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=JFQTYdv&t=1728151200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 06/10",06/10 02h00 [Vô địch quốc gia Hà Lan] FC Utrecht vs RKC Waalwijk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=oUkJFlV&t=1728154800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 06/10",06/10 17h15 [Vô địch quốc gia Hà Lan] Go Ahead Eagles vs Heracles Almelo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=AUwPTZe&t=1728209700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 06/10",06/10 19h30 [Vô địch quốc gia Hà Lan] SC Heerenveen vs PEC Zwolle
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=vxYv3MU&t=1728217800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 06/10",06/10 19h30 [Vô địch quốc gia Hà Lan] Feyenoord vs FC Twente Enschede
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=JfUxOLr&t=1728217800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 06/10",06/10 21h45 [Vô địch quốc gia Hà Lan] AFC Ajax vs Groningen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=tRd6fEe&t=1728225900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Ngày 06/10",06/10 01h00 [Saudi Professional League] Al Ahli Jeddah vs Al Hilal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qp1dX8U&t=1728151200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a190919a6ba9a7ca48de6bc42cc636e4.png" group-title="Ngày 06/10",06/10 01h30 [Switzerland Super League] Winterthur vs Grasshopper
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=SdWzLhy&t=1728153000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a190919a6ba9a7ca48de6bc42cc636e4.png" group-title="Ngày 06/10",06/10 19h15 [Switzerland Super League] FC Zurich vs Lugano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=XFQHEOh&t=1728216900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a190919a6ba9a7ca48de6bc42cc636e4.png" group-title="Ngày 06/10",06/10 21h30 [Switzerland Super League] Basel vs Young Boys
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=tpjPxXf&t=1728225000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a190919a6ba9a7ca48de6bc42cc636e4.png" group-title="Ngày 06/10",06/10 21h30 [Switzerland Super League] St. Gallen vs Servette
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=56JmKv7&t=1728225000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png" group-title="Ngày 06/10",06/10 01h30 [Romanian Liga I] FC Otelul Galati vs CS Universitatea Craiova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=BhdHpOt&t=1728153000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png" group-title="Ngày 06/10",06/10 17h30 [Romanian Liga I] Hermannstadt vs Sepsi OSK Sfantul Gheorghe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=dzzwY8X&t=1728210600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/baa0310d59a97af3f08bab0e35204cc7.png" group-title="Ngày 06/10",06/10 22h15 [Romanian Liga I] FC Botosani vs Rapid Bucuresti
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=aCgKLqF&t=1728227700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="Ngày 06/10",06/10 01h30 [Bundesliga 2] Schalke 04 vs Hertha Berlin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=b7bOOD0&t=1728153000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="Ngày 06/10",06/10 18h30 [Bundesliga 2] Eintracht Braunschweig vs Hannover 96
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=PVLPHny&t=1728214200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="Ngày 06/10",06/10 18h30 [Bundesliga 2] Fortuna Dusseldorf vs Hamburger SV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=j4Msqkk&t=1728214200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/eab6e349cf5811408c0628a774724869.png" group-title="Ngày 06/10",06/10 18h30 [Bundesliga 2] Magdeburg vs Greuther Furth
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=cQjobL8&t=1728214200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="Ngày 06/10",06/10 02h00 [Spanish Segunda Division] Tenerife vs FC Cartagena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=QrZVlu9&t=1728154800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="Ngày 06/10",06/10 19h00 [Spanish Segunda Division] Deportivo La Coruna vs Malaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=VdoKTvz&t=1728216000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="Ngày 06/10",06/10 21h15 [Spanish Segunda Division] Eldense vs Castellon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=AyVV6De&t=1728224100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="Ngày 06/10",06/10 23h30 [Spanish Segunda Division] Levante vs Real Oviedo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=W6xXJK2&t=1728232200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/57bb4f7957510c2da5fd076e75618f5f.png" group-title="Ngày 06/10",06/10 02h00 [Uruguay Primera Division] Danubio FC vs Defensor Sporting Montevideo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=m8w4H9c&t=1728154800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/57bb4f7957510c2da5fd076e75618f5f.png" group-title="Ngày 06/10",06/10 04h30 [Uruguay Primera Division] Boston River vs Wanderers FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Xx4CCKN&t=1728163800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/57bb4f7957510c2da5fd076e75618f5f.png" group-title="Ngày 06/10",06/10 20h00 [Uruguay Primera Division] Centro Atletico Fenix vs Rampla Juniors FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=dKvBlr9&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 06/10",06/10 02h30 [Brazilian Serie A] Atletico Mineiro vs Vitoria BA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Mo5LvvM&t=1728156600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 06/10",06/10 02h30 [Brazilian Serie A] Atletico Paranaense vs Botafogo RJ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=zGioRNZ&t=1728156600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 06/10",06/10 02h30 [Brazilian Serie A] Bragantino vs Palmeiras
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ooHS9VM&t=1728156600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 06/10",06/10 05h00 [Brazilian Serie A] Corinthians Paulista (SP) vs Internacional RS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=DKHS1dL&t=1728165600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 06/10",06/10 05h00 [Brazilian Serie A] Bahia vs Flamengo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=6vpGRHw&t=1728165600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 06/10",06/10 05h00 [Brazilian Serie A] Cuiaba vs Sao Paulo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=OF3CBl1&t=1728165600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 06/10",06/10 07h00 [Brazilian Serie A] Vasco da Gama vs Juventude
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=U0tURXL&t=1728172800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="Ngày 06/10",06/10 03h00 [Brazilian Serie B] Ituano  SP vs Guarani SP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=FAaDEfs&t=1728158400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="Ngày 06/10",06/10 03h00 [Brazilian Serie B] Ponte Preta vs Botafogo SP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=JPbM2Uh&t=1728158400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/6813ba1ebe40c6bc7bb1b081d916a1a6.png" group-title="Ngày 06/10",06/10 04h00 [Brazilian Serie B] Mirassol vs Vila Nova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=8iCjRuO&t=1728162000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 06/10",06/10 06h00 [Mexico Liga MX] Atletico San Luis vs Monterrey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=5a5VOGx&t=1728169200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 06/10",06/10 06h00 [Mexico Liga MX] Tigres UANL vs Puebla
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=klU52I4&t=1728169200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 06/10",06/10 08h00 [Mexico Liga MX] Toluca vs Pumas U.N.A.M.
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=yznoFVQ&t=1728176400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 06/10",06/10 08h05 [Mexico Liga MX] Chivas Guadalajara vs Atlas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ljnUBiz&t=1728176700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="Ngày 06/10",06/10 10h00 [Mexico Liga MX] Club Leon vs Club America
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=U7ZQJB2&t=1728183600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 06h30 [Major League Soccer] Atlanta United vs New York Red Bulls
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=JrsZrK4&t=1728171000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 06h30 [Major League Soccer] Vancouver Whitecaps vs Minnesota United FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=n0L3MSO&t=1728171000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 06h30 [Major League Soccer] New York City Football Club vs Nashville
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=XUsE7Kd&t=1728171000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 06h30 [Major League Soccer] FC Cincinnati vs Orlando City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=vPC3jWO&t=1728171000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 06h30 [Major League Soccer] Columbus Crew vs Philadelphia Union
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=AZzNGnJ&t=1728171000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 06h30 [Major League Soccer] New England Revolution vs DC United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=W1Qak1m&t=1728171000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 06h30 [Major League Soccer] Charlotte FC vs Montreal Impact
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=sgY3UcB&t=1728171000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 06h30 [Major League Soccer] Toronto FC vs Inter Miami CF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=WnE8DmL&t=1728171000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 07h30 [Major League Soccer] FC Kansas City vs Los Angeles FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=UcGL2L2&t=1728174600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 07h30 [Major League Soccer] St. Louis CITY SC vs Houston Dynamo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=S0r6biM&t=1728174600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 08h30 [Major League Soccer] Colorado Rapids vs Seattle Sounders
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=fFB7X2n&t=1728178200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 09h30 [Major League Soccer] LA Galaxy vs Austin FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=4JdVQy2&t=1728181800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 06/10",06/10 09h30 [Major League Soccer] San Jose Earthquakes vs Real Salt Lake
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=MPcphFG&t=1728181800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d7953d539bd0e8ecfdb412e79b8ce04e.png" group-title="Ngày 06/10",06/10 07h00 [Ecuadorian Primera Division] CD El Nacional vs Barcelona SC(ECU)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=oQbJjP0&t=1728172800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 06/10",06/10 12h00 [Japanese J1 League] Kyoto Sanga vs Vissel Kobe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Psk11CJ&t=1728190800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 06/10",06/10 14h00 [Japanese J1 League] Tokyo Verdy vs Shonan Bellmare
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=c2OkDww&t=1728198000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 06/10",06/10 14h00 [Japanese J1 League] Jubilo Iwata vs Hiroshima Sanfrecce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=VpQEQgv&t=1728198000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="Ngày 06/10",06/10 13h00 [Korean K League 1] Daegu FC vs Jeonbuk Hyundai Motors
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Z2GLJPU&t=1728194400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="Ngày 06/10",06/10 13h00 [Korean K League 1] Gwangju Football Club vs FC Seoul
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Px8dVoS&t=1728194400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="Ngày 06/10",06/10 13h00 [Korean K League 1] Incheon United vs Gangwon FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=JeYjePu&t=1728194400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="Ngày 06/10",06/10 13h00 [Korean K League 1] Jeju United vs Daejeon Citizen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=1uaB7wn&t=1728194400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="Ngày 06/10",06/10 13h00 [Korean K League 1] Suwon FC vs Pohang Steelers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=OJUkww9&t=1728194400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c080bb97363f9be7ca4fca327c56ec0d.png" group-title="Ngày 06/10",06/10 13h00 [Korean K League 1] Ulsan Hyundai FC vs Gimcheon Sangmu
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=zbqdsNn&t=1728194400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 06/10",06/10 17h30 [Turkey Super League] Konyaspor vs Eyupspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=sIfhETo&t=1728210600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 06/10",06/10 20h00 [Turkey Super League] Adana Demirspor vs Samsunspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=o2o65tC&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 06/10",06/10 23h00 [Turkey Super League] Galatasaray vs Alanyaspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=9TNte1A&t=1728230400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png" group-title="Ngày 06/10",06/10 18h00 [Russian Premier League] Fakel vs FK Makhachkala
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=unYL4Gr&t=1728212400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png" group-title="Ngày 06/10",06/10 20h30 [Russian Premier League] Lokomotiv Moscow vs Krylya Sovetov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=gM6j9Hr&t=1728221400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png" group-title="Ngày 06/10",06/10 23h00 [Russian Premier League] Dynamo Moscow vs CSKA Moscow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=fj44ZhZ&t=1728230400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bad575ed2b0e7e413cb4de4b6c5fefa8.png" group-title="Ngày 06/10",06/10 23h00 [Russian Premier League] FC Krasnodar vs Khimki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=T2vPiqz&t=1728230400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/998477eb2f5657a3ad476c28cedffae9.png" group-title="Ngày 06/10",06/10 18h00 [Thai League 1] Nong Bua Lamphu vs Bangkok United FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Cx69JlK&t=1728212400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/998477eb2f5657a3ad476c28cedffae9.png" group-title="Ngày 06/10",06/10 18h00 [Thai League 1] Port FC vs Nakhon Pathom FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=fyyFGya&t=1728212400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="Ngày 06/10",06/10 18h00 [Scottish Premiership] Ross County vs Celtic FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=soyr75x&t=1728212400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/01773553ef47b46962ac8cd7cc6b802d.png" group-title="Ngày 06/10",06/10 21h00 [Scottish Premiership] Aberdeen vs Heart of Midlothian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=SxD5A3I&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="Ngày 06/10",06/10 19h00 [Denmark Super Liga] Randers FC vs Lyngby
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=N2Ao3jU&t=1728216000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="Ngày 06/10",06/10 19h00 [Denmark Super Liga] Sonderjyske vs Nordsjaelland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=FIE9sL8&t=1728216000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="Ngày 06/10",06/10 21h00 [Denmark Super Liga] Viborg vs Aarhus AGF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ZOsMAfq&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="Ngày 06/10",06/10 23h00 [Denmark Super Liga] Brondby IF vs Midtjylland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=wj6Znol&t=1728230400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0267ddafe2140758cb495835ff65e61d.png" group-title="Ngày 06/10",06/10 19h30 [Austrian Bundesliga] Rheindorf Altach vs Rapid Wien
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=eUeSWQ4&t=1728217800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0267ddafe2140758cb495835ff65e61d.png" group-title="Ngày 06/10",06/10 19h30 [Austrian Bundesliga] LASK Linz vs SG Austria Klagenfurt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=n5sHlEA&t=1728217800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0267ddafe2140758cb495835ff65e61d.png" group-title="Ngày 06/10",06/10 22h00 [Austrian Bundesliga] Sturm Graz vs Red Bull Salzburg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=sLSGlTL&t=1728226800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/06cac69d009fb39c1ed570e5f91effb5.png" group-title="Ngày 06/10",06/10 20h00 [Women's Super League] Arsenal (w) vs Everton FC (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ETe3ZmJ&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/06cac69d009fb39c1ed570e5f91effb5.png" group-title="Ngày 06/10",06/10 20h00 [Women's Super League] Chelsea FC (w) vs Manchester United (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=D8mmyA8&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/06cac69d009fb39c1ed570e5f91effb5.png" group-title="Ngày 06/10",06/10 20h00 [Women's Super League] Manchester City (w) vs West Ham United (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=RFUVams&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/06cac69d009fb39c1ed570e5f91effb5.png" group-title="Ngày 06/10",06/10 20h00 [Women's Super League] Leicester City (w) vs CrystalPalace (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=rl82Pmu&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/06cac69d009fb39c1ed570e5f91effb5.png" group-title="Ngày 06/10",06/10 20h00 [Women's Super League] Tottenham Hotspur  (w) vs Liverpool (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Cw2HVvV&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" group-title="Ngày 06/10",06/10 20h10 [UAE Pro League] Al Ahli(UAE) vs Banni Yas
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=4kGq6LC&t=1728220200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" group-title="Ngày 06/10",06/10 22h45 [UAE Pro League] Al Wehda(UAE) vs Al Ain
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ptqkBjo&t=1728229500
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/63ca729248267615f4b039277e8e92b4.png" group-title="Ngày 06/10",06/10 22h45 [UAE Pro League] Al Oruba (UAE) vs Al-Sharjah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=jUNCXjA&t=1728229500
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/030bd6457df88791272200a833dc8255.png" group-title="Ngày 06/10",06/10 20h10 [UAE First Division] Gulf United vs Dabba Al-Fujairah
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Pk69KgP&t=1728220200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/030bd6457df88791272200a833dc8255.png" group-title="Ngày 06/10",06/10 20h10 [UAE First Division] Dubai United vs Gulf Heroes FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=mfX9ZQs&t=1728220200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/030bd6457df88791272200a833dc8255.png" group-title="Ngày 06/10",06/10 20h10 [UAE First Division] Emirates Club vs Al Arabi(UAE)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=nKbZVer&t=1728220200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/030bd6457df88791272200a833dc8255.png" group-title="Ngày 06/10",06/10 20h15 [UAE First Division] Al-Hamriyah vs Al-Jazira Al-Hamra
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=I7wUaVe&t=1728220500
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5b0707a4e3e7980c85d1fc7de5d22d94.png" group-title="Ngày 06/10",06/10 20h30 [Finland Veikkausliiga] IFK Mariehamn vs Inter Turku
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=iQE8fHN&t=1728221400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5b0707a4e3e7980c85d1fc7de5d22d94.png" group-title="Ngày 06/10",06/10 22h30 [Finland Veikkausliiga] HJK Helsinki vs FC Haka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=UkqOL8S&t=1728228600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/349caefc8ea220e4e840776502a67d90.png" group-title="Ngày 06/10",06/10 21h00 [Hạng nhất Anh] Bristol City vs Cardiff City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=11tDiUg&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png" group-title="Ngày 06/10",06/10 21h00 [Iceland Premier League] KA Akureyri vs KR Reykjavik
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=IgztxNM&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/290427ceea9b5d643a3216c4ecfe9b80.png" group-title="Ngày 06/10",06/10 21h00 [Iceland Premier League] Akranes vs Hafnarfjordur
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=1suY4vY&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="Ngày 06/10",06/10 21h00 [Iraqi Premier Football League] AI Kahrabaa vs Newroz SC(IRQ)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=6N1CVZT&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="Ngày 06/10",06/10 21h00 [Iraqi Premier Football League] Naft Al Junoob vs Al Quwa Al Jawiya
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=v1wcl2i&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="Ngày 06/10",06/10 21h00 [Iraqi Premier Football League] AL Najaf vs Duhok
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=0ekctYd&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="Ngày 06/10",06/10 21h00 [Iraqi Premier Football League] Naft Misan vs Al-Naft
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=e2p5mQw&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 06/10",06/10 23h00 [Africa Cup of Nations] Ivory Coast vs Sierra Leone
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=NYLitMa&t=1728230400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/dee29297a999c65352448cf08461e9b9.png" group-title="Ngày 06/10",06/10 20h10 [Oman Professional League] Bahla vs Sur Club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=fPPkVdd&t=1728220200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c0c26d73fa3b627da013ad9c01f661c.png" group-title="Ngày 06/10",06/10 12h00 [Japanese J2 League] V-Varen Nagasaki vs Oita Trinita
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Pk7O5oY&t=1728190800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c0c26d73fa3b627da013ad9c01f661c.png" group-title="Ngày 06/10",06/10 12h00 [Japanese J2 League] Yokohama FC vs Kagoshima United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=AphWAr2&t=1728190800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c0c26d73fa3b627da013ad9c01f661c.png" group-title="Ngày 06/10",06/10 12h00 [Japanese J2 League] Montedio Yamagata vs Renofa Yamaguchi
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=D5A9FBy&t=1728190800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c0c26d73fa3b627da013ad9c01f661c.png" group-title="Ngày 06/10",06/10 12h00 [Japanese J2 League] Mito Hollyhock vs Shimizu S-Pulse
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=i8LyqAN&t=1728190800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c0c26d73fa3b627da013ad9c01f661c.png" group-title="Ngày 06/10",06/10 12h00 [Japanese J2 League] Tochigi SC vs Ehime FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=K2E0j01&t=1728190800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c0c26d73fa3b627da013ad9c01f661c.png" group-title="Ngày 06/10",06/10 12h00 [Japanese J2 League] Roasso Kumamoto vs Tokushima Vortis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=553Bjja&t=1728190800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c0c26d73fa3b627da013ad9c01f661c.png" group-title="Ngày 06/10",06/10 13h00 [Japanese J2 League] Vegalta Sendai vs Blaublitz Akita
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=38A8GaZ&t=1728194400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png" group-title="Ngày 06/10",06/10 01h00 [Argentine Division 1] Velez Sarsfield vs Racing Club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=nqGZq6x&t=1728151200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png" group-title="Ngày 06/10",06/10 03h30 [Argentine Division 1] Newells Old Boys vs Lanus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=8H9GED2&t=1728160200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/51190878447ed4a23608f899df485da2.png" group-title="Ngày 06/10",06/10 06h00 [Argentine Division 1] Instituto vs San Lorenzo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Blv7c99&t=1728169200
 #EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 30/09",30/09 22h30 [Bóng chuyền nam Ba Lan] Olsztyn vs Kedzierzyn-Kozle
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1896,6 +2256,90 @@ https://202x.io.vn/bongda/tc.php?id=rjWs4lb&t=1728144000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Zfda6fp&t=1728144000
+#EXTINF:0 tvg-logo="https://i.imgur.com/9O3fVna.png" group-title="Ngày 06/10",06/10 01h30 [Bóng chuyền nữ Italy] Scandicci W vs Cuneo W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=XR5lKrX&t=1728153000
+#EXTINF:0 tvg-logo="https://i.imgur.com/9O3fVna.png" group-title="Ngày 06/10",06/10 21h30 [Bóng chuyền nữ Italy] Pinerolo W vs Milano W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=dbP60Oo&t=1728225000
+#EXTINF:0 tvg-logo="https://i.imgur.com/9O3fVna.png" group-title="Ngày 06/10",06/10 22h00 [Bóng chuyền nữ Italy] Firenze W vs Vallefoglia W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2wwbhkt&t=1728226800
+#EXTINF:0 tvg-logo="https://i.imgur.com/9O3fVna.png" group-title="Ngày 06/10",06/10 22h00 [Bóng chuyền nữ Italy] Perugia W vs Bergamo W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=tKj7JvV&t=1728226800
+#EXTINF:0 tvg-logo="https://i.imgur.com/9O3fVna.png" group-title="Ngày 06/10",06/10 22h00 [Bóng chuyền nữ Italy] Roma W vs Talmassons W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=GVqfGlv&t=1728226800
+#EXTINF:0 tvg-logo="https://i.imgur.com/9O3fVna.png" group-title="Ngày 06/10",06/10 22h30 [Bóng chuyền nữ Italy] Chieri '76 W vs Novara W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=0gPVKGN&t=1728228600
+#EXTINF:0 tvg-logo="https://i.imgur.com/9O3fVna.png" group-title="Ngày 06/10",06/10 23h00 [Bóng chuyền nữ Italy] Conegliano W vs UYBA Busto Arsizio W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=m4coRR7&t=1728230400
+#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 06/10",06/10 01h30 [Bóng chuyền nam Ba Lan] Norwid Czestochowa vs Jastrzebski
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=5flPvmz&t=1728153000
+#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 06/10",06/10 19h45 [Bóng chuyền nam Ba Lan] Belchatow vs Slepsk Suwalki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=9OLT2Pd&t=1728218700
+#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 06/10",06/10 22h30 [Bóng chuyền nam Ba Lan] Olsztyn vs Stal Nysa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=IdZH1Ox&t=1728228600
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 06/10",06/10 17h00 [Bóng chuyền nam Thổ Nhĩ Kỳ] Cizre Bld vs Halkbank
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=0dAWxHX&t=1728208800
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 06/10",06/10 18h00 [Bóng chuyền nam Thổ Nhĩ Kỳ] Spor Toto vs Tursad
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ZzuBSiT&t=1728212400
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 06/10",06/10 19h00 [Bóng chuyền nam Thổ Nhĩ Kỳ] Altekma vs Arkasspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=F5SD4Gu&t=1728216000
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 06/10",06/10 20h00 [Bóng chuyền nam Thổ Nhĩ Kỳ] Bursa vs Fenerbahce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=UMn4X4C&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 06/10",06/10 20h00 [Bóng chuyền nam Thổ Nhĩ Kỳ] Develi vs Istanbul BB
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=SGup9Og&t=1728219600
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 06/10",06/10 21h00 [Bóng chuyền nam Thổ Nhĩ Kỳ] Galatasaray vs Alanya Bld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qgrrnFy&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 06/10",06/10 21h00 [Bóng chuyền nam Thổ Nhĩ Kỳ] Ziraat Bankasi vs Akkus Bld
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=tjhrIqF&t=1728223200
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png" group-title="Ngày 06/10",06/10 20h20 [Bóng chuyền nam Italy] Milano vs Lube Civitanova
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qZWxtM1&t=1728220800
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png" group-title="Ngày 06/10",06/10 22h00 [Bóng chuyền nam Italy] Trentino vs Taranto
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=u9E6meS&t=1728226800
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png" group-title="Ngày 06/10",06/10 22h00 [Bóng chuyền nam Italy] Padova vs Perugia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=o4h3vZK&t=1728226800
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png" group-title="Ngày 06/10",06/10 23h00 [Bóng chuyền nam Italy] Modena vs Grottazzolina
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=bkD6UnA&t=1728230400
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 01/10",01/10 15h00 [Tennis] ATP500 WTA1000 Beijing Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2132,6 +2576,58 @@ https://202x.io.vn/bongda/tc.php?id=AimHFWm&t=1728144000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=c5JqpSw&t=1728144000
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 06/10",06/10 01h45 [Bóng rổ Tây Ban Nha] Pamesa Valencia vs DKV Joventut
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=C5PBpL7&t=1728153900
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 06/10",06/10 01h45 [Bóng rổ Tây Ban Nha] UCAM Murcia CB vs Bizkaia Bilbao Basket
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Bw5PxDc&t=1728153900
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 06/10",06/10 17h30 [Bóng rổ Tây Ban Nha] Real Madrid Baloncesto vs Casademont Zaragoza
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=msjgUfu&t=1728210600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 06/10",06/10 18h00 [Bóng rổ Tây Ban Nha] Kalise Gran Canaria vs Basquet Coruna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=RyZtpP9&t=1728212400
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 06/10",06/10 22h00 [Bóng rổ Tây Ban Nha] Basquet Girona vs La Bruixa d'Or Manresa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=HwTwlaP&t=1728226800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 06/10",06/10 22h00 [Bóng rổ Tây Ban Nha] Granada vs Unicaja Malaga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=c1gnPzT&t=1728226800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 06/10",06/10 23h30 [Bóng rổ Tây Ban Nha] Forca Lleida vs Winterthur F.C. Barcelona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=mf1Pp5Y&t=1728232200
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 06/10",06/10 06h00 [NBA] Clippers vs Warriors
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=P9W3TWd&t=1728169200
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 06/10",06/10 21h00 [NBA] Celtics vs Nuggets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=7ajkibY&t=1728223200
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png" group-title="Ngày 06/10",06/10 10h30 [NBL: Bóng Rổ Úc] Melbourne United vs Cairns Taipans
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=FPPNuc4&t=1728185400
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png" group-title="Ngày 06/10",06/10 12h30 [NBL: Bóng Rổ Úc] Tasmania JackJumpers vs Perth Wildcats
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=QIUf6O1&t=1728192600
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/6f8bac2b35d0c2238a659632c273df7a.png" group-title="Ngày 06/10",06/10 15h30 [Bóng rổ nữ Czech] Chomutov Women vs KP Brno Women
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=6duXkaC&t=1728203400
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/6f8bac2b35d0c2238a659632c273df7a.png" group-title="Ngày 06/10",06/10 21h00 [Bóng rổ nữ Czech] Slovanka Women vs ZVVZ USK Prague Woman's
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=N9usTPt&t=1728223200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/WWE.png" group-title="Ngày 01/10",01/10 07h00 [WWE] Raw
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
