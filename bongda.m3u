@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=pNXydR7&t=1728001800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 04/10",04/10 07h30 [Brazilian Serie A] Fluminense RJ vs Cruzeiro (MG)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=pNXydR7&t=1728001800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/13b70039c2194e9d1c73858f1d48cafb.png" group-title="Ngày 04/10",04/10 17h00 [Japanese J1 League] Avispa Fukuoka vs Nagoya Grampus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
