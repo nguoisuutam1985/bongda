@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=qaIL3Sk&t=1728316800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/552bc79c56217e4c0dc54ab0edcf83a2.png" group-title="Ngày 07/10",07/10 23h00 [German Frauen Bundesliga] Bayer Leverkusen (w) vs Carl Zeiss Jena (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qaIL3Sk&t=1728316800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="Ngày 08/10",08/10 06h00 [Colombia Primera A] Fortaleza F.C vs Jaguares de Cordoba
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1356,30 +1360,22 @@ https://202x.io.vn/bongda/tc.php?id=rvLSSOf&t=1728356400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=cLoCIWZ&t=1728360000
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png" group-title="Ngày 07/10",07/10 22h00 [2024 World Championship] paiN Gaming vs Team Liquid
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=1m7eSpG&t=1728313200
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rFkjfijD-Kj5iiZvR.png" group-title="Ngày 07/10",07/10 22h00 [IEM Rio 2024] Team Liquid vs Complexity
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dbcEuG9&t=1728313200
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rFkjfijD-Kj5iiZvR.png" group-title="Ngày 07/10",07/10 23h00 [IEM Rio 2024] Vitality vs 9z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=PZduQjo&t=1728316800
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png" group-title="Ngày 07/10",07/10 22h00 [2024 World Championship] paiN Gaming vs Team Liquid
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rFkjfijD-Kj5iiZvR.png" group-title="Ngày 07/10",07/10 23h00 [IEM Rio 2024] G2 vs Heroic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=1m7eSpG&t=1728313200
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rFkjfijD-Kj5iiZvR.png" group-title="Ngày 07/10",07/10 22h00 [IEM Rio 2024] Team Liquid vs Complexity
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dbcEuG9&t=1728313200
+https://202x.io.vn/bongda/tc.php?id=BK6FV4A&t=1728316800
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rFkjfijD-Kj5iiZvR.png" group-title="Ngày 07/10",07/10 23h00 [IEM Rio 2024] Vitality vs 9z
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=PZduQjo&t=1728316800
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rFkjfijD-Kj5iiZvR.png" group-title="Ngày 07/10",07/10 23h00 [IEM Rio 2024] G2 vs Heroic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=BK6FV4A&t=1728316800
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rFkjfijD-Kj5iiZvR.png" group-title="Ngày 08/10",08/10 00h00 [IEM Rio 2024] Eternal Fire vs Astralis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
