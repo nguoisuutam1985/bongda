@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Az1Pcv5&t=1728381600
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 08/10",08/10 17h30 [Giao hữu] ScotlandU16 vs IrelandU16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=vSFVBjI&t=1728383400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="Ngày 08/10",08/10 17h00 [Turkish Cup] Kilis Bld.Spor vs Balikesirspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -324,18 +328,6 @@ https://202x.io.vn/bongda/tc.php?id=MW95ohH&t=1728388800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=tDFBHJ7&t=1728403200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c618e7014cfc996ef1c349839835cf0c.png" group-title="Ngày 08/10",08/10 19h30 [AFF Championship] Brunei Darussalam vs Timor Leste
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=hVg61ug&t=1728390600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="Ngày 08/10",08/10 23h45 [Women's Champions League] Res Roma (w) vs VfL Wolfsburg (w)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=AQBV78G&t=1728405900
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="Ngày 08/10",08/10 23h45 [Women's Champions League] Lyon (w) vs Galatasaray SK (W)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=2Eb269X&t=1728405900
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 08/10",08/10 17h30 [Giao hữu] ScotlandU16 vs IrelandU16
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -352,6 +344,18 @@ https://202x.io.vn/bongda/tc.php?id=UbrjFyw&t=1728396000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=wiOy8P2&t=1728397800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c618e7014cfc996ef1c349839835cf0c.png" group-title="Ngày 08/10",08/10 19h30 [AFF Championship] Brunei Darussalam vs Timor Leste
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=hVg61ug&t=1728390600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="Ngày 08/10",08/10 23h45 [Women's Champions League] Res Roma (w) vs VfL Wolfsburg (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=AQBV78G&t=1728405900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="Ngày 08/10",08/10 23h45 [Women's Champions League] Lyon (w) vs Galatasaray SK (W)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2Eb269X&t=1728405900
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 08/10",08/10 23h30 [International Club Friendly] Darmstadt vs SG Barockstadt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
