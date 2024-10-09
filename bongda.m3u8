@@ -312,14 +312,6 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=nwfrdGj&t=1728460800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/95ca216361f502f6efe70dd686f7c2d8.png" group-title="Ngày 09/10",09/10 15h00 [AFC Women's Champion League] Sabah (w) vs Abu Dhabi Country (w)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=gh53bvn&t=1728460800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/95ca216361f502f6efe70dd686f7c2d8.png" group-title="Ngày 09/10",09/10 16h00 [AFC Women's Champion League] Bam Khatoon (W) vs Kaya FC (w)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=QsafNdj&t=1728464400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/95ca216361f502f6efe70dd686f7c2d8.png" group-title="Ngày 09/10",09/10 19h00 [AFC Women's Champion League] Wuhan Jianghan (w) vs Hyundai Steel Red Angels (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -332,6 +324,14 @@ https://202x.io.vn/bongda/tc.php?id=9NDd957&t=1728475200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=18TryGF&t=1728478800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/95ca216361f502f6efe70dd686f7c2d8.png" group-title="Ngày 09/10",09/10 15h00 [AFC Women's Champion League] Sabah (w) vs Abu Dhabi Country (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=gh53bvn&t=1728460800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/95ca216361f502f6efe70dd686f7c2d8.png" group-title="Ngày 09/10",09/10 16h00 [AFC Women's Champion League] Bam Khatoon (W) vs Kaya FC (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=QsafNdj&t=1728464400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d9ae316d4a0a696e2d5df97078674153.png" group-title="Ngày 09/10",09/10 17h00 [J League Cup] Albirex Niigata vs Kawasaki Frontale
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -340,54 +340,6 @@ https://202x.io.vn/bongda/tc.php?id=thqcqgz&t=1728468000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=oM2an58&t=1728468000
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 09/10",09/10 15h00 [Giao hữu] Romania U19 vs Norway U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=esh5QSE&t=1728460800
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 09/10",09/10 17h30 [Giao hữu] Croatia U19 vs Mexico U20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=r5QUvOL&t=1728469800
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 09/10",09/10 20h00 [Giao hữu] Japan U19 vs Sweden U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=TmAlf8c&t=1728478800
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 09/10",09/10 20h00 [Giao hữu] Egypt U17 vs Russia U17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=gaPNCUV&t=1728478800
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 09/10",09/10 20h15 [Giao hữu] Greece U19 vs Republic of Ireland U19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=hjEgxDP&t=1728479700
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 09/10",09/10 23h00 [Giao hữu] Egypt U16 vs Russia U16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=3KwbZVW&t=1728489600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="Ngày 09/10",09/10 17h00 [Turkish Cup] Adiyamanspor vs Afjet Afyonspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=mFIJf5D&t=1728468000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="Ngày 09/10",09/10 19h00 [Turkish Cup] Altay Spor Kulubu vs Karaman Belediyespor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=yNBGumI&t=1728475200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="Ngày 09/10",09/10 23h00 [Turkish Cup] Giresunspor vs Viransehir
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=MxNcqOA&t=1728489600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 09/10",09/10 22h30 [Copa Del Rey] San Tirso vs Selaya FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=c3VgunP&t=1728487800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 09/10",09/10 23h30 [Copa Del Rey] Sonseca vs CP Parla
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=agcAZkn&t=1728491400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 09/10",09/10 23h30 [International Club Friendly] Hertha Zehlendorf vs Hertha Berlin
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=5DtEYK4&t=1728491400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bdb0673ce9d467c477f7b5e5f97e8ac7.png" group-title="Ngày 09/10",09/10 23h45 [Women's Champions League] Bayern Munchen (w) vs Arsenal (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -396,42 +348,6 @@ https://202x.io.vn/bongda/tc.php?id=WTv6y7a&t=1728492300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=JkA5HzL&t=1728492300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 00h00 [Copa Del Rey] CD Baztan vs Ontinena
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=P4g79SD&t=1728493200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 00h00 [Copa Del Rey] Astur CF vs Promesas EDF
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=rRQi7x1&t=1728493200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 00h00 [Copa Del Rey] UD San Pedro vs CD Ceuta 6 de Junio
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=KQkO16I&t=1728493200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 00h30 [Copa Del Rey] CD Villamuriel vs Aurrera de Vitoria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Our7NYu&t=1728495000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 01h00 [Copa Del Rey] Dolorense vs Manises
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=iXQTjPh&t=1728496800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 01h30 [Copa Del Rey] UE Vic vs Mahon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Ql43aO6&t=1728498600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 01h30 [Copa Del Rey] CD Gevora vs UD Playas de Sotavento
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=wAG94Xe&t=1728498600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 02h00 [Copa Del Rey] Chiclana vs Melilla CD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=SY15k1C&t=1728500400
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 10/10",10/10 00h00 [Giao hữu] Portugal U17 vs Wales U17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=rjSDAoB&t=1728493200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 01h00 [International Club Friendly] Forest Green Rovers vs Manchester United U21
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -468,6 +384,46 @@ https://202x.io.vn/bongda/tc.php?id=nxhsDRU&t=1728500400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=SHbxXgn&t=1728500400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 10/10",10/10 05h30 [Brazilian Serie A] Atletico Mineiro vs Gremio (RS)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=VV8FWCX&t=1728513000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 00h00 [Copa Del Rey] CD Baztan vs Ontinena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=P4g79SD&t=1728493200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 00h00 [Copa Del Rey] Astur CF vs Promesas EDF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=rRQi7x1&t=1728493200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 00h00 [Copa Del Rey] UD San Pedro vs CD Ceuta 6 de Junio
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=KQkO16I&t=1728493200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 00h30 [Copa Del Rey] CD Villamuriel vs Aurrera de Vitoria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Our7NYu&t=1728495000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 01h00 [Copa Del Rey] Dolorense vs Manises
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=iXQTjPh&t=1728496800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 01h30 [Copa Del Rey] UE Vic vs Mahon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Ql43aO6&t=1728498600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 01h30 [Copa Del Rey] CD Gevora vs UD Playas de Sotavento
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=wAG94Xe&t=1728498600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/1dd12c0092c5797c06996b4c84e62a0a.png" group-title="Ngày 10/10",10/10 02h00 [Copa Del Rey] Chiclana vs Melilla CD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=SY15k1C&t=1728500400
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 10/10",10/10 00h00 [Giao hữu] Portugal U17 vs Wales U17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=rjSDAoB&t=1728493200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png" group-title="Ngày 10/10",10/10 02h30 [CONCACAF Nations League] British Virgin Islands vs St. Kitts and Nevis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1864,10 +1820,6 @@ https://202x.io.vn/bongda/tc.php?id=w5835ST&t=1728448200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=fo8Omf0&t=1728452700
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/EwtcBLXI-84i5lytI.png" group-title="Ngày 09/10",09/10 18h00 [WTA1000 Wuhan Open] Zheng Qinwen vs Jaqueline Adina Cristian
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=zWj4Qzd&t=1728471600
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/EwtcBLXI-84i5lytI.png" group-title="Ngày 09/10",09/10 19h15 [WTA1000 Wuhan Open] Yuan Yue vs Jasmine Paolini
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2216,3 +2168,11 @@ https://202x.io.vn/bongda/tc.php?id=PwRj4Wk&t=1728442800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=wEiXgbp&t=1728442800
+#EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 10/10",10/10 02h10 [MLB: Bóng chày Mỹ] Tigers vs Guardians
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=KneCsDq&t=1728501000
+#EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 10/10",10/10 04h10 [MLB: Bóng chày Mỹ] Mets vs Phillies
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=7pQnTqm&t=1728508200
