@@ -33,12 +33,6 @@ https://202x.io.vn/tivi/index.php?c=vtv8
 #EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV9
 #EXTVLCOPT:http-referrer=https://vtv.vn/
 https://202x.io.vn/tivi/index.php?c=vtv9
-#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV Live
-#EXTVLCOPT:http-referrer=https://vtv.vn/
-#https://202x.io.vn/tivi/index.php?c=vtvlive
 #EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV10
 #EXTVLCOPT:http-referrer=https://vtv.vn/
 #https://202x.io.vn/tivi/index.php?c=vtv10
-#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV News
-#EXTVLCOPT:http-referrer=https://vtv.vn/
-#https://202x.io.vn/tivi/index.php?c=vtvnews
