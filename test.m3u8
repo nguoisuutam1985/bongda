@@ -1,7 +1,43 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=150000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://stream.nct.vn/NhacCuaTui112/BenEmLaBienRong-CamVan_rts2.mp3?st=_Vxqolb881fBT2_ohDDuBg&e=1727478600&a=1&p=0&r=93a45b18ebe1b4386c25baf3beee059a
-#EXT-X-STREAM-INF:BANDWIDTH=240000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://stream.nct.vn/NhacCuaTui187/ConMuaLaoXao-CamVan_3e9mg.mp3?st=kNDb2Juhb3rOkzLXDPczdg&e=1727478601&a=1&p=0&r=9d7e91c6fad5bb2603246badac06bd8c
-#EXT-X-STREAM-INF:BANDWIDTH=440000,RESOLUTION=416x234,CODECS="avc1.42e00a,mp4a.40.2"
-https://stream.nct.vn/NhacCuaTui161/TinhKhucVang-DanTruong_36yvf.mp3?st=ZHB8OsNxrQnVgU2qv3JF4Q&e=1727478601&a=1&p=0&r=8bdf0ad56b3b37e375aaf61d44b52027
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV1
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv1
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV2
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv2
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV3
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv3
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV4
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv4
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV5
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv5
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV Tây Nam Bộ
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv5-tay-nam-bo
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV Tây Nguyêm
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv5-tay-nguyen
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV Cần Thơ
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv-can-tho
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV7
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv7
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV8
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv8
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV9
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+https://202x.io.vn/tivi/index.php?c=vtv9
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV Live
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+#https://202x.io.vn/tivi/index.php?c=vtvlive
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV10
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+#https://202x.io.vn/tivi/index.php?c=vtv10
+#EXTINF:-1 group-title="VTV.VN" tvg-logo="",VTV News
+#EXTVLCOPT:http-referrer=https://vtv.vn/
+#https://202x.io.vn/tivi/index.php?c=vtvnews
