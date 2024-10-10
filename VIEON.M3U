@@ -306,23 +306,35 @@ https://202x.io.vn/tv.php?id=108
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 https://202x.io.vn/tv.php?id=109
 
-#EXTINF:0 group-title="TV",axn
+#EXTINF:0 group-title="TV" tvg-logo="https://imagizer.imageshack.us/a/img922/5438/ELcsyE.png",AXN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
 https://202x.io.vn/1.php?id=2
-#EXTINF:0 group-title="TV",cartoon
+#EXTINF:0 group-title="TV" tvg-logo="https://imagizer.imageshack.us/a/img923/5215/Y6Nbjo.png",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
 https://202x.io.vn/1.php?id=5
-#EXTINF:0 group-title="TV",cinemax
+#EXTINF:0 group-title="TV" tvg-logo="https://tvmienphi.cc/uploads/tv_image/sm/xem-kenh-cinemax-truc-tuyen.png",CINEMAX
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
 https://202x.io.vn/1.php?id=6
-#EXTINF:0 group-title="TV",discovery
+#EXTINF:0 group-title="TV" tvg-logo="https://tvmienphi.cc/uploads/tv_image/discovery.png",DISCOVERY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
 https://202x.io.vn/1.php?id=7
-#EXTINF:0 group-title="TV",hbo
+#EXTINF:0 group-title="TV" tvg-logo="https://i.imgur.com/9bUvKrF.jpg",BOOMERANG
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
+https://202x.io.vn/1.php?id=8
+#EXTINF:0 group-title="TV" tvg-logo="https://tvmienphi.cc/uploads/tv_image/sm/xem-kenh-dreamworks-truc-tuyen.png",DREAMWORK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
+https://202x.io.vn/1.php?id=9
+#EXTINF:0 group-title="TV" tvg-logo="https://tvmienphi.cc/uploads/tv_image/hbo.png",HBO
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
 https://202x.io.vn/1.php?id=10
+#EXTINF:0 group-title="TV" tvg-logo="https://tvmienphi.cc/uploads/tv_image/sm/xem-kenh-animax-truc-tuyen.png",ANIMAX
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
+https://202x.io.vn/1.php?id=11
