@@ -310,6 +310,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
 https://202x.io.vn/1.php?id=2
+#EXTINF:0 group-title="TV" tvg-logo="https://tvmienphi.cc/uploads/tv_image/sm/warnertv.jpg",WARNERTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
+https://202x.io.vn/1.php?id=3
 #EXTINF:0 group-title="TV" tvg-logo="https://imagizer.imageshack.us/a/img923/5215/Y6Nbjo.png",CARTOON NETWORK
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://sv.tvmienphi.xyz/
