@@ -308,10 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8bb068f19c99af99b7d202ed5c204926.png" group-title="Ngày 10/10",10/10 11h00 [FIFA World Cup qualification (OFC)] New Caledonia vs Papua New Guinea
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=2epkKSc&t=1728532800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png" group-title="Ngày 10/10",10/10 16h10 [World Cup qualification (AFC)] Australia vs China
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1824,6 +1820,10 @@ https://202x.io.vn/bongda/tc.php?id=Jzcom9z&t=1728561600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=JkwQI4K&t=1728572400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png" group-title="Ngày 10/10",10/10 14h00 [Cầu lông] CLASH ROYALE Arctic Open 2024
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=11GcJYE&t=1728543600
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png" group-title="Ngày 10/10",10/10 14h00 [Cầu lông] CLASH ROYALE Arctic Open 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
