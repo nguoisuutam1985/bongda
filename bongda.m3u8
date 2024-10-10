@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=2oNYQKj&t=1728565200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 10/10",10/10 20h00 [Africa Cup of Nations] Namibia vs Zimbabwe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2oNYQKj&t=1728565200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 10/10",10/10 23h00 [Africa Cup of Nations] Cape Verde vs Botswana
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1852,18 +1856,10 @@ https://202x.io.vn/bongda/tc.php?id=2MQ8zob&t=1729006200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=gS8oxdA&t=1729006200
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/EwtcBLXI-84i5lytI.png" group-title="Ngày 10/10",10/10 18h00 [WTA1000 Wuhan Open] Aryna Sabalenka vs Yulia Putintseva
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=DFc9QvM&t=1728558000
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/EwtcBLXI-84i5lytI.png" group-title="Ngày 10/10",10/10 20h15 [WTA1000 Wuhan Open] Beatriz Haddad Maia vs Magdalena Frech
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=pET9k7n&t=1728566100
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/EwtcBLXI-84i5lytI.png" group-title="Ngày 10/10",10/10 18h00 [WTA1000 Wuhan Open] Aryna Sabalenka vs Yulia Putintseva
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=DFc9QvM&t=1728558000
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/EwtcBLXI-84i5lytI.png" group-title="Ngày 10/10",10/10 20h15 [WTA1000 Wuhan Open] Beatriz Haddad Maia vs Magdalena Frech
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
