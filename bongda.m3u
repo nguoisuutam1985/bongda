@@ -308,14 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png" group-title="Ngày 10/10",10/10 16h10 [World Cup qualification (AFC)] Australia vs China
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=BCvze4Z&t=1728551400
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 10/10",10/10 16h00 [Giao hữu] Hungary U17 vs Israel U17
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=9WAhtqC&t=1728550800
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 10/10",10/10 16h30 [Giao hữu] Myanmar vs Sri Lanka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -324,10 +316,10 @@ https://202x.io.vn/bongda/tc.php?id=omnCFQe&t=1728552600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=M8ICcDb&t=1728556200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 16h30 [International Club Friendly] Winterthur vs FC Wil 1900
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="Ngày 10/10",10/10 17h00 [Turkish Cup] Osmaniyespor vs Diyarbakirspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=8UWFZsv&t=1728552600
+https://202x.io.vn/bongda/tc.php?id=l6f5yn0&t=1728554400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 17h00 [International Club Friendly] Magdeburg Am vs BFC Viktoria 1889
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -344,14 +336,58 @@ https://202x.io.vn/bongda/tc.php?id=MClyzQI&t=1728554400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=gQrI3t7&t=1728555300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="Ngày 10/10",10/10 17h00 [Turkish Cup] Osmaniyespor vs Diyarbakirspor
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 18h00 [International Club Friendly] Rapid Wien vs SV Horn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=l6f5yn0&t=1728554400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png" group-title="Ngày 10/10",10/10 16h10 [World Cup qualification (AFC)] Australia vs China
+https://202x.io.vn/bongda/tc.php?id=a3Ydpti&t=1728558000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 18h00 [International Club Friendly] ADO Den Haag vs NAC Breda
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=BCvze4Z&t=1728551400
+https://202x.io.vn/bongda/tc.php?id=gTQ3nUp&t=1728558000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 18h00 [International Club Friendly] FC Koln vs VfL Bochum
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=VhPry6B&t=1728558000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 18h00 [International Club Friendly] First Wien 1894 vs SV Stripfing Weiden
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=lOFRBow&t=1728558000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 18h00 [International Club Friendly] Odd Grenland vs FK Arendal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=SzQ4Ldv&t=1728558000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 18h00 [International Club Friendly] Holstein Kiel vs Silkeborg
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=r6DZanP&t=1728558000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 18h00 [International Club Friendly] Hammarby vs Sandvikens IF
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Tfa8DG0&t=1728558000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 18h00 [International Club Friendly] Greuther Furth vs TSV 1860 Munchen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=tNerHP8&t=1728558000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 10/10",10/10 18h10 [International Club Friendly] Fortuna Dusseldorf vs Heracles Almelo
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=gNfN04o&t=1728558600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 10/10",10/10 20h00 [Africa Cup of Nations] Namibia vs Zimbabwe
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2oNYQKj&t=1728565200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 10/10",10/10 23h00 [Africa Cup of Nations] Cape Verde vs Botswana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=AYUlb1L&t=1728576000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 10/10",10/10 23h00 [Africa Cup of Nations] Democratic Rep Congo vs Tanzania
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=BkvYFNx&t=1728576000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 10/10",10/10 23h00 [Africa Cup of Nations] Ghana vs Sudan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=7TKeZzz&t=1728576000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png" group-title="Ngày 10/10",10/10 21h00 [World Cup qualification (AFC)] Uzbekistan vs Iran
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -376,30 +412,14 @@ https://202x.io.vn/bongda/tc.php?id=WDD9hVo&t=1728576000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=k58hhVq&t=1728576000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 10/10",10/10 20h00 [Africa Cup of Nations] Namibia vs Zimbabwe
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=2oNYQKj&t=1728565200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 10/10",10/10 23h00 [Africa Cup of Nations] Cape Verde vs Botswana
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=AYUlb1L&t=1728576000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 10/10",10/10 23h00 [Africa Cup of Nations] Democratic Rep Congo vs Tanzania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=BkvYFNx&t=1728576000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 10/10",10/10 23h00 [Africa Cup of Nations] Ghana vs Sudan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=7TKeZzz&t=1728576000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png" group-title="Ngày 10/10",10/10 23h00 [UEFA Nations League] Latvia vs North Macedonia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=gdjoCth&t=1728576000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png" group-title="Ngày 10/10",10/10 23h00 [UEFA Nations League] Moldova vs Andorra
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=kYa8Fie&t=1728576000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/245bff452fbdc34d417164e361097ae7.png" group-title="Ngày 10/10",10/10 23h00 [UEFA Nations League] Latvia vs North Macedonia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=gdjoCth&t=1728576000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png" group-title="Ngày 11/10",11/10 01h00 [World Cup qualification (AFC)] Iraq vs Palestine
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1012,6 +1032,10 @@ https://202x.io.vn/bongda/tc.php?id=7AdxbA1&t=1728835200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=TvCtbrw&t=1728763200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c80157ca8b22dbdd45ef9feece285a2b.png" group-title="Ngày 13/10",13/10 06h00 [USL Championship] Pittsburgh Riverhounds vs Charleston Battery
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=b0PSYd3&t=1728774000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c80157ca8b22dbdd45ef9feece285a2b.png" group-title="Ngày 13/10",13/10 06h30 [USL Championship] Hartford Athletic vs North Carolina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1944,6 +1968,10 @@ https://202x.io.vn/bongda/tc.php?id=pET9k7n&t=1728562500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Jzcom9z&t=1728561600
+#EXTINF:0 tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png" group-title="Ngày 10/10",10/10 19h00 [2024 World Championship] Dplus KIA vs Top Esports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Jzcom9z&t=1728561600
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png" group-title="Ngày 10/10",10/10 22h00 [2024 World Championship] Hanwha Life Esports vs FlyQuest
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2264,22 +2292,14 @@ https://202x.io.vn/bongda/tc.php?id=gkyVf98&t=1728992100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=rjquoXF&t=1728993600
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="Ngày 10/10",10/10 10h00 [Bi-a] Bàn 1: Hanoi Open Pool Championship 2024
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="Ngày 11/10",11/10 10h00 [Bi-a] Bàn 2: Hanoi Open Pool Championship 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=PwRj4Wk&t=1728529200
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="Ngày 10/10",10/10 10h00 [Bi-a] Bàn 2: Hanoi Open Pool Championship 2024
+https://202x.io.vn/bongda/tc.php?id=wEiXgbp&t=1728615600
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="Ngày 11/10",11/10 10h00 [Bi-a] Bàn 2: Hanoi Open Pool Championship 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=wEiXgbp&t=1728529200
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="Ngày 10/10",10/10 10h00 [Bi-a] Bàn 1: Hanoi Open Pool Championship 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=PwRj4Wk&t=1728529200
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="Ngày 10/10",10/10 10h00 [Bi-a] Bàn 2: Hanoi Open Pool Championship 2024
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=wEiXgbp&t=1728529200
+https://202x.io.vn/bongda/tc.php?id=wEiXgbp&t=1728615600
 #EXTINF:0 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png" group-title="Ngày 10/10",10/10 12h00 [Bóng bàn] 27th Asian Table Tennis Championships 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
