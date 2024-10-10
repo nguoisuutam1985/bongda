@@ -308,18 +308,10 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 11/10",11/10 04h00 [World Cup qualification (CONMEBOL)] Ecuador vs Paraguay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=b3qz8Ot&t=1728594000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 11/10",11/10 04h30 [World Cup qualification (CONMEBOL)] Venezuela vs Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Mi4cjAU&t=1728595800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 11/10",11/10 04h00 [World Cup qualification (CONMEBOL)] Ecuador vs Paraguay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=b3qz8Ot&t=1728594000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 11/10",11/10 04h30 [World Cup qualification (CONMEBOL)] Venezuela vs Argentina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1644,14 +1636,34 @@ https://202x.io.vn/bongda/tc.php?id=4Fa9wmA&t=1729011600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=AYzKvQ7&t=1729092600
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 11/10",11/10 09h00 [Tennis] ATP1000 Shanghai Open
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=cLoCIWZ&t=1728612000
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 11/10",11/10 10h00 [Tennis] WTA1000 Wuhan Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=rvLSSOf&t=1728615600
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 11/10",11/10 14h00 [Tennis] ATP1000 Shanghai Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=cLoCIWZ&t=1728630000
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/hSm5eD9j-pzKEGhUs.png" group-title="Ngày 11/10",11/10 14h00 [ATP1000 Shanghai Open] Taylor Fritz vs David Goffin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=zxevMES&t=1728630000
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/hSm5eD9j-pzKEGhUs.png" group-title="Ngày 11/10",11/10 17h30 [ATP1000 Shanghai Open] Jakub Mensik vs Novak Djokovic
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Cai9LBd&t=1728642600
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/EwtcBLXI-84i5lytI.png" group-title="Ngày 11/10",11/10 10h00 [WTA1000 Wuhan Open] Coco Gauff vs Magda Linette
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=WnM4Aan&t=1728615600
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/EwtcBLXI-84i5lytI.png" group-title="Ngày 11/10",11/10 14h00 [WTA1000 Wuhan Open] Aryna Sabalenka vs Magdalena Frech
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=bWx69zw&t=1728630000
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/EwtcBLXI-84i5lytI.png" group-title="Ngày 11/10",11/10 18h00 [WTA1000 Wuhan Open] Zheng Qinwen vs Jasmine Paolini
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=hEUvyM1&t=1728644400
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png" group-title="Ngày 11/10",11/10 19h00 [2024 World Championship] G2 Esports vs T1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1668,6 +1680,10 @@ https://202x.io.vn/bongda/tc.php?id=cMqLtJf&t=1728670500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=11GcJYE&t=1728630000
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 11/10",11/10 06h00 [NBA] Cavaliers vs Pacers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=sxH8mcE&t=1728601200
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 11/10",11/10 06h00 [NBA] Cavaliers vs Pacers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
