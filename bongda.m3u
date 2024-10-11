@@ -308,10 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/962e39b00f6c15b673b3440ec860b241.png" group-title="Ngày 11/10",11/10 20h00 [Thai King's Cup] Thailand vs Philippines
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=R2i6yHU&t=1728651600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 11/10",11/10 21h00 [Africa Cup of Nations] Madagascar vs Gambia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -320,10 +316,6 @@ https://202x.io.vn/bongda/tc.php?id=4pMtGk9&t=1728655200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=X0pjKHF&t=1728658800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/962e39b00f6c15b673b3440ec860b241.png" group-title="Ngày 11/10",11/10 20h00 [Thai King's Cup] Thailand vs Philippines
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=R2i6yHU&t=1728651600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 11/10",11/10 21h00 [Africa Cup of Nations] Madagascar vs Gambia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1536,6 +1528,10 @@ https://202x.io.vn/bongda/tc.php?id=n4taqRM&t=1729097100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ZSQbeBj&t=1728658800
+#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 11/10",11/10 22h30 [Bóng chuyền nam Ba Lan] Rzeszow vs GKS Katowice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=uioqD2C&t=1728660600
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 11/10",11/10 22h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Zeren Spor W vs Eczacibasi W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1544,6 +1540,26 @@ https://202x.io.vn/bongda/tc.php?id=ZSQbeBj&t=1728658800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=uioqD2C&t=1728660600
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 12/10",12/10 18h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Vakifbank W vs Kuzey Boru Genclik W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=HCKomBp&t=1728730800
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 12/10",12/10 19h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Fenerbahce W vs Nilufer Bld. W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=V9wQAoS&t=1728734400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 12/10",12/10 19h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Aydin B.Sehir Bld. W vs THY W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=gLHlwCW&t=1728734400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 12/10",12/10 22h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Bahcelievler W vs Sigorta Shop Kalecik W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ejUvN65&t=1728745200
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 12/10",12/10 23h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Aras Kargo W vs Galatasaray W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=JC2e5Z7&t=1728748800
 #EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 12/10",12/10 01h30 [Bóng chuyền nam Ba Lan] Jastrzebski vs Olsztyn
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1560,26 +1576,6 @@ https://202x.io.vn/bongda/tc.php?id=BwMguPG&t=1728729000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=pFStaxA&t=1728747000
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 12/10",12/10 18h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Vakifbank W vs Kuzey Boru Genclik W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=HCKomBp&t=1728730800
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 12/10",12/10 19h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Aydin B.Sehir Bld. W vs THY W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=gLHlwCW&t=1728734400
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 12/10",12/10 19h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Fenerbahce W vs Nilufer Bld. W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=V9wQAoS&t=1728734400
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 12/10",12/10 22h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Bahcelievler W vs Sigorta Shop Kalecik W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ejUvN65&t=1728745200
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 12/10",12/10 23h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Aras Kargo W vs Galatasaray W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=JC2e5Z7&t=1728748800
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 12/10",12/10 19h00 [Bóng chuyền nam Thổ Nhĩ Kỳ] Arkasspor vs Bursa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1740,18 +1736,10 @@ https://202x.io.vn/bongda/tc.php?id=AYzKvQ7&t=1729092600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=cLoCIWZ&t=1728721800
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png" group-title="Ngày 11/10",11/10 21h00 [2024 World Championship] Bilibili Gaming vs PSG Talon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Ewn318H&t=1728655200
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rFkjfijD-Kj5iiZvR.png" group-title="Ngày 11/10",11/10 22h00 [IEM Rio 2024] Virtus Pro vs Navi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=sKhtlbt&t=1728658800
-#EXTINF:0 tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png" group-title="Ngày 11/10",11/10 21h00 [2024 World Championship] Bilibili Gaming vs PSG Talon
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Ewn318H&t=1728655200
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rFkjfijD-Kj5iiZvR.png" group-title="Ngày 11/10",11/10 22h00 [IEM Rio 2024] Virtus Pro vs Navi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1808,30 +1796,6 @@ https://202x.io.vn/bongda/tc.php?id=Uz317Qf&t=1728723600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=u6SDxxM&t=1728732900
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/6f8bac2b35d0c2238a659632c273df7a.png" group-title="Ngày 12/10",12/10 21h00 [Bóng rổ nữ Czech] Sokol Hradec Kralove Women vs Zabiny Brno Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=G6Tz9NL&t=1728741600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/6f8bac2b35d0c2238a659632c273df7a.png" group-title="Ngày 12/10",12/10 22h00 [Bóng rổ nữ Czech] ZVVZ USK Prague Woman's vs Ostrava Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=NR4CsBA&t=1728745200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 12/10",12/10 23h00 [Bóng rổ Tây Ban Nha] Unicaja Malaga vs Forca Lleida
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=CGpm9Rm&t=1728748800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 12/10",12/10 23h00 [Bóng rổ Tây Ban Nha] Saski Baskonia vs UCAM Murcia CB
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=m219XjO&t=1728748800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/0e940c81bd3f5cbf47d9ba18ac09abdf.png" group-title="Ngày 12/10",12/10 12h00 [Korea Basketball League Cup] Ulsan Mobis Phoebus vs Wonju Dongbu Promy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=W9NPuGQ&t=1728709200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/0e940c81bd3f5cbf47d9ba18ac09abdf.png" group-title="Ngày 12/10",12/10 14h00 [Korea Basketball League Cup] Daegu KOGAS Pegasus vs Suwon KT Sonicboom
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Q222re2&t=1728716400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 13/10",13/10 01h45 [Bóng rổ Tây Ban Nha] MoraBanc Andorra vs Basquet Coruna
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2116,6 +2080,10 @@ https://202x.io.vn/bongda/tc.php?id=UXNslkx&t=1729078500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=3DZFh48&t=1729078500
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/WWE.png" group-title="Ngày 12/10",12/10 08h00 [WWE] Smackdown vs NXT
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=05dyoNH&t=1728694800
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="Ngày 12/10",12/10 10h00 [Bi-a] Bàn 1: Hanoi Open Pool Championship 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2132,3 +2100,7 @@ https://202x.io.vn/bongda/tc.php?id=kWZhcLW&t=1728622800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=kWZhcLW&t=1728622800
+#EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 12/10",12/10 07h08 [MLB: Bóng chày Mỹ] Dodgers vs Padres
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=yHQASzS&t=1728691680
