@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=3Sl7SWg&t=1728604800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 11/10",11/10 07h00 [World Cup qualification (CONMEBOL)] Chile vs Brazil
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=3Sl7SWg&t=1728604800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8bb068f19c99af99b7d202ed5c204926.png" group-title="Ngày 11/10",11/10 09h00 [FIFA World Cup qualification (OFC)] New Zealand vs Tahiti
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2080,6 +2084,10 @@ https://202x.io.vn/bongda/tc.php?id=wEiXgbp&t=1728615600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=9z3BIJT&t=1728605280
+#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/9464/image" group-title="Ngày 11/10",11/10 07h15 [NFL: Bóng bầu dục Mỹ] Seattle Seahawks vs San Francisco 49ers
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Bkl5G7e&t=1728605700
 #EXTINF:0 tvg-logo="https://logolook.net/wp-content/uploads/2021/07/MLB-Logo.png" group-title="Ngày 11/10",11/10 07h08 [MLB: Bóng chày Mỹ] Yankees vs Royals
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
