@@ -308,14 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 12/10",12/10 08h30 [World Cup qualification (CONMEBOL)] Peru vs Uruguay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=wYWnLvE&t=1728696600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 12/10",12/10 08h30 [World Cup qualification (CONMEBOL)] Peru vs Uruguay
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=wYWnLvE&t=1728696600
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 12/10",12/10 18h00 [Giao hữu] Vietnam vs India
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -528,6 +520,14 @@ https://202x.io.vn/bongda/tc.php?id=eCNuxyf&t=1728862200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Vs1iXyS&t=1728865800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/962e39b00f6c15b673b3440ec860b241.png" group-title="Ngày 14/10",14/10 16h30 [Thai King's Cup] Tajikistan vs Philippines
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=65aJPah&t=1728898200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/962e39b00f6c15b673b3440ec860b241.png" group-title="Ngày 14/10",14/10 20h00 [Thai King's Cup] Thailand vs Syrian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=YDbDFDj&t=1728910800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 14/10",14/10 20h00 [Africa Cup of Nations] Kenya vs Cameroon
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1804,14 +1804,6 @@ https://202x.io.vn/bongda/tc.php?id=pVE5tey&t=1729164900
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=tZAz1Gf&t=1729166400
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/WWE.png" group-title="Ngày 12/10",12/10 07h00 [WWE] Smackdown
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=05dyoNH&t=1728691200
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/WWE.png" group-title="Ngày 12/10",12/10 07h00 [WWE] Smackdown
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=05dyoNH&t=1728691200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="Ngày 12/10",12/10 12h00 [Bi-a] Bàn 1: Hanoi Open Pool Championship 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
