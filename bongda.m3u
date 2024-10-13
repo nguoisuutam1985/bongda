@@ -308,18 +308,10 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 13/10",13/10 08h00 [Giao hữu] USA vs Panama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=7hr52b8&t=1728781200
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 13/10",13/10 09h00 [Giao hữu] Mexico vs Valencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=hI5r692&t=1728784800
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 13/10",13/10 08h00 [Giao hữu] USA vs Panama
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=7hr52b8&t=1728781200
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 13/10",13/10 09h00 [Giao hữu] Mexico vs Valencia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1484,6 +1476,10 @@ https://202x.io.vn/bongda/tc.php?id=11GcJYE&t=1728802800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=eyu8rGS&t=1728790200
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png" group-title="Ngày 13/10",13/10 10h30 [NBL: Bóng Rổ Úc] Sydney Kings vs Cairns Taipans
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=eyu8rGS&t=1728790200
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b2/NBL_%28Australia%29_logo.svg/1200px-NBL_%28Australia%29_logo.svg.png" group-title="Ngày 13/10",13/10 12h30 [NBL: Bóng Rổ Úc] Melbourne United vs Adelaide 36ers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1836,11 +1832,3 @@ https://202x.io.vn/bongda/tc.php?id=spwh0Hy&t=1729251300
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=zwPTvWQ&t=1729251300
-#EXTINF:0 tvg-logo="https://www.pngall.com/wp-content/uploads/13/UFC-Logo-PNG-Image-HD.png" group-title="Ngày 13/10",13/10 06h00 [UFC] Bradon Royval vs Tatsuro Taira
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=jkaFfKl&t=1728774000
-#EXTINF:0 tvg-logo="https://www.pngall.com/wp-content/uploads/13/UFC-Logo-PNG-Image-HD.png" group-title="Ngày 13/10",13/10 06h00 [UFC] Bradon Royval vs Tatsuro Taira
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=jkaFfKl&t=1728774000
