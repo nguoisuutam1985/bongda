@@ -308,6 +308,10 @@ https://202x.io.vn/tv.php?id=109
 
 
 
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="Ngày 14/10",14/10 09h00 [International Club Friendly] Mio Biwako Shiga vs Kyoto Sanga
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=g346JxL&t=1728871200
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 14/10",14/10 13h00 [Giao hữu] New Zealand vs Malaysia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
