@@ -312,6 +312,14 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=pM26JdN&t=1728910800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/962e39b00f6c15b673b3440ec860b241.png" group-title="Ngày 14/10",14/10 20h00 [Thai King's Cup] Thailand vs Syrian
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=YDbDFDj&t=1728910800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 14/10",14/10 20h00 [Africa Cup of Nations] Kenya vs Cameroon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=pM26JdN&t=1728910800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e66017aeaba91962479091f9dcc2ea73.png" group-title="Ngày 14/10",14/10 21h00 [Africa Cup of Nations] Gambia vs Madagascar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -464,10 +472,6 @@ https://202x.io.vn/bongda/tc.php?id=4VfTNYd&t=1728954000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=uxsF7Jd&t=1728955800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="Ngày 15/10",15/10 04h10 [Colombia Primera A] Deportiva Once Caldas vs Deportivo Pasto
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=UuiE85h&t=1728940200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/60bb93dd0aa84ebc1bab248d248b54d8.png" group-title="Ngày 15/10",15/10 17h35 [World Cup qualification (AFC)] Japan vs Australia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1932,6 +1936,10 @@ https://202x.io.vn/bongda/tc.php?id=8f1qiZh&t=1728885600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=FK3MT5z&t=1728903600
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 14/10",14/10 19h30 [Tennis] ATP250 Antwerp Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qHj5GRl&t=1728909000
 #EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/21145/image" group-title="Ngày 14/10",14/10 18h50 [WTA500 Ningbo Open] Diana Shnaider vs Paula Badosa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1944,10 +1952,10 @@ https://202x.io.vn/bongda/tc.php?id=8f1qiZh&t=1728885600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=FK3MT5z&t=1728903600
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 14/10",14/10 20h30 [Tennis] ATP250 Antwerp Open
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 14/10",14/10 19h30 [Tennis] ATP250 Antwerp Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=qHj5GRl&t=1728912600
+https://202x.io.vn/bongda/tc.php?id=qHj5GRl&t=1728909000
 #EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/21145/image" group-title="Ngày 14/10",14/10 18h50 [WTA500 Ningbo Open] Diana Shnaider vs Paula Badosa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
