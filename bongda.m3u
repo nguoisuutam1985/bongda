@@ -308,10 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 16/10",16/10 06h00 [World Cup qualification (CONMEBOL)] Paraguay vs Venezuela
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Qs3EADi&t=1729033200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 16/10",16/10 06h30 [World Cup qualification (CONMEBOL)] Uruguay vs Ecuador
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -320,6 +316,10 @@ https://202x.io.vn/bongda/tc.php?id=E5hnaAB&t=1729035000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ST3JYIn&t=1729036800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 16/10",16/10 07h45 [World Cup qualification (CONMEBOL)] Brazil vs Peru
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=5u6e4OI&t=1729039500
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 16/10",16/10 06h40 [Giao hữu] Canada vs Panama
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -340,10 +340,6 @@ https://202x.io.vn/bongda/tc.php?id=ba1fOB2&t=1729036800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Nbjes2K&t=1729036800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 16/10",16/10 06h00 [World Cup qualification (CONMEBOL)] Paraguay vs Venezuela
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Qs3EADi&t=1729033200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 16/10",16/10 06h30 [World Cup qualification (CONMEBOL)] Uruguay vs Ecuador
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2776,6 +2772,14 @@ https://202x.io.vn/bongda/tc.php?id=CJmKM5p&t=1729035000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=A4M69vL&t=1729036800
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 16/10",16/10 08h00 [NBA] Nuggets vs Thunder
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=PUMcvqS&t=1729040400
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 16/10",16/10 08h00 [NBA] Jazz vs Kings
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Eof38Vd&t=1729040400
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 16/10",16/10 06h00 [NBA] Raptors vs Celtics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
