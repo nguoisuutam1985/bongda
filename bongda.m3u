@@ -308,22 +308,22 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 16/10",16/10 07h45 [World Cup qualification (CONMEBOL)] Brazil vs Peru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=5u6e4OI&t=1729039500
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png" group-title="Ngày 16/10",16/10 09h00 [CONCACAF Nations League] Belize vs Turks Caicos Islands
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Nlx2eo4&t=1729044000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/61fc217820b8cdfaa11872fa211f40c5.png" group-title="Ngày 16/10",16/10 07h45 [World Cup qualification (CONMEBOL)] Brazil vs Peru
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=5u6e4OI&t=1729039500
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 16/10",16/10 09h30 [Giao hữu] Mexico vs USA
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=20XTdmA&t=1729045800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/5fa8174c859d9a2ca7c3fdfd333b0d13.png" group-title="Ngày 16/10",16/10 09h00 [CONCACAF Nations League] Belize vs Turks Caicos Islands
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Nlx2eo4&t=1729044000
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 16/10",16/10 09h30 [Giao hữu] Mexico vs USA
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=20XTdmA&t=1729045800
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 16/10",16/10 19h00 [Giao hữu] Paraguay U20 vs Venezuela U20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=cLp8nmQ&t=1729080000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ad5a890a4cfddc49c056c3fd2153d7ad.png" group-title="Ngày 16/10",16/10 19h00 [Bosnia and Herzegovina Premier League] FK Igman Konjic vs Borac Banja Luka
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1036,10 +1036,6 @@ https://202x.io.vn/bongda/tc.php?id=E8GP6qx&t=1729331100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=bIzgi1Y&t=1729341900
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" group-title="Ngày 19/10",19/10 19h45 [Bulgarian First League] CSKA Sofia vs Levski Sofia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=346QcPs&t=1729341900
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c1781a10c3550887df9d6ef111ad8b59.png" group-title="Ngày 19/10",19/10 22h45 [Bulgarian First League] Botev Plovdiv vs Slavia Sofia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
