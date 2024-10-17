@@ -312,14 +312,14 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=VYffVRO&t=1729169700
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" group-title="Ngày 17/10",17/10 21h00 [Jordan Premier League] AL-Sareeh vs Moghayer Al Sarhan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=D2v8fVK&t=1729173600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/954bb02c3b7b2af710878a4b5f12fb77.png" group-title="Ngày 17/10",17/10 19h55 [UAE President Cup] Hatta vs Al Ain
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=VYffVRO&t=1729169700
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/954bb02c3b7b2af710878a4b5f12fb77.png" group-title="Ngày 17/10",17/10 23h00 [UAE President Cup] To Be Confirmed vs Banni Yas
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=IzIRzaq&t=1729180800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0124371202f367fee37ca99379bac362.png" group-title="Ngày 17/10",17/10 21h00 [Jordan Premier League] AL-Sareeh vs Moghayer Al Sarhan
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2668,22 +2668,42 @@ https://202x.io.vn/bongda/tc.php?id=qHj5GRl&t=1729166400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=FK3MT5z&t=1729166400
-#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2382/image/dark" group-title="Ngày 17/10",17/10 21h15 [ATP250 Stockholm Open] Alejandro Davidovich Fokina vs Stan Wawrinka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=VCyr2XG&t=1729174500
-#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2382/image/dark" group-title="Ngày 17/10",17/10 21h15 [ATP250 Stockholm Open] Alejandro Davidovich Fokina vs Stan Wawrinka
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=VCyr2XG&t=1729174500
-#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2382/image/dark" group-title="Ngày 17/10",17/10 23h00 [ATP250 Stockholm Open] Andrey Rublev vs Alexandre Muller
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=OZtKV4T&t=1729180800
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/trg9tNDO-fwm8sQfd.png" group-title="Ngày 17/10",17/10 21h00 [ATP250 Almaty Open] Frances Tiafoe vs Daniel Evans
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Sp0GWeu&t=1729173600
+#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2382/image/dark" group-title="Ngày 17/10",17/10 21h30 [ATP250 Stockholm Open] Alejandro Davidovich Fokina vs Stan Wawrinka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=VCyr2XG&t=1729175400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 17/10",17/10 13h00 [Tennis] WTA500 Ningbo Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=8f1qiZh&t=1729144800
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 17/10",17/10 13h00 [Tennis] ATP250 Almaty Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=bn5y3xr&t=1729144800
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 17/10",17/10 19h00 [Tennis] ATP250 Antwerp Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=qHj5GRl&t=1729166400
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 17/10",17/10 19h00 [Tennis] ATP250 Stockholm Open
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=FK3MT5z&t=1729166400
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/trg9tNDO-fwm8sQfd.png" group-title="Ngày 17/10",17/10 21h00 [ATP250 Almaty Open] Frances Tiafoe vs Daniel Evans
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Sp0GWeu&t=1729173600
+#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2382/image/dark" group-title="Ngày 17/10",17/10 21h30 [ATP250 Stockholm Open] Alejandro Davidovich Fokina vs Stan Wawrinka
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=VCyr2XG&t=1729175400
+#EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2382/image/dark" group-title="Ngày 17/10",17/10 23h00 [ATP250 Stockholm Open] Andrey Rublev vs Alexandre Muller
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=OZtKV4T&t=1729180800
 #EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2742/image/dark" group-title="Ngày 17/10",17/10 23h30 [ATP250 Antwerp Open] Stefanos Tsitsipas vs Thiago Seyboth Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2692,18 +2712,10 @@ https://202x.io.vn/bongda/tc.php?id=tZ0IAXY&t=1729182600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ssnqyuP&t=1729182600
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/GISdRYA7-pO9hHUtm.png" group-title="Ngày 17/10",17/10 23h30 [Tennis 6 Kings Slam] Novak Djokovic vs Jannik Sinner
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=8GzF2Mu&t=1729182600
 #EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2382/image/dark" group-title="Ngày 18/10",18/10 00h20 [ATP250 Stockholm Open] Grigor Dimitrov vs Quentin Halys
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=UoEdpDt&t=1729185600
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/GISdRYA7-pO9hHUtm.png" group-title="Ngày 18/10",18/10 00h50 [Tennis 6 Kings Slam] Carlos Alcaraz vs Rafael Nadal
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=BiilLlK&t=1729187400
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/GISdRYA7-pO9hHUtm.png" group-title="Ngày 18/10",18/10 00h50 [Tennis 6 Kings Slam] Carlos Alcaraz vs Rafael Nadal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2712,6 +2724,14 @@ https://202x.io.vn/bongda/tc.php?id=ZLhhig4&t=1729187400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=KA48Y4S&t=1729215000
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/motoGP.png" group-title="Ngày 18/10",18/10 04h45 [MotoGP] Australian GP: Moto3 Moto2 practice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=J5Ulrzf&t=1729201500
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/motoGP.png" group-title="Ngày 18/10",18/10 11h00 [MotoGP] Australian GP: Practice
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=9SWFw7I&t=1729224000
 #EXTINF:0 tvg-logo="https://seeklogo.com/images/L/league-of-legends-logo-13AAC5B212-seeklogo.com.png" group-title="Ngày 17/10",17/10 19h00 [2024 World Championship] LNG Esports vs Weibo Gaming
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2728,14 +2748,6 @@ https://202x.io.vn/bongda/tc.php?id=WiSEj2V&t=1729148400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=WiSEj2V&t=1729148400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 17/10",17/10 19h00 [Bóng rổ Trung Quốc] Xinjiang Yili vs Beijing Royal Fighters
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=tZAz1Gf&t=1729166400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 17/10",17/10 19h00 [Bóng rổ Trung Quốc] Xinjiang Yili vs Beijing Royal Fighters
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=tZAz1Gf&t=1729166400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png" group-title="Ngày 18/10",18/10 00h30 [Vô địch bóng rổ châu Âu] Alba Berlin vs Fenerbahçe Beko
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2744,18 +2756,6 @@ https://202x.io.vn/bongda/tc.php?id=zDi0U0P&t=1729186200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=PBWGxMF&t=1729190700
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png" group-title="Ngày 18/10",18/10 01h05 [Vô địch bóng rổ châu Âu] Maccabi Tel Aviv vs KK Partizan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=hniFmkA&t=1729188300
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png" group-title="Ngày 18/10",18/10 01h30 [Vô địch bóng rổ châu Âu] Olimpia Milano vs Zalgiris
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=L8t4lSj&t=1729189800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png" group-title="Ngày 18/10",18/10 01h45 [Vô địch bóng rổ châu Âu] Bayern Munchen vs Paris Basketball
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=D9vZXVz&t=1729190700
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 18/10",18/10 06h30 [NBA] Mavericks vs Bucks
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3084,3 +3084,7 @@ https://202x.io.vn/bongda/tc.php?id=Gk11dEx&t=1729210080
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=2jXIKEV&t=1729210500
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/teams/archery.png" group-title="Ngày 19/10",19/10 07h00 [Bắn cung] Tlaxcala 2024: Hyundai Archery World Cup
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=7PoW4gR&t=1729296000
