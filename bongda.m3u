@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=sWOTkB1&t=1729153800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/785cc536013fe705d519fb0ff095b6c1.png" group-title="Ngày 17/10",17/10 16h00 [Bhutan Premier League] RTC FC vs Tensung FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=tNO8dpO&t=1729155600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="Ngày 17/10",17/10 15h30 [Indonesian Liga 1] Dewa United FC vs Persik Kediri
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2756,22 +2760,10 @@ https://202x.io.vn/bongda/tc.php?id=8f1qiZh&t=1729144800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=bn5y3xr&t=1729144800
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/trg9tNDO-fwm8sQfd.png" group-title="Ngày 17/10",17/10 14h30 [ATP250 Almaty Open] Karen Khachanov vs Otto Virtanen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=CgvMqAI&t=1729150200
 #EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/21145/image" group-title="Ngày 17/10",17/10 15h30 [WTA500 Ningbo Open] Anna Kalinskaya vs Yuan Yue
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=FnRNNRg&t=1729153800
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/trg9tNDO-fwm8sQfd.png" group-title="Ngày 17/10",17/10 14h30 [ATP250 Almaty Open] Karen Khachanov vs Otto Virtanen
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=CgvMqAI&t=1729150200
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/trg9tNDO-fwm8sQfd.png" group-title="Ngày 17/10",17/10 21h00 [ATP250 Almaty Open] Frances Tiafoe vs Daniel Evans
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Sp0GWeu&t=1729173600
 #EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/21145/image" group-title="Ngày 17/10",17/10 15h30 [WTA500 Ningbo Open] Anna Kalinskaya vs Yuan Yue
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2788,6 +2780,10 @@ https://202x.io.vn/bongda/tc.php?id=VCyr2XG&t=1729171200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=OZtKV4T&t=1729180800
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/trg9tNDO-fwm8sQfd.png" group-title="Ngày 17/10",17/10 21h00 [ATP250 Almaty Open] Frances Tiafoe vs Daniel Evans
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Sp0GWeu&t=1729173600
 #EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2742/image/dark" group-title="Ngày 17/10",17/10 23h30 [ATP250 Antwerp Open] Stefanos Tsitsipas vs Thiago Seyboth Wild
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2796,6 +2792,10 @@ https://202x.io.vn/bongda/tc.php?id=tZ0IAXY&t=1729182600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ssnqyuP&t=1729182600
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/GISdRYA7-pO9hHUtm.png" group-title="Ngày 17/10",17/10 23h30 [Tennis 6 Kings Slam] Novak Djokovic vs Jannik Sinner
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=8GzF2Mu&t=1729182600
 #EXTINF:0 tvg-logo="https://api.sofascore.app/api/v1/unique-tournament/2382/image/dark" group-title="Ngày 18/10",18/10 00h20 [ATP250 Stockholm Open] Grigor Dimitrov vs Quentin Halys
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2804,6 +2804,10 @@ https://202x.io.vn/bongda/tc.php?id=UoEdpDt&t=1729185600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=BiilLlK&t=1729187400
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/GISdRYA7-pO9hHUtm.png" group-title="Ngày 18/10",18/10 00h50 [Tennis 6 Kings Slam] Carlos Alcaraz vs Rafael Nadal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ZLhhig4&t=1729187400
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png" group-title="Ngày 17/10",17/10 14h00 [Cầu lông] VICTOR Denmark Open 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
