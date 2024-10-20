@@ -308,14 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Ngày 20/10",20/10 18h00 [Vietnam National Cup] Bình Định vs Bình Dương
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Kk9ja8I&t=1729422000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Ngày 20/10",20/10 19h15 [Vietnam National Cup] TP Hồ Chí Minh vs Phù Đổng
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=exRiKz8&t=1729426500
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/06cac69d009fb39c1ed570e5f91effb5.png" group-title="Ngày 20/10",20/10 18h15 [Women's Super League] Manchester City (w) vs Aston Villa (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -328,14 +320,26 @@ https://202x.io.vn/bongda/tc.php?id=0YgJuPc&t=1729423800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=i2wn8Gd&t=1729425600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Ngày 20/10",20/10 18h00 [Vietnam National Cup] Bình Định vs Bình Dương
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Kk9ja8I&t=1729422000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Ngày 20/10",20/10 19h15 [Vietnam National Cup] TP Hồ Chí Minh vs Phù Đổng
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=exRiKz8&t=1729426500
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 20/10",20/10 19h30 [Vô địch quốc gia Hà Lan] Heracles Almelo vs AFC Ajax
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=i7hjGap&t=1729427400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 20/10",20/10 19h30 [Vô địch quốc gia Hà Lan] Groningen vs FC Utrecht
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=nxmnvcc&t=1729427400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 20/10",20/10 20h01 [Ngoại hạng Anh] Wolves vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=RHj80qW&t=1729429260
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 20/10",20/10 20h01 [Ngoại hạng Anh] Wolves vs Manchester City
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=PN4iAde&t=1729429260
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/06cac69d009fb39c1ed570e5f91effb5.png" group-title="Ngày 20/10",20/10 18h15 [Women's Super League] Manchester City (w) vs Aston Villa (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -364,6 +368,10 @@ https://202x.io.vn/bongda/tc.php?id=YjVPGxQ&t=1729433700
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=xE3a55e&t=1729441800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Ngày 20/10",20/10 19h15 [Vietnam National Cup] TP Hồ Chí Minh vs Phù Đổng
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=exRiKz8&t=1729426500
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 20/10",20/10 19h30 [Vô địch quốc gia Hà Lan] Heracles Almelo vs AFC Ajax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -376,14 +384,14 @@ https://202x.io.vn/bongda/tc.php?id=nxmnvcc&t=1729427400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=V4tSB6x&t=1729435500
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 20/10",20/10 20h00 [Ngoại hạng Anh] Wolves vs Manchester City
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 20/10",20/10 20h01 [Ngoại hạng Anh] Wolves vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=RHj80qW&t=1729429200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 20/10",20/10 20h00 [Ngoại hạng Anh] Wolves vs Manchester City
+https://202x.io.vn/bongda/tc.php?id=RHj80qW&t=1729429260
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 20/10",20/10 20h01 [Ngoại hạng Anh] Wolves vs Manchester City
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=PN4iAde&t=1729429200
+https://202x.io.vn/bongda/tc.php?id=PN4iAde&t=1729429260
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="Ngày 20/10",20/10 22h30 [Ngoại hạng Anh] Liverpool vs Chelsea
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1624,6 +1632,14 @@ https://202x.io.vn/bongda/tc.php?id=7OrHJRe&t=1729873800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=jOtoc3u&t=1729821600
+#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 20/10",20/10 19h45 [Bóng chuyền nam Ba Lan] Gdansk vs Stal Nysa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ZCpxvl9&t=1729428300
+#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 20/10",20/10 19h45 [Bóng chuyền nam Ba Lan] Gdansk vs Stal Nysa
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ZCpxvl9&t=1729428300
 #EXTINF:0 tvg-logo="https://i.imgur.com/9O3fVna.png" group-title="Ngày 20/10",20/10 21h00 [Bóng chuyền nữ Italy] Milano W vs Novara W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1652,6 +1668,10 @@ https://202x.io.vn/bongda/tc.php?id=zVTx2HL&t=1729440000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=gfqf7bd&t=1729440000
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png" group-title="Ngày 20/10",20/10 21h00 [Bóng chuyền nam Italy] Trentino vs Modena
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=W7nAdqg&t=1729432800
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png" group-title="Ngày 20/10",20/10 21h00 [Bóng chuyền nam Italy] Verona vs Lube Civitanova
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1660,10 +1680,6 @@ https://202x.io.vn/bongda/tc.php?id=LxkSIi4&t=1729432800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=RqSKxU3&t=1729440000
-#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 20/10",20/10 19h45 [Bóng chuyền nam Ba Lan] Gdansk vs Stal Nysa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ZCpxvl9&t=1729428300
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/png-clipart-blue-white-and-yellow-volleyball-volleyball-net-mikasa-sports-volleyball-sport-orange-th-removebg-preview-min.png" group-title="Ngày 20/10",20/10 22h30 [Bóng chuyền nữ Ba Lan] Chemik Police W vs Bielsko-Biala W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1832,10 +1848,6 @@ https://202x.io.vn/bongda/tc.php?id=24fwmkJ&t=1729423800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=IxpbDur&t=1729424100
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/894423ce8cfc45775e497d43547dcad4.png" group-title="Ngày 20/10",20/10 19h00 [Bóng rổ nữ Hy Lạp] Amyntas (W) vs Sony Athinaikos Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=N9i4KGQ&t=1729425600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 20/10",20/10 18h30 [Bóng rổ Philippines] Barangay Ginebra San Miguel vs San Miguel Beermen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1844,10 +1856,6 @@ https://202x.io.vn/bongda/tc.php?id=24fwmkJ&t=1729423800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=IxpbDur&t=1729424100
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/894423ce8cfc45775e497d43547dcad4.png" group-title="Ngày 20/10",20/10 19h00 [Bóng rổ nữ Hy Lạp] Amyntas (W) vs Sony Athinaikos Women
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=N9i4KGQ&t=1729425600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/77940bac1ad95e6369370c9b6b345d98.png" group-title="Ngày 20/10",20/10 23h30 [Bóng rổ Tây Ban Nha] Winterthur F.C. Barcelona vs Saski Baskonia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
