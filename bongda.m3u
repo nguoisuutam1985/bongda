@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ZLE5eoo&t=1729414800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Ngày 20/10",20/10 16h00 [Vietnam National Cup] Long An vs Hà Tĩnh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ZLE5eoo&t=1729414800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/66f314c41d4ac724515a03da0e70847e.png" group-title="Ngày 20/10",20/10 17h00 [Vietnam National Cup] Khánh Hòa vs PVF-CAND
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1932,14 +1936,6 @@ https://202x.io.vn/bongda/tc.php?id=op7ErrQ&t=1729425600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=WiSEj2V&t=1729418400
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="Ngày 20/10",20/10 14h00 [KBL: Bóng Rổ Hàn Quốc] Ulsan Mobis Phoebus vs Goyang Sono Skygunners
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=sT98tzn&t=1729407600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="Ngày 20/10",20/10 14h00 [KBL: Bóng Rổ Hàn Quốc] Ulsan Mobis Phoebus vs Goyang Sono Skygunners
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=sT98tzn&t=1729407600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/894423ce8cfc45775e497d43547dcad4.png" group-title="Ngày 20/10",20/10 17h00 [Bóng rổ nữ Hy Lạp] PAOK Saloniki Women vs Panathinaikos Women
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2008,6 +2004,14 @@ https://202x.io.vn/bongda/tc.php?id=v2C8JgG&t=1729424100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=DUOhJ7p&t=1729424100
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 20/10",20/10 18h30 [Bóng rổ Philippines] Barangay Ginebra San Miguel vs San Miguel Beermen
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=24fwmkJ&t=1729423800
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/6f8bac2b35d0c2238a659632c273df7a.png" group-title="Ngày 20/10",20/10 21h00 [Bóng rổ nữ Czech] Slovanka Women vs LOH 2028 Chomutov (W)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=HdkWkzY&t=1729432800
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/86f522333da4c3e2c144996fc4d2520b.png" group-title="Ngày 21/10",21/10 07h00 [WNBA] New York Liberty vs Minnesota Lynx
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
