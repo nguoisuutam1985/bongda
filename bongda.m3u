@@ -312,30 +312,6 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=Uf1NozC&t=1729619100
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Real Madrid vs Borussia Dortmund
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=T2mMAF1&t=1729623600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 23/10",23/10 00h45 [Russian Cup] CSKA Moscow vs Terek Grozny
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=Uf1NozC&t=1729619100
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 23/10",23/10 20h30 [Russian Cup] Gazovik Orenburg vs Khimki
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ZJBeL59&t=1729690200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 23/10",23/10 23h00 [Russian Cup] Rostov FK vs Lokomotiv Moscow
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=SjU3gOU&t=1729699200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 23/10",23/10 23h00 [Russian Cup] Akron Togliatti vs Rubin Kazan
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=71j01HI&t=1729699200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Real Madrid vs Borussia Dortmund
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=T2mMAF1&t=1729623600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Arsenal vs FC Shakhtar Donetsk
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -364,6 +340,58 @@ https://202x.io.vn/bongda/tc.php?id=zaMVjKq&t=1729623600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=01swGCd&t=1729623600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Real Madrid vs Borussia Dortmund
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=T2mMAF1&t=1729623600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 23/10",23/10 00h45 [Russian Cup] CSKA Moscow vs Terek Grozny
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Uf1NozC&t=1729619100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 23/10",23/10 20h30 [Russian Cup] Gazovik Orenburg vs Khimki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ZJBeL59&t=1729690200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 23/10",23/10 23h00 [Russian Cup] Rostov FK vs Lokomotiv Moscow
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=SjU3gOU&t=1729699200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 23/10",23/10 23h00 [Russian Cup] Akron Togliatti vs Rubin Kazan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=71j01HI&t=1729699200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Arsenal vs FC Shakhtar Donetsk
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=IbDRYGf&t=1729623600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Aston Villa vs Bologna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=2GziiIC&t=1729623600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Girona vs Slovan Bratislava
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=vCbGS1W&t=1729623600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Juventus vs VfB Stuttgart
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=sWDETS1&t=1729623600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Paris Saint Germain (PSG) vs PSV Eindhoven
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Bf20axX&t=1729623600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Real Madrid vs Borussia Dortmund
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=zaMVjKq&t=1729623600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Sturm Graz vs Sporting CP
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=01swGCd&t=1729623600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 02h00 [UEFA Champions League] Real Madrid vs Borussia Dortmund
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=T2mMAF1&t=1729623600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="Ngày 23/10",23/10 23h45 [UEFA Champions League] Atalanta vs Celtic FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
