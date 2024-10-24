@@ -312,10 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=34y20uL&t=1729807200
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 25/10",25/10 04h00 [Giao hữu] Honduras (w) vs Guatemala (w)
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 25/10",25/10 05h00 [Giao hữu] Honduras (w) vs Guatemala (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=R7NKIvW&t=1729803600
+https://202x.io.vn/bongda/tc.php?id=R7NKIvW&t=1729807200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/21373345355d0d46050508d0818a463a.png" group-title="Ngày 25/10",25/10 05h00 [Copa Argentina] CA Huracan vs Central Cordoba SDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2228,6 +2228,14 @@ https://202x.io.vn/bongda/tc.php?id=QjdHqv4&t=1729857600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=ZZ2h9tT&t=1729862400
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/nPTrVmYI-lG2tDiDJ.png" group-title="Ngày 25/10",25/10 23h00 [ATP500 Basel Open] Holger Rune vs David Goffin
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=BSvYUWN&t=1729872000
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/nPTrVmYI-lG2tDiDJ.png" group-title="Ngày 26/10",26/10 00h20 [ATP500 Basel Open] Giovanni Mpetshi Perricard vs Denis Shapovalov
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=LjDbqqU&t=1729876800
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/motoGP.png" group-title="Ngày 25/10",25/10 09h00 [MotoGP] PT Grand Prix of Thailand: Moto3 Moto2 practice
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2264,6 +2272,10 @@ https://202x.io.vn/bongda/tc.php?id=awEEL8P&t=1730016000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=XWpf9R6&t=1729810800
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 25/10",25/10 06h30 [NBA] Mavericks vs Spurs
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=KxhGnWF&t=1729812600
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 25/10",25/10 06h00 [NBA] Wizards vs Celtics
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
