@@ -308,6 +308,10 @@ https://202x.io.vn/tv.php?id=109
 
 
 
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 25/10",25/10 04h00 [Giao hữu] Honduras (w) vs Guatemala (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=R7NKIvW&t=1729803600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/21373345355d0d46050508d0818a463a.png" group-title="Ngày 25/10",25/10 05h00 [Copa Argentina] CA Huracan vs Central Cordoba SDE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
