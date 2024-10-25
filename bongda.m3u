@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=wljYKHJ&t=1729816200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="Ngày 25/10",25/10 07h30 [Copa Sudamericana] Corinthians Paulista (SP) vs Racing Club
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=wljYKHJ&t=1729816200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="Ngày 25/10",25/10 15h30 [Indonesian Liga 1] Semen Padang vs Dewa United FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1528,10 +1532,6 @@ https://202x.io.vn/bongda/tc.php?id=iZkZz1b&t=1730145600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=a0QB8AB&t=1730145600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="Ngày 29/10",29/10 03h00 [Colombia Primera A] Boyaca Chico vs La Equidad
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=tsX39bT&t=1730145600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/89d1cc40d46c553cb311b8220bfa3d5d.png" group-title="Ngày 29/10",29/10 03h00 [English Football League One] Blackpool vs Wigan Athletic
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
