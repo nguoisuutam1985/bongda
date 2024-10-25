@@ -312,6 +312,14 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=K3OXRwo&t=1729868400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Ngày 25/10",25/10 22h05 [Saudi Professional League] Al Kholood vs Al Nassr
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=jZYocKc&t=1729868700
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png" group-title="Ngày 25/10",25/10 22h00 [Women's Euro Qualifying] Turkey (w) vs Ukraine (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=K3OXRwo&t=1729868400
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png" group-title="Ngày 25/10",25/10 23h00 [Women's Euro Qualifying] Romania (w) vs Poland (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
