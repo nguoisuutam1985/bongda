@@ -312,6 +312,10 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=wljYKHJ&t=1729816200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b9ea430273d03d5567f1edd406b4e1b5.png" group-title="Ngày 25/10",25/10 09h00 [Central American Cup] Real Esteli vs Herediano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=jOtoc3u&t=1729821600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/6d0783334b65aa61ff4ac5c16608882e.png" group-title="Ngày 25/10",25/10 08h30 [CONCACAF Caribbean Cup] Moca FC vs Cavalier FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1000,6 +1004,18 @@ https://202x.io.vn/bongda/tc.php?id=zRPc7KN&t=1730023200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=tGgGMT3&t=1730026800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 27/10",27/10 17h30 [Turkey Super League] Gaziantepspor vs Konyaspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=8AOR62z&t=1730025000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 27/10",27/10 20h00 [Turkey Super League] Alanyaspor vs Antalyaspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=BZR9dst&t=1730034000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 27/10",27/10 23h00 [Turkey Super League] Fenerbahce vs Bodrumspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=GYQzvjM&t=1730044800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8ddbbfcdc6f98675b4b0d2601976e6bf.png" group-title="Ngày 27/10",27/10 18h00 [Denmark Super Liga] Brondby IF vs FC Copenhagen
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1072,14 +1088,6 @@ https://202x.io.vn/bongda/tc.php?id=h2juDfS&t=1730033700
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=FAcEKl7&t=1730043000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 27/10",27/10 20h00 [Turkey Super League] Alanyaspor vs Antalyaspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=BZR9dst&t=1730034000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 27/10",27/10 23h00 [Turkey Super League] Fenerbahce vs Bodrumspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=GYQzvjM&t=1730044800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png" group-title="Ngày 27/10",27/10 20h00 [Spanish Segunda Division] Malaga vs Eibar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1304,14 +1312,6 @@ https://202x.io.vn/bongda/tc.php?id=qml6PWX&t=1730052000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=xPg2RyY&t=1730061000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 28/10",28/10 01h00 [Turkey Super League] Gaziantepspor vs Konyaspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=8AOR62z&t=1730052000
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 28/10",28/10 21h00 [Turkey Super League] Istanbul Buyuksehir Belediyesi vs Eyupspor
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=viT5IXp&t=1730124000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 28/10",28/10 01h00 [Peru - Primera Division] Deportivo Union Comercio vs Sporting Cristal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1392,6 +1392,10 @@ https://202x.io.vn/bongda/tc.php?id=xdgkrMU&t=1730113200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=9fJ7HwI&t=1730116800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="Ngày 28/10",28/10 21h00 [Turkey Super League] Istanbul Buyuksehir Belediyesi vs Eyupspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=viT5IXp&t=1730124000
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 28/10",28/10 21h30 [Giao hữu] North Macedonia (w) vs Moldova (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1696,18 +1700,6 @@ https://202x.io.vn/bongda/tc.php?id=AGqxNVz&t=1730221200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=whpHvMY&t=1730221200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a190919a6ba9a7ca48de6bc42cc636e4.png" group-title="Ngày 30/10",30/10 00h00 [Switzerland Super League] FC Sion vs FC Zurich
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dKv2SCk&t=1730221200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a190919a6ba9a7ca48de6bc42cc636e4.png" group-title="Ngày 30/10",30/10 00h00 [Switzerland Super League] St. Gallen vs Winterthur
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ISpyWYK&t=1730221200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a190919a6ba9a7ca48de6bc42cc636e4.png" group-title="Ngày 30/10",30/10 00h00 [Switzerland Super League] Young Boys vs Basel
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=QuOCI22&t=1730221200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a190919a6ba9a7ca48de6bc42cc636e4.png" group-title="Ngày 30/10",30/10 00h00 [Switzerland Super League] Yverdon vs Lausanne Sports
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
