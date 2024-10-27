@@ -312,6 +312,18 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=vbJC4tj&t=1730070000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/c34077b7ac3592e339bd375e72fe441b.png" group-title="Ngày 28/10",28/10 06h00 [Peru - Primera Division] Universitario De Deportes vs Cienciano
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=fohLOZq&t=1730070000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="Ngày 28/10",28/10 06h20 [Colombia Primera A] Atletico Junior Barranquilla vs America de Cali
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=oOrR1gV&t=1730071200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7da4c208124e5ae3a8126bdb7e1e572b.png" group-title="Ngày 28/10",28/10 06h00 [FIFA U17 Women's World Cup] Japan (w) U17 vs England (w) U17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=vbJC4tj&t=1730070000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d2fe5be131ad888084f50d6af533570c.png" group-title="Ngày 28/10",28/10 08h45 [Major League Soccer] Los Angeles FC vs Vancouver Whitecaps
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2452,10 +2464,10 @@ https://202x.io.vn/bongda/tc.php?id=JUPqBs6&t=1730088000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=zZjGPze&t=1730095200
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 28/10",28/10 15h00 [Tennis] ATP1000 Paris Masters Open
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 28/10",28/10 17h00 [Tennis] ATP1000 Paris Masters Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=FnY9fZU&t=1730102400
+https://202x.io.vn/bongda/tc.php?id=FnY9fZU&t=1730109600
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 28/10",28/10 23h00 [Tennis] WTA250 Merida Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
