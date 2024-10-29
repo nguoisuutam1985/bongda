@@ -308,10 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png" group-title="Ngày 29/10",29/10 23h00 [Women's Euro Qualifying] Ukraine (w) vs Turkey (w)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=I0mJGId&t=1730217600
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png" group-title="Ngày 30/10",30/10 00h00 [Women's Euro Qualifying] Poland (w) vs Romania (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -344,42 +340,70 @@ https://202x.io.vn/bongda/tc.php?id=P0kZX87&t=1730221200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=RiWVZo0&t=1730222100
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 29/10",29/10 23h00 [Giao hữu] Saudi Arabia (W) vs Laos (w)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=3l3VOwq&t=1730217600
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 29/10",29/10 23h00 [Giao hữu] Saudi Arabia (W)U20 vs Tajikistan (w)U20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=466fUyH&t=1730217600
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 30/10",30/10 00h00 [Giao hữu] Denmark (w) vs Netherland (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=llMrRpe&t=1730221200
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 30/10",30/10 00h30 [Giao hữu] England (w) U23 vs Portugal (w) U23
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=KXefRlq&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 30/10",30/10 00h30 [Serie A] Cagliari vs Bologna
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=NCCgPwQ&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="Ngày 30/10",30/10 00h30 [Serie A] Lecce vs Verona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=7XeqfOw&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4f52c584582c23a1218f22ff373a426c.png" group-title="Ngày 30/10",30/10 00h30 [Saudi Arabia Kings Cup] Al Nassr vs Al-Taawon
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=EZC2XRJ&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/4f52c584582c23a1218f22ff373a426c.png" group-title="Ngày 30/10",30/10 00h30 [Saudi Arabia Kings Cup] Al-Feiha vs Al-Arabi(KSA)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=KlaJMUF&t=1730223000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/3eb43a66309f6afcd815c2ae31367351.png" group-title="Ngày 30/10",30/10 00h00 [Russian Cup] Baltika Kaliningrad vs Ural Sverdlovsk Oblast
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=vDLQoCe&t=1730221200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="Ngày 30/10",30/10 00h00 [Bulgarian Cup] Fratria vs Beroe Stara Zagora
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/85422afb467e9456013a2a51d4dff702.jpg" group-title="Ngày 30/10",30/10 00h30 [Euro U17 Women] Estonia (w) U17 vs Sweden (w) U17
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=4VhaLOf&t=1730221200
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png" group-title="Ngày 29/10",29/10 23h00 [Women's Euro Qualifying] Ukraine (w) vs Turkey (w)
+https://202x.io.vn/bongda/tc.php?id=GHm5Ous&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="Ngày 30/10",30/10 00h30 [Turkish Cup] Adanaspor vs Corluspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=I0mJGId&t=1730217600
+https://202x.io.vn/bongda/tc.php?id=oVH7UaP&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/f259145f47d723873f7366d9f01c87fd.png" group-title="Ngày 30/10",30/10 00h30 [Italian Serie C] Azy based nano Bo vs Pro Patria
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=29SpTF0&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/f259145f47d723873f7366d9f01c87fd.png" group-title="Ngày 30/10",30/10 00h30 [Italian Serie C] Atalanta U23 vs Pro Vercelli
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=UisJPfc&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/f259145f47d723873f7366d9f01c87fd.png" group-title="Ngày 30/10",30/10 00h30 [Italian Serie C] ASD Caldiero Terme vs Giana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=7ySW95B&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/f259145f47d723873f7366d9f01c87fd.png" group-title="Ngày 30/10",30/10 00h30 [Italian Serie C] Trento vs USD Virtus Verona
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=vH0X5CH&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/f259145f47d723873f7366d9f01c87fd.png" group-title="Ngày 30/10",30/10 00h30 [Italian Serie C] Sestri Levante vs Ternana
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=OATip0S&t=1730223000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/f259145f47d723873f7366d9f01c87fd.png" group-title="Ngày 30/10",30/10 00h30 [Italian Serie C] Spal vs US Pianese
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=vduxCTw&t=1730223000
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png" group-title="Ngày 29/10",29/10 23h30 [Women's Euro Qualifying] Finland (w) vs Montenegro (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=apOJi2Q&t=1730219400
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 29/10",29/10 23h00 [Giao hữu] Saudi Arabia (W) vs Laos (w)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=3l3VOwq&t=1730217600
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 29/10",29/10 23h00 [Giao hữu] Saudi Arabia (W)U20 vs Tajikistan (w)U20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=466fUyH&t=1730217600
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/rH6pBz8j-verAYLe0.png" group-title="Ngày 30/10",30/10 00h00 [Women's Euro Qualifying] Poland (w) vs Romania (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3188,18 +3212,10 @@ https://202x.io.vn/bongda/tc.php?id=7TcIgtl&t=1730673000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=GRYcmwJ&t=1730219400
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 29/10",29/10 22h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Nilufer Bld. W vs Sigorta Shop Kalecik W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=3BglcoL&t=1730214000
 #EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 29/10",29/10 23h30 [Bóng chuyền nam Ba Lan] Kedzierzyn-Kozle vs Bedzin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=GRYcmwJ&t=1730219400
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20turkey%20women.png" group-title="Ngày 29/10",29/10 22h00 [Bóng chuyền nữ Thổ Nhĩ Kỳ] Nilufer Bld. W vs Sigorta Shop Kalecik W
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=3BglcoL&t=1730214000
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png" group-title="Ngày 30/10",30/10 17h00 [Bóng chuyền nam Hàn Quốc] Woori vs Kepco
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3604,6 +3620,14 @@ https://202x.io.vn/bongda/tc.php?id=j7cCETB&t=1730217000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=PIh3XjG&t=1730217600
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/U7JAE7YI-KEkuhN4T.png" group-title="Ngày 30/10",30/10 01h00 [ATP1000 Paris Masters] Carlos Alcaraz vs Nicolas Jarry
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=PM6S1T2&t=1730224800
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/U7JAE7YI-KEkuhN4T.png" group-title="Ngày 30/10",30/10 02h30 [ATP1000 Paris Masters] Casper Ruud vs Jordan Thompson
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=YbP3FWa&t=1730230200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 29/10",29/10 17h00 [Tennis] ATP1000 Paris Masters Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3620,6 +3644,14 @@ https://202x.io.vn/bongda/tc.php?id=j7cCETB&t=1730217000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=PIh3XjG&t=1730217600
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/U7JAE7YI-KEkuhN4T.png" group-title="Ngày 30/10",30/10 01h00 [ATP1000 Paris Masters] Carlos Alcaraz vs Nicolas Jarry
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=PM6S1T2&t=1730224800
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/U7JAE7YI-KEkuhN4T.png" group-title="Ngày 30/10",30/10 02h30 [ATP1000 Paris Masters] Casper Ruud vs Jordan Thompson
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=YbP3FWa&t=1730230200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="Ngày 30/10",30/10 02h00 [Tennis] WTA250 Merida Open
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3632,14 +3664,6 @@ https://202x.io.vn/bongda/tc.php?id=JUPqBs6&t=1730260800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=zZjGPze&t=1730268000
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/U7JAE7YI-KEkuhN4T.png" group-title="Ngày 30/10",30/10 01h00 [ATP1000 Paris Masters] Carlos Alcaraz vs Nicolas Jarry
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=PM6S1T2&t=1730224800
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/U7JAE7YI-KEkuhN4T.png" group-title="Ngày 30/10",30/10 02h30 [ATP1000 Paris Masters] Casper Ruud vs Jordan Thompson
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=YbP3FWa&t=1730230200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png" group-title="Ngày 29/10",29/10 19h00 [Cầu lông] Hylo Open 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
