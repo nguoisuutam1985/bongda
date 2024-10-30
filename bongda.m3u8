@@ -312,6 +312,14 @@ https://202x.io.vn/tv.php?id=109
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=VXWQ5gy&t=1730325600
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 31/10",31/10 06h00 [Giao hữu] USA (w) vs Argentina (w)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=LQymr8S&t=1730329200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7da4c208124e5ae3a8126bdb7e1e572b.png" group-title="Ngày 31/10",31/10 06h00 [FIFA U17 Women's World Cup] USA (w) U17 vs North Korea (w) U17
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=mZLQuUM&t=1730329200
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2341037b4e4eff9683c5c15fd188127e.png" group-title="Ngày 31/10",31/10 05h00 [Copa Sudamericana] Lanus vs Cruzeiro (MG)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3108,10 +3116,6 @@ https://202x.io.vn/bongda/tc.php?id=lDuPI57&t=1730336400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=nXmZiym&t=1730358000
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/motoGP.png" group-title="Ngày 31/10",31/10 14h00 [MotoGP] PETRONAS GP: MotoGP Practice vs NXT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=5UPCgD9&t=1730358000
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/badminton.png" group-title="Ngày 31/10",31/10 15h00 [Cầu lông] Hylo Open 2024
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3136,6 +3140,10 @@ https://202x.io.vn/bongda/tc.php?id=B86wGKZ&t=1730329200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=6d2xLvJ&t=1730329200
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 31/10",31/10 06h30 [NBA] Heat vs Knicks
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=unVkIgZ&t=1730331000
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 31/10",31/10 06h00 [NBA] Cavaliers vs Lakers
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
