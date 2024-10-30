@@ -308,10 +308,6 @@ https://202x.io.vn/tv.php?id=109
 
 
 
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 30/10",30/10 19h00 [AFC Champions League 2] Port FC vs Lion City Sailors
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=TmtE1qw&t=1730289600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b2db315c601e35550890342833f2b693.png" group-title="Ngày 30/10",30/10 21h00 [Kazakhstan Premier League] FC Astana vs FK Atyrau
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -324,10 +320,6 @@ https://202x.io.vn/bongda/tc.php?id=K8yZl8g&t=1730300700
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=lIZYCms&t=1730302200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9a22d840df32761c127c5cd106203ccf.png" group-title="Ngày 30/10",30/10 19h00 [AFC Champions League 2] Port FC vs Lion City Sailors
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=TmtE1qw&t=1730289600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/280e7df640872c99064a56a3361450a9.png" group-title="Ngày 31/10",31/10 00h00 [Vô địch quốc gia Hà Lan] Feyenoord vs AFC Ajax
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2644,6 +2636,10 @@ https://202x.io.vn/bongda/tc.php?id=7TcIgtl&t=1730673000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=8QVGwax&t=1730293200
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 30/10",30/10 20h00 [Bóng chuyền nam Thổ Nhĩ Kỳ] Spor Toto vs Fenerbahce
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=8QVGwax&t=1730293200
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 30/10",30/10 21h30 [Bóng chuyền nam Thổ Nhĩ Kỳ] Galatasaray vs Halkbank
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2652,6 +2648,10 @@ https://202x.io.vn/bongda/tc.php?id=r0m98GY&t=1730298600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=NkeZmae&t=1730304000
+#EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/90b5d58d5ff5583d0a40a4cc91909172.png" group-title="Ngày 30/10",30/10 21h00 [Bóng chuyền nam Thổ Nhĩ Kỳ] Alanya Bld vs Istanbul GSK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=HdN0ZS6&t=1730296800
 #EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 30/10",30/10 23h30 [Bóng chuyền nam Ba Lan] Rzeszow vs Stal Nysa
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3068,42 +3068,10 @@ https://202x.io.vn/bongda/tc.php?id=RDlKAsb&t=1730275200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=RDlKAsb&t=1730275200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 30/10",30/10 18h30 [Bóng rổ Philippines] Barangay Ginebra San Miguel vs TNT Tropang Giga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=32g3UgC&t=1730287800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 30/10",30/10 18h35 [Bóng rổ Trung Quốc] Guangdong Hongyuan vs Sichuan Blue Whales
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=r6LTFot&t=1730288100
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 30/10",30/10 18h35 [Bóng rổ Trung Quốc] Shandong Hi-Speed vs Xinjiang Yili
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ctHGEui&t=1730288100
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png" group-title="Ngày 30/10",30/10 18h40 [East Asia Super League] Hong Kong Eastern vs Hiroshima Dragonflies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=1QCY6pW&t=1730288400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png" group-title="Ngày 30/10",30/10 19h10 [East Asia Super League] Macao black bear vs Ryukyu Golden Kings
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=3WN5BEO&t=1730290200
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/8eb56031807d511a63c16fa7c804e7dc.png" group-title="Ngày 30/10",30/10 18h30 [Bóng rổ Philippines] Barangay Ginebra San Miguel vs TNT Tropang Giga
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=32g3UgC&t=1730287800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 30/10",30/10 18h35 [Bóng rổ Trung Quốc] Guangdong Hongyuan vs Sichuan Blue Whales
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=r6LTFot&t=1730288100
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 30/10",30/10 18h35 [Bóng rổ Trung Quốc] Shandong Hi-Speed vs Xinjiang Yili
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=ctHGEui&t=1730288100
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png" group-title="Ngày 30/10",30/10 18h40 [East Asia Super League] Hong Kong Eastern vs Hiroshima Dragonflies
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=1QCY6pW&t=1730288400
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/e9bedfabfdc35c82aeb8c6cccbbdd59f.png" group-title="Ngày 30/10",30/10 19h10 [East Asia Super League] Macao black bear vs Ryukyu Golden Kings
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
