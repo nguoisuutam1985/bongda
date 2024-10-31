@@ -308,18 +308,18 @@ https://202x.io.vn/tv.php?id=109
 
 
 
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="Ngày 31/10",31/10 17h00 [Turkish Cup] Bayburt Ozel Idare vs Samsunspor
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=xkGt8Lh&t=1730368800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="Ngày 31/10",31/10 18h30 [Bulgarian Cup] Minyor Pernik vs Botev Plovdiv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=JLMBje7&t=1730374200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="Ngày 31/10",31/10 18h30 [Bulgarian Cup] Minyor Pernik vs Botev Plovdiv
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="Ngày 31/10",31/10 17h00 [Turkish Cup] Bayburt Ozel Idare vs Samsunspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=JLMBje7&t=1730374200
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="Ngày 31/10",31/10 22h00 [Bulgarian Cup] Ludogorets Razgrad vs Chernolomets
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=JfkknWN&t=1730386800
+https://202x.io.vn/bongda/tc.php?id=xkGt8Lh&t=1730368800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/140b07a7645a6f58c20c39e2a22d476b.png" group-title="Ngày 31/10",31/10 18h30 [Turkish Cup] EdirnesporGenclik vs Batman Petrolspor
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -328,6 +328,14 @@ https://202x.io.vn/bongda/tc.php?id=dAgcrEZ&t=1730374200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=oQnmMJy&t=1730385000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="Ngày 31/10",31/10 18h30 [Bulgarian Cup] Minyor Pernik vs Botev Plovdiv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=JLMBje7&t=1730374200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8eaa58b38bd530dbd09409dd201bae3c.png" group-title="Ngày 31/10",31/10 22h00 [Bulgarian Cup] Ludogorets Razgrad vs Chernolomets
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=JfkknWN&t=1730386800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e418b0f41368ff180330d44338ce2049.png" group-title="Ngày 31/10",31/10 20h00 [Czech Cup] Benatky Nad Jizerou vs Slavia Praha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -472,6 +480,10 @@ https://202x.io.vn/bongda/tc.php?id=27lOwmY&t=1730412000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=qLpauY5&t=1730420100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="Ngày 01/11",01/11 03h00 [Netherlands KNVB Cup] Lyss vs FC Utrecht
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=Ad2qJZJ&t=1730404800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="Ngày 02/11",02/11 01h00 [Saudi Professional League] Al-Nasr(KSA) vs Al Hilal
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2960,10 +2972,10 @@ https://202x.io.vn/bongda/tc.php?id=gmRiT8p&t=1730368800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=iMr99GF&t=1730373600
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/U7JAE7YI-KEkuhN4T.png" group-title="Ngày 31/10",31/10 19h30 [ATP1000 Paris Masters] Karen Khachanov vs Alexei Popyrin
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/U7JAE7YI-KEkuhN4T.png" group-title="Ngày 31/10",31/10 20h45 [ATP1000 Paris Masters] Karen Khachanov vs Alexei Popyrin
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=hlLwWxh&t=1730377800
+https://202x.io.vn/bongda/tc.php?id=hlLwWxh&t=1730382300
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/U7JAE7YI-KEkuhN4T.png" group-title="Ngày 31/10",31/10 22h00 [ATP1000 Paris Masters] Alex de Minaur vs Jack Draper
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3028,14 +3040,6 @@ https://202x.io.vn/bongda/tc.php?id=RDlKAsb&t=1730361600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=RDlKAsb&t=1730361600
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="Ngày 31/10",31/10 17h00 [KBL: Bóng Rổ Hàn Quốc] Seoul Samsung Thunders vs Ulsan Mobis Phoebus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=pHAMYAF&t=1730368800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="Ngày 31/10",31/10 17h00 [KBL: Bóng Rổ Hàn Quốc] Goyang Sono Skygunners vs Suwon KT Sonicboom
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=VtTlFpT&t=1730368800
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 31/10",31/10 18h35 [Bóng rổ Trung Quốc] Ningbo Rockets vs Shanghai Jiushi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3052,14 +3056,6 @@ https://202x.io.vn/bongda/tc.php?id=OvYrAjn&t=1730374500
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=HVdQLKT&t=1730374500
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="Ngày 31/10",31/10 17h00 [KBL: Bóng Rổ Hàn Quốc] Seoul Samsung Thunders vs Ulsan Mobis Phoebus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=pHAMYAF&t=1730368800
-#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="Ngày 31/10",31/10 17h00 [KBL: Bóng Rổ Hàn Quốc] Goyang Sono Skygunners vs Suwon KT Sonicboom
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=VtTlFpT&t=1730368800
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/c9fb45931aa7e6c7f04f5c8a2f6b8d43.png" group-title="Ngày 31/10",31/10 18h35 [Bóng rổ Trung Quốc] Ningbo Rockets vs Shanghai Jiushi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
