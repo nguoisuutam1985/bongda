@@ -2,22 +2,6 @@
 
 
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/2024_AFC_Futsal_Asian_Cup_logo.svg" group-title="Ngày 06/11",06/11 15h30 [Futsal Đông Nam Á] Malaysia vs Timor Leste
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=vmnvbqb&t=1730881800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/029d1a47381f97c557a53dd32568d4d7.jpg" group-title="Ngày 06/11",06/11 15h30 [Laos Premier League] Ezra FC vs Young Elephants FC
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=xVOPdkf&t=1730881800
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/2024_AFC_Futsal_Asian_Cup_logo.svg" group-title="Ngày 06/11",06/11 15h30 [Futsal Đông Nam Á] Malaysia vs Timor Leste
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=vmnvbqb&t=1730881800
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/2024_AFC_Futsal_Asian_Cup_logo.svg" group-title="Ngày 06/11",06/11 18h00 [Futsal Đông Nam Á] Vietnam vs Thailand
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=pTOIduv&t=1730890800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/029d1a47381f97c557a53dd32568d4d7.jpg" group-title="Ngày 06/11",06/11 15h30 [Laos Premier League] Ezra FC vs Young Elephants FC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -30,6 +14,22 @@ https://202x.io.vn/bongda/tc.php?id=ezJ2hdg&t=1730887200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=lbPJaRX&t=1730887200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/029d1a47381f97c557a53dd32568d4d7.jpg" group-title="Ngày 06/11",06/11 15h30 [Laos Premier League] Ezra FC vs Young Elephants FC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=xVOPdkf&t=1730881800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 06/11",06/11 17h00 [AFC Champions League Elite] Pohang Steelers vs Shandong Taishan
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=ezJ2hdg&t=1730887200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/bbe73e02dfd0737b98d16465ae014d9e.png" group-title="Ngày 06/11",06/11 17h00 [AFC Champions League Elite] Yokohama Marinos vs Buriram United
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=lbPJaRX&t=1730887200
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/en/5/5e/2024_AFC_Futsal_Asian_Cup_logo.svg" group-title="Ngày 06/11",06/11 18h00 [Futsal Đông Nam Á] Vietnam vs Thailand
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=pTOIduv&t=1730890800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/fd18fea857fdfad33df41c112d4455a1.png" group-title="Ngày 06/11",06/11 19h00 [UEFA Youth League] Red Star Belgrade U19 vs Barcelona U19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2078,6 +2078,10 @@ https://202x.io.vn/bongda/tc.php?id=hb8i9zO&t=1731285000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=7gB3kaN&t=1730887200
+#EXTINF:0 tvg-logo="https://i.imgur.com/cBFT7r9.png" group-title="Ngày 06/11",06/11 17h00 [Bóng chuyền nữ Hàn] GS Caltex W vs IBK W
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=SBJ4cgw&t=1730887200
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/volley%20kr.png" group-title="Ngày 06/11",06/11 17h00 [Bóng chuyền nam Hàn Quốc] Hyundai Skywalkers vs Kepco
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
