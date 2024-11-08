@@ -6,10 +6,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=AlNrSgu&t=1731103200
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 09/11",09/11 04h00 [Giao hữu] Cuban  U16 (W) vs Costa Rica  U16 (W)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=t5Feido&t=1731099600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/011bb5d54ac6c416ec2c56883169411b.png" group-title="Ngày 09/11",09/11 05h00 [Brazilian Serie A] Internacional RS vs Fluminense RJ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -866,22 +862,6 @@ https://202x.io.vn/bongda/tc.php?id=UUiuUNa&t=1731592800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=noh11WG&t=1731596400
-#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 09/11",09/11 02h30 [Bóng chuyền nam Ba Lan] Olsztyn vs Projekt Warszawa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dBvXNoM&t=1731094200
-#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 09/11",09/11 02h30 [Bóng chuyền nam Ba Lan] Olsztyn vs Projekt Warszawa
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=dBvXNoM&t=1731094200
-#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 09/11",09/11 20h45 [Bóng chuyền nam Ba Lan] Kedzierzyn-Kozle vs Jastrzebski
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=IaovYcx&t=1731159900
-#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 09/11",09/11 23h30 [Bóng chuyền nam Ba Lan] Slepsk Suwalki vs Zawiercie
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://202x.io.vn/bongda/tc.php?id=3y0FSDL&t=1731169800
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/8SNAZ1kD-SruM3diD.png" group-title="Ngày 09/11",09/11 11h05 [Bóng chuyền nữ Nhật Bản] Denso Airybees W vs Himeji Victorina W
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -974,6 +954,14 @@ https://202x.io.vn/bongda/tc.php?id=XOV0Yxt&t=1731160800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://202x.io.vn/bongda/tc.php?id=8nAEEvt&t=1731151800
+#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 09/11",09/11 20h45 [Bóng chuyền nam Ba Lan] Kedzierzyn-Kozle vs Jastrzebski
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=IaovYcx&t=1731159900
+#EXTINF:0 tvg-logo="https://i.imgur.com/hZNRca8.png" group-title="Ngày 09/11",09/11 23h30 [Bóng chuyền nam Ba Lan] Slepsk Suwalki vs Zawiercie
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://202x.io.vn/bongda/tc.php?id=3y0FSDL&t=1731169800
 #EXTINF:0 tvg-logo="https://img.thesports.com/volleyball/competition/910703213762c57461ec4e4c6fad1e4a.png" group-title="Ngày 10/11",10/11 00h00 [Bóng chuyền nam Italy] Milano vs Grottazzolina
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
