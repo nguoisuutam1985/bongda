@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 09:00 [basketball] Suns vs Spurs [HD Nhanh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/phepHD.flv?wsSecret=b9a75525fcd3a526645cea4878ab3f92&wsTime=1733276710&keeptime=21600
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 09:00 [basketball] Suns vs Spurs [HD1]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/BNIoVnCPQZ_3_OoGNXZU3g/Fv2lucGIbhPi2caWYvF5Lg/1733298310007/live/phepHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 09:00 [basketball] Suns vs Spurs [HD2]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMyOTgzMTAsInVyaSI6Ii9waGVwSEQiLCJpYXQiOjE3MzMyNzY3MTB9.mbq9iEFwo4CTirDEMJF-KYYDxCTP_uGHgVJDy95lpVE-/phepHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 09:00 [basketball] Suns vs Spurs [SD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/9498feb3553423d660cc031fcedb3e9d/1733298310007/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 09:00 [basketball] Suns vs Spurs [FullHD]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/zvAxHTwoIP8UmyrU7ELUWQ/bb30dc1883f5f92057cd67eec640c4d0/1733298310/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 09:00 [basketball] Suns vs Spurs [Tiếng Anh]
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/DzfJkJfwqKZ36UfO2pcJag/Fv2lucGIbhPi2caWYvF5Lg/1733298310008/live/may61/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:00 [basketball] Nuggets vs Warriors [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
@@ -50,67 +26,75 @@ https://obevcimanyd179591709.thapcam.link/HDwNEZVi872KUMOAltcfTA/Fv2lucGIbhPi2ca
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:00 [basketball] Kings vs Rockets [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=5580582b35cfc897df664a6ca8ed120a&wsTime=1733282980&keeptime=21600
+https://fdcdn.livestreameuro.live/live/Z3HD.flv?wsSecret=995d35bb9524c78ae17496d1b54ff6db&wsTime=1733287051&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:00 [basketball] Kings vs Rockets [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/MbNpNmZasQZlBnB8bF1jPA/Fv2lucGIbhPi2caWYvF5Lg/1733304580303/live/Z3HD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/AoenUo9kjqQsBbt_El9J8A/Fv2lucGIbhPi2caWYvF5Lg/1733308651837/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:00 [basketball] Kings vs Rockets [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzMDQ1ODAsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMzMjgyOTgwfQ.P3wT2yQSIncTgd_aCWE16W5uE4Q5Mj-M_9c5O4E7rQs-/Z3HD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzMDg2NTEsInVyaSI6Ii9aM0hEIiwiaWF0IjoxNzMzMjg3MDUxfQ.9B6yhypeYwQj6NQ_RmxpSJXaFvxaapVxGXxFTRJtV-s-/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:00 [basketball] Kings vs Rockets [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/a50f7904a459eed59eae9fb75a636760/1733304580304/live/Z3SD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/ffdd21237096394b93b1d8f81f6080eb/1733308651837/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:00 [basketball] Kings vs Rockets [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/N_hp_txEV3OYkf3GoMj4HQ/fc724b392eb664de8f0b54609b1e66f5/1733304580/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/BFo9IKtvn8FLn_lR0184XA/fc724b392eb664de8f0b54609b1e66f5/1733308651/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:00 [basketball] Kings vs Rockets [Tiếng Anh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179591709.thapcam.link/TMKTQLW8T4CUNAhxG1T-tQ/Fv2lucGIbhPi2caWYvF5Lg/1733304580304/live/may211/playlist.m3u8
+https://obevcimanyd179591709.thapcam.link/YeJGLPKbiOQEXsKDzcORog/Fv2lucGIbhPi2caWYvF5Lg/1733308651837/live/may211/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:30 [basketball] Clippers vs Blazers [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/gayHD.flv?wsSecret=1f7b5518582a56d253126f7fea3626e0&wsTime=1733282981&keeptime=21600
+https://fdcdn.livestreameuro.live/live/gayHD.flv?wsSecret=fa0132b4ccbd980479f6322f73026703&wsTime=1733282434&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:30 [basketball] Clippers vs Blazers [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/hkS_cRf1e5wwF2AvuOJIEQ/Fv2lucGIbhPi2caWYvF5Lg/1733304581161/live/gayHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/RuqNroP3t7S_3y_ICfKZLA/Fv2lucGIbhPi2caWYvF5Lg/1733304034438/live/gayHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:30 [basketball] Clippers vs Blazers [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzMDQ1ODEsInVyaSI6Ii9nYXlIRCIsImlhdCI6MTczMzI4Mjk4MX0.LBNtOoIsuRZnMid_NKw4CDb6zHMFWIlsSWVMUtcFxhk-/gayHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzMDQwMzQsInVyaSI6Ii9nYXlIRCIsImlhdCI6MTczMzI4MjQzNH0.RDu62F-J0PvaeGEK-jd0sOKIXWUt6HBIVY0He3JqPUQ-/gayHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:30 [basketball] Clippers vs Blazers [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/f257ceb7bc495e0ddb19ad213c4887a4/1733304581161/live/gaySD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/d06b350be09189ece345c9bfc8caefe9/1733304034439/live/gaySD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png",04-12 10:30 [basketball] Clippers vs Blazers [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/CMlzFhjYDZtZe_rdMmr8ww/84da5215d1a1dcfaac34c074325b27a0/1733304581/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/ONwVKpTmi0x-xltHk3Iuew/84da5215d1a1dcfaac34c074325b27a0/1733304034/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",04-12 12:00 [other] Hàn Quốc vs Hongkong [HD Nhanh]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://fdcdn.livestreameuro.live/live/longHD.flv?wsSecret=3ad492fadf92cb1d6872efde060ad7b6&wsTime=1733286165&keeptime=21600
+https://fdcdn.livestreameuro.live/live/longHD.flv?wsSecret=f3987fe44f3c2c4d391221192bc7fd3b&wsTime=1733286418&keeptime=21600
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",04-12 12:00 [other] Hàn Quốc vs Hongkong [HD1]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://obevcimanyd179569584.thapcam.link/u7ZtyKXbAP_Q14yjGA-r3g/Fv2lucGIbhPi2caWYvF5Lg/1733307765392/live/longHD/playlist.m3u8
+https://obevcimanyd179569584.thapcam.link/U7IstRcBm40m8HAiZgdNqg/Fv2lucGIbhPi2caWYvF5Lg/1733308018202/live/longHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",04-12 12:00 [other] Hàn Quốc vs Hongkong [HD2]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzMDc3NjUsInVyaSI6Ii9sb25nSEQiLCJpYXQiOjE3MzMyODYxNjV9.gR_MXQR3FCSHFqldL415be-qXpNasqWbgCdIBv3kHW0-/longHD/playlist.m3u8
+https://live-kh-1123898219.thapcam.link/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzMzMDgwMTgsInVyaSI6Ii9sb25nSEQiLCJpYXQiOjE3MzMyODY0MTh9.OBMDAc6WUWOeVw59u_FSbBR_VjjReAUe_2i8haErhY4-/longHD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",04-12 12:00 [other] Hàn Quốc vs Hongkong [SD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-https://live-eu-pzybaks9eeliv.thapcam.link/ab208b4d6ecb97eaccaa31365bf16da4/1733307765392/live/longSD/playlist.m3u8
+https://live-eu-pzybaks9eeliv.thapcam.link/8916c7d2f982e9963e4923cac06062fa/1733308018202/live/longSD/playlist.m3u8
 #EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",04-12 12:00 [other] Hàn Quốc vs Hongkong [FullHD]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
-http://vb90xltcvg-secure.nsnd.live/WBVMBwHhOD9CJiDvD8_1xg/3eccd6392218a7eb1e58eb18b5b4757c/1733307765/live/_definst_/stream_1_1bda7@longFHD/playlist.m3u8
+http://vb90xltcvg-secure.nsnd.live/nQFHSjkHAgsJHGrFAizwVQ/3eccd6392218a7eb1e58eb18b5b4757c/1733308018/live/_definst_/stream_1_1bda7@longFHD/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",04-12 12:00 [other] Hàn Quốc vs Hongkong [Bàn 1]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179591709.thapcam.link/yIAfQ7vIuSd2dOwX-Yi9GQ/Fv2lucGIbhPi2caWYvF5Lg/1733308018202/live/may24/playlist.m3u8
+#EXTINF:0 group-title="[CÁC TRẬN ĐANG LIVE]" tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png",04-12 12:00 [other] Hàn Quốc vs Hongkong [Bàn 2]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz/
+https://obevcimanyd179591709.thapcam.link/9KXNzlUUo7cJrJKTYQBY7A/Fv2lucGIbhPi2caWYvF5Lg/1733308018202/live/may241/playlist.m3u8
 #EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="Ngày 04/12",04/12 16h00 [Giao hữu] Australia (w) vs Chinese Taipei (w)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2039,10 +2023,6 @@ https://wbd.x10.bz/bongda/tc.php?id=VQfqT1h&t=1733761800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=JZBAow4&t=1733295600
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 04/12",04/12 09h00 [NBA] Suns vs Spurs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=qjkOBih&t=1733277600
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 04/12",04/12 10h00 [NBA] Nuggets vs Warriors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2055,10 +2035,6 @@ https://wbd.x10.bz/bongda/tc.php?id=XPYkZ2t&t=1733281200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=OjIY5ij&t=1733283000
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 04/12",04/12 09h00 [NBA] Suns vs Spurs
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=qjkOBih&t=1733277600
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/vi/thumb/a/ae/NBA_2017_logo.svg/1200px-NBA_2017_logo.svg.png" group-title="Ngày 04/12",04/12 10h00 [NBA] Nuggets vs Warriors
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3315,18 +3291,14 @@ https://wbd.x10.bz/bongda/tc.php?id=E3sVNot&t=1733720400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=09YRRyG&t=1733731200
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/WWE.png" group-title="Ngày 04/12",04/12 08h00 [WWE] NXT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=NAsDqma&t=1733274000
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/WWE.png" group-title="Ngày 04/12",04/12 08h00 [WWE] NXT
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/tc.php?id=NAsDqma&t=1733274000
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/bia.png" group-title="Ngày 05/12",05/12 01h00 [Bi-a] Mosconi Cup
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/tc.php?id=DnZspuF&t=1733335200
+#EXTINF:0 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png" group-title="Ngày 04/12",04/12 12h00 [World Cup Bóng bàn] Hàn Quốc vs Hongkong
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/tc.php?id=EPDzHWe&t=1733288400
 #EXTINF:0 tvg-logo="https://static.vecteezy.com/system/resources/thumbnails/017/744/947/small/table-tennis-isolated-png.png" group-title="Ngày 04/12",04/12 12h00 [World Cup Bóng bàn] Hàn Quốc vs Hongkong
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
