@@ -440,3 +440,6 @@ http://pk79.io.vn/vieon/v.php?id=vtv8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vieon.vn/
 http://pk79.io.vn/vieon/v.php?id=vtv9
+#EXTINF:0 group-title="CCTV" tvg-logo="",CCTV14
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://ldocctvwbcdcnchw.v.cdn20.com/ldocctvwbcd/cdrmldcctv14_1_720P/playlist.m3u8?wsApp=HLS
