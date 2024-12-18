@@ -21,8 +21,8 @@ http://1.199.235.140:9901/tsfile/live/0009_1.m3u8
 http://1.199.235.140:9901/tsfile/live/0010_1.m3u8
 #EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV12-ç¤¾ä¼ä¸æ³•
 http://1.199.235.140:9901/tsfile/live/0012_1.m3u8
-#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png"
-http://1.199.235.140:9901/tsfile/live/0013_1.m3u8,CCTV13-æ–°é—»
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV13-æ–°é—»
+http://1.199.235.140:9901/tsfile/live/0013_1.m3u8
 #EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV15-éŸ³ä¹
 http://1.199.235.140:9901/tsfile/live/0015_1.m3u8
 #EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/ifeng1.png",å‡¤å‡°èµ„è®¯1
