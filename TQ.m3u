@@ -1,0 +1,151 @@
+#EXTM3U
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV1-ç»¼åˆ
+http://221.224.4.170:1111/tsfile/live/0001_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV2-è´¢ç»
+http://1.199.235.140:9901/tsfile/live/0001_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV3-ç»¼è‰º
+http://113.220.233.228:9999/tsfile/live/0019_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV4-ä¸­æ–‡
+http://14.177.12.87:10000/udp/232.84.3.183:11020"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV5-ä½“è‚²
+http://113.220.233.228:9999/tsfile/live/0005_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV6-ç
+http://113.220.233.228:9999/tsfile/live/0006_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV7
+https://live.junhao.mil.cn/rmt9502/3e6e7c5477314ec38f5e58e2a5c70024.m3u8?txSecret=57978fafb9c19880afa5c8687e8241d8&txTime=7A42BAFF
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV8-ç”µè§†å‰§
+http://113.220.233.228:9999/tsfile/live/0008_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV9-è®°å½•
+http://1.199.235.140:9901/tsfile/live/0009_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV10-ç§‘æ•™
+http://1.199.235.140:9901/tsfile/live/0010_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV12-ç¤¾ä¼ä¸æ³•
+http://1.199.235.140:9901/tsfile/live/0012_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV13-æ–°é—»
+http://1.199.235.140:9901/tsfile/live/0013_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/cctv.png",CCTV15-éŸ³ä¹
+http://1.199.235.140:9901/tsfile/live/0015_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/ifeng1.png",å‡¤å‡°èµ„è®¯1
+https://ali.hlspull.yximgs.com/live/diyp_fh1.flv"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/ifeng1.png",å‡¤å‡°èµ„è®¯2
+http://php.jdshipin.com:8880/TVOD/iptv.php?id=fhzx"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/ifeng.png",å‡¤å‡°ä¸­æ–‡1
+https://ali.hlspull.yximgs.com/live/diyp_fh2.flv"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/ifeng.png",å‡¤å‡°ä¸­æ–‡2
+http://php.jdshipin.com/TVOD/iptv.php?id=fhzw"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/xingkongtv.jpg",æ˜Ÿç©ºå«è§†
+http://119.6.178.158:8000/udp/239.93.0.156:2193"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/hongkong.jpg",é¦™æ¸¯å«è§†
+http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ä¸­å¤©å¨±ä¹
+http://61.221.215.25:8800/hls/47/index.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ææ€–æ•…äº‹
+http://jiaojirentv.top/2020/dy.php?id=2337939"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ææ€–æƒæ‚
+http://jiaojirentv.top/2020/dy.php?id=2935323"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç§‘å¹»å¨ä½œ
+http://jiaojirentv.top/2020/dy.php?id=4332"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",åˆå¤œæ•…äº‹
+http://jiaojirentv.top/2020/dy.php?id=8722254"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç²¤è¯­ç”µå½±
+http://jiaojirentv.top/2020/dy.php?id=6566671"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ææ€–ä¸§å°¸é¬¼ç‰‡
+http://jiaojirentv.top/2020/dy.php?id=263824"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",æ¼«å¨å½±ç‰‡
+http://jiaojirentv.top/2020/dy.php?id=6140589"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",æ—æ­£è‹±ç”µå½±
+http://jiaojirentv.top/2020/dy.php?id=7356023"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç»å…¸ç”µå½±
+http://jiaojirentv.top/2020/dy.php?id=74374"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ææ€–ç»å…¸
+http://jiaojirentv.top/2020/dy.php?id=1165374"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",åè¯­ç”µå½±
+http://jiaojirentv.top/2020/dy.php?id=3928"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",æ–—é±¼ç”µå½±
+http://jiaojirentv.top/2020/dy.php?id=1979257"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",å‘¨æ˜Ÿé©°
+https://live.metshop.top/huya/11342412"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç²¤è¯­å‘¨æ˜Ÿé©°
+http://huanqiuzhibo.cn/manifest/huya.php?id=11336587"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç”„å­ä¸¹
+https://live.metshop.top/huya/11352935"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",æè¿æ°
+https://live.metshop.top/huya/11342390"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",åˆ˜å¾·å
+https://live.metshop.top/huya/11342424"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",é‚±æ·‘è´
+https://live.metshop.top/huya/11352949"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",å¥³ç¥ç³»åˆ—
+https://live.metshop.top/huya/11336571"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",èµŒç‰‡
+https://live.metshop.top/huya/11342399"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",äº”ç¦æ˜Ÿ
+https://live.metshop.top/huya/11282233"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",å¤å¢“ç³»åˆ—
+https://live.metshop.top/huya/11352913"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç¾é¾ç”µå½±
+https://live.metshop.top/huya/11352871"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",æ¸¯ç‰‡
+https://live.metshop.top/huya/11602043"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",å›½äº§å–œå‰§
+https://live.metshop.top/huya/11602044"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç”µå½±_å¼ºæ£®
+https://live.metshop.top/huya/21059581"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç”µå½±_ç›—å¢“
+https://live.metshop.top/huya/21059552"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç”µå½±_æ¢å®¶è¾‰
+https://live.metshop.top/huya/11342429"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç”µå½±_æˆ˜äº‰ç‰‡
+https://live.metshop.top/huya/21059574"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç”µå½±_ç¯ç½ªç‰‡
+https://live.metshop.top/huya/11352974"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="none",ç”µå½±_å¤è£…ç‰‡
+https://live.metshop.top/huya/11336590"
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/hunan.png",æ¹–å—å«è§†
+http://221.224.4.170:1111/tsfile/live/0128_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/shanghai.png",ä¸œæ–¹å«è§†
+http://113.220.233.228:9999/tsfile/live/1005_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/jiangshu.png",æ±Ÿè‹å«è§†
+http://221.224.4.170:1111/tsfile/live/0127_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/zejiang.jpg",æµ™æ±Ÿå«è§†
+http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8,       
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/shandong.png",å±±ä¸œå«è§†
+http://1.199.235.140:9901/tsfile/live/0131_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/hebei.png",æ²³åŒ—å«è§†
+http://1.199.235.140:9901/tsfile/live/0117_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/guangdong.png",å¹¿ä¸œå«è§†
+http://1.199.235.140:9901/tsfile/live/0125_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/sztv.png",æ·±åœ³å«è§†
+http://1.199.235.140:9901/tsfile/live/0126_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/hubei.png",æ¹–åŒ—å«è§†
+http://221.224.4.170:1111/tsfile/live/0132_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/jiangxi.png",æ±Ÿè¥¿å«è§†
+http://221.224.4.170:1111/tsfile/live/0138_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/beijin.png",åŒ—äº¬å«è§†
+http://221.224.4.170:1111/tsfile/live/0122_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/anhui.png",å®‰å¾½å«è§†
+http://123.166.61.70:8003/hls/55/index.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/tianjin.png",å¤©æ´¥å«è§†
+http://1.199.235.140:9901/tsfile/live/0135_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/liaolin.png",è¾½å®å«è§†
+http://123.166.61.70:8003/hls/20/index.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="https://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/ganshu.png",ç”˜è‚ƒå«è§†
+http://221.224.4.170:1111/tsfile/live/0141_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="https://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/sxtv.png",å±±è¥¿å«è§†
+http://1.199.235.140:9901/tsfile/live/0118_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="https://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/shanxi.png",é™•è¥¿å«è§†
+http://1.199.235.140:9901/tsfile/live/0136_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/sichuan.png",å››å·å«è§†
+http://1.199.235.140:9901/tsfile/live/0123_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/guizhou.png",è´µå·å«è§†
+http://118.248.216.163:8088/tsfile/live/0122_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/henan.png",æ²³å—å«è§†
+http://221.224.4.170:1111/tsfile/live/0139_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/jilin.png",å‰æ—å«è§†
+http://221.224.4.170:1111/tsfile/live/0116_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/heilongjiang.png",é»‘é¾™æ±Ÿå«è§†
+http://221.224.4.170:1111/tsfile/live/0143_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/fujiandonnan.png",ä¸œå—å«è§†
+http://221.224.4.170:1111/tsfile/live/0143_1.m3u8
+#EXTINF:0 group-title="KENH TQ" tvg-logo="http://jsontv.oss-cn-shenzhen.aliyuncs.com/icon/guangxi.png",å¹¿è¥¿å«è§†
+http://221.224.4.170:1111/tsfile/live/0113_1.m3u8
