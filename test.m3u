@@ -504,6 +504,24 @@ https://202x.io.vn/daily?id=x8vo2ga
 #EXTINF:0 group-title="Daily",Chiếc Bánh Ngọt Ngào (Sweet Buns) - Ep.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 https://202x.io.vn/daily?id=x8vo2gc
+#EXTM3U
+#EXTINF:-1 group-title="0000",VTVcab 16 | On Football
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70fb8c3c934834d1a2e81987c944a92a:23a13f2e342e297e75141cce1d497cae
+https://odcc62j2arliv.vcdn.cloud/livedrm/V16_test/manifest.mpd
+#EXTINF:-1 group-title="0000",VTVcab3 | On Sports
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5fee0ae0a71330d9c7853a47fc397b7:253ec7bd4860f0967953e6d79aefd096
+https://odcc62j2arliv.vcdn.cloud/livedrm/V3_test/manifest.mpd
+#EXTINF:-1 group-title="0000",VTVcab6 | On Sports+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=63cff512e9db32568bb571c2310a7ac1:21104fc5c92598ea81f04f64f97a3844
+https://odcc62j2arliv.vcdn.cloud/livedrm/V6_test/manifest.mpd
+#EXTINF:-1 group-title="0000",a1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
+#EXTVLCOPT:http-referrer=https://sctvonline.vn/
+https://e6.endpoint.cdn.sctvonline.vn/live_dzones/aplus.smil/manifest.mpd
 
 
 
