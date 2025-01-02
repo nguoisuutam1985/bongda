@@ -525,107 +525,84 @@ https://e6.endpoint.cdn.sctvonline.vn/live_dzones/aplus.smil/manifest.mpd
 
 
 
-
 #EXTM3U
-#EXTINF:-1 group-title="0000",VTVcab 16 | On Football
+#EXTINF:-1 group-title="0000",SCTV VTVcab 16 | On Football
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70fb8c3c934834d1a2e81987c944a92a:23a13f2e342e297e75141cce1d497cae
 https://odcc62j2arliv.vcdn.cloud/livedrm/V16_test/manifest.mpd
-#EXTINF:-1 group-title="0000",VTVcab3 | On Sports
+#EXTINF:-1 group-title="0000",SCTV VTVcab3 | On Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d5fee0ae0a71330d9c7853a47fc397b7:253ec7bd4860f0967953e6d79aefd096
 https://odcc62j2arliv.vcdn.cloud/livedrm/V3_test/manifest.mpd
-#EXTINF:-1 group-title="0000",VTVcab6 | On Sports+
+#EXTINF:-1 group-title="0000",SCTV VTVcab6 | On Sports+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=63cff512e9db32568bb571c2310a7ac1:21104fc5c92598ea81f04f64f97a3844
 https://odcc62j2arliv.vcdn.cloud/livedrm/V6_test/manifest.mpd
-#EXTINF:-1 group-title="0000",a1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
-#EXTVLCOPT:http-referrer=https://sctvonline.vn/
-https://e6.endpoint.cdn.sctvonline.vn/live_dzones/aplus.smil/manifest.mpd
-#EXTINF:-1 group-title="0000",a3a
+#EXTINF:-1 group-title="0000",Cliptv On Sports HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d4d9c6a52894364a973b5431d217db67:327ad087d2c06f0aec2a93b8dd56a57d
 https://106bec9d8.vws.vegacdn.vn/uRqkvAhjuAigxxfrWA6pPg/1735889681/MDkzMzI1ODcyNg==/cliptv_live/amlst:vtvcab3hd/manifest.mpd
-#EXTINF:-1 group-title="0000",a3b
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d4d9c6a52894364a973b5431d217db67:327ad087d2c06f0aec2a93b8dd56a57d
-https://106bec9d8.vws.vegacdn.vn/xy6DvgsXbao01Hg3j5x5GQ/1735891342/MDkzMzI1ODcyNg==/cliptv_live/amlst:vtvcab3hd/manifest.mpd
 
 
 
-
-#EXTINF:-1 group-title="1",a3b 1
+#EXTINF:-1 group-title="1",SCTV ABC AUSTRALIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9a09a73ec1dc348584e2f130e27da667:06f8d1a6feaffbdab92adf347e7b469c
-https://e6.endpoint.cdn.sctvonline.vn/live_dzones/aplus.smil/manifest.mpd
-#EXTINF:-1 group-title="1",a3b 2
+https://z215ymcm4tliv.vcdn.cloud/s4/msky/live_dzones/aplus.smil/manifest.mpd
+#EXTINF:-1 group-title="1",SCTV Animal Planet
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ec6f072c7125377a9bc0ae61598095f4:1d5388e0781415ebcec9914f5ad75875
-https://e6.endpoint.cdn.sctvonline.vn/live_dzones/ap.smil/manifest.mpd
-#EXTINF:-1 group-title="1",a3b 3
+https://z215ymcm4tliv.vcdn.cloud/s4/msky/live_dzones/ap.smil/manifest.mpd
+#EXTINF:-1 group-title="1",SCTV AXN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
 https://z215ymcm4tliv.vcdn.cloud/s4/msky/live_dzones/axn.smil/manifest.mpd
-#EXTINF:-1 group-title="1",a3b 4
+#EXTINF:-1 group-title="1",SCTV BBC
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c7ba46086dda345a929e29bf155e459c:d374b8f39904bf572689ea347ae86591
 https://z215ymcm4tliv.vcdn.cloud/s4/msky/live_dzones/bbcworldnews.smil/manifest.mpd
-#EXTINF:-1 group-title="1",a3b 5
+#EXTINF:-1 group-title="1",SCTV Cartoon Netword
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=3c20166660a93a75ac77db81567389f7:3cc1add43aecce3fe31c9c6a2a5b8c21
 https://z215ymcm4tliv.vcdn.cloud/s4/msky/live_dzones/cn.smil/manifest.mpd
-#EXTINF:-1 group-title="1",a3b 6
+#EXTINF:-1 group-title="1",SCTV CNN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=714cc8ed05a03abb9ac61bd4bbd1d8a0:1acf58ff8d4cd87c2d3c12d22248efb1
 https://z215ymcm4tliv.vcdn.cloud/s4/msky/live_dzones/cnn.smil/manifest.mpd
-#EXTINF:-1 group-title="1",a3b 7
+#EXTINF:-1 group-title="1",SCTV DISCOVERY
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eb4160ea553a321d899553e4e796fec2:bea5a07157e0c4d17b11ab399517f952
 https://z215ymcm4tliv.vcdn.cloud/s4/msky/live_dzones/dsc.smil/manifest.mpd
-#EXTINF:-1 group-title="1",a3b 8
+#EXTINF:-1 group-title="1",SCTV DISCOVERY ASIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=934907b134be3963a6263a453846924c:788e2835fb98568aed2f47bbdc091515
 https://z215ymcm4tliv.vcdn.cloud/s4/msky/live_dzones/dscasia.smil/manifest.mpd
-#EXTINF:-1 group-title="1",a3b 9
+#EXTINF:-1 group-title="1",SCTV FASHION TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c1d9f25701023508bfa6737e3a8c7001:30c3613e9b06e0f7cc201014f31bf5d8
-https://e6.endpoint.cdn.sctvonline.vn/live_dzones/ftv.smil/manifest.mpd
-#EXTINF:-1 group-title="1",a3b 10
+https://z215ymcm4tliv.vcdn.cloud/s4/msky/live_dzones/ftv.smil/manifest.mpd
+#EXTINF:-1 group-title="1",SCTV K+ ACTION
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=51cc47d5db994f80bcc44857afc01961:f1a4a62064bf4c429b7fea8525fbe939
 https://v34wgeihqtliv.vcdn.cloud/kplus_action/master.mpd
-#EXTINF:-1 group-title="1",a3b 11
+#EXTINF:-1 group-title="1",SCTV K+ CINE
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51cc47d5db994f80bcc44857afc01961:f1a4a62064bf4c429b7fea8525fbe939
+#KODIPROP:inputstream.adaptive.license_key=6b936a22ec8244d59338695d453cd733:6b982a423cad46488bac772550e9e38c
 https://v34wgeihqtliv.vcdn.cloud/packager-kplus-cine/master.mpd
-#EXTINF:-1 group-title="1",a3b 12
+#EXTINF:-1 group-title="1",SCTV SCTV22
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51cc47d5db994f80bcc44857afc01961:f1a4a62064bf4c429b7fea8525fbe939
+#KODIPROP:inputstream.adaptive.license_key=b79d53f000284fb6886fcc158151f9d5:de403f694d95466d9d5ba575edc79069
 https://v34wgeihqtliv.vcdn.cloud/sctv22/master.mpd
-#EXTINF:-1 group-title="1",a3b 13
+
+#EXTINF:-1 group-title="1",SCTV SCTV16
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51cc47d5db994f80bcc44857afc01961:f1a4a62064bf4c429b7fea8525fbe939
+#KODIPROP:inputstream.adaptive.license_key=a9101133be274765b537172c16419592:09612dc8122a44f8b6bce531827bb153
 https://v34wgeihqtliv.vcdn.cloud/vtvcab16/master.mpd
-#EXTINF:-1 group-title="1",a3b 14
+#EXTINF:-1 group-title="1",SCTV ON SPORTS HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51cc47d5db994f80bcc44857afc01961:f1a4a62064bf4c429b7fea8525fbe939
+#KODIPROP:inputstream.adaptive.license_key=8e1b818a06b044fb95272a2d17891ec5:09645a74e63e4b70a7ffae8fe2a5b58b
 https://v34wgeihqtliv.vcdn.cloud/vtvcab3/master.mpd
-#EXTINF:-1 group-title="1",a3b 15
+#EXTINF:-1 group-title="1",SCTV ON SPORTS+
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=51cc47d5db994f80bcc44857afc01961:f1a4a62064bf4c429b7fea8525fbe939
+#KODIPROP:inputstream.adaptive.license_key=1a696a42e6ab427ab49074aea354875b:992edf9d1b2d4f23bb9dd0d291868c42
 https://v34wgeihqtliv.vcdn.cloud/vtvcab6/master.mpd
-
-
-
-
-
-
-
-
-
-
-
-
-
