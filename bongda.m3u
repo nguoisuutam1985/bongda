@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:0 group-title="[TEST]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9c/Lpl_newlogo.png",19/01 16h 00 INVICTUS GAMING VS NINJAS IN PYJAMAS (TC) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://s1.viupload.net/hls2/01/00003/ez26hy0bmxrl_o/master.m3u8?t=Hhfk-X4dXOI0CvJQkH6R43QJfKbX7Avu6QoWbR-TZcs&s=1737291282&e=43200&f=16395&i=0.3&sp=0
+
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9c/Lpl_newlogo.png",19/01 16h 00 INVICTUS GAMING VS NINJAS IN PYJAMAS (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
