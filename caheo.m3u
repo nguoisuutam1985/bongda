@@ -67,10 +67,30 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m304nd/playlist.m3u8
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",20/01 02h45 Marseille VS Strasbourg (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",20/01 02h45 Marseille VS Strasbourg (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@bipsd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",20/01 02h45 Marseille VS Strasbourg (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@biphd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",20/01 02h45 Marseille VS Strasbourg (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",20/01 02h45 Marseille VS Strasbourg (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@biphd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",20/01 02h45 Marseille VS Strasbourg (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@bipsd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",20/01 02h45 Marseille VS Strasbourg (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@biphd1.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png",20/01 02h45 Inter Milan VS Empoli (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -99,14 +119,38 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@cohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m402nd/playlist.m3u8
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="La Liga",20/01 03h00 Valencia VS Real Sociedad (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png",20/01 03h00 Almeria VS SD Huesca (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m403nd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",20/01 03h00 Valencia VS Real Sociedad (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@heosd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",20/01 03h00 Valencia VS Real Sociedad (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@heohd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",20/01 03h00 Valencia VS Real Sociedad (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heosd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",20/01 03h00 Valencia VS Real Sociedad (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/heohd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",20/01 03h00 Valencia VS Real Sociedad (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@heosd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",20/01 03h00 Valencia VS Real Sociedad (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@heohd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",20/01 03h00 Valencia VS Real Sociedad (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m401nd/playlist.m3u8
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",20/01 03h30 Gil Vicente VS FC Porto (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -139,7 +183,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/bVPkV0kD-KvFjdzUJ.png",20/01 07h00 Milwaukee Bucks VS Philadelphia 76ers (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/1027723af57b4762a68aa269dc07b86b.png",20/01 07h00 Perez Zeledon VS Santa  Ana (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -147,7 +191,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/1027723af57b4762a68aa269dc07b86b.png",20/01 07h00 Perez Zeledon VS Santa  Ana (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/bVPkV0kD-KvFjdzUJ.png",20/01 07h00 Milwaukee Bucks VS Philadelphia 76ers (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -163,11 +207,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/bVPkV0kD-KvFjdzUJ.png",20/01 09h00 Los Angeles Clippers VS Los Angeles Lakers (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/bVPkV0kD-KvFjdzUJ.png",20/01 09h00 Portland Trail Blazers VS Chicago Bulls (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/bVPkV0kD-KvFjdzUJ.png",20/01 09h00 Portland Trail Blazers VS Chicago Bulls (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/bVPkV0kD-KvFjdzUJ.png",20/01 09h00 Los Angeles Clippers VS Los Angeles Lakers (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -323,15 +367,15 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",21/01 03h00 Chelsea VS Wolves (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="La Liga",21/01 03h00 Villarreal VS Mallorca (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Cúp FA Scotland",21/01 03h00 Dundee VS Dundee United (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",21/01 03h00 Chelsea VS Wolves (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
