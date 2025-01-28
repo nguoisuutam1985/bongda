@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png",28/01 07h30 HEAT VS MAGIC (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://fdcdn.livestreameuro.live/live/thuongHD.flv?wsSecret=01544ceadabeb3d658ad5a934d1c94f2&wsTime=1738023304&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png",28/01 07h30 HEAT VS MAGIC (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179569584.akainu.xyz/Phx07qx5c3EH3WlrbzGL_w/Fv2lucGIbhPi2caWYvF5Lg/1738044904557/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png",28/01 07h30 HEAT VS MAGIC (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3MzgwNDQ5MDQsInVyaSI6Ii90aHVvbmdIRCIsImlhdCI6MTczODAyMzMwNH0.dq4Uu8d4V0Z1ZBX72gOWILKn5fsNU-NDmoYmOsWBwlk-/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png",28/01 07h30 HEAT VS MAGIC (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/78aaa31d19e50cc887d5d658ee17aa91/1738044904558/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png",28/01 07h30 HEAT VS MAGIC (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-http://ignoretext.nsnd.live/rcnHk1iqoF-6iv3pReeueg/9d3c1936b065e6a3605ccd426df0ce6c/1738044904/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png",28/01 08h00 TIMBERWOLVES VS HAWKS (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -115,6 +95,14 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=fn4ihSE&t=1738072800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=38LXAmd&t=1738065600
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",28/01 19h00 Qatar U20 vs Korea Republic U20 (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=FTfa9P2&t=1738065600
+#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",28/01 22h00 Portugal (w) U19 vs Finland (w) U19 (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=UFGljlU&t=1738076400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png" group-title="[LỊCH THI ĐẤU]",28/01 21h00 NBE SC vs Petrojet (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -123,10 +111,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=fquiIoY&t=1738072800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=P6M573I&t=1738072800
-#EXTINF:0 tvg-logo="https://mfamt.blob.core.windows.net/competition-images/1092772-competition.png" group-title="[LỊCH THI ĐẤU]",28/01 22h00 Portugal (w) U19 vs Finland (w) U19 (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=UFGljlU&t=1738076400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/29c119307c73d2b4bec81b0e7dbf9cb1.png" group-title="[LỊCH THI ĐẤU]",29/01 00h00 Smouha SC vs ZED FC (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1023,6 +1007,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=UfbQarG&t=1738371600
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=s8VwIAr&t=1738371600
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="[LỊCH THI ĐẤU]",01/02 07h30 Independiente Santa Fe vs Deportes Tolima (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=0OasEz2&t=1738369800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png" group-title="[LỊCH THI ĐẤU]",01/02 08h00 Mazatlan FC vs Club Leon (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1607,6 +1595,18 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=yiewGyD&t=1738447200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=TxvvjzX&t=1738454400
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="[LỊCH THI ĐẤU]",02/02 03h00 Deportiva Once Caldas vs Fortaleza F.C (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=I5gm6zA&t=1738440000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="[LỊCH THI ĐẤU]",02/02 05h10 Deportivo Pasto vs Millonarios (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=UmPtZVF&t=1738447800
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/a43b934409a4d2475b0e5f69d1b2ec16.png" group-title="[LỊCH THI ĐẤU]",02/02 07h20 Atletico Junior Barranquilla vs Aguilas Doradas (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=5C5JER4&t=1738455600
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/57bb4f7957510c2da5fd076e75618f5f.png" group-title="[LỊCH THI ĐẤU]",02/02 03h00 Danubio FC vs Liverpool URU (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2087,6 +2087,14 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=XYwccMf&t=1738512000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=XSUSsjt&t=1738123200
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="[LỊCH THI ĐẤU]",28/01 12h00 Daegu KOGAS Pegasus vs Buasn KCC Egis (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=czmrkdV&t=1738040400
+#EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/f841aa3bd3c2aeffca04f78bfaeecaf7.png" group-title="[LỊCH THI ĐẤU]",28/01 14h00 Goyang Sono Skygunners vs Anyang JungKwanJang Red Boosters (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=eV2E3Qg&t=1738047600
 #EXTINF:0 tvg-logo="https://img.thesports.com/basketball/competition/061f5ab5b1a975fc1004529ec3f11fca.png" group-title="[LỊCH THI ĐẤU]",29/01 07h30 76ers vs Lakers (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
