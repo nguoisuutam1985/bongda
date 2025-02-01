@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png",01/02 22h00 G2 VS VIRTUS PRO (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://fdcdn.livestreameuro.live/live/caoHD.flv?wsSecret=d426d26af67a6752a6a51ff89710b72f&wsTime=1738419305&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png",01/02 22h00 G2 VS VIRTUS PRO (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179569584.akainu.xyz/LkXk6L3S19cX5gjtqN-5Jg/Fv2lucGIbhPi2caWYvF5Lg/1738440905250/live/caoHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png",01/02 22h00 G2 VS VIRTUS PRO (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzg0NDA5MDUsInVyaSI6Ii9jYW9IRCIsImlhdCI6MTczODQxOTMwNX0.JUTsAAPs-HTlwdtX3lyIfx7Y84YM-PLhVtPfRAvqEA4-/caoHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png",01/02 22h00 G2 VS VIRTUS PRO (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/565e8c2d320c1dda3e84f90294c72c41/1738440905250/live/caoSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png",01/02 22h00 G2 VS VIRTUS PRO (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-http://ignoretext.nsnd.live/tcZ7Z-B6ogWVKGv8L8oBMw/0027e56455a2e21d4e9af4c00853528e/1738440905/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png",01/02 22h00 FAZE VS BIG (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -291,6 +271,10 @@ http://ignoretext.nsnd.live/Kenc_Nib1kG0cV3EDGjvYQ/444a075c42c2d0e744c4509423415
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 https://hotlivezz179026907.akainu.xyz/HaMB96f3lfm3DiUy1Q6Nrg/Fv2lucGIbhPi2caWYvF5Lg/1738451707768/live/may28/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/d7723bacef1a7427f4137b619588a7cb.png",02/02 02h30 OLSZTYN VS BARKOM (TC) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotlivezz179026907.akainu.xyz/HHYqSfE7z-GlUQlhD0p67Q/Fv2lucGIbhPi2caWYvF5Lg/1738452604946/live/may24/playlist.m3u8
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="[LỊCH THI ĐẤU]",02/02 02h45 Bologna vs Como (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -303,10 +287,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=sxyHMCa&t=1738495800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=Gu4WYhz&t=1738504800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="[LỊCH THI ĐẤU]",02/02 00h30 Wolves vs Aston Villa (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=qTeZT3m&t=1738431000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png" group-title="[LỊCH THI ĐẤU]",02/02 21h00 Brentford vs Tottenham Hotspur (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -319,10 +299,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=TdWp8FX&t=1738504800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=BiSoDZg&t=1738513800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="[LỊCH THI ĐẤU]",02/02 00h30 Atletico Madrid vs Mallorca (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=vSSEPSh&t=1738431000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e6ee784bdd6af4694075206cd069387e.png" group-title="[LỊCH THI ĐẤU]",02/02 03h00 RCD Espanyol vs Real Madrid (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -335,10 +311,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=OVljDjb&t=1738501200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=oEdsCug&t=1738509300
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LỊCH THI ĐẤU]",02/02 00h30 Union Berlin vs RB Leipzig (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=qKPQgda&t=1738431000
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/0c6a25cd746e802296d9064b4504179d.png" group-title="[LỊCH THI ĐẤU]",02/02 21h30 Eintracht Frankfurt vs VfL Wolfsburg (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -1415,22 +1387,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=XSQVDNE&t=1738945800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=c0NoXW0&t=1738483200
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png" group-title="[LỊCH THI ĐẤU]",02/02 00h30 Navi vs Furia (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=Y2e83qi&t=1738431000
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png" group-title="[LỊCH THI ĐẤU]",02/02 00h30 Mouz vs Gamer Legion (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=UXlXv51&t=1738431000
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png" group-title="[LỊCH THI ĐẤU]",02/02 00h30 Navi vs Furia (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=Y2e83qi&t=1738431000
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/OYjlKVRp-CUJpApJi.png" group-title="[LỊCH THI ĐẤU]",02/02 00h30 Mouz vs Gamer Legion (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=UXlXv51&t=1738431000
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/8b057MU1-dWfxUpxh.png" group-title="[LỊCH THI ĐẤU]",02/02 13h00 Nongshim Red Force vs FearX (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
