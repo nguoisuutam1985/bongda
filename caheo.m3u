@@ -1,32 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",02/02 22h15 Valencia VS Celta de Vigo (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@paosd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",02/02 22h15 Valencia VS Celta de Vigo (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live-caheo.cdnlive.pro/live/_definst_/stream_1_a86e6@paohd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",02/02 22h15 Valencia VS Celta de Vigo (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",02/02 22h15 Valencia VS Celta de Vigo (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",02/02 22h15 Valencia VS Celta de Vigo (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@paosd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",02/02 22h15 Valencia VS Celta de Vigo (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@paohd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",02/02 22h15 Valencia VS Celta de Vigo (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m102nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Thụy Sĩ",02/02 22h30 FC Zurich VS FC Basel 1893 (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -39,10 +11,6 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m105nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",02/02 23h15 Bari VS Frosinone (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",02/02 23h15 Reims VS Nantes (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -67,10 +35,10 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@lulusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@luluhd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",02/02 23h15 Angers VS Le Havre AC (CH) Nhà đài
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Italian Serie B",02/02 23h15 Bari VS Frosinone (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m205nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",02/02 23h15 Stade Rennais FC VS Strasbourg (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -95,6 +63,10 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@heosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@heohd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/d1569394723b61d7aa6b0aee530945fe.png",02/02 23h15 Angers VS Le Havre AC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ba Lan",02/02 23h30 Legia Warszawa VS Korona Kielce (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -191,10 +163,10 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m303nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m101nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png",03/02 00h30 Real Zaragoza VS Cadiz (CH) Nhà đài
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Bỉ",03/02 00h30 KAA Gent VS Anderlecht (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@m305nd.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="La Liga",03/02 00h30 Osasuna VS Real Sociedad (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -227,14 +199,10 @@ https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m102nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m104nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Bỉ",03/02 00h30 KAA Gent VS Anderlecht (CH) Nhà đài
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/2f29d65e29a639f22429a6d8241895af.png",03/02 00h30 Real Zaragoza VS Cadiz (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@m305nd.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/fyzpaPnd-YmOpGw9P.png",03/02 01h00 FCSB VS CFR Cluj (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m103nd/playlist.m3u8
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m202nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/944fcefc160f78322ddcc68ec995040e.png",03/02 01h00 Sporting CP VS SC Farense (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -259,23 +227,23 @@ https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@caysd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://liveflv-caheo.cdnlive.pro/live/stream_1_a86e6@cayhd1.flv
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png",03/02 01h15 Hapoel Haifa VS Maccabi Netanya (CH)
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/fyzpaPnd-YmOpGw9P.png",03/02 01h00 FCSB VS CFR Cluj (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Bỉ",03/02 01h15 KV Kortrijk VS KVC Westerlo (CH)
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m103nd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img0.aiscore.com/football/competition/acaae7840e78337f1fcdffd3430e4205.png",03/02 01h15 Hapoel Haifa VS Maccabi Netanya (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/OQxpkTT1-lfRGEGeb.png",03/02 01h30 Panaitolikos Agrinio VS Atromitos Athens (CH)
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m201nd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Bỉ",03/02 01h15 KV Kortrijk VS KVC Westerlo (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+https://liveflv-cuckoo.cdnlive.pro/live/stream_1_a86e6@m106nd.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://static.flashscore.com/res/image/data/OQxpkTT1-lfRGEGeb.png",03/02 01h30 Panaitolikos Agrinio VS Atromitos Athens (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://live.cdnlive.pro/live/_definst_/stream_1_a86e6@m203nd/playlist.m3u8
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: English FA Women's Super League",03/02 01h45 Tottenham Hotspur (w) VS Manchester United (w) (CH)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Siêu cúp Brasil",03/02 02h00 Botafogo RJ VS CR Flamengo (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -284,6 +252,10 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Hà Lan",03/02 02h00 Willem II VS AZ Alkmaar (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Siêu cúp Brasil",03/02 02h00 Botafogo RJ VS CR Flamengo (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -299,7 +271,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="La Liga",03/02 03h00 Real Betis VS Athletic Bilbao (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/19bc08fd59288a5811c21c814dfd9c2a.png",03/02 03h00 San Lorenzo VS River Plate (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -307,7 +279,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/19bc08fd59288a5811c21c814dfd9c2a.png",03/02 03h00 San Lorenzo VS River Plate (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="La Liga",03/02 03h00 Real Betis VS Athletic Bilbao (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -315,11 +287,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/bm9FyxEO-0IKCUQAs.png",03/02 04h00 Marathon VS Real Sociedad Tocoa (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/1027723af57b4762a68aa269dc07b86b.png",03/02 04h00 Herediano VS Sporting San Jose (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/1027723af57b4762a68aa269dc07b86b.png",03/02 04h00 Herediano VS Sporting San Jose (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/bm9FyxEO-0IKCUQAs.png",03/02 04h00 Marathon VS Real Sociedad Tocoa (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -339,11 +311,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Cúp Chile",03/02 06h00 Deportes Santa Cruz VS Curico Unido (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Nữ Mexico",03/02 06h00 Club Necaxa (w) VS Puebla (w) (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Nữ Mexico",03/02 06h00 Club Necaxa (w) VS Puebla (w) (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Cúp Chile",03/02 06h00 Deportes Santa Cruz VS Curico Unido (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -363,11 +335,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Vô Địch Venezuela",03/02 06h30 Carabobo FC VS Portuguesa FC (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Cúp Chile",03/02 06h30 Universidad de Chile VS CD Magallanes (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Cúp Chile",03/02 06h30 Universidad de Chile VS CD Magallanes (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Vô Địch Venezuela",03/02 06h30 Carabobo FC VS Portuguesa FC (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -387,11 +359,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/IeltdBkD-x0iHil9i.png",03/02 08h00 Atletico San Luis VS Pumas U.N.A.M. (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/1027723af57b4762a68aa269dc07b86b.png",03/02 08h00 Alajuelense VS Cartagines Deportiva SA (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/1027723af57b4762a68aa269dc07b86b.png",03/02 08h00 Alajuelense VS Cartagines Deportiva SA (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://static.flashscore.com/res/image/data/IeltdBkD-x0iHil9i.png",03/02 08h00 Atletico San Luis VS Pumas U.N.A.M. (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -403,11 +375,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="NBA Nhà Nghề Mỹ",03/02 08h30 Milwaukee Bucks VS Memphis Grizzlies (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Colombia",03/02 08h30 Atletico Bucaramanga VS America de Cali (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Colombia",03/02 08h30 Atletico Bucaramanga VS America de Cali (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="NBA Nhà Nghề Mỹ",03/02 08h30 Milwaukee Bucks VS Memphis Grizzlies (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -427,7 +399,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/0504b24f98f8c083439816864fcf485c.png",03/02 18h00 Al Shorta VS Naft Al Junoob (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/0504b24f98f8c083439816864fcf485c.png",03/02 18h00 Diala VS Naft Misan (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -435,7 +407,7 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/0504b24f98f8c083439816864fcf485c.png",03/02 18h00 Diala VS Naft Misan (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/0504b24f98f8c083439816864fcf485c.png",03/02 18h00 Al Shorta VS Naft Al Junoob (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -463,11 +435,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",03/02 21h00 Odisha FC VS Northeast United (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="AFC Champions League Elite",03/02 21h00 Al-Ain SFC VS Al Rayyan (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="AFC Champions League Elite",03/02 21h00 Al-Ain SFC VS Al Rayyan (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/05ea1c39d93c06d82aca0c3b95f8b49c.png",03/02 21h00 Odisha FC VS Northeast United (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -531,11 +503,11 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/19bc08fd59288a5811c21c814dfd9c2a.png",04/02 03h00 Defensa Y Justicia VS Central Cordoba SDE (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",04/02 03h00 Chelsea VS West Ham United (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img.thesports.com/football/competition/d3cd84441d4de605d84a14521ef56920.png",04/02 03h00 Chelsea VS West Ham United (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/19bc08fd59288a5811c21c814dfd9c2a.png",04/02 03h00 Defensa Y Justicia VS Central Cordoba SDE (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
@@ -571,11 +543,15 @@ https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/19bc08fd59288a5811c21c814dfd9c2a.png",04/02 07h30 Belgrano VS Independiente Rivadavia (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Brazilian Campeonato Paulista A1",04/02 07h30 Gremio Novorizontino VS Corinthians Paulista (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Brazilian Campeonato Paulista A1",04/02 07h30 Gremio Novorizontino VS Corinthians Paulista (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/19bc08fd59288a5811c21c814dfd9c2a.png",04/02 07h30 Argentinos Juniors VS CA Platense (CH)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="https://img0.aiscore.com/football/competition/19bc08fd59288a5811c21c814dfd9c2a.png",04/02 07h30 Belgrano VS Independiente Rivadavia (CH)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://dl.dropboxusercontent.com/scl/fi/0etqjtkkkcifzndvbuc8y/1201.mp4?rlkey=l5xe8f94bkifasnuubbyd2nqg&st=0wkabii4&dl=0
