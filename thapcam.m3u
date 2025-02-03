@@ -1,24 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png",03/02 07h00 FLUMINENSE RJ VS BOAVISTA S.C. (TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://fdcdn.livestreameuro.live/live/dungHD.flv?wsSecret=49b623e1d7a3d65842ed09372522509c&wsTime=1738540442&keeptime=21600
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png",03/02 07h00 FLUMINENSE RJ VS BOAVISTA S.C. (TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179569584.akainu.xyz/OOY79z5jdOpSBCsbxU9S8w/Fv2lucGIbhPi2caWYvF5Lg/1738562042283/live/dungHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png",03/02 07h00 FLUMINENSE RJ VS BOAVISTA S.C. (TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzg1NjIwNDIsInVyaSI6Ii9kdW5nSEQiLCJpYXQiOjE3Mzg1NDA0NDJ9.9ce1NOXsViSXaBid-h4ojHu5RrXg0tq-wE6VrnzhOOk-/dungHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png",03/02 07h00 FLUMINENSE RJ VS BOAVISTA S.C. (TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/e994bde1e785fe61e993e565c9255a5c/1738562042283/live/dungSD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/618a4223041c5a55b5b15679c34fe02b.png",03/02 07h00 FLUMINENSE RJ VS BOAVISTA S.C. (TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-http://ignoretext.nsnd.live/t59QD-Wgg6QsLEnpjjxORQ/09b8150fd09801bcc1dbb7e4e226d0e0/1738562042/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/324d7a463a24c4cd35ef83456a1b8d05.png",03/02 08h00 ATLETICO SAN LUIS VS PUMAS U.N.A.M. (TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -283,6 +263,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=6I4gnVk&t=1738672200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=OIfvy9A&t=1738681200
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="[LỊCH THI ĐẤU]",04/02 18h00 Al Talaba vs Duhok (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=QPaeNOA&t=1738666800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/950887f6f686e4f70d453426abf383cb.png" group-title="[LỊCH THI ĐẤU]",04/02 18h30 Al-Hudod vs Zakho (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
