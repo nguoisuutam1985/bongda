@@ -1,28 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",07/02 00h00 AL-TAAWON VS AL ITTIHAD(TC) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://fblive.akamaize.xyz/xllive/myHD.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",07/02 00h00 AL-TAAWON VS AL ITTIHAD(TC) HD1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://fblive.akamaize.xyz/xllive/myHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",07/02 00h00 AL-TAAWON VS AL ITTIHAD(TC) HD2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotlivezz179569584.akainu.xyz/tZ2G4yskPj2xn9U-LN6oCg/Fv2lucGIbhPi2caWYvF5Lg/1738880407824/live/myHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",07/02 00h00 AL-TAAWON VS AL ITTIHAD(TC) HD3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzg4ODA0MDcsInVyaSI6Ii9teUhEIiwiaWF0IjoxNzM4ODU4ODA3fQ.qCohJPXMEkxrsVLiHcfte6hllUm2mUneiN7KzzGL0Zc-/myHD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",07/02 00h00 AL-TAAWON VS AL ITTIHAD(TC) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/17df7d7402e58728a35d528a403359d8/1738880407824/live/mySD/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png",07/02 00h00 AL-TAAWON VS AL ITTIHAD(TC) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
-http://ignoretext.nsnd.live/4pJS8yYyq90J-bdFx18kjQ/37c56eb4aaf958eda25bed5c53705fc2/1738880407/live/_definst_/stream_1_1bda7@myFHD/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/basketball/competition/4714b2c8b246fca416216a34ba7b18b9.png",07/02 00h30 FENERBAHçE BEKO VS REAL MADRID BALONCESTO(TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
@@ -299,6 +275,86 @@ https://newobjectzzpzybaks9eeliv.fbcdn.fyi/141e614dc4227e50477a51553b2295ec/1738
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 http://ignoretext.nsnd.live/NUz3_MYTec4jqxzaxO3xdA/a75e9b78c79480f30c7ea83b12c71e42/1738888756/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",07/02 02h30 STUTTGART W VS RZESZOW W(TC) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://fblive.akamaize.xyz/xllive/chimHD.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",07/02 02h30 STUTTGART W VS RZESZOW W(TC) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://fblive.akamaize.xyz/xllive/chimHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",07/02 02h30 STUTTGART W VS RZESZOW W(TC) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotlivezz179569584.akainu.xyz/Q_rmaI3wCsfwkAu4myN9gw/Fv2lucGIbhPi2caWYvF5Lg/1738890605923/live/chimHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",07/02 02h30 STUTTGART W VS RZESZOW W(TC) HD3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzg4OTA2MDUsInVyaSI6Ii9jaGltSEQiLCJpYXQiOjE3Mzg4NjkwMDV9.zV31HgFJ3LhJIsDIAYepmeuwsXHlv5uNg10tz6-yG9Y-/chimHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",07/02 02h30 STUTTGART W VS RZESZOW W(TC) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/7467b346cf874855154284097306554b/1738890605923/live/chimSD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",07/02 02h30 STUTTGART W VS RZESZOW W(TC) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+http://ignoretext.nsnd.live/ZOd8X48zzZny7puBOCNWFw/bee03a114a12e586ce1aa6c439f97251/1738890605/live/_definst_/stream_1_1bda7@chimFHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png",07/02 03h00 LIVERPOOL VS OFF FAN TOTTENHAM(TC) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://fblive.akamaize.xyz/xllive/phoHD.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png",07/02 03h00 LIVERPOOL VS OFF FAN TOTTENHAM(TC) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://fblive.akamaize.xyz/xllive/phoHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png",07/02 03h00 LIVERPOOL VS OFF FAN TOTTENHAM(TC) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotlivezz179569584.akainu.xyz/TsBHKDG6q3emYRfgfshC8Q/Fv2lucGIbhPi2caWYvF5Lg/1738890607489/live/phoHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png",07/02 03h00 LIVERPOOL VS OFF FAN TOTTENHAM(TC) HD3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzg4OTA2MDcsInVyaSI6Ii9waG9IRCIsImlhdCI6MTczODg2OTAwN30.l7_yaxW3-HIlxhdNps0xzGZZQ-znbvm2JP_AC_pfFj8-/phoHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png",07/02 03h00 LIVERPOOL VS OFF FAN TOTTENHAM(TC) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/6b9d48ea3d5f292bd9884dd821477a89/1738890607489/live/phoSD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png",07/02 03h00 LIVERPOOL VS OFF FAN TOTTENHAM(TC) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+http://ignoretext.nsnd.live/CClMF6rRQx2KU5s5rputKw/4f331a41223542c17c4032aeaac138d5/1738890607/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/77da284853bb5fa56cddbd0b9a320bcf.png",07/02 03h00 HOLGER RUNE VS PEDRO MARTINEZ(TC) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://fblive.akamaize.xyz/xllive/daoHD.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/77da284853bb5fa56cddbd0b9a320bcf.png",07/02 03h00 HOLGER RUNE VS PEDRO MARTINEZ(TC) HD1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://fblive.akamaize.xyz/xllive/daoHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/77da284853bb5fa56cddbd0b9a320bcf.png",07/02 03h00 HOLGER RUNE VS PEDRO MARTINEZ(TC) HD2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotlivezz179569584.akainu.xyz/csnTBiFrMG9uDjCPY8RPUQ/Fv2lucGIbhPi2caWYvF5Lg/1738890608040/live/daoHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/77da284853bb5fa56cddbd0b9a320bcf.png",07/02 03h00 HOLGER RUNE VS PEDRO MARTINEZ(TC) HD3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotcontentzz1123898219.fbcdn.live/-eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJleHAiOjE3Mzg4OTA2MDgsInVyaSI6Ii9kYW9IRCIsImlhdCI6MTczODg2OTAwOH0.P-AH_0GSdmp_b5ZE9BS4aLNsYfHdXlpLb575dTuHtEY-/daoHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/77da284853bb5fa56cddbd0b9a320bcf.png",07/02 03h00 HOLGER RUNE VS PEDRO MARTINEZ(TC) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/31be49ffc43fbb574113ee1ae29a19cb/1738890608040/live/daoSD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/77da284853bb5fa56cddbd0b9a320bcf.png",07/02 03h00 HOLGER RUNE VS PEDRO MARTINEZ(TC) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+http://ignoretext.nsnd.live/SbH7gUBAux5RHYYImwvk6A/67544df98adad7c165ac45843eec88d6/1738890608/live/_definst_/stream_1_1bda7@daoFHD/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/v2/unique-tournament/77da284853bb5fa56cddbd0b9a320bcf.png",07/02 03h00 HOLGER RUNE VS PEDRO MARTINEZ(TC) Nhà Đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotlivezz179026907.akainu.xyz/QwxK_bbv5B76GcoRACFnsA/Fv2lucGIbhPi2caWYvF5Lg/1738890608041/live/may10/playlist.m3u8
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="[LỊCH THI ĐẤU]",07/02 02h45 Fiorentina vs Inter Milan (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=mP5nLXh&t=1738871100
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/640757d5859af4a883b1c4597e881951.png" group-title="[LỊCH THI ĐẤU]",07/02 22h20 Al-Nasr(KSA) vs Al-Feiha (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -315,18 +371,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=efOfHMi&t=1738873800
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=0t7jMBc&t=1738873800
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/9bbacfe2202a2caa2f29607d758b3f54.png" group-title="[LỊCH THI ĐẤU]",07/02 02h00 AZ Alkmaar vs Quick Boys (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=jMiAODm&t=1738868400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7e7e69ea3384874304911625ac34321c.jpg" group-title="[LỊCH THI ĐẤU]",07/02 02h00 Arsenal (w) vs Manchester City (w) (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=OFjarss&t=1738868400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7063f8886a3f01ada5989a5b75c3c077.png" group-title="[LỊCH THI ĐẤU]",07/02 02h45 Royal Antwerp vs Anderlecht (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=mjtfXJ6&t=1738871100
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e481bc102a38742e6abfafd2f8873ea9.png" group-title="[LỊCH THI ĐẤU]",07/02 02h45 Fiorentina vs Inter Milan (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -335,6 +379,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=mP5nLXh&t=1738871100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=KytuONu&t=1738871100
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/7063f8886a3f01ada5989a5b75c3c077.png" group-title="[LỊCH THI ĐẤU]",07/02 02h45 Royal Antwerp vs Anderlecht (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=mjtfXJ6&t=1738871100
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/8aa596d6e755efdca6776d946ebfcd32.png" group-title="[LỊCH THI ĐẤU]",07/02 03h00 Liverpool vs Tottenham Hotspur (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2375,6 +2423,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=iEWQFS2&t=1739363400
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=puYnH7u&t=1739368800
+#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="[LỊCH THI ĐẤU]",07/02 16h00 ATP500 Rotterdam Open (TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=6fBDcOK&t=1738918800
 #EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/tennis1.png" group-title="[LỊCH THI ĐẤU]",07/02 16h00 WTA500 Abu Dhabi Open (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -3135,10 +3187,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=j0ipweq&t=1739340000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=e4nXeRq&t=1739347200
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/files/phi%20ti%C3%AAu.png" group-title="[LỊCH THI ĐẤU]",07/02 02h00 PDC Premier League (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=D5YQ2px&t=1738868400
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/Y3O6l1C7-fydvJkLN.png" group-title="[LỊCH THI ĐẤU]",07/02 10h00 Lara vs Indios de Mayaguez (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
