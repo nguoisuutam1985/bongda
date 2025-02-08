@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 group-title="[ĐANG]" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",08
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://raw.githubusercontent.com/nguoisuutam1985/test/refs/heads/main/videoplayback.m3u8?token=GHSAT0AAAAAAC6NNBGPKTUUDKXVE7W2TKPYZ5HCTSQ
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://g7w1r.4shares.live/files/tabletennis.png",08/02 12h00 SINGAPORE SMASH 2025(TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
