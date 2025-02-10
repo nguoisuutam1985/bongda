@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 group-title="[ĐANG TEST]",PHIM
+https://www.motchillso.com/pmm/60bd942ba4840b25f197b2dd1dcd5fb7.html
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://upload.wikimedia.org/wikipedia/vi/9/9c/Lpl_newlogo.png",10/02 16h00 ANYONE'S LEGEND VS TEAM WE(TC) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
