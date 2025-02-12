@@ -171,6 +171,14 @@ http://ignoretext.nsnd.live/t7PjSbnh29KV6W4JTCma8A/e56ce8a755cda33e7f050da0b700d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
 https://hotlivezz179026907.akainu.xyz/b786OSI2RzlPEnOZeIfOaA/Fv2lucGIbhPi2caWYvF5Lg/1739401806330/live/may8/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",13/02 01h00 LUNEBURG VS BR VOLLEYS(TC) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotlivezz179026907.akainu.xyz/6aDMa4KqRsb3aNIrpE4lPg/Fv2lucGIbhPi2caWYvF5Lg/1739402407034/live/may24/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="https://img.thesports.com/volleyball/competition/88f578926068c25930bd3e61416b3805.png",13/02 02h00 ST. NAZAIRE VS OLYMPIACOS(TC) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://c.fdcdn.xyz
+https://hotlivezz179026907.akainu.xyz/-KH1mJv0x1GOpknUjDKZSw/Fv2lucGIbhPi2caWYvF5Lg/1739402407420/live/may241/playlist.m3u8
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/0YpvbBRp-bqkliOB5.png" group-title="[LỊCH THI ĐẤU]",13/02 01h15 Leylah Fernandez vs Amanda Anisimova (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -179,14 +187,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=ZsRxeBL&t=1739384100
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=rLTzhre&t=1739433600
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e777f4513cca9920a534d26256481ee0.png" group-title="[LỊCH THI ĐẤU]",13/02 00h30 Bayern Munchen (w) vs Eintracht Frankfurt (w) (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=LsRPJEr&t=1739381400
-#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/e777f4513cca9920a534d26256481ee0.png" group-title="[LỊCH THI ĐẤU]",13/02 00h30 Hoffenheim (w) vs VfL Wolfsburg (w) (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=JxZEMyF&t=1739381400
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/ac05535bde17129cb598311242b3afba.png" group-title="[LỊCH THI ĐẤU]",13/02 00h45 Club Brugge vs Atalanta (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
@@ -2827,10 +2827,6 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=5Q7kCIQ&t=1739383200
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=9YYDfsk&t=1739444400
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/nyIPD5gU-QBbQ4SNE.png" group-title="[LỊCH THI ĐẤU]",13/02 00h20 Karen Khachanov vs Hamad Medjedovic (TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=2LooZMy&t=1739380800
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/dCxX5tAj-MNsqTs5t.png" group-title="[LỊCH THI ĐẤU]",13/02 04h30 Alexander Zverev vs Dusan Lajovic (TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://t.fdcdn.xyz
