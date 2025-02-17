@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 tvg-logo="https://g7w1r.4shares.live/leagues/2023_AFC_U-20_Asian_Cup.png" group-title="[LỊCH THI ĐẤU]",17/02 16h15 Thailand U20 vs Korea Republic U20(TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=nhBSNCC&t=1739783700
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="[LỊCH THI ĐẤU]",17/02 19h00 Bali United vs Malut United(TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
@@ -23,6 +19,10 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=y6n1pMN&t=1739808000
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=TzRBgj1&t=1739808000
+#EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/2440249cd19586c39de8e05d55cc6b0d.png" group-title="[LỊCH THI ĐẤU]",17/02 21h00 Rodina Moskva II vs Sibir Novosibirsk(TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=NHGwjg5&t=1739800800
 #EXTINF:0 tvg-logo="https://img.thesports.com/football/competition/732e87cac85fccf702f3ce0516c7d93f.png" group-title="[LỊCH THI ĐẤU]",18/02 00h00 Caykur Rizespor vs Galatasaray(TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
@@ -1751,14 +1751,18 @@ https://wbd.x10.bz/bongda/thapcam/tc.php?id=5bgyYUj&t=1740231900
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=I8EcQFW&t=1740241800
-#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/bcU58KTp-6cWS3GD1.png" group-title="[LỊCH THI ĐẤU]",17/02 17h00 Jelena Ostapenko vs Moyuka Uchijima(TC)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
-https://wbd.x10.bz/bongda/thapcam/tc.php?id=vXWN93f&t=1739786400
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/bcU58KTp-6cWS3GD1.png" group-title="[LỊCH THI ĐẤU]",17/02 17h00 Victoria Azarenka vs Anhelina Kalinina(TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
 https://wbd.x10.bz/bongda/thapcam/tc.php?id=WvKAVwR&t=1739786400
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/bcU58KTp-6cWS3GD1.png" group-title="[LỊCH THI ĐẤU]",17/02 17h00 Victoria Azarenka vs Anhelina Kalinina(TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=WvKAVwR&t=1739786400
+#EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/bcU58KTp-6cWS3GD1.png" group-title="[LỊCH THI ĐẤU]",17/02 17h00 Jelena Ostapenko vs Moyuka Uchijima(TC)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
+https://wbd.x10.bz/bongda/thapcam/tc.php?id=vXWN93f&t=1739786400
 #EXTINF:0 tvg-logo="https://static.flashscore.com/res/image/data/bcU58KTp-6cWS3GD1.png" group-title="[LỊCH THI ĐẤU]",17/02 18h30 McCartney Kessler vs Amanda Anisimova(TC)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cr7.ldplayer.xyz/
