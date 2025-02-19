@@ -31,30 +31,6 @@ https://179421011.cdnfree.pro/live/m303nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m304nd/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Brazil Campeonato Paulista A1",20/02 05h15 SANTOS VS NOROESTE(CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Brazil Campeonato Paulista A1",20/02 05h15 SANTOS VS NOROESTE(CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Brazil Campeonato Paulista A1",20/02 05h15 SANTOS VS NOROESTE(CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Brazil Campeonato Paulista A1",20/02 05h15 SANTOS VS NOROESTE(CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Brazil Campeonato Paulista A1",20/02 05h15 SANTOS VS NOROESTE(CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/sunsd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Brazil Campeonato Paulista A1",20/02 05h15 SANTOS VS NOROESTE(CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/sunhd1.flv
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Cúp Brazil",20/02 06h00 Porto Velho/RO VS Cuiaba (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Cúp Brazil",20/02 06h00 Capital CF VS Portuguesa RJ (CH)
