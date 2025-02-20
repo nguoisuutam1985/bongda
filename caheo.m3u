@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Cúp Oman",20/02 22h00 AL SHABAB(OMA) VS AL-SEEB(CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m401nd/playlist.m3u8 
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Giao Hữu Quốc Tế",20/02 22h00 NGA (W) VS THAILAND (W)(CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -27,6 +23,10 @@ https://179463904.cdnfree.pro/live/loisd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/loihd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Cúp Oman",20/02 22h00 AL SHABAB(OMA) VS AL-SEEB(CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m401nd/playlist.m3u8 
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",20/02 22h15 AL-FATEH SC VS AL-ORUBAH(CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -89,37 +89,37 @@ https://179421011.cdnfree.pro/live/m503nd/playlist.m3u8
 https://179421011.cdnfree.pro/live/m501nd/playlist.m3u8
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",21/02 00h00 Al-Riyadh VS Al-Raed SFC (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 00h45 Bodo Glimt VS FC Twente Enschede (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa Conference League",21/02 00h45 Pafos FC VS Omonia Nicosia FC (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 00h45 FCSB VS PAOK Saloniki (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 00h45 Galatasaray VS AZ Alkmaar (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa Conference League",21/02 00h45 Real Betis VS KAA Gent (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa Conference League",21/02 00h45 1. FC Heidenheim VS FC Copenhagen (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 00h45 AS Roma VS FC Porto (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 00h45 Galatasaray VS AZ Alkmaar (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 00h45 FCSB VS PAOK Saloniki (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 00h45 Bodo Glimt VS FC Twente Enschede (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa Conference League",21/02 00h45 Pafos FC VS Omonia Nicosia FC (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa Conference League",21/02 00h45 NK Olimpija Ljubljana VS Borac Banja Luka (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 03h00 Anderlecht VS Fenerbahce (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 03h00 FC Viktoria Plzen VS Ferencvarosi TC (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa Conference League",21/02 03h00 Jagiellonia Bialystok VS Backa Topola (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 03h00 Real Sociedad VS Midtjylland (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 00h45 AS Roma VS FC Porto (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa Conference League",21/02 03h00 APOEL Nicosia VS NK Publikum Celje (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 03h00 AFC Ajax VS Royale Union Saint-Gilloise (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 03h00 Real Sociedad VS Midtjylland (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa Conference League",21/02 03h00 Panathinaikos VS Vikingur Reykjavik (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 03h00 Anderlecht VS Fenerbahce (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 03h00 AFC Ajax VS Royale Union Saint-Gilloise (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa Conference League",21/02 03h00 Jagiellonia Bialystok VS Backa Topola (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa Conference League",21/02 03h00 Shamrock Rovers VS Molde (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="UEFA Europa League",21/02 03h00 FC Viktoria Plzen VS Ferencvarosi TC (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: CONMEBOL Copa Libertadores",21/02 05h00 Monagas SC VS Cerro Porteno (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
@@ -127,25 +127,25 @@ https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongba
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Cúp Brazil",21/02 06h00 Rio Branco VN VS Amazonas FC (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: NBA Nhà Nghề Mỹ",21/02 07h00 Philadelphia 76ers VS Boston Celtics (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: NBA Nhà Nghề Mỹ",21/02 07h00 Indiana Pacers VS Memphis Grizzlies (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Brazilian Campeonato Gaucho",21/02 07h30 São Luiz VS Guarany de Bage (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: CONMEBOL Copa Libertadores",21/02 07h30 Deportes Tolima VS FBC Melgar (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: NBA Nhà Nghề Mỹ",21/02 07h00 Philadelphia 76ers VS Boston Celtics (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: CONMEBOL Recopa Sudamericana",21/02 07h30 Racing Club VS Botafogo RJ (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: CONMEBOL Copa Libertadores",21/02 07h30 Deportes Tolima VS FBC Melgar (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Cúp Brazil",21/02 07h30 Olaria VS ABC RN (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Brazilian Campeonato Gaucho",21/02 07h30 São Luiz VS Guarany de Bage (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Brazil Campeonato Paulista A1",21/02 07h35 Portuguesa Desportos VS Sao Bernardo (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng 2 Mexico",21/02 08h00 Correcaminos UAT VS CSyD Dorados de Sinaloa (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Giao Hữu Quốc Tế",21/02 08h00 USA (W) VS Colombia (W) (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: CONCACAF Champions Cup",21/02 08h00 Deportivo Saprissa VS Vancouver Whitecaps (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Giao Hữu Quốc Tế",21/02 08h00 USA (W) VS Colombia (W) (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng 2 Mexico",21/02 08h00 Correcaminos UAT VS CSyD Dorados de Sinaloa (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: NBA Nhà Nghề Mỹ",21/02 09h00 Denver Nuggets VS Charlotte Hornets (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
@@ -153,37 +153,37 @@ https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongba
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: NBA Nhà Nghề Mỹ",21/02 10h00 Portland Trailblazers VS Los Angeles Lakers (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng 2 Indonesian",21/02 15h00 Persibo Bojonegoro VS Gresik United (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng 2 Indonesian",21/02 15h00 Persipa Pati VS PS BRT Subang (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Indonesian Liga 1",21/02 15h30 Persis Solo FC VS Semen Padang (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng 2 Indonesian",21/02 15h00 Persibo Bojonegoro VS Gresik United (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Indonesian Liga 1",21/02 15h30 PSBS Biak Numfor  VS Persik Kediri (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Úc Victoria",21/02 15h30 Green Gully Cavaliers VS Hume City (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Indonesian Liga 1",21/02 15h30 Persis Solo FC VS Semen Padang (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Úc Victoria",21/02 15h30 Melbourne Knights VS Avondale FC (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: A-League",21/02 15h35 Newcastle Jets VS Brisbane Roar (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Bangladesh",21/02 16h00 Mohammedan Dhaka VS Dhaka Wanderers (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Bangladesh",21/02 16h00 Fortis FC VS Rahmatganj MFS (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Bangladesh",21/02 16h00 Mohammedan Dhaka VS Dhaka Wanderers (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Úc Victoria",21/02 16h15 Port Melbourne VS Oakleigh Cannons (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐ Queensland (Úc)",21/02 16h30 Gold Coast Knights VS Queensland Lions SC (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Úc Victoria",21/02 16h30 Preston Lions VS Altona Magic (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐ Queensland (Úc)",21/02 16h30 Gold Coast Knights VS Queensland Lions SC (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Vô Địch Myanmar",21/02 16h30 Hantharwady United VS Myawady (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="V-League",21/02 17h00 Hoang Anh Gia Lai VS TT Hanoi (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Vietnam Women's U19 Championship",21/02 17h30 Ha Noi (w) U19 VS TP Ho Chi Minh  U19 (w) (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: UEFA Women's Nations League",21/02 17h30 Armenia (w) VS Liechtenstein (w) (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Vietnam Women's U19 Championship",21/02 17h30 Ha Noi (w) U19 VS TP Ho Chi Minh  U19 (w) (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Bulgaria",21/02 17h45 CSKA 1948 Sofia VS Botev Vratsa (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
@@ -191,15 +191,37 @@ https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongba
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Malaysia",21/02 18h15 Sabah VS Kuala Lumpur (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Israel",21/02 18h30 Beitar Jerusalem VS Hapoel Jerusalem (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Iran",21/02 18h30 Sepahan VS Zob Ahan (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Iran",21/02 18h30 Shams Azar Qazvin VS Malavan (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng 2 Ai Cập",21/02 20h00 Telecom Egypt VS El Mokawloon El Arab (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Israel",21/02 18h30 Beitar Jerusalem VS Hapoel Jerusalem (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng 2 Ai Cập",21/02 20h00 Tersana SC VS El Mansoura (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Singapore",21/02 18h45 Tanjong Pagar Utd VS Albirex Niigata FC (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Thai League 1",21/02 19h00 Nakhon Ratchasima VS Sukhothai (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Indonesian Liga 1",21/02 19h00 Dewa United FC VS Persebaya Surabaya (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: UEFA Women's Nations League",21/02 19h00 Bosnia and Herzegovina (w) VS Romania (w) (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Thai League 2",21/02 19h00 Kasetsart FC VS JL Chiangmai United FC (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: UEFA Women's Nations League",21/02 19h30 Bulgaria (w) VS Israel (w) (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Iran",21/02 19h30 Foolad Khozestan VS Persepolis Pakdasht (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng Nhất Serbia",21/02 20h00 Sloven Ruma VS Habitpharm Javor (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Malaysia",21/02 20h00 Terengganu VS Kuching FA (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng Nhất Serbia",21/02 20h00 FK Vrsac VS Borac Cacak (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: UEFA Women's Nations League",21/02 20h00 North Macedonia (W) VS Kosovo (w) (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: UEFA Women's Nations League",21/02 20h00 Moldova (w) VS Gibraltar (w) (CH)
+https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",21/02 20h00 Damac VS Al-Ahli SFC (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Oman",21/02 20h30 SAHAM VS AL-NASR(OMA)(CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
@@ -249,29 +271,7 @@ https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongba
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Bundesliga",22/02 21h30 VfL Wolfsburg VS VfL Bochum (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Ngoại Hạng Anh",22/02 22h00 Bournemouth AFC VS Wolves (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Ngoại Hạng Anh",22/02 22h00 Arsenal VS West Ham United (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Ngoại Hạng Anh",22/02 22h00 Fulham VS Crystal Palace (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Ngoại Hạng Anh",22/02 22h00 Ipswich Town VS Tottenham Hotspur (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Ngoại Hạng Anh",22/02 22h00 Southampton VS Brighton Hove Albion (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng nhất Anh",22/02 22h00 Coventry City VS Preston North End (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng nhất Anh",22/02 22h00 Norwich City VS Stoke City (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng nhất Anh",22/02 22h00 Swansea City VS Blackburn Rovers (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="La Liga",22/02 22h15 Rayo Vallecano VS Villarreal (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Bulgaria",22/02 22h30 Cherno More Varna VS Ludogorets Razgrad (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Bồ Đào Nha",22/02 22h30 Casa Pia AC VS Gil Vicente (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="French Ligue 1",22/02 23h00 Lille VS Monaco (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Ba Lan",22/02 23h30 Widzew lodz VS Pogon Szczecin (CH)
+#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Ngoại Hạng Anh",22/02 22h00 Bournemouth AFC VS Wolves (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
