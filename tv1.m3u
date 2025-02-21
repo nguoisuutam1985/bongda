@@ -1,4 +1,4 @@
-#XTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz, https://khanggtivi.xyz/kubolive_epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz, https://khanggtivi.xyz/kubolive_epg.xml"
 #EXTINF:-1 group-title="ĐỘ TRỄ THẤP" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/VTV3_logo_2013_final.svg/1200px-VTV3_logo_2013_final.svg.png",VTV3 HD
 #EXTVLCOPT:http-user-agent=cvmedia/1.0.0
 http://p1.cvtv.xyz/vtv3?token=live
