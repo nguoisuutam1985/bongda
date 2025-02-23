@@ -1,33 +1,4 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Bundesliga",24/02 01h30 TSG HOFFENHEIM VS VFB STUTTGART(CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/dosd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Bundesliga",24/02 01h30 TSG HOFFENHEIM VS VFB STUTTGART(CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnlive.pro/live/dohd1/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Bundesliga",24/02 01h30 TSG HOFFENHEIM VS VFB STUTTGART(CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dosd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Bundesliga",24/02 01h30 TSG HOFFENHEIM VS VFB STUTTGART(CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/dohd2/playlist.m3u8
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Bundesliga",24/02 01h30 TSG HOFFENHEIM VS VFB STUTTGART(CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/dosd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Bundesliga",24/02 01h30 TSG HOFFENHEIM VS VFB STUTTGART(CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179463904.cdnfree.pro/live/dohd1.flv
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Bundesliga",24/02 01h30 TSG HOFFENHEIM VS VFB STUTTGART(CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m402nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="French Ligue 1",24/02 02h45 LYON VS PARIS SAINT GERMAIN (PSG)(CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -115,7 +86,7 @@ https://179421011.cdnfree.pro/live/m502nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Bồ Đào Nha",24/02 03h30 FC FAMALICAO VS MOREIRENSE(CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m501nd/playlist.m3u8
+https://179463904.cdnfree.pro/live/m501nd.flv
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Argentina",24/02 04h00 CA HURACAN VS SAN LORENZO(CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
