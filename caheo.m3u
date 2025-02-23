@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTM3U
-#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Romania",24/02 01h00 FCSB VS DINAMO BUCURESTI(CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://179421011.cdnfree.pro/live/m503nd/playlist.m3u8
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="VĐQG Bồ Đào Nha",24/02 01h00 AVS FUTEBOL SAD VS SPORTING CP(CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -144,8 +139,10 @@ https://179421011.cdnfree.pro/live/m502nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Argentina",24/02 04h00 CA Huracan VS San Lorenzo (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Argentina",24/02 04h00 CA HURACAN VS SAN LORENZO(CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m503nd/playlist.m3u8
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Brazil Campeonato Paulista A1",24/02 04h30 Inter de Limeira VS Santos (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Mexico",24/02 06h00 Santos Laguna VS Atlas (CH)
