@@ -55,6 +55,10 @@ https://179421011.cdnfree.pro/live/m401nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179421011.cdnfree.pro/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Serbia",24/02 22h30 NOVI PAZAR VS BACKA TOPOLA(CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m403nd/playlist.m3u8 
 #EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Bulgaria",24/02 22h30 SEPTEMVRI SOFIA VS FK LEVSKI KRUMOVGRAD(CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -79,12 +83,34 @@ https://179463904.cdnfree.pro/live/paosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://179463904.cdnfree.pro/live/paohd1.flv
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Serbia",24/02 22h30 Novi Pazar VS Backa Topola (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng nhất Ả Rập",24/02 22h40 Al Najma(KSA) VS Al-Faisaly Harmah (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",24/02 22h50 Damac VS Al-Orubah (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng nhất Ả Rập",24/02 22h40 AL NAJMA(KSA) VS AL-FAISALY HARMAH(CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/m404nd/playlist.m3u8 
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",24/02 22h50 DAMAC VS AL-ORUBAH(CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",24/02 22h50 DAMAC VS AL-ORUBAH(CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",24/02 22h50 DAMAC VS AL-ORUBAH(CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",24/02 22h50 DAMAC VS AL-ORUBAH(CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnfree.pro/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",24/02 22h50 DAMAC VS AL-ORUBAH(CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/bipsd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: VĐQG Ả Rập Xê Út",24/02 22h50 DAMAC VS AL-ORUBAH(CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/biphd1.flv
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Ukraine",24/02 23h00 FC Shakhtar Donetsk VS FC Livyi Bereh (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: VĐQG Jordan",24/02 23h00 Maan VS Al Wehdat (CH)
