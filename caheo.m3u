@@ -1,8 +1,28 @@
 #EXTM3U
-#EXTM3U
-#EXTM3U
-#EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Hạng 2 Indonesian",25/02 15h00 Persiku Kudus VS Persekat Tegal (CH)
-https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng 2 Indonesian",25/02 15h00 RANS NUSANTARA FC VS PERSIPA PATI(CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/loisd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng 2 Indonesian",25/02 15h00 RANS NUSANTARA FC VS PERSIPA PATI(CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179421011.cdnlive.pro/live/loihd1/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng 2 Indonesian",25/02 15h00 RANS NUSANTARA FC VS PERSIPA PATI(CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/loisd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng 2 Indonesian",25/02 15h00 RANS NUSANTARA FC VS PERSIPA PATI(CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/loihd2/playlist.m3u8
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng 2 Indonesian",25/02 15h00 RANS NUSANTARA FC VS PERSIPA PATI(CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/loisd1.flv
+#EXTINF:0 group-title="[ĐANG DIỄN RA]" tvg-logo="Giải Cỏ: Hạng 2 Indonesian",25/02 15h00 RANS NUSANTARA FC VS PERSIPA PATI(CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179463904.cdnfree.pro/live/loihd1.flv
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: UEFA Women's Nations League",25/02 17h30 Armenia (w) VS Kazakhstan (w) (CH)
 https://raw.githubusercontent.com/nguoisuutam1985/bongda/refs/heads/main/Thongbao.mp4
 #EXTINF:0 group-title="[LỊCH THI ĐẤU]" tvg-logo="Giải Cỏ: Ngoại hạng Armenia",25/02 18h00 Alashkert VS FC Pyunik (CH)
