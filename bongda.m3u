@@ -1,4 +1,9 @@
 #EXTM3U
+#EXTINF:-1 group-title="Tt",1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://quest4play.xyz/
+https://zekonew.koskoros.ru/zeko/premium315/mono.m3u8
+
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20160712101902.png",23h00 FK Liepaja vs Tukums-2000 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
