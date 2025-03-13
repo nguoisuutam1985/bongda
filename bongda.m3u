@@ -323,6 +323,150 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxaysd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxayhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/thoxaysd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/thoxayhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxaysd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxayhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca6076e611bfccd9939f3a2121ad0e48.png",03h00 Legia Warszawa vs Molde (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m202nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m104nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c21ffb8822fb5d116a8f09ba7b492ed6.png",00h30 Giana VS ASD Caldiero Terme (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -895,6 +1039,106 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca6076e611bfccd9939f3a2121ad0e48.png",03h00 Legia Warszawa vs Molde (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m202nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",00h45 Athletic Club vs AS Roma (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -1467,6 +1711,94 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca6076e611bfccd9939f3a2121ad0e48.png",03h00 Legia Warszawa vs Molde (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m202nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1937ae7165e566b9c99461566d5cbf59.png",00h30 Feralpisalo vs Clodiense (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -1651,338 +1983,346 @@ https://apisportzz179528093.nsnd.live/gTFUxmxpiexJUS0iWFQJ4g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/JSrGsBuorrLQL0BO1HLoIg/Fv2lucGIbhPi2caWYvF5Lg/1741911904676/live/sd-6MtJQk4mF43AWVFdT9/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 European Open Pool Championship 2025 (Bàn 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/JbCYrNWnh-w2nwOtYQbr2g/Fv2lucGIbhPi2caWYvF5Lg/1741877930331/live/may21/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 European Open Pool Championship 2025 (Bàn 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/rt-FiddV_SyT_ToxdZPyFw/Fv2lucGIbhPi2caWYvF5Lg/1741877930332/live/may20/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 European Open Pool Championship 2025 (Bàn 3)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/qKRzHSD4dgrD2Bx6p8diRA/Fv2lucGIbhPi2caWYvF5Lg/1741877930332/live/may17/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/FUgQp7MBTooBHlqU64tE_w/Fv2lucGIbhPi2caWYvF5Lg/1741914576476/live/may20/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",17h00 England Open 2025 (sân 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/qUQYO0irjnAN7WatWxXtMA/Fv2lucGIbhPi2caWYvF5Lg/1741912179659/live/may24/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",17h00 England Open 2025 (sân 2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/MHtnPp6BpEuD7ZKIGhILng/Fv2lucGIbhPi2caWYvF5Lg/1741912179659/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/MJMsf5-1MU8RHMnopZoiIA/Fv2lucGIbhPi2caWYvF5Lg/1741914576476/live/may24/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Giana VS ASD Caldiero Terme (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/FJ6uDEz4ujlWNxw2UhK53g/Fv2lucGIbhPi2caWYvF5Lg/1741912179660/live/sd-6MsDBUWPzAsjhxL4JX/playlist.m3u8
+https://apisportzz179528093.nsnd.live/AxK1Iyw6ESpwqV_W74OJXQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/sd-6MsDBUWPzAsjhxL4JX/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Us Pergolettese VS Lumezzane (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/2FAxLoYJJuIIUUe21_CcZg/Fv2lucGIbhPi2caWYvF5Lg/1741912179660/live/sd-6MsDBUWPye71XEmE9y/playlist.m3u8
+https://apisportzz179528093.nsnd.live/QQ13ia_3kA03qMym_bcDRg/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/sd-6MsDBUWPye71XEmE9y/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 USD Virtus Verona VS Trento (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/mlU3S5eT9rswcWAXa_7eyA/Fv2lucGIbhPi2caWYvF5Lg/1741912179660/live/sd-6MsDBUWPpKQoRDXnRR/playlist.m3u8
+https://apisportzz179528093.nsnd.live/P-uU94pkN3OK51qBdICMgQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/sd-6MsDBUWPpKQoRDXnRR/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Feralpisalo VS Clodiense (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/0OT_jMJw48u0dC0Qn4993A/Fv2lucGIbhPi2caWYvF5Lg/1741912179660/live/sd-6MsDBUWPz4HJ6WrJqq/playlist.m3u8
+https://apisportzz179528093.nsnd.live/V1NfiAPvhV8VBOT8Lfz4iw/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/sd-6MsDBUWPz4HJ6WrJqq/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Pro Patria VS Arzignano Valchiampo (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/g2ZxEv0uM3PaQYom-M9N3w/Fv2lucGIbhPi2caWYvF5Lg/1741912179660/live/sd-6MsDBUWPybuXekwK15/playlist.m3u8
+https://apisportzz179528093.nsnd.live/B6av6fckyE_MJ8kq0QOjVg/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/sd-6MsDBUWPybuXekwK15/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Renate AC VS Padova (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/Yt4aOH-GtQZWxXX8sUWo5g/Fv2lucGIbhPi2caWYvF5Lg/1741912179660/live/sd-6MsDBUWPpCpMon42xj/playlist.m3u8
+https://apisportzz179528093.nsnd.live/zcJgAlx91J_Eg3tv6IBekw/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/sd-6MsDBUWPpCpMon42xj/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Eintracht Frankfurt vs AFC Ajax (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/vyMqH3oFBTCAnSpey5Y-fw/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/nuiHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/MtlMUOstx7IGNTpIliLMaA/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/nuiHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Eintracht Frankfurt vs AFC Ajax (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/pT4nq-bDKw66Na5U7xe5dw/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/nuiFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/y9V3gcuyS3A4fW7CuUl-TQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/nuiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Eintracht Frankfurt vs AFC Ajax (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/HV1c7vJWXB_gcF34Mf01aw/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/may102/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/pglZ_odK31DPyPX8cRFNOw/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/may102/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Eintracht Frankfurt vs AFC Ajax (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/VOAfwSwZTCzma-EYwfSuYQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/may1HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/bW5t66jK4SocM0lMTnRjGA/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/may1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Eintracht Frankfurt vs AFC Ajax (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/4cyLBGS71ceBAcbrSxTJag/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/may1FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/7Dr6kz1Os5SFVHjzcOn8Tg/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/may1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Eintracht Frankfurt vs AFC Ajax (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/HV1c7vJWXB_gcF34Mf01aw/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/may102/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/pglZ_odK31DPyPX8cRFNOw/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/may102/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Lazio vs FC Viktoria Plzen (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/y0l53nktYx9yP2wlUM2o-Q/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/baoHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/2DoTWavJBZD4GFsDitbKBw/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/baoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Lazio vs FC Viktoria Plzen (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/58VXewmeAmJveq3ATZT8Kg/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/baoFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/YJy01_ho0L5aAFxRcFgO4g/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/baoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Lazio vs FC Viktoria Plzen (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/O0C7JaVxUggTFCXuE3vNLw/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/may111/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/K-3RSTfmfRZLdOLp3ST4mg/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/may111/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Lazio vs FC Viktoria Plzen (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/_5il4SIdD_AJuwOMukzDkg/Fv2lucGIbhPi2caWYvF5Lg/1741912179662/live/daHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/RUj0Eqwkl-9rM0kvT3Pzww/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/daHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Lazio vs FC Viktoria Plzen (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/omVYjDOo47z41YclIoPhmA/Fv2lucGIbhPi2caWYvF5Lg/1741912179662/live/daFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/s_cOcMxFizpmEFYNaBP1oA/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/daFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Olympiakos Piraeus vs Bodo Glimt (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/wKlhuW-3D5bOg6uEyGX61Q/Fv2lucGIbhPi2caWYvF5Lg/1741912179662/live/mapHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/u90h4IfNN732YZrK-88T_A/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/mapHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Olympiakos Piraeus vs Bodo Glimt (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/aH_uSHbnSwNiXdwDM1KV8A/Fv2lucGIbhPi2caWYvF5Lg/1741912179662/live/mapFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/p8Y4luxnIYxyPTwWf8326w/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/mapFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Olympiakos Piraeus vs Bodo Glimt (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/_AEyFqAryFeMlpa9YrRKcA/Fv2lucGIbhPi2caWYvF5Lg/1741912179662/live/may101/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/wtfNWrKWOd2JWboGOQ6jFw/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/may101/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Olympiakos Piraeus vs Bodo Glimt (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Lb3FbDakhy2b6FhF5Hl6Yg/Fv2lucGIbhPi2caWYvF5Lg/1741912179662/live/hawHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/YoFJf1ACXwTskMSbpNU_RA/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/hawHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Olympiakos Piraeus vs Bodo Glimt (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/u5FGZAJRougpd5Uair_nIQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179662/live/hawFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/xZRzMHU2aJyRErWX82hHUg/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/hawFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Athletic Bilbao vs AS Roma (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/_AyEvRhKi86xKgmjiRaRlw/Fv2lucGIbhPi2caWYvF5Lg/1741912179662/live/xienHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/sWivtN3hfiK4Sc13Ny56ZQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576477/live/xienHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Athletic Bilbao vs AS Roma (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/wR5Ko5ed1Xk3UlTWeuVTxQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179662/live/xienFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/sQJHWv2iHa3fEaa3Ik_4-w/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/xienFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Athletic Bilbao vs AS Roma (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/WnfyLNZe0odq9tQDUsn3GA/Fv2lucGIbhPi2caWYvF5Lg/1741912179662/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/f-g38xCbOz6cYDsh-9TznA/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/may11/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Athletic Bilbao vs AS Roma (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/hjAZIgavTa2hxWdtmYjvfw/Fv2lucGIbhPi2caWYvF5Lg/1741912179663/live/Z1HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/4K21hSCuxK0MCoP8lLsZyw/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/Z1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Athletic Bilbao vs AS Roma (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/_vfcf3k9_u69xJErChPuhQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179663/live/Z1FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/vC8ClPVQ7yCvcsxscPE80w/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/Z1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Athletic Bilbao vs AS Roma (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/fJ8Tycc2M9Yl52pTwcRa3Q/Fv2lucGIbhPi2caWYvF5Lg/1741912179663/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/f-g38xCbOz6cYDsh-9TznA/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/may11/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Lugano vs NK Publikum Celje (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/mCrgVpLwc-5DaVYqRHRxdA/Fv2lucGIbhPi2caWYvF5Lg/1741912179663/live/thuHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/BcX_pgbouesXZvLFgmCn-w/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/thuHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Lugano vs NK Publikum Celje (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/T2TKQEzpGcIaG2kR5Wce9g/Fv2lucGIbhPi2caWYvF5Lg/1741912179663/live/thuFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/O3783AMEaf59iG6-021AMQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/thuFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Rapid Wien vs Borac Banja Luka (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/B6FwCfGm7mfLE6BdsNqGVw/Fv2lucGIbhPi2caWYvF5Lg/1741912179663/live/momHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/UkyZfdD_4YjKElR3ZIT6jw/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/momHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Rapid Wien vs Borac Banja Luka (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/3XQiliIQ-8DGOCUM7sABVw/Fv2lucGIbhPi2caWYvF5Lg/1741912179663/live/momFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/rgOGIxKgY_i-zZm6jwTLjQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/momFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Cercle Brugge vs Jagiellonia Bialystok (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/haMxi45_GkxCxcG8cnB5sg/Fv2lucGIbhPi2caWYvF5Lg/1741912179664/live/daoHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/iQb8hirPBg8eT1BNA_dltQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/daoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Cercle Brugge vs Jagiellonia Bialystok (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/yIDVSaRZjUD35L2R4HFFjA/Fv2lucGIbhPi2caWYvF5Lg/1741912179664/live/daoFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/mDdHyOmLWWMGLPUIxhPKFg/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/daoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Cercle Brugge vs Jagiellonia Bialystok (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/yA-KnY2D0McFWorEVGZQfA/Fv2lucGIbhPi2caWYvF5Lg/1741912179685/live/Z3HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/f-067HmdTdOY0RK9lrrIBg/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Cercle Brugge vs Jagiellonia Bialystok (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/4tLphc9jXxdgTnIiQD1ZPg/Fv2lucGIbhPi2caWYvF5Lg/1741912179685/live/Z3FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/XBob-HI46dzX58A-fvOwWw/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Djurgardens vs Pafos FC (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/vDof--fhREEvw3s07QHbeQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179685/live/voiHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/cwVeQUXY2k92UTj78ucFmw/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/voiHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Djurgardens vs Pafos FC (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/85C27VqjcTpeWXE3mdkzPw/Fv2lucGIbhPi2caWYvF5Lg/1741912179685/live/voiFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/tqYJklcnCIekFwaRKv8y8A/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/voiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Djurgardens vs Pafos FC (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/deFK-DThf_rART8VPyh2Zg/Fv2lucGIbhPi2caWYvF5Lg/1741912179685/live/may112/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/RpzgL13hjX_IPTl8bbsp-g/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/may112/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Fenerbahçe Beko vs Lyon Asvel Villeurbanne (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ssj-LCiUR2AnqVskA-bFOw/Fv2lucGIbhPi2caWYvF5Lg/1741912179685/live/thuongHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/YEa2oLGgwQW8Yn56H9wEzQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/thuongHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Fenerbahçe Beko vs Lyon Asvel Villeurbanne (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/jHFUfreB_C0yBD9Q_HrBGw/Fv2lucGIbhPi2caWYvF5Lg/1741912179685/live/thuongFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Njt2T8u02oazDqFNy0_raw/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Fenerbahçe Beko vs Lyon Asvel Villeurbanne (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/an8D6j2_8EKcLyNkKu1Paw/Fv2lucGIbhPi2caWYvF5Lg/1741912179686/live/thuongHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/YEa2oLGgwQW8Yn56H9wEzQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/thuongHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Fenerbahçe Beko vs Lyon Asvel Villeurbanne (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/3oM_Xcf-rZj7ofugNqte7g/Fv2lucGIbhPi2caWYvF5Lg/1741912179686/live/thuongFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Njt2T8u02oazDqFNy0_raw/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Crvena Zvezda Red Star vs Olimpia Milano (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/oxbZkNPMptx8G4FfxEmYDw/Fv2lucGIbhPi2caWYvF5Lg/1741912179686/live/luaHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/OsNDF0KD5VAR2LQlBeEMVg/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Crvena Zvezda Red Star vs Olimpia Milano (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/iqVZ3R5WLa2zsiyvUMvu-A/Fv2lucGIbhPi2caWYvF5Lg/1741912179686/live/luaFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/JLelFwkOvOADlllNsbjAiw/Fv2lucGIbhPi2caWYvF5Lg/1741914576478/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Crvena Zvezda Red Star vs Olimpia Milano (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/oxbZkNPMptx8G4FfxEmYDw/Fv2lucGIbhPi2caWYvF5Lg/1741912179686/live/luaHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/GCJXTovmTXXM2fBiJfVcTw/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Crvena Zvezda Red Star vs Olimpia Milano (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/3m2ri4mv0jIFaTwKxYXlIQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179691/live/luaFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/X9Y2c6OgW1OIL7oUi-BjaQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Zheng Qinwen vs Iga Swiatek (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/wbP2Ip9XEO7Nw6rilxandg/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/hucHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/OdA8X1A_taluJYLNQZpZSA/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/hucHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Zheng Qinwen vs Iga Swiatek (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Y4d-ZB9eqwP_Wf5FKMLcow/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/hucFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/HEbfZlbo7qy2e--7CBz7Ug/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/hucFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Tallon Griekspoor vs Holger Rune (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/kdcUParnLPialU9X6uv0Zw/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/oldHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/OciV921_UiWyK1PjLXm8sw/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Tallon Griekspoor vs Holger Rune (FULLHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/I6ts4F0S5phDN0azKJNO6A/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/oldFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6x81vXf0qXexklXQbafEGA/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Holger Rune vs Tallon Griekspoor (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/kdcUParnLPialU9X6uv0Zw/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/oldHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/OciV921_UiWyK1PjLXm8sw/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Holger Rune vs Tallon Griekspoor (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/I6ts4F0S5phDN0azKJNO6A/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/oldFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6x81vXf0qXexklXQbafEGA/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Iga Swiatek vs Qinwen Zheng (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/wbP2Ip9XEO7Nw6rilxandg/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/hucHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/OdA8X1A_taluJYLNQZpZSA/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/hucHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Iga Swiatek vs Qinwen Zheng (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Y4d-ZB9eqwP_Wf5FKMLcow/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/hucFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/HEbfZlbo7qy2e--7CBz7Ug/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/hucFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Atletico de Madrid (w) VS Granada CF(w) (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/yHtbaQCAXzPpiuAhp1K_Cg/Fv2lucGIbhPi2caWYvF5Lg/1741912651960/live/sd-6MtJQk4mF43AWVFdT9/playlist.m3u8
+https://apisportzz179528093.nsnd.live/c3S3u6VmkCeHK_ZRR_PgYg/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/sd-6MtJQk4mF43AWVFdT9/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Mouz vs G2 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/d_scPfGyG-ZOArJvOrAc_Q/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/gayHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/lZ_0PJ__kj-Q_44_M9s4bQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/gayHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Mouz vs G2 (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/fyKh-6CBoT8bjVH_DYCRZQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179661/live/gayFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/76iLpMJ298mGU4SdUvLhGA/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/gayFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Al-Fateh SC VS Al-Raed SFC (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/p0dr7Fue7EKU2niIGVL_ww/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/sd-6MsGPtKgE1gvJVYe5y/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Al-Shabab FC VS Al-Orubah (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/-itUKqYY92A0cIoZja40VA/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/sd-6MsGPtKg4GpRdCE7fZ/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Al-Ittihad Club VS Al-Riyadh (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/dj4TmUSLhbLr3nH_o8vuJg/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/sd-6MsGPwhHqeGV5Mr7M5/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h30 Virtus Pallacanestro Bologna vs Real Madrid Baloncesto (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/RmEnta8iyRnNuU6ctWawgg/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/thuongHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Wm82LATIB7BwD-wmTlJ4SA/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/thuongHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h30 Virtus Pallacanestro Bologna vs Real Madrid Baloncesto (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/bpD2QDIV6dn-wlG_VTAnbw/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/thuongFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/DKYkbUtZL6L0cxf-ykscwg/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Lyon vs Fotbal Club FCSB (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/bv67B9xMkR_m1AtbcNp7Aw/Fv2lucGIbhPi2caWYvF5Lg/1741912179692/live/nuiHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/VCO8vPvFb7QG9pjXSm-lZQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/nuiHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Lyon vs Fotbal Club FCSB (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/5BNYkvz2eJhKcwBX3ypTzQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179693/live/nuiFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/zn1MTVoknsaW4KJLyU8E5g/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/nuiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Lyon vs Fotbal Club FCSB (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/blnf2l8kAj6qTo2Tl9mMrA/Fv2lucGIbhPi2caWYvF5Lg/1741912179693/live/may101/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/-Fk6n6Wsye7gMxPX1M4P7Q/Fv2lucGIbhPi2caWYvF5Lg/1741914576479/live/may101/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Manchester United vs Real Sociedad (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/hSpf93uK-3P7eZM1vT-fWg/Fv2lucGIbhPi2caWYvF5Lg/1741912179693/live/momHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/72Dyj2KiBssieE_r1xN8Ag/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/momHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Manchester United vs Real Sociedad (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/B_RoLoQAEAdxasb7kBAPqg/Fv2lucGIbhPi2caWYvF5Lg/1741912179693/live/momFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/8wM5nntzlcZE3WtWq-xHtQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/momFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Manchester United vs Real Sociedad (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/GQSTereoDQz15vyu-bP4fA/Fv2lucGIbhPi2caWYvF5Lg/1741912179693/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/69HvldW95JZgqOWxKkCdmQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/may11/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Manchester United vs Real Sociedad (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/yePsuB8B18s01oGiLBaqOQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179693/live/baoHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/34_jI84goUADBk2oCNZ7Ug/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/baoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Manchester United vs Real Sociedad (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/T2uwKmYpMcZxzyEZcMNsSA/Fv2lucGIbhPi2caWYvF5Lg/1741912179693/live/baoFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/3zX_cVgljsqSoj47_2vJnQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/baoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Manchester United vs Real Sociedad (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/GQSTereoDQz15vyu-bP4fA/Fv2lucGIbhPi2caWYvF5Lg/1741912179693/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/69HvldW95JZgqOWxKkCdmQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/may11/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Glasgow Rangers vs Fenerbahce (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/vyWEGP-VuBwMz-xa_dV6hA/Fv2lucGIbhPi2caWYvF5Lg/1741913375675/live/caHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/mWWwF5LQmTV8r3N1ETi4GQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/caHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Glasgow Rangers vs Fenerbahce (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/J54knpojQn_UjCWfakCy7g/Fv2lucGIbhPi2caWYvF5Lg/1741913375675/live/caFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/rqOBYLgQA_hPXD3UqOOuQw/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/caFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Glasgow Rangers vs Fenerbahce (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/EkuaMS3WDc_Ko1PlK-IUhQ/Fv2lucGIbhPi2caWYvF5Lg/1741913375675/live/may111/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/jFv4O7iqDzrFxYopPW5FBg/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/may111/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Fiorentina vs Panathinaikos (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/Ck2EYCc8BN_6XxXTTGKx4Q/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/duoiHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Fiorentina vs Panathinaikos (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/LcPZNcycFc2lROxmqw9LwA/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/duoiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Vitoria Guimaraes vs Real Betis (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/AyW509E6Jpp8XpNrjfB-xA/Fv2lucGIbhPi2caWYvF5Lg/1741912179694/live/xienHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/UfGzeJr9K2qYIZfTXbdcTg/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/xienHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Vitoria Guimaraes vs Real Betis (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/xwHc3cyNI3mVlkT3v7YCEA/Fv2lucGIbhPi2caWYvF5Lg/1741912179694/live/xienFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/4nK0HIZnvKObLUma3TMT2w/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/xienFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Chelsea vs FC Copenhagen (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/mxQoWVZdA4_oT6eDuVBWWg/Fv2lucGIbhPi2caWYvF5Lg/1741912179694/live/mapHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/_EzFeurConIHGcVGRM3AOQ/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/mapHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Chelsea vs FC Copenhagen (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/i88h039hUF1GmjAAQMqFIQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179694/live/mapFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/OWiIR-WSif7FedyoQd6bzg/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/mapFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Daniil Medvedev vs Arthur Fils (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/lvK4D3SiDRhahdx2UXujlQ/Fv2lucGIbhPi2caWYvF5Lg/1741912179694/live/hucHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/dOH4TkfVWnIxwxICoD8gjg/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/hucHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Daniil Medvedev vs Arthur Fils (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/QGA6dF_5G9ASxSBoIfveLg/Fv2lucGIbhPi2caWYvF5Lg/1741912179694/live/hucFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/poK4yhKxu2kxP2gGMb9C0w/Fv2lucGIbhPi2caWYvF5Lg/1741914576480/live/hucFHD/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/rma-13325.jpg",0 Full match Atletico Madrid vs Real Madrid | BLV Mun | 13.3.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15992,6 +16332,150 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca6076e611bfccd9939f3a2121ad0e48.png",03h00 Legia Warszawa vs Molde (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m202nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxaysd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxayhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/thoxaysd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/thoxayhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxaysd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxayhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/3d7cc3c41c8531284a6426c47ae66b91.png",03h00 Manchester United vs Real Sociedad (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m104nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",03h00 Chelsea vs FC Copenhagen (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c21ffb8822fb5d116a8f09ba7b492ed6.png",00h30 Giana VS ASD Caldiero Terme (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -16264,6 +16748,18 @@ https://hotlivezz179602324.akainu.xyz/hLgPy__Hoa9gXEluuf9jng/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/NMVmaQszAg0Iwz9rLMddww/Fv2lucGIbhPi2caWYvF5Lg/1741912506640/live/sd-6MtJQk4mF43AWVFdT9/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/lCUr5Tg5-ll4pyUYI.png",02h00 Al-Fateh SC VS Al-Raed SFC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/oKCEkVfPT_k-qNdavyWY_Q/Fv2lucGIbhPi2caWYvF5Lg/1741914307117/live/sd-6MsGPtKgE1gvJVYe5y/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png",02h00 Al-Shabab FC VS Al-Orubah (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/62K5oXB4-LMl8rXXlka-wg/Fv2lucGIbhPi2caWYvF5Lg/1741914307870/live/sd-6MsGPtKg4GpRdCE7fZ/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/dea986d20115216c05d1a45ba9a6162e.png",02h00 Al-Ittihad Club VS Al-Riyadh (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/-OdeaJo1laN9FUlJcXMtJw/Fv2lucGIbhPi2caWYvF5Lg/1741914308701/live/sd-6MsGPwhHqeGV5Mr7M5/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f400ef01fa25a50ae6700e9a03263aea.png",18h00 Lamphun Warriors vs Buriram United (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -16556,6 +17052,106 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca6076e611bfccd9939f3a2121ad0e48.png",03h00 Legia Warszawa vs Molde (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m202nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b2a647479bd175eb2e61d89f2317e7de.png",00h45 Athletic Club vs AS Roma (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -16752,6 +17348,18 @@ https://179939170.vipcdnlive.xyz/live/phuhd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://ckcdn.livestreameuro.live/live/m106nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/dea986d20115216c05d1a45ba9a6162e.png",02h00 Al-Ittihad Club vs Al-Riyadh (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m103qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/28435481d5abb44cd7d406a2f9b5bf3a.png",02h00 Al-Fateh SC vs Al-Raed SFC (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m104qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b16d1e3b04364c5cd64203d8b4ef76e2.png",02h00 Al-Shabab FC vs Al-Orubah (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m105qt/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164869050583.png?win007=sell",00h45 Lazio vs FC Viktoria Plzen (LS) BLV PHONG VÂN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls29.live/
@@ -17128,6 +17736,94 @@ https://ckcdn.livestreameuro.live/live/cosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca6076e611bfccd9939f3a2121ad0e48.png",03h00 Legia Warszawa vs Molde (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m202nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/sunhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/8beaa840412542c94b9022d69030ab4a.png",03h00 Lyon vs FCSB (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f5da8fc911a5ca139398448d6969da71.png",03h00 Tottenham Hotspur vs AZ Alkmaar (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/bipsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/bipsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/biphd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/858d87ded0cce014bae0c9681af48524.png",03h00 Fiorentina vs Panathinaikos (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m203nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1937ae7165e566b9c99461566d5cbf59.png",00h30 Feralpisalo vs Clodiense (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -17296,3 +17992,15 @@ https://x3.cakeo30.world/truc-tiep/rapid-wien-vs-borac-banja-luka-j0xtpja133-rid
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/JSrGsBuorrLQL0BO1HLoIg/Fv2lucGIbhPi2caWYvF5Lg/1741911904676/live/sd-6MtJQk4mF43AWVFdT9/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6be476440b7346126a36784bb68d5d89.png",02h00 Al Ittihad vs Al-Riyadh (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/HsTi8_hO2Rdn_APBZ3shUA/Fv2lucGIbhPi2caWYvF5Lg/1741913763121/live/sd-6MsGPwhHqeGV5Mr7M5/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/lCUr5Tg5-ll4pyUYI.png",02h00 Al-Fateh vs Al Raed (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/7542Zq6zNBi2ZnlaN7-MiA/Fv2lucGIbhPi2caWYvF5Lg/1741913763006/live/sd-6MsGPtKgE1gvJVYe5y/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2cdcfe422070596c6dbe5bd7d30a61d3.png",02h00 Al-Shabab(KSA) vs Al-Orubah (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/JN6j2M6KRUgGNUt_yS4eUg/Fv2lucGIbhPi2caWYvF5Lg/1741913703687/live/sd-6MsGPtKg4GpRdCE7fZ/playlist.m3u8
