@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/164731404446.png",03h30 SC Imbabura vs Leones del Norte 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.a4chat.com/lives/f6d21c75ef41f50e35d59cf79f990a61/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20140514013133.jpg",04h00 Comoros vs Mali 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -123,18 +119,6 @@ https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/05ba2cb24e8bfdac9f10193b0972261a.png",03h30 Chapelton VS Humble Lions (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/cEPP7s8JFbtkGGwkdEZwGw/Fv2lucGIbhPi2caWYvF5Lg/1742524814743/live/sd-6MtJf4zfQtgiTxzxhh/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/4b3bdf6313562c2ad4d3af4b13e7c936.png",03h35 Lucia Bronzetti vs Maria Sakkari (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/0h46T9Po1HOUdrlz9JtgyA/Fv2lucGIbhPi2caWYvF5Lg/1742526008264/live/may21/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/310a93bb5b74c10324eada668db2d2a5.png",03h40 Lorenzo Sonego vs Mariano Navone (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/cBNxa6CZqUDSIeoGukRjdg/Fv2lucGIbhPi2caWYvF5Lg/1742526008877/live/may5/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/9d5807deb341296c828d759d90e72505.png",03h55 Roman Safiullin vs Jenson Brooksby (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -155,6 +139,10 @@ https://hotlivezz179026907.akainu.xyz/XH7eIkAAlbh9KXG-hv2STw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/Eg7FxB5kJuTt1MrfsZ9tLw/Fv2lucGIbhPi2caWYvF5Lg/1742528704959/live/may11/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",05h30 Portland Hearts of Pine VS Faialense (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/U6jWlKQVFvGKQiScTTpvtw/Fv2lucGIbhPi2caWYvF5Lg/1742532304959/live/sd-6MuS8B1i5fDeFmHi2F/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/43349a7da8df9e5e690673e1a57c2725.png!w100",04h00 Comoros vs Mali (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -343,14 +331,22 @@ https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h30 Chapelton vs Humble Lions (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/sJe-H2BL0XyKiEyylFhczA/Fv2lucGIbhPi2caWYvF5Lg/1742524211616/live/sd-6MtJf4zfQtgiTxzxhh/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Comoros.png",04h00 Comoros vs Mali (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/sVOfrh9Ol7ZWVvxDFj3aqg/Fv2lucGIbhPi2caWYvF5Lg/1742526302694/live/sd-6MrAAojXXgffK8evkb/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6b37b7574075a2528a333e8d5fed5352.png",05h00 Maranguape CE vs Caucaia CE (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/bVYNGf6RAmOvTgd2HCUsFA/Fv2lucGIbhPi2caWYvF5Lg/1742530804291/live/sd-6MtMP43qj2YrZJUXY7/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/cc5dc7c71bf63963f530f7e93db69c4f.png",05h00 Itapipoca CE vs Uniclinic Atletico Cearense CE (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/_h8bF8_6JjBioFTat59CYQ/Fv2lucGIbhPi2caWYvF5Lg/1742530803668/live/sd-6MtMP43qDxjJ1KpctT/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",05h30 Portland Hearts of Pine vs Faialense (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ltmbrCViMA271CEO3OdvcQ/Fv2lucGIbhPi2caWYvF5Lg/1742532302740/live/sd-6MuS8B1i5fDeFmHi2F/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Premier League Pool 2025 (Bàn 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
@@ -14432,10 +14428,6 @@ https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/310a93bb5b74c10324eada668db2d2a5.png",03h40 Lorenzo Sonego vs Mariano Navone (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/0XvbioVwNoPijs-HCORnXA/Fv2lucGIbhPi2caWYvF5Lg/1742525706160/live/may5/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/Comoros.png",04h00 Comoros VS Mali (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
