@@ -23,30 +23,82 @@ https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) SD 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) HD 1
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) SD 2
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) HD 2
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CH) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) HD 3 (Nhanh)
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CH) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1.flv
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f7779710d2026dca44c41da7a9b7c748.png!w100",07h00 Jamaica vs St. Vincent   Grenadines (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/7d44a77ef7bf7d809287828b992f3007.png!w100",07h00 Argentina vs Brazil (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/7d44a77ef7bf7d809287828b992f3007.png!w100",07h00 Argentina vs Brazil (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/7d44a77ef7bf7d809287828b992f3007.png!w100",07h00 Argentina vs Brazil (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplussd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/7d44a77ef7bf7d809287828b992f3007.png!w100",07h00 Argentina vs Brazil (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/hplushd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/7d44a77ef7bf7d809287828b992f3007.png!w100",07h00 Argentina vs Brazil (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplussd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/7d44a77ef7bf7d809287828b992f3007.png!w100",07h00 Argentina vs Brazil (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/hplushd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",05h30 Alex de Minaur vs Matteo Berrettini (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -155,34 +207,66 @@ https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) SD 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) Rakhoi TV
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CKhia) Rakhoi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://rakhoiz.link
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) HD 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CKhia) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) SD 2
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CKhia) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) HD 2
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CKhia) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CKhia) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) HD 3 (Nhanh)
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CKhia) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1.flv
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f7779710d2026dca44c41da7a9b7c748.png!w100",07h00 Jamaica vs St. Vincent   Grenadines (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/20bd29045f9e765f9162647ec74b9d75.png",06h00 Cerro Largo vs Montevideo City Torque (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -215,30 +299,58 @@ https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) SD 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) HD 1
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (RK) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) SD 2
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (RK) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) HD 2
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (RK) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) SD 3 (Nhanh)
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (RK) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) HD 3 (Nhanh)
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (RK) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1.flv
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f7779710d2026dca44c41da7a9b7c748.png!w100",07h00 Jamaica vs St. Vincent   Grenadines (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/20bd29045f9e765f9162647ec74b9d75.png",06h00 Cerro Largo vs Torque (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -251,6 +363,38 @@ https://apisportzz179528093.nsnd.live/oTw2rG2sWOr6XNB16BYWfA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/k8IEdYiB1DqU_aDuvsuRBA/Fv2lucGIbhPi2caWYvF5Lg/1742967004233/live/sd-6MuS8B5PW7k5SJEM2B/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",07h00 Argentina vs Brazil (VB) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/trauHD.flv?expire=1742967874&sign=dd447f98cb4878839690048a885bac13
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",07h00 Argentina vs Brazil (VB) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/FtVByEX3wErHNQoiYogxdQ/Fv2lucGIbhPi2caWYvF5Lg/1742967874788/live/trauHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",07h00 Argentina vs Brazil (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/trauSD.flv?expire=1742967874&sign=fe96d72393a9bbad612d031397084b6d
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",07h00 Argentina vs Brazil (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/IxRaRN2YgjLEdd3bUhwjgA/Fv2lucGIbhPi2caWYvF5Lg/1742967874789/live/trauFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",07h00 Argentina vs Brazil (VB) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z1HD.flv?expire=1742967880&sign=1477695fb262a1a488bfca7f0bef97e9
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",07h00 Argentina vs Brazil (VB) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/vIwCLBVTxqYD1wmpw4S8DA/Fv2lucGIbhPi2caWYvF5Lg/1742967880786/live/Z1HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",07h00 Argentina vs Brazil (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z1SD.flv?expire=1742967880&sign=579f7e74252e74e3666e8439152cc0e2
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",07h00 Argentina vs Brazil (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/f4aRLsAYqU9KaWrDghwVvA/Fv2lucGIbhPi2caWYvF5Lg/1742967880786/live/Z1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Premier League Pool 2025 (Bàn 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
@@ -14404,30 +14548,6 @@ https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -14480,6 +14600,30 @@ https://ckcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/f293e9915cbbd2c75528ab4fe3bc6671.png",05h30 Alex de Minaur vs Matteo Berrettini (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14588,34 +14732,6 @@ https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) Rakhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -14648,6 +14764,34 @@ https://ckcdn.livestreameuro.live/live/luluhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/20bd29045f9e765f9162647ec74b9d75.png",06h00 Cerro Largo vs Montevideo City Torque (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -14680,30 +14824,6 @@ https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunsd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/sunhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunsd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/pWJQukMm-hOurGDLS.png",04h30 Monaco vs Tanzania (RK) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/sunhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/57d69192f3ad9a481e0435221b28a4b6.png!w100",07h00 Venezuela vs Peru (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -14732,6 +14852,30 @@ https://ckcdn.livestreameuro.live/live/luluhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png!w100",07h00 Colombia vs Paraguay (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/20bd29045f9e765f9162647ec74b9d75.png",06h00 Cerro Largo vs Torque (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
