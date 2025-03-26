@@ -1,12 +1,12 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/202003200251561910.gif",22h30 FK Kolin vs SK Kladno 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/lives/a17c60adb8a6df218d65a33e39f2070e/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130824120849.jpg",23h00 Crvena Zvezda vs OFK Beograd 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/lives/50dc0b7f0a8ca3acd879e80f229b625d/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130919130422.png",00h00 Racing Club Montevideo vs CA River Plate 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/cd1226e29606955b66272604ce3a35de/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/201327170808.jpg",00h45 Lyon Nữ vs Bayern Munchen Nữ 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -47,14 +47,6 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/volleyball/team/9a92f614a03c9bbfcdbae80e4ea80e32.png",22h30 THY Women vs Aydin Bld. Spor Women (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179026907.akainu.xyz/RCJnU-xlQmnkxQ80ax8-jw/Fv2lucGIbhPi2caWYvF5Lg/1743024903787/live/may10/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/901afc0a7d59dffeffbdec74ebb43221.png",22h30 FK Kolin VS SK Kladno (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/27Sh677EhYPrdOdh5upuZA/Fv2lucGIbhPi2caWYvF5Lg/1743024904597/live/sd-6MtJQTmmqDCNsaD21y/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-Crvena-Zvezda-4pibz77.image/jpeg",23h00 Crvena Zvezda VS OFK Beograd (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -75,6 +67,46 @@ https://hotlivezz179536519.akainu.xyz/live/phoSD.flv?expire=1743028924&sign=94e2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/Gm2lSj_7bS-IguklSk-iVA/Fv2lucGIbhPi2caWYvF5Lg/1743028924057/live/phoFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/fb8fc7c21f4e96d4d901a90261e56ec6.png",00h00 Alexandra Eala vs Iga Swiatek (CK) HD nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/cunHD.flv?expire=1743030907&sign=2f36cc6a6e541376e629e3cb6c0d5812
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/fb8fc7c21f4e96d4d901a90261e56ec6.png",00h00 Alexandra Eala vs Iga Swiatek (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/kz3ehux2I4K-IZwv9ILH4Q/Fv2lucGIbhPi2caWYvF5Lg/1743030907144/live/cunHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/fb8fc7c21f4e96d4d901a90261e56ec6.png",00h00 Alexandra Eala vs Iga Swiatek (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/6f4bff4cbe1192403a0ff49f7653ac27/1743030907144/live/cunSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/fb8fc7c21f4e96d4d901a90261e56ec6.png",00h00 Alexandra Eala vs Iga Swiatek (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Z3cedX8265VlHKwGg6PkSA/Fv2lucGIbhPi2caWYvF5Lg/1743030907144/live/cunFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/fb8fc7c21f4e96d4d901a90261e56ec6.png",00h00 Alexandra Eala vs Iga Swiatek (CK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/MNERQRYqn_45QipIQFXnwg/Fv2lucGIbhPi2caWYvF5Lg/1743030907144/live/may26/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/fd1c8d30eff11d5da787064344aa0d6c.png",00h00 Racing Club Montevideo VS CA River Plate Montevideo (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/JYw_bJhdBiOfEvsdo-eSWQ/Fv2lucGIbhPi2caWYvF5Lg/1743030305058/live/sd-6MtJQX5kXuLiaBxyHu/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1902ecefc5af92576300b30eda2b25f5.jpg",00h30 Anadolu Efes Sports Club vs Saski Baskonia (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1743029705&sign=59fefdb08c2c336f8e0cc3e7b0471938
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1902ecefc5af92576300b30eda2b25f5.jpg",00h30 Anadolu Efes Sports Club vs Saski Baskonia (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/SDDSRUGCRUf70w6bLAdqZQ/Fv2lucGIbhPi2caWYvF5Lg/1743029705242/live/thuongHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1902ecefc5af92576300b30eda2b25f5.jpg",00h30 Anadolu Efes Sports Club vs Saski Baskonia (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuongSD.flv?expire=1743029705&sign=172a86b1b74c30a2d9d2e8e2cfd03159
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1902ecefc5af92576300b30eda2b25f5.jpg",00h30 Anadolu Efes Sports Club vs Saski Baskonia (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/oJLhc1og7xGGI07a5g5olw/Fv2lucGIbhPi2caWYvF5Lg/1743029705242/live/thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/61a1f9406cde098a265280a3683da9b7.png",23h00 Crvena Zvezda vs OFK Beograd (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -131,10 +163,34 @@ https://ckcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/hndJYADa-EBJXZAp5.png",00h00 Innstrandens vs Bodo/Glimt (CKhia) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
+https://ckhot-179939170.cdnfree.pro/live/taosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (CKhia) RaKhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link/
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/taohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/taosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/taohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (CKhia) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/taosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (CKhia) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/taohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/61a1f9406cde098a265280a3683da9b7.png",23h00 Crvena Zvezda vs OFK Beograd (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -159,6 +215,30 @@ https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939170.vipcdnlive.xyz/live/phanghd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/fd1c8d30eff11d5da787064344aa0d6c.png",00h00 Racing Club Montevideo vs CA River Plate Montevideo (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/fd1c8d30eff11d5da787064344aa0d6c.png",00h00 Racing Club Montevideo vs CA River Plate Montevideo (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/fd1c8d30eff11d5da787064344aa0d6c.png",00h00 Racing Club Montevideo vs CA River Plate Montevideo (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtiensd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/fd1c8d30eff11d5da787064344aa0d6c.png",00h00 Racing Club Montevideo vs CA River Plate Montevideo (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/duongtienhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/fd1c8d30eff11d5da787064344aa0d6c.png",00h00 Racing Club Montevideo vs CA River Plate Montevideo (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/fd1c8d30eff11d5da787064344aa0d6c.png",00h00 Racing Club Montevideo vs CA River Plate Montevideo (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/612/1hbcqmcgsx26.png?win007=sell",23h00 Crvena Zvezda vs OFK Beograd (LS) BLV YẾN THANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls29.live/
@@ -183,6 +263,46 @@ https://hls.cdnokvip.com/live/SAITAMA/index.m3u8?expire=1926142200&sign=bb9bdd4d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls29.live/
 https://flv.cdnokvip.com/live/SAITAMA.flv?expire=1926142200&sign=bb9bdd4dfcc5e330099961c4d71d9578
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2259/1h1868xe51v.png?win007=sell",00h00 Innstranden vs Bodo Glimt (LS) BLV CAO CẦU m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://hls.cdnokvip.com/live/CAOCAU/index.m3u8?expire=1873644300&sign=e7f33e673af9b9d5c9123b6c87445f4c
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2259/1h1868xe51v.png?win007=sell",00h00 Innstranden vs Bodo Glimt (LS) BLV CAO CẦU flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://flv.cdnokvip.com/live/CAOCAU.flv?expire=1873644300&sign=e7f33e673af9b9d5c9123b6c87445f4c
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2259/1h1868xe51v.png?win007=sell",00h00 Innstranden vs Bodo Glimt (LS) BLV QUAN VŨ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://hls.cdnokvip.com/live/QUANVU/index.m3u8?expire=1856940180&sign=ba4f215f940638a709b2f47036e1078f
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2259/1h1868xe51v.png?win007=sell",00h00 Innstranden vs Bodo Glimt (LS) BLV QUAN VŨ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls29.live/
+ https://flv.cdnokvip.com/live/QUANVU.flv?expire=1856940180&sign=ba4f215f940638a709b2f47036e1078f
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2259/1h1868xe51v.png?win007=sell",00h00 Innstranden vs Bodo Glimt (LS) BLV LA THÀNH m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls29.live/
+ https://hls.cdnokvip.com/live/LATHANH/index.m3u8?expire=1872319740&sign=e35bda45d3755b86278ebbea44ff40e8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2259/1h1868xe51v.png?win007=sell",00h00 Innstranden vs Bodo Glimt (LS) BLV LA THÀNH flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls29.live/
+ https://flv.cdnokvip.com/live/LATHANH.flv?expire=1872319740&sign=e35bda45d3755b86278ebbea44ff40e8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2259/1h1868xe51v.png?win007=sell",00h00 Innstranden vs Bodo Glimt (LS) BLV QUAN THẮNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://hls.cdnokvip.com/live/QUANTHANG/index.m3u8?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2259/1h1868xe51v.png?win007=sell",00h00 Innstranden vs Bodo Glimt (LS) BLV QUAN THẮNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://flv.cdnokvip.com/live/QUANTHANG.flv?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2259/1h1868xe51v.png?win007=sell",00h00 Innstranden vs Bodo Glimt (LS) BLV LỮ BỐ m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://hls.cdnokvip.com/live/LUBO/index.m3u8?expire=1873178820&sign=52912b68d1459d5ca99d18f21b5a8d33
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2259/1h1868xe51v.png?win007=sell",00h00 Innstranden vs Bodo Glimt (LS) BLV LỮ BỐ flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls29.live/
+ https://flv.cdnokvip.com/live/LUBO.flv?expire=1873178820&sign=52912b68d1459d5ca99d18f21b5a8d33
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/61a1f9406cde098a265280a3683da9b7.png",23h00 Crvena Zvezda vs OFK Beograd (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -231,74 +351,126 @@ https://ckcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/hndJYADa-EBJXZAp5.png",00h00 Innstrandens vs Bodo/Glimt (RK) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/901afc0a7d59dffeffbdec74ebb43221.png",22h30 FK Kolin vs SK Kladno (VB) Backup 1
+https://ckhot-179939170.cdnfree.pro/live/taosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (RK) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/ZOZbYlOjvQgwGxTCP7G5DQ/Fv2lucGIbhPi2caWYvF5Lg/1743024304958/live/sd-6MtJQTmmqDCNsaD21y/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/taohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/taosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/taohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (RK) SD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/taosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/484ae7b7bd74733551f909e8bcf6f43f.png",00h45 Lyon (w) vs Bayern Munchen (w) (RK) HD (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/taohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-pjyvvvl.png",23h00 Crvena Zvezda vs OFK Beograd (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/BGAaD8SROLs4M2THukHHzQ/Fv2lucGIbhPi2caWYvF5Lg/1743026104345/live/sd-6MuRsZmNhj8Hz62xcB/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Premier League Pool 2025 (Bàn 1)
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/fd1c8d30eff11d5da787064344aa0d6c.png",00h00 Racing Club Montevideo vs CA River Plate (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/2KAgs5h1hDqSc30gnqECcA/Fv2lucGIbhPi2caWYvF5Lg/1743029702709/live/sd-6MtJQX5kXuLiaBxyHu/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Premier League Pool 2025 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/fPVgDqUmGwQk5dLC789-6w/Fv2lucGIbhPi2caWYvF5Lg/1743029974141/live/may24/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Premier League Pool 2025 (Bàn 2)
+https://hotlivezz179602324.akainu.xyz/f-4_VqmeSVdxu5Wz3VMiEw/Fv2lucGIbhPi2caWYvF5Lg/1743015605173/live/cuonHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Premier League Pool 2025 (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/4DRMFbzV-EDw0EmuG5HEOw/Fv2lucGIbhPi2caWYvF5Lg/1743029974141/live/may25/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/iDZtyELEtfcr5emYLnGw4Q/Fv2lucGIbhPi2caWYvF5Lg/1743015605173/live/cuonFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",22h30 THY Women vs Aydin Bld. Spor Women (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/wKYuP7Mci8mFwwSBXgJsBw/Fv2lucGIbhPi2caWYvF5Lg/1743029974141/live/may10/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/EUYhWeL-Ss0QqxWXvn-pFg/Fv2lucGIbhPi2caWYvF5Lg/1743021603219/live/may10/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",22h30 THY Women vs Aydin Bld. Spor Women (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/wKYuP7Mci8mFwwSBXgJsBw/Fv2lucGIbhPi2caWYvF5Lg/1743029974141/live/may10/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",22h30 FK Kolin VS SK Kladno (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/Tw6sZg2C8R91hhEnYQrvZQ/Fv2lucGIbhPi2caWYvF5Lg/1743029974141/live/sd-6MtJQTmmqDCNsaD21y/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/oeqbGHy3TlOIcpfVUHYl0g/Fv2lucGIbhPi2caWYvF5Lg/1743031805229/live/may10/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h00 Crvena Zvezda VS OFK Beograd (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/Mx1kXeHv8OjSbdgt0iA3Fw/Fv2lucGIbhPi2caWYvF5Lg/1743029974141/live/sd-6MuRsZmNhj8Hz62xcB/playlist.m3u8
+https://apisportzz179528093.nsnd.live/-cCk0V03-FpK5_yh0KuD8g/Fv2lucGIbhPi2caWYvF5Lg/1743031805230/live/sd-6MuRsZmNhj8Hz62xcB/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h30 Bydgoszcz Women vs Budowlani Lodz Women (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/2KMVJnx8YWeqb6IXc5C4yw/Fv2lucGIbhPi2caWYvF5Lg/1743029974141/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/iDWJtZe2tSx0S4JMz87EzA/Fv2lucGIbhPi2caWYvF5Lg/1743031805230/live/may11/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h30 Bydgoszcz Women vs Budowlani Lodz Women (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/2KMVJnx8YWeqb6IXc5C4yw/Fv2lucGIbhPi2caWYvF5Lg/1743029974141/live/may11/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/iDWJtZe2tSx0S4JMz87EzA/Fv2lucGIbhPi2caWYvF5Lg/1743031805230/live/may11/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h00 Alexandra Eala vs Iga Swiatek (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/QgxJ0J306jvmmSJVdDxj7g/Fv2lucGIbhPi2caWYvF5Lg/1743029974142/live/cunHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/bwgf2Z0gOkMsK4tXXWihUQ/Fv2lucGIbhPi2caWYvF5Lg/1743031805230/live/cunHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h00 Alexandra Eala vs Iga Swiatek (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://newobjectzzpzybaks9eeliv.fbcdn.fyi/062bb63e3c18ac4b8c5c4e2ecdf88698/1743029974142/live/cunSD/playlist.m3u8
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/2cbcf215df32da23b20b0f244a43a9a7/1743031805230/live/cunSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h00 Alexandra Eala vs Iga Swiatek (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/gTzOv8CT3s4WjqMTbFSmQw/Fv2lucGIbhPi2caWYvF5Lg/1743029974142/live/cunFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6ab1dHPm32fwb85syJkdlQ/Fv2lucGIbhPi2caWYvF5Lg/1743031805230/live/cunFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h00 Alexandra Eala vs Iga Swiatek (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/I13OFqyfJHSw_TwHe00_lg/Fv2lucGIbhPi2caWYvF5Lg/1743029974142/live/may26/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/7QftAiGiVOKYglQP3w8Z1w/Fv2lucGIbhPi2caWYvF5Lg/1743031805230/live/may26/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h00 Racing Club Montevideo VS CA River Plate Montevideo (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/VFsfBUneQg8NEF4MMI_K4A/Fv2lucGIbhPi2caWYvF5Lg/1743031805231/live/sd-6MtJQX5kXuLiaBxyHu/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h00 Iga Swiatek vs Alexandra Eala (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/zC5B1-dVcPPuLK9L9QTCFw/Fv2lucGIbhPi2caWYvF5Lg/1743031805231/live/cunHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h00 Iga Swiatek vs Alexandra Eala (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/2iprrkhP4pMLcAL84gD1Dw/Fv2lucGIbhPi2caWYvF5Lg/1743031805231/live/cunFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h00 Iga Swiatek vs Alexandra Eala (Nhà đài)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179026907.akainu.xyz/f9BRgCuNO555NxvRYF9AHw/Fv2lucGIbhPi2caWYvF5Lg/1743031805231/live/may26/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Anadolu Efes Sports Club vs Saski Baskonia (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/3F-9JSLNZ6ANk8vUJ00cvA/Fv2lucGIbhPi2caWYvF5Lg/1743029974142/live/thuongHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/T-va2VcYgl7FHsuyNRM1Ew/Fv2lucGIbhPi2caWYvF5Lg/1743031805231/live/thuongHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Anadolu Efes Sports Club vs Saski Baskonia (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/pBCt01bsQw1cDncIAVnqRA/Fv2lucGIbhPi2caWYvF5Lg/1743029974142/live/thuongFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/cNvI_9MSbblA5EgBL54XHg/Fv2lucGIbhPi2caWYvF5Lg/1743031805231/live/thuongFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Anadolu Efes Sports Club vs Saski Baskonia (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/QmFdT98RrxAMih7BjkDg3A/Fv2lucGIbhPi2caWYvF5Lg/1743031805232/live/thuongHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h30 Anadolu Efes Sports Club vs Saski Baskonia (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/jTtfrvY0chUuMCpLgiCM9A/Fv2lucGIbhPi2caWYvF5Lg/1743031805232/live/thuongFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Lyon (w) vs Bayern Munchen (w) (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/e34YUwh14_soMnuL9Z6HEA/Fv2lucGIbhPi2caWYvF5Lg/1743031805232/live/voiHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h45 Lyon (w) vs Bayern Munchen (w) (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/ULR3ZRHeL7IDoj_0LVqF3g/Fv2lucGIbhPi2caWYvF5Lg/1743031805232/live/voiFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h30 Chemik Police Women vs Rzeszow Women (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179026907.akainu.xyz/xr6P6xqRhGeC3Z8EluKAyQ/Fv2lucGIbhPi2caWYvF5Lg/1743031805232/live/may11/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/atrau260325.jpg",[0] Full Match Argentina vs Brazil | BLV  Trâu Gác Bếp | 26.03.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14280,10 +14452,6 @@ https://ckcdn.livestreameuro.live/live/lanhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/RCJnU-xlQmnkxQ80ax8-jw/Fv2lucGIbhPi2caWYvF5Lg/1743024903787/live/may10/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/901afc0a7d59dffeffbdec74ebb43221.png",22h30 FK Kolin VS SK Kladno (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/27Sh677EhYPrdOdh5upuZA/Fv2lucGIbhPi2caWYvF5Lg/1743024904597/live/sd-6MtJQTmmqDCNsaD21y/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-Crvena-Zvezda-4pibz77.image/jpeg",23h00 Crvena Zvezda VS OFK Beograd (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14308,6 +14476,42 @@ https://hotlivezz179602324.akainu.xyz/9tNbrn8JkHY5cvTSc6S7Ug/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/JYw_bJhdBiOfEvsdo-eSWQ/Fv2lucGIbhPi2caWYvF5Lg/1743030305058/live/sd-6MtJQX5kXuLiaBxyHu/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/fb8fc7c21f4e96d4d901a90261e56ec6.png",00h00 Alexandra Eala vs Iga Swiatek (CK) HD nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/cunHD.flv?expire=1743030907&sign=2f36cc6a6e541376e629e3cb6c0d5812
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/fb8fc7c21f4e96d4d901a90261e56ec6.png",00h00 Alexandra Eala vs Iga Swiatek (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/kz3ehux2I4K-IZwv9ILH4Q/Fv2lucGIbhPi2caWYvF5Lg/1743030907144/live/cunHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/fb8fc7c21f4e96d4d901a90261e56ec6.png",00h00 Alexandra Eala vs Iga Swiatek (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://newobjectzzpzybaks9eeliv.fbcdn.fyi/6f4bff4cbe1192403a0ff49f7653ac27/1743030907144/live/cunSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/fb8fc7c21f4e96d4d901a90261e56ec6.png",00h00 Alexandra Eala vs Iga Swiatek (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Z3cedX8265VlHKwGg6PkSA/Fv2lucGIbhPi2caWYvF5Lg/1743030907144/live/cunFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/fb8fc7c21f4e96d4d901a90261e56ec6.png",00h00 Alexandra Eala vs Iga Swiatek (CK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179026907.akainu.xyz/MNERQRYqn_45QipIQFXnwg/Fv2lucGIbhPi2caWYvF5Lg/1743030907144/live/may26/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1902ecefc5af92576300b30eda2b25f5.jpg",00h30 Anadolu Efes Sports Club vs Saski Baskonia (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1743029705&sign=59fefdb08c2c336f8e0cc3e7b0471938
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1902ecefc5af92576300b30eda2b25f5.jpg",00h30 Anadolu Efes Sports Club vs Saski Baskonia (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/SDDSRUGCRUf70w6bLAdqZQ/Fv2lucGIbhPi2caWYvF5Lg/1743029705242/live/thuongHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1902ecefc5af92576300b30eda2b25f5.jpg",00h30 Anadolu Efes Sports Club vs Saski Baskonia (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/thuongSD.flv?expire=1743029705&sign=172a86b1b74c30a2d9d2e8e2cfd03159
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1902ecefc5af92576300b30eda2b25f5.jpg",00h30 Anadolu Efes Sports Club vs Saski Baskonia (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/oJLhc1og7xGGI07a5g5olw/Fv2lucGIbhPi2caWYvF5Lg/1743029705242/live/thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/61a1f9406cde098a265280a3683da9b7.png",23h00 Crvena Zvezda vs OFK Beograd (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -14524,10 +14728,6 @@ https://ckcdn.livestreameuro.live/live/hplussd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/hplushd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/901afc0a7d59dffeffbdec74ebb43221.png",22h30 FK Kolin vs SK Kladno (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/ZOZbYlOjvQgwGxTCP7G5DQ/Fv2lucGIbhPi2caWYvF5Lg/1743024304958/live/sd-6MtJQTmmqDCNsaD21y/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-undefined-pjyvvvl.png",23h00 Crvena Zvezda vs OFK Beograd (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
