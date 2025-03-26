@@ -35,6 +35,18 @@ https://live.rapid-api.icu/lives/8aef7f06c952d88959876192efceeeaa/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130824125022.jpg",21h00 Radnik Surdulica vs Habitpharm Javor 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/201327170808.jpg",00h45 Lyon Nữ vs Bayern Munchen Nữ 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130919125955.png",02h30 Liverpool URU vs Nacional Montevideo 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/570197ce24c78651ca363a146213ba08.png!w100",09h00 Honduras vs Bermuda (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -83,22 +95,6 @@ https://ckcdn.livestreameuro.live/live/dosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/dohd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",08h00 Jazz vs Grizzlies (CK) HD NHANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/hoiHD.flv?expire=1742971745&sign=e5b05d1e9898292627b5ecc0dcee9b1a
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",08h00 Jazz vs Grizzlies (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/iEE46_VorHLjTnb2YGxZWg/Fv2lucGIbhPi2caWYvF5Lg/1742971745451/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",08h00 Jazz vs Grizzlies (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/hoiSD.flv?expire=1742971745&sign=0e4704beddf10a061a1446caf9087568
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/jazz.png",08h00 Jazz vs Grizzlies (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/_n6Pt5bHZDdaLNrc-aJ5AQ/Fv2lucGIbhPi2caWYvF5Lg/1742971745451/live/hoiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/4512175b1415f69816e816160093bcc0.png",09h00 Portland Trail Blazers vs Cavaliers (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -351,74 +347,58 @@ https://apisportzz179528093.nsnd.live/VCjqDzYL42fmT7BJ3VWdTg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/9QQM9XeJDhvASd8qy6o89w/Fv2lucGIbhPi2caWYvF5Lg/1742979301037/live/sd-6MtMP7FsrJfxEXyiJo/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Jazz vs Grizzlies (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/yoF1I2FiiJuNioIPHXw3LA/Fv2lucGIbhPi2caWYvF5Lg/1742974389158/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Jazz vs Grizzlies (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/EQk3o6YG6rio74_twSI1cQ/Fv2lucGIbhPi2caWYvF5Lg/1742974389158/live/hoiFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Jazz vs Grizzlies (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/yoF1I2FiiJuNioIPHXw3LA/Fv2lucGIbhPi2caWYvF5Lg/1742974389158/live/hoiHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Jazz vs Grizzlies (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/EQk3o6YG6rio74_twSI1cQ/Fv2lucGIbhPi2caWYvF5Lg/1742974389158/live/hoiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h30 FIBA 3x3 Asia Cup 2025 | Day 1 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/HF1mwwPVxaDUxfnAFL8o_Q/Fv2lucGIbhPi2caWYvF5Lg/1742974389159/live/luaHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/rPYSxPeSTX_wunk1ql6_Dg/Fv2lucGIbhPi2caWYvF5Lg/1742972405113/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h30 FIBA 3x3 Asia Cup 2025 | Day 1 (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/MWn4-0Gcvdmpn6YYAgQIuA/Fv2lucGIbhPi2caWYvF5Lg/1742974389159/live/luaFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/JzLRqmk5hulq1hXt6b2sXA/Fv2lucGIbhPi2caWYvF5Lg/1742972405113/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Kings vs Thunder (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/lBkhNyX99cj88CoHi0Qt6w/Fv2lucGIbhPi2caWYvF5Lg/1742974389159/live/cayHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/rRz9It1QoAcPIhSG5aZ_Zw/Fv2lucGIbhPi2caWYvF5Lg/1742981403663/live/cayHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Kings vs Thunder (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/4CTABuRVLfUWuL7I8-CFmg/Fv2lucGIbhPi2caWYvF5Lg/1742974389159/live/cayFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/BSBZAggkodubjPcR3cv_1A/Fv2lucGIbhPi2caWYvF5Lg/1742981403663/live/cayFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Kings vs Thunder (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/BSSoAiQrxe7jcKFPyrmBmw/Fv2lucGIbhPi2caWYvF5Lg/1742975910475/live/Z2HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/ZqUE7LoI16pbzrs54UczuQ/Fv2lucGIbhPi2caWYvF5Lg/1742981403663/live/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Kings vs Thunder (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/l-H85HNvf_O7ZEoNsKlTlw/Fv2lucGIbhPi2caWYvF5Lg/1742975910475/live/Z2FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/c_ZbmXYKLrIhXP02NisoVg/Fv2lucGIbhPi2caWYvF5Lg/1742981403663/live/Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Portland Trail Blazers vs Cavaliers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/IMlT7uDgDK99N9jFfLSynA/Fv2lucGIbhPi2caWYvF5Lg/1742974389159/live/Z3HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/K_2rzgy1QUl9da9zu2bsFA/Fv2lucGIbhPi2caWYvF5Lg/1742981403664/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Portland Trail Blazers vs Cavaliers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/WS47K9qQBufPr7Bphb0Chw/Fv2lucGIbhPi2caWYvF5Lg/1742974389159/live/Z3FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/QsuRKxDsDmZxvHXtx_Kw9g/Fv2lucGIbhPi2caWYvF5Lg/1742981403664/live/Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Portland Trail Blazers vs Cavaliers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/dE8_LlTJ_zjFoQU7821Pgw/Fv2lucGIbhPi2caWYvF5Lg/1742975910475/live/Z3HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/K_2rzgy1QUl9da9zu2bsFA/Fv2lucGIbhPi2caWYvF5Lg/1742981403664/live/Z3HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Portland Trail Blazers vs Cavaliers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/TBZJEQodkT6EuT-oPpOOPw/Fv2lucGIbhPi2caWYvF5Lg/1742975910475/live/Z3FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/QsuRKxDsDmZxvHXtx_Kw9g/Fv2lucGIbhPi2caWYvF5Lg/1742981403664/live/Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Honduras VS Bermuda (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/0lAGd8lXZrwNplzRBBTOTg/Fv2lucGIbhPi2caWYvF5Lg/1742976508498/live/sd-6MuS8B5PLueJwiUekK/playlist.m3u8
+https://apisportzz179528093.nsnd.live/Z6McgSwF_uwXEwDsTZEi2Q/Fv2lucGIbhPi2caWYvF5Lg/1742981403664/live/sd-6MuS8B5PLueJwiUekK/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Ciputra Hanoi Yonex Sunrise Vietnam 2025 (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/2FFHggXYIiVV-eaurCAO5Q/Fv2lucGIbhPi2caWYvF5Lg/1742974389159/live/may21/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/feWQZVTG1SuS12wgdMBiaA/Fv2lucGIbhPi2caWYvF5Lg/1742972405114/live/may21/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",10h00 Municipal Liberia VS AD Guanacasteca (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/f2uOFraQP2NelfcLe96j8Q/Fv2lucGIbhPi2caWYvF5Lg/1742979874902/live/sd-6MtMP7FsrJfxEXyiJo/playlist.m3u8
+https://apisportzz179528093.nsnd.live/wDGLxjR2a9li8SOCHwAIPg/Fv2lucGIbhPi2caWYvF5Lg/1742981403664/live/sd-6MtMP7FsrJfxEXyiJo/playlist.m3u8
 #EXTINF:0 group-title=" [HIGHLIGHT]" tvg-logo="https://g7w1r.4shares.live/images/20250326-ARG-BRA-1.jpg",[0] Highlights Argentina vs Brazil | BLV Trâu Gác Bếp | 26.03.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
