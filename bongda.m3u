@@ -3,42 +3,10 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/lives/2488e8a83f3ab87150f5333dc06ecce1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130917085146.jpg",07h00 Independiente Rivadavia vs Racing Club 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/lives/f0354c4fd3897e524444ba5062057c8b/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130919130033.png",07h15 Miramar Misiones FC vs Cerro Montevideo 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/lives/70c85fa1ab7cbc645756caf84d48002c/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130917095156.jpg",08h10 America de Cali vs Boyaca Chico 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/lives/91a4e372e58a577d5053399ae79f8785/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/475ed561f388e211be0941b91e012e92.png",07h15 Miramar Misiones FC vs Cerro Montevideo (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -119,22 +87,30 @@ https://ckcdn.livestreameuro.live/live/sunhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",06h30 Heat vs Hawks (CK) HD NHANH
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1743139807&sign=a9b570fc12ba40697be1ad56b9bbfad8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",06h30 Heat vs Hawks (CK) HD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/K3NCjAqWeX8NE2vDtCzhUQ/Fv2lucGIbhPi2caWYvF5Lg/1743139807299/live/thuongHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",06h30 Heat vs Hawks (CK) SD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongSD.flv?expire=1743139807&sign=888acba388e684c63b82d62d11d417bf
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Heat.png",06h30 Heat vs Hawks (CK) FullHD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/-HNd4w5r5ZnpmytmVUPLOg/Fv2lucGIbhPi2caWYvF5Lg/1743139807299/live/thuongFHD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bulls.png",07h00 Bulls vs Lakers (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -167,18 +143,6 @@ https://hotlivezz179536519.akainu.xyz/live/caoSD.flv?expire=1743141607&sign=a93a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/MoUhUCjkewjH5pvv8Khc4w/Fv2lucGIbhPi2caWYvF5Lg/1743141607059/live/caoFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club de Avellaneda (CK) HD nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1743141787&sign=72cff98d8774a1ab263d6d5f78737e88
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club de Avellaneda (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/HG2MQOlw5cY6u7BeF9PSPg/Fv2lucGIbhPi2caWYvF5Lg/1743141787058/live/sd-6MtMPLMYwaPS5FcVQF/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://image-eu-na-q2h7.4shares.live/thesports/team/club.png",07h15 Miramar Misiones FC VS Cerro Montevideo (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/fETAHO3H27PShVaOUeox6Q/Fv2lucGIbhPi2caWYvF5Lg/1743143406955/live/sd-6MtJQX5k2x7bdenp6w/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista (SP) vs Palmeiras (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -215,38 +179,30 @@ https://hotlivezz179602324.akainu.xyz/aO2W685WosRqs37sDgkvXw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/dyauxe03imVEgv6WNGDMQg/Fv2lucGIbhPi2caWYvF5Lg/1743146106833/live/sd-6MtN8NQDZ5Yg7BEXo1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) SD 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",09h00 Kings vs Portland Trail Blazers (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) Rakhoi TV
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z1HD.flv?expire=1743148205&sign=ba930c0ddd6784fb812ae42112b670c7
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",09h00 Kings vs Portland Trail Blazers (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) HD 1
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Z80rBePR9uT5tAHvnAT_FQ/Fv2lucGIbhPi2caWYvF5Lg/1743148205506/live/Z1HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",09h00 Kings vs Portland Trail Blazers (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) SD 2
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z1SD.flv?expire=1743148205&sign=622f9dbb654916cb43988408a5412b37
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/kings.png",09h00 Kings vs Portland Trail Blazers (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) HD 2
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/oBTJwl1s6iDkjKJlWos1VQ/Fv2lucGIbhPi2caWYvF5Lg/1743148205506/live/Z1FHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense VS AD San Carlos (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/i20h6lHRzNPL5R03y7G0HQ/Fv2lucGIbhPi2caWYvF5Lg/1743149708949/live/sd-6MtMP7FsrqSgRFYYTM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/47e3d71d642815df9323427775b6a28d.png",09h00 Santos De Guapiles VS Deportivo Saprissa (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/475ed561f388e211be0941b91e012e92.png",07h15 Miramar Misiones FC vs Cerro Montevideo (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/1F3p_yzrd1SFT2G07ljvBw/Fv2lucGIbhPi2caWYvF5Lg/1743149408207/live/sd-6MtMP7FsrseAHjNTcF/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista vs Palmeiras (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -335,18 +291,34 @@ https://ckcdn.livestreameuro.live/live/sunhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club de Avellaneda (LK) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m202qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png",07h00 Colombia U17 vs Chile U17 (LK) Nhà đài
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CKhia) Rakhoi TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m203qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/475ed561f388e211be0941b91e012e92.png",07h15 Miramar Misiones FC vs Cerro Montevideo (LK) Nhà đài
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CKhia) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m204qt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista (SP) vs Palmeiras (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -375,22 +347,34 @@ https://179939170.vipcdnlive.xyz/live/honghainhihd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m201qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130917085146.jpg?win007=sell",07h00 Independiente Rivadavia vs Racing Club (LS) BLV ĐOÀN DỰ  m3u
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/47e3d71d642815df9323427775b6a28d.png",09h00 Santos De Guapiles vs Deportivo Saprissa (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls29.live/
-https://hls.cdnokvip.com/live/DOANDU/index.m3u8?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130917085146.jpg?win007=sell",07h00 Independiente Rivadavia vs Racing Club (LS) BLV ĐOÀN DỰ  flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m205qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls29.live/
-https://flv.cdnokvip.com/live/DOANDU.flv?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2549/1hcgsqpbhwy.png?win007=sell",07h15 Miramar Misiones FC vs Cerro Montevideo (LS) BLV BRUNO m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls29.live/
-https://hls.cdnokvip.com/live/BRUNO/index.m3u8?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2549/1hcgsqpbhwy.png?win007=sell",07h15 Miramar Misiones FC vs Cerro Montevideo (LS) BLV BRUNO flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls29.live/
-https://flv.cdnokvip.com/live/BRUNO.flv?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/349/1gxsf3fvq72k.png?win007=sell",07h35 Corinthians Paulista (SP) vs Palmeiras (LS) BLV THÀNH LONG  m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls29.live/
@@ -439,34 +423,30 @@ https://hls.cdnokvip.com/live/RUBY/index.m3u8?expire=1892873760&sign=8e88dff5461
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls29.live/
 https://flv.cdnokvip.com/live/RUBY.flv?expire=1892873760&sign=8e88dff54619a3bad0fb2c4600db2908
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) SD 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3948/1gv1ymnz1d7.png?win007=sell",09h00 Alajuelense vs AD San Carlos (LS) BLV KEN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) HD 1
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://hls.cdnokvip.com/live/KEN/index.m3u8?expire=1873178820&sign=4cf8fc801a94e455a9c053b6d7f1d591
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3948/1gv1ymnz1d7.png?win007=sell",09h00 Alajuelense vs AD San Carlos (LS) BLV KEN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) SD 2
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://flv.cdnokvip.com/live/KEN.flv?expire=1873178820&sign=4cf8fc801a94e455a9c053b6d7f1d591
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3948/1gv1ymnz1d7.png?win007=sell",09h00 Alajuelense vs AD San Carlos (LS) BLV ĐOÀN DỰ  m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) HD 2
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://hls.cdnokvip.com/live/DOANDU/index.m3u8?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3948/1gv1ymnz1d7.png?win007=sell",09h00 Alajuelense vs AD San Carlos (LS) BLV ĐOÀN DỰ  flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://flv.cdnokvip.com/live/DOANDU.flv?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130919131305.png?win007=sell",09h00 Santos De Guapiles vs Deportivo Saprissa (LS) BLV QUAN THẮNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://hls.cdnokvip.com/live/QUANTHANG/index.m3u8?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130919131305.png?win007=sell",09h00 Santos De Guapiles vs Deportivo Saprissa (LS) BLV QUAN THẮNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/475ed561f388e211be0941b91e012e92.png",07h15 Miramar Misiones FC vs Cerro Montevideo (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://flv.cdnokvip.com/live/QUANTHANG.flv?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista vs Palmeiras (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -543,26 +523,30 @@ https://ckcdn.livestreameuro.live/live/sunhd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (VB) HD Nhanh
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1743140386&sign=54471edb059be9cdf40d7746bfc68f01
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (VB) HD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (RK) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/PH-eaWF-wFQ_EM5a9SmTMw/Fv2lucGIbhPi2caWYvF5Lg/1743140386575/live/dungHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (VB) SD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (RK) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungSD.flv?expire=1743140386&sign=455dd5ccba12085083d1b82406876c66
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (VB) FullHD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (RK) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/1XTHHLLEyML_-MG9XWeAMQ/Fv2lucGIbhPi2caWYvF5Lg/1743140386575/live/dungFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bwR7IxFa-OYb7JNmq.png",07h15 Miramar Misiones FC vs Cerro Montevideo (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (RK) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/s9K7JwWRru9ZZuZMkkUkjg/Fv2lucGIbhPi2caWYvF5Lg/1743143048869/live/sd-6MtJQX5k2x7bdenp6w/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/1fc010aba7ac510b5364e5f76ca4f060.png!w60",09h00 Sacramento Kings vs Portland Trail Blazers (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista (SP) vs Palmeiras (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -583,130 +567,122 @@ https://hotlivezz179602324.akainu.xyz/7_iHme9i_VublTCyP2hQKg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/3YsztoisEJPlimovwUucug/Fv2lucGIbhPi2caWYvF5Lg/1743145502860/live/sd-6MtN8NQDZ5Yg7BEXo1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Taylor Fritz vs Matteo Berrettini (HD)
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/47e3d71d642815df9323427775b6a28d.png",09h00 Santos De Guapiles vs Deportivo Saprissa (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/FDcXqDwQ9cbbb4SZjeS5Jw/Fv2lucGIbhPi2caWYvF5Lg/1743148197359/live/daoHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Taylor Fritz vs Matteo Berrettini (FullHD)
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/GT0mo_xRzbAk4j-B3Quo4w/Fv2lucGIbhPi2caWYvF5Lg/1743149701592/live/sd-6MtMP7FsrseAHjNTcF/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/cvLbdlSTsO5lwAUzMHr3XQ/Fv2lucGIbhPi2caWYvF5Lg/1743148197359/live/daoFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Taylor Fritz vs Matteo Berrettini (Nhà đài)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/7sdxjRxc9Uje4HnurzATTg/Fv2lucGIbhPi2caWYvF5Lg/1743148197359/live/may20/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h10 Los Angeles Dodgers vs Detroit Tigers (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/-QAY0P0wadlXinmSbU8KcQ/Fv2lucGIbhPi2caWYvF5Lg/1743148197359/live/luaHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h10 Los Angeles Dodgers vs Detroit Tigers (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/TKexGUd7oesALI_dr7Kl2A/Fv2lucGIbhPi2caWYvF5Lg/1743148197359/live/luaFHD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/HCDSY1XUAHhPhz_ae2sCUg/Fv2lucGIbhPi2caWYvF5Lg/1743149708679/live/sd-6MtMP7FsrqSgRFYYTM/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Thunder vs Grizzlies (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Sl01i-skRrUWsNaC7FqJNg/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/caoHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/yNPznRzXBi71NFHg5fTE-g/Fv2lucGIbhPi2caWYvF5Lg/1743149973366/live/caoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Thunder vs Grizzlies (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/BZNx_4JFSTGCVB8_CQKIAw/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/caoFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/lMOOgEGnbIOLpn40GF8RUg/Fv2lucGIbhPi2caWYvF5Lg/1743149973366/live/caoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Thunder vs Grizzlies (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Sl01i-skRrUWsNaC7FqJNg/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/caoHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/yNPznRzXBi71NFHg5fTE-g/Fv2lucGIbhPi2caWYvF5Lg/1743149973366/live/caoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Thunder vs Grizzlies (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/BZNx_4JFSTGCVB8_CQKIAw/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/caoFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/lMOOgEGnbIOLpn40GF8RUg/Fv2lucGIbhPi2caWYvF5Lg/1743149973366/live/caoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Bulls vs Lakers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/W6cVm1Ump2jEVTBnVGSA6Q/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/Z2HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/poLD1CVX2XqbYiLxKbmXlQ/Fv2lucGIbhPi2caWYvF5Lg/1743149973366/live/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Bulls vs Lakers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/C6aNYHUtj5D3OJy4RSRuBw/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/Z2FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/-2dGtwU7Veb431rsE9VZpg/Fv2lucGIbhPi2caWYvF5Lg/1743149973367/live/Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Bulls vs Lakers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/W6cVm1Ump2jEVTBnVGSA6Q/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/Z2HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/sajlg1oWtBkpw0YaYf5P6w/Fv2lucGIbhPi2caWYvF5Lg/1743149973367/live/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Bulls vs Lakers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/C6aNYHUtj5D3OJy4RSRuBw/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/Z2FHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Independiente Rivadavia vs Racing Club de Avellaneda (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/XWM9Bcp0_xRZhy8D4gGNKw/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/dungHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Independiente Rivadavia vs Racing Club de Avellaneda (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/hu5EkwcztnEuSSmOgxhjjw/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/dungFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h15 Miramar Misiones FC VS Cerro Montevideo (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/M8K5iNPL1sfcx9eegZ75nw/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/sd-6MtJQX5k2x7bdenp6w/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/-2dGtwU7Veb431rsE9VZpg/Fv2lucGIbhPi2caWYvF5Lg/1743149973367/live/Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h35 Corinthians Paulista (SP) vs Palmeiras (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/5dU3rX4V-d9L7WdWiTkCdw/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/caHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/HTFz-hZfC13TGBmypZR2wA/Fv2lucGIbhPi2caWYvF5Lg/1743149973367/live/caHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h35 Corinthians Paulista (SP) vs Palmeiras (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/7kIpYbZO-6vfNA5Y-phZQA/Fv2lucGIbhPi2caWYvF5Lg/1743148197360/live/caFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/7AZXA_8OW2fE4LHy2EkmJw/Fv2lucGIbhPi2caWYvF5Lg/1743149973367/live/caFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h35 Corinthians Paulista (SP) vs Palmeiras (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/98Nk8m5CghUc-ZERoAVpAA/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/may1HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/8hY5MzBzcb90Srz4yT85Rw/Fv2lucGIbhPi2caWYvF5Lg/1743149973367/live/may1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h35 Corinthians Paulista (SP) vs Palmeiras (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/b2Yc6Yt3WI1WcZqxrA7n0A/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/may1FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/GYCBANEdOL5hrGiBBsmFGA/Fv2lucGIbhPi2caWYvF5Lg/1743149973368/live/may1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Jazz vs Rockets (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/yPKmdiC_xsl8R17jSGLZEg/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/gayHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/vvBd61L-gdxXMJ8AAlwCLA/Fv2lucGIbhPi2caWYvF5Lg/1743149973368/live/gayHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Jazz vs Rockets (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/a86KyUCcz037JBHwD2-8Tw/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/gayFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/fcU1aoECTAP8lyZHRzzF-w/Fv2lucGIbhPi2caWYvF5Lg/1743149973368/live/gayFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Jazz vs Rockets (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/yPKmdiC_xsl8R17jSGLZEg/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/gayHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/vvBd61L-gdxXMJ8AAlwCLA/Fv2lucGIbhPi2caWYvF5Lg/1743149973368/live/gayHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Jazz vs Rockets (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/a86KyUCcz037JBHwD2-8Tw/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/gayFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/fcU1aoECTAP8lyZHRzzF-w/Fv2lucGIbhPi2caWYvF5Lg/1743149973368/live/gayFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h10 America de Cali VS Boyaca Chico (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/dppNZhqhx2wjtgjMi5wrDw/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/sd-6MtN8NQDZ5Yg7BEXo1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h55 Jessica Pegula vs Alexandra Eala (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/R6AVrI__VKJy0Qpc5V28xA/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/xienHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h55 Jessica Pegula vs Alexandra Eala (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Ju8N2pBmebPcY6j0HZ9WLw/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/xienFHD/playlist.m3u8
+https://apisportzz179528093.nsnd.live/KqYJbejKQZYsdUnzXMO5KA/Fv2lucGIbhPi2caWYvF5Lg/1743149973368/live/sd-6MtN8NQDZ5Yg7BEXo1/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Kings vs Portland Trail Blazers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/WSvWB-c0jW2PUvILAIBHTg/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/Z1HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/UxADuJeduPwIPPgg42JZvA/Fv2lucGIbhPi2caWYvF5Lg/1743149973368/live/Z1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Kings vs Portland Trail Blazers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/XcI-8gYZaUZ3Vo1w20VWAw/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/Z1FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/QXPueS46cIsmuO7erMIwNw/Fv2lucGIbhPi2caWYvF5Lg/1743149973368/live/Z1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Kings vs Portland Trail Blazers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/WSvWB-c0jW2PUvILAIBHTg/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/Z1HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/cVA0g1fd93DO8rH9XCtrIg/Fv2lucGIbhPi2caWYvF5Lg/1743149973369/live/Z1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Kings vs Portland Trail Blazers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/XcI-8gYZaUZ3Vo1w20VWAw/Fv2lucGIbhPi2caWYvF5Lg/1743148197361/live/Z1FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Nunxr4BKqNdE4Fm53llqgA/Fv2lucGIbhPi2caWYvF5Lg/1743149973369/live/Z1FHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Alajuelense VS AD San Carlos (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/t4MM6cucJEND_ReYz-ShfA/Fv2lucGIbhPi2caWYvF5Lg/1743149973369/live/sd-6MtMP7FsrqSgRFYYTM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h00 Santos De Guapiles VS Deportivo Saprissa (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/lyYSNKkgtQ6vtYTgHJJyYQ/Fv2lucGIbhPi2caWYvF5Lg/1743149973369/live/sd-6MtMP7FsrseAHjNTcF/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h10 Jessica Pegula vs Alexandra Eala (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/Wcjy35d04_l5ZdnbmHhK2w/Fv2lucGIbhPi2caWYvF5Lg/1743149973369/live/xienHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h10 Jessica Pegula vs Alexandra Eala (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/SwDBZybZGaaHGIWbUihi3A/Fv2lucGIbhPi2caWYvF5Lg/1743149973369/live/xienFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h10 Jessica Pegula vs Alexandra Eala (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/Wcjy35d04_l5ZdnbmHhK2w/Fv2lucGIbhPi2caWYvF5Lg/1743149973369/live/xienHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h10 Jessica Pegula vs Alexandra Eala (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/NJeyWKVnZrWWOA-pKQWTDw/Fv2lucGIbhPi2caWYvF5Lg/1743149973370/live/xienFHD/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/bar-28325.jpg",[0] Full match Barcelona vs Osasuna | BLV Bánh Cuốn | 28.3.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14668,34 +14644,6 @@ https://hl.eztool.xyz/hls/2light/bda/fullmatch/juve-milan-290523.mp4/playlist.m3
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/475ed561f388e211be0941b91e012e92.png",07h15 Miramar Misiones FC vs Cerro Montevideo (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista vs Palmeiras (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -14828,18 +14776,6 @@ https://hotlivezz179536519.akainu.xyz/live/Z2SD.flv?expire=1743140106&sign=3d149
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/EPmXwjQ7d75FaWgFqNnYEw/Fv2lucGIbhPi2caWYvF5Lg/1743140106172/live/Z2FHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club de Avellaneda (CK) HD nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1743141787&sign=72cff98d8774a1ab263d6d5f78737e88
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club de Avellaneda (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/HG2MQOlw5cY6u7BeF9PSPg/Fv2lucGIbhPi2caWYvF5Lg/1743141787058/live/sd-6MtMPLMYwaPS5FcVQF/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://image-eu-na-q2h7.4shares.live/thesports/team/club.png",07h15 Miramar Misiones FC VS Cerro Montevideo (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/4Gn3YrjfkilipxwLM8WP2A/Fv2lucGIbhPi2caWYvF5Lg/1743142807637/live/sd-6MtJQX5k2x7bdenp6w/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista (SP) vs Palmeiras (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14892,38 +14828,30 @@ https://hotlivezz179536519.akainu.xyz/live/Z1SD.flv?expire=1743148205&sign=622f9
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/oBTJwl1s6iDkjKJlWos1VQ/Fv2lucGIbhPi2caWYvF5Lg/1743148205506/live/Z1FHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) SD 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense VS AD San Carlos (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) Rakhoi TV
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/zg93wDB01oJst5ilUEmG1A/Fv2lucGIbhPi2caWYvF5Lg/1743149407765/live/sd-6MtMP7FsrqSgRFYYTM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/47e3d71d642815df9323427775b6a28d.png",09h00 Santos De Guapiles VS Deportivo Saprissa (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) HD 1
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/1F3p_yzrd1SFT2G07ljvBw/Fv2lucGIbhPi2caWYvF5Lg/1743149408207/live/sd-6MtMP7FsrseAHjNTcF/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/11262b447b60c71a28aced74c97488b4.png",09h10 Jessica Pegula vs Alexandra Eala (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) SD 2
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1743148809&sign=6afbbe79c165ffcf94f9ca6dbb840743
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/11262b447b60c71a28aced74c97488b4.png",09h10 Jessica Pegula vs Alexandra Eala (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) HD 2
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/Tg_b1o8jXf48ly-RTgv_Vw/Fv2lucGIbhPi2caWYvF5Lg/1743148809505/live/xienHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/11262b447b60c71a28aced74c97488b4.png",09h10 Jessica Pegula vs Alexandra Eala (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienSD.flv?expire=1743148809&sign=20d759a6cfa8dde8bcd0e5c01334c988
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/11262b447b60c71a28aced74c97488b4.png",09h10 Jessica Pegula vs Alexandra Eala (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/475ed561f388e211be0941b91e012e92.png",07h15 Miramar Misiones FC vs Cerro Montevideo (CKhia) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/oFijnDx9EHdQ4OKn4hJhxg/Fv2lucGIbhPi2caWYvF5Lg/1743148809505/live/xienFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista vs Palmeiras (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -15040,18 +14968,6 @@ https://ckcdn.livestreameuro.live/live/paosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/paohd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club de Avellaneda (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m202qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/13844d01d85a85bed47338e396b2aa3d.png",07h00 Colombia U17 vs Chile U17 (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m203qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/475ed561f388e211be0941b91e012e92.png",07h15 Miramar Misiones FC vs Cerro Montevideo (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m204qt/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista (SP) vs Palmeiras (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -15080,22 +14996,34 @@ https://179939170.vipcdnlive.xyz/live/honghainhihd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m201qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130917085146.jpg?win007=sell",07h00 Independiente Rivadavia vs Racing Club (LS) BLV ĐOÀN DỰ  m3u
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/47e3d71d642815df9323427775b6a28d.png",09h00 Santos De Guapiles vs Deportivo Saprissa (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls29.live/
-https://hls.cdnokvip.com/live/DOANDU/index.m3u8?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130917085146.jpg?win007=sell",07h00 Independiente Rivadavia vs Racing Club (LS) BLV ĐOÀN DỰ  flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m205qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls29.live/
-https://flv.cdnokvip.com/live/DOANDU.flv?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2549/1hcgsqpbhwy.png?win007=sell",07h15 Miramar Misiones FC vs Cerro Montevideo (LS) BLV BRUNO m3u
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls29.live/
-https://hls.cdnokvip.com/live/BRUNO/index.m3u8?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2549/1hcgsqpbhwy.png?win007=sell",07h15 Miramar Misiones FC vs Cerro Montevideo (LS) BLV BRUNO flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls29.live/
-https://flv.cdnokvip.com/live/BRUNO.flv?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/349/1gxsf3fvq72k.png?win007=sell",07h35 Corinthians Paulista (SP) vs Palmeiras (LS) BLV THÀNH LONG  m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls29.live/
@@ -15144,34 +15072,30 @@ https://hls.cdnokvip.com/live/RUBY/index.m3u8?expire=1892873760&sign=8e88dff5461
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls29.live/
 https://flv.cdnokvip.com/live/RUBY.flv?expire=1892873760&sign=8e88dff54619a3bad0fb2c4600db2908
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) SD 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3948/1gv1ymnz1d7.png?win007=sell",09h00 Alajuelense vs AD San Carlos (LS) BLV ĐOÀN DỰ  m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) HD 1
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://hls.cdnokvip.com/live/DOANDU/index.m3u8?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3948/1gv1ymnz1d7.png?win007=sell",09h00 Alajuelense vs AD San Carlos (LS) BLV ĐOÀN DỰ  flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) SD 2
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://flv.cdnokvip.com/live/DOANDU.flv?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3948/1gv1ymnz1d7.png?win007=sell",09h00 Alajuelense vs AD San Carlos (LS) BLV KEN m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) HD 2
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://hls.cdnokvip.com/live/KEN/index.m3u8?expire=1873178820&sign=4cf8fc801a94e455a9c053b6d7f1d591
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3948/1gv1ymnz1d7.png?win007=sell",09h00 Alajuelense vs AD San Carlos (LS) BLV KEN flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://flv.cdnokvip.com/live/KEN.flv?expire=1873178820&sign=4cf8fc801a94e455a9c053b6d7f1d591
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130919131305.png?win007=sell",09h00 Santos De Guapiles vs Deportivo Saprissa (LS) BLV QUAN THẮNG m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://hls.cdnokvip.com/live/QUANTHANG/index.m3u8?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130919131305.png?win007=sell",09h00 Santos De Guapiles vs Deportivo Saprissa (LS) BLV QUAN THẮNG flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/475ed561f388e211be0941b91e012e92.png",07h15 Miramar Misiones FC vs Cerro Montevideo (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://ls29.live/
+https://flv.cdnokvip.com/live/QUANTHANG.flv?expire=1861716660&sign=6c71578b60a3ba4c13332fc08f3b2317
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista vs Palmeiras (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -15272,26 +15196,6 @@ https://ckcdn.livestreameuro.live/live/paosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/paohd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (VB) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1743140742&sign=188b631e7e2f0d9b782f95fd3c73cdd2
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (VB) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/drvorzzmUoZECeU4q8766A/Fv2lucGIbhPi2caWYvF5Lg/1743140742289/live/dungHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (VB) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungSD.flv?expire=1743140742&sign=becb12b5e4bf48cbdbde6a3fae2e9730
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5183f8cdb38f7cb0bb24f2c9a7eda619.png",07h00 Independiente Rivadavia vs Racing Club (VB) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/E9EPP96UIsPUCDISpPLUQA/Fv2lucGIbhPi2caWYvF5Lg/1743140742289/live/dungFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bwR7IxFa-OYb7JNmq.png",07h15 Miramar Misiones FC vs Cerro Montevideo (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/aYktFRnC5yXRDDmZXk78Ug/Fv2lucGIbhPi2caWYvF5Lg/1743142502848/live/sd-6MtJQX5k2x7bdenp6w/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/aa4d61da1df31972e52e1e62f90ec558.png",07h35 Corinthians Paulista (SP) vs Palmeiras (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15312,3 +15216,11 @@ https://hotlivezz179602324.akainu.xyz/_UmrjElpa6hnPxgCUpG_4w/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/3YsztoisEJPlimovwUucug/Fv2lucGIbhPi2caWYvF5Lg/1743145502860/live/sd-6MtN8NQDZ5Yg7BEXo1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/47e3d71d642815df9323427775b6a28d.png",09h00 Santos De Guapiles vs Deportivo Saprissa (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/UfLlyWl3VAZmsUaTGR41zA/Fv2lucGIbhPi2caWYvF5Lg/1743149406843/live/sd-6MtMP7FsrseAHjNTcF/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/f65f7ccfb6989fb3af9b9ff1a6f46c25.png",09h00 Alajuelense vs AD San Carlos (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/gJcyvbbYEPu6028XubSarA/Fv2lucGIbhPi2caWYvF5Lg/1743149378529/live/sd-6MtMP7FsrqSgRFYYTM/playlist.m3u8
