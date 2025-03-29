@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/34141/1gq952h3c2z.png",04h45 Cruz Azul Nữ vs Queretaro Nữ 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/lives/7319bd044a4b61adcedb27c5067a2544/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/2007914144932.gif",05h00 Itihad Z. Khemisset vs Maghrib Association Tetouan 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -11,14 +7,14 @@ https://live.rapid-api.icu/lives/611a8ed90ce2454da0641323cd4a80ce/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/lives/efbcc035ee217f6326ae759c54f29725/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130917084408.jpg",05h15 Banfield vs CA Huracan 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/lives/b14aca5a2fc93119f92832d3af331238/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130912021215.jpg",05h15 San Lorenzo vs Lanus 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/lives/3a5e79b4eb4ba9858b84de384d7af034/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130917084408.jpg",05h15 Banfield vs CA Huracan 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/b14aca5a2fc93119f92832d3af331238/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/49683/1gvpm1gapy18.png",05h50 East Central FC vs Middleham United FC 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -35,34 +31,42 @@ https://live.rapid-api.icu/lives/76d3da5f93048695cae1cbc2f54bc0e6/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/lives/3850b1a97526e21800d2c5a7f51886e9/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo vs Lanus (CH) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/165769014887.png",07h00 Mazatlan FC Nữ vs Club Necaxa Nữ 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) SD 1
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/c12f4c6e74e7a84a726ae08256b224a6/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/2008622916793817.jpg",07h00 Racing de Cordoba vs Los Andes 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) HD 1
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/8b614c2969d1b4add3101c41c394b450/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/65920/1gy95z64a120.png",07h00 Huntsville City vs Philadelphia Union II 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) SD 2
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/0ea6e1e5b868f8b5be4142dc75c71fc0/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130922112425.png",07h00 Carabobo FC vs Deportivo Rayo Zuliano 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) HD 2
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/e9775d751aeec7b1f823a3b3ac2b67e6/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130921180143.jpg",07h00 Washington Spirit  Nữ vs Bay FC (W) 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/208c12c54b1e9f647bd73fecb81de579/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20200323170628.png",07h00 Houston Dash Nữ vs Gotham FC Nữ 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/67f356c73cae1399a875a20fac54b9cc/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130913174611.png",07h00 Bolivar vs Real Oruro 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/cdedd67f1d35b3f28f7a5254d704a54b/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/1gwtnepcgp9.png",07h00 Brazil U17 vs Uruguay U17 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/316d7d6b4d62e88cfccb0730b94cc1f0/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20170614104946.png",07h00 FC Tulsa vs Sacramento Republic FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/lives/bf0600ba247a1ad01419a732c8e0cb51/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1cc8fde7becd389f88e35e0b498202bd.png",06h30 Nublense vs Municipal Iquique (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -87,10 +91,6 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",07h00 Barcelona SC(ECU) vs Delfin SC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",07h00 Mazatlan FC (w) vs Club Necaxa (w) (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -99,6 +99,62 @@ https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/70c92764e181ce7abe6176c411a93fe3.png",07h30 Atletico Bucaramanga vs Atletico Nacional Medellin (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/qvWE2FgBX0MCqFfciFBDiw_96x96.png",06h00 Pistons vs Cavaliers (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -163,38 +219,54 @@ https://hotlivezz179536519.akainu.xyz/live/oldSD.flv?expire=1743224707&sign=3a3b
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/yJ6PYpews8wGJOoiD4XPEA/Fv2lucGIbhPi2caWYvF5Lg/1743224707029/live/oldFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo vs Lanus (CKhia) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Timberwolves.png",07h00 Timberwolves vs Suns (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) SD 1
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/hoiHD.flv?expire=1743228004&sign=988262be09b260fa2979072f99204154
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Timberwolves.png",07h00 Timberwolves vs Suns (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) Rakhoi TV
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/PUB_QgxAt8dEoEI7n_9sNA/Fv2lucGIbhPi2caWYvF5Lg/1743228004455/live/hoiHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Timberwolves.png",07h00 Timberwolves vs Suns (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) HD 1
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/hoiSD.flv?expire=1743228004&sign=f31784d32ae5f0b6f5aa6a3e248d9d5c
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Timberwolves.png",07h00 Timberwolves vs Suns (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) SD 2
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/fJs1Vrv31Dt6TVKaV1GUkg/Fv2lucGIbhPi2caWYvF5Lg/1743228004455/live/hoiFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bucks.png",07h00 Bucks vs New York Knicks (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) HD 2
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/caoHD.flv?expire=1743228004&sign=6e4bab4eb90b85a473e7aff621f8ee8f
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bucks.png",07h00 Bucks vs New York Knicks (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/0J1GDu95ToEFY91VqoA0ew/Fv2lucGIbhPi2caWYvF5Lg/1743228004837/live/caoHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bucks.png",07h00 Bucks vs New York Knicks (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/caoSD.flv?expire=1743228004&sign=2de3f7b7c568d6d6e3494c9aaaece703
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/bucks.png",07h00 Bucks vs New York Knicks (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/A0-Psj-VtqqX38-QCcDftA/Fv2lucGIbhPi2caWYvF5Lg/1743228004837/live/caoFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pelicans.png",07h00 Pelicans vs Warriors (CK) HD nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z2HD.flv?expire=1743228008&sign=d7ba3ce6a86a880eecb6282e89fab831
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pelicans.png",07h00 Pelicans vs Warriors (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/HkYDq9_2HRveVfsuxKI50Q/Fv2lucGIbhPi2caWYvF5Lg/1743228008162/live/Z2HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pelicans.png",07h00 Pelicans vs Warriors (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z2SD.flv?expire=1743228008&sign=3983e1e6df5edfd2f5e19317347f6aac
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pelicans.png",07h00 Pelicans vs Warriors (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/-xQcFv9fq_F8p902cngNDw/Fv2lucGIbhPi2caWYvF5Lg/1743228008162/live/Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1cc8fde7becd389f88e35e0b498202bd.png",06h30 Nublense vs Municipal Iquique (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -231,50 +303,98 @@ https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",07h00 Barcelona SC(ECU) vs Delfin SC (CKhia) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (LK) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/70c92764e181ce7abe6176c411a93fe3.png",07h30 Atletico Bucaramanga vs Atletico Nacional Medellin (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m210qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo vs Club Atlético Lanús (LK) Nhà đài
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m207qt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1cc8fde7becd389f88e35e0b498202bd.png",06h30 Nublense vs Municipal Iquique (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo vs Lanus (RK) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",07h00 Mazatlan FC (w) vs Club Necaxa (w) (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) SD 1
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/99bf3d153d4bf67d640051a1af322505.png",07h00 Brazil U17 vs Uruguay U17 (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) HD 1
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m103qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h00 FC Tulsa vs Sacramento Republic FC (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) SD 2
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m104qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5adcdc34ff61ac0e29547a488ece122d.png",07h00 Huntsville City vs Philadelphia Union II (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) HD 2
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m105qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165769014887.png?win007=sell",07h00 Mazatlan FC (W) vs Club Necaxa (W) (LS) BLV ĐOÀN DỰ  m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/DOANDU/index.m3u8?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165769014887.png?win007=sell",07h00 Mazatlan FC (W) vs Club Necaxa (W) (LS) BLV ĐOÀN DỰ  flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/DOANDU.flv?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1cc8fde7becd389f88e35e0b498202bd.png",06h30 Nublense vs Municipal Iquique (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -299,10 +419,6 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",07h00 Barcelona SC(ECU) vs Delfin SC (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",07h00 Mazatlan FC (w) vs Club Necaxa (w) (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -311,22 +427,62 @@ https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b7f3a068b301edd82ad4c56496f41063.png",05h00 Jaguares de Cordoba vs Leones (VB) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/70c92764e181ce7abe6176c411a93fe3.png",07h30 Atletico Bucaramanga vs Atletico Nacional Medellin (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/JvH2ueYrRuIEL7CGtIN-ag/Fv2lucGIbhPi2caWYvF5Lg/1743220507648/live/sd-6MtJeuCwBnhpoFq2hy/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/CfI9MVCj_7ay_WT4NGRczQ/Fv2lucGIbhPi2caWYvF5Lg/1743221703234/live/sd-6MtMPLMXwL9sMrpveF/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo vs Lanus (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/wAGKjfhpnLc3zm6heJ9Wxw/Fv2lucGIbhPi2caWYvF5Lg/1743222627526/live/sd-6MtMPLNJGAQZGrY4YK/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/05118b5072e4b5d592e6c9bb2cb29aa9.png",05h50 East Central FC vs Middleham United FC (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/ssT_bziNBx1QAT5ox6rtTA/Fv2lucGIbhPi2caWYvF5Lg/1743224415241/live/sd-6MuRsWWMndyXshvZnK/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2ba1d865f307bd026d498ddb53f300ad.png",06h00 Rampla Juniors FC vs Deportivo Maldonado (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -343,162 +499,198 @@ https://apisportzz179528093.nsnd.live/TKr3xzQKYMB8ECOAD9TU1Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/dva-l0DBbeFpCJM86NW8jQ/Fv2lucGIbhPi2caWYvF5Lg/1743225904042/live/sd-6MtMtP33B4N9b7fG1Z/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",05h00 Wydad Casablanca VS FUS Rabat (Backup 1)
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",07h00 Mazatlan FC (w) vs Club Necaxa (w) (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/NuDHBV9xr7mndzo-iS24sg/Fv2lucGIbhPi2caWYvF5Lg/1743222701022/live/sd-6MuS8Q5uX4BRegCzm9/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",05h00 Itihad Z. Khemisset VS Maghrib Association Tetouan (Backup 1)
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/29-QNaRXl54MzFopn5uXtw/Fv2lucGIbhPi2caWYvF5Lg/1743228902297/live/sd-6MtMPZLbV2JkKHEkpK/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/7b4bf20f67bd2d8dd86d9a756296c64b.png",07h00 Carabobo FC vs Deportivo Rayo Zuliano (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/i6NTePY_svTv9BpCMVtigw/Fv2lucGIbhPi2caWYvF5Lg/1743222701023/live/sd-6MuS8Q5urx6haYw8Hq/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",05h00 Jaguares de Cordoba VS Leones (Backup 1)
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Cm1703a1LM8MLt0T0mNH6Q/Fv2lucGIbhPi2caWYvF5Lg/1743227703109/live/sd-6MtN8m9UfqCGCX8rdh/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://api.sofascore.app/api/v1/team/4748/image",07h00 Brazil U17 vs Uruguay U17 (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/zyv97IxaBVc48SuPb9aLyw/Fv2lucGIbhPi2caWYvF5Lg/1743222701023/live/sd-6MtJeuCwBnhpoFq2hy/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",05h15 San Lorenzo VS Lanus (Backup 1)
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Hd8YfZpkMnFtBnyiZ1OUyQ/Fv2lucGIbhPi2caWYvF5Lg/1743227706923/live/sd-6MtN8mAELALjr5Utgs/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",07h00 Barcelona SC(ECU) vs Delfin SC (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/yssehYkq_5NHbt6ijqaXvQ/Fv2lucGIbhPi2caWYvF5Lg/1743222701023/live/sd-6MtMPLNJGAQZGrY4YK/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",05h15 Banfield VS CA Huracan (Backup 1)
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/rAtiNklMuJj3Gkkp0Ce29g/Fv2lucGIbhPi2caWYvF5Lg/1743227942954/live/sd-6MtMt9zJXffhGeFRmM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/28535a49d948c5ae240e96bb49377ba9.png",07h00 Houston Dash (w) vs Gotham FC (W) (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/m5SpArO7iqWw6triuBwafg/Fv2lucGIbhPi2caWYvF5Lg/1743222701023/live/sd-6MtMPLMXwL9sMrpveF/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",05h50 East Central FC VS Middleham United FC (Backup 1)
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/7Fuj2Gw_eeMIGrucIj4lNA/Fv2lucGIbhPi2caWYvF5Lg/1743227706962/live/sd-6MtJexTBTHd3BAHehy/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5c967f5f798b799eb926e9e5ee500f2b.jpg",07h00 Washington Spirit  (w) vs Bay FC (w) (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/WVqJChVsdeNHC6y-Yv2jfQ/Fv2lucGIbhPi2caWYvF5Lg/1743224155142/live/sd-6MuRsWWMndyXshvZnK/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/-4t5U8rfJe2V89_lcfsxfg/Fv2lucGIbhPi2caWYvF5Lg/1743228917352/live/sd-6MtJexTBSo3nrvYjiK/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Huntsville City vs Philadelphia Union II (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/4odqAQYDJr6IC5hxhrf1-Q/Fv2lucGIbhPi2caWYvF5Lg/1743227942771/live/sd-6MuS8LmEMVcHkTG47m/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/-qsdyZq78m4xhAqz17QtcA/Fv2lucGIbhPi2caWYvF5Lg/1743221442792/live/sd-6MtMPLMXwL9sMrpveF/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png",07h00 Racing de Cordoba vs Los Andes (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/OmznhOKTfoAGXHIo9IJKog/Fv2lucGIbhPi2caWYvF5Lg/1743228969018/live/sd-6MtN8mCRwuzWo2DWbM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/97b953630af2877305a6bcb90444dc72.png",07h00 Bolivar vs Real Oruro (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/6gWNf2xcnvbZ6T9DzafPxQ/Fv2lucGIbhPi2caWYvF5Lg/1743229507610/live/sd-6MuS8LmEMXomcw5yGf/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Pistons vs Cavaliers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/vanUmliAue47uAVBx-MkWA/Fv2lucGIbhPi2caWYvF5Lg/1743224758167/live/luaHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/gPVEc41xGuKATWUMMrl7MQ/Fv2lucGIbhPi2caWYvF5Lg/1743230356249/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Pistons vs Cavaliers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/TcGauBQ7W2PZdHY3cJXjnA/Fv2lucGIbhPi2caWYvF5Lg/1743224758167/live/luaFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/do5rzrMIhlsQPq3GZHdYUA/Fv2lucGIbhPi2caWYvF5Lg/1743230356249/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Pistons vs Cavaliers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/axc8wakcqyuoKyT6qCJU4Q/Fv2lucGIbhPi2caWYvF5Lg/1743224155143/live/Z3HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/gPVEc41xGuKATWUMMrl7MQ/Fv2lucGIbhPi2caWYvF5Lg/1743230356249/live/luaHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Pistons vs Cavaliers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/PGkhx6wbwLn6zTvnLLi92A/Fv2lucGIbhPi2caWYvF5Lg/1743224155143/live/Z3FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/do5rzrMIhlsQPq3GZHdYUA/Fv2lucGIbhPi2caWYvF5Lg/1743230356249/live/luaFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Jakub Mensik vs Taylor Fritz (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/c55HpEX0IcEfGUcw5OcOjA/Fv2lucGIbhPi2caWYvF5Lg/1743224155143/live/oldHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/91jB2PkKIjbLl2RSU1FF5A/Fv2lucGIbhPi2caWYvF5Lg/1743230356249/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Jakub Mensik vs Taylor Fritz (FULLHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/nlSjGssyC71yVl_YMzb-ig/Fv2lucGIbhPi2caWYvF5Lg/1743224155143/live/oldFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Rampla Juniors FC VS Deportivo Maldonado (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/4MaoIzrPIUfjtrm8YVUmfw/Fv2lucGIbhPi2caWYvF5Lg/1743224636900/live/sd-6MuRsZn7XQ7n7dcHiB/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Charlotte Independence VS Chattanooga Red Wolves (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/jnGhDXtHB4f_EMdITAO_VA/Fv2lucGIbhPi2caWYvF5Lg/1743224927291/live/sd-6MtJQdWZTc3HEFfURZ/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/a5MT94OvVdujA7vfaz1PTw/Fv2lucGIbhPi2caWYvF5Lg/1743230356249/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Taylor Fritz vs Jakub Mensik (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/w_pfrZx6NaH_VDSodoX03Q/Fv2lucGIbhPi2caWYvF5Lg/1743223967118/live/oldHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/91jB2PkKIjbLl2RSU1FF5A/Fv2lucGIbhPi2caWYvF5Lg/1743230356249/live/oldHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Taylor Fritz vs Jakub Mensik (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/tXFAfXAXV0-CwLif27BNjw/Fv2lucGIbhPi2caWYvF5Lg/1743223967118/live/oldFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/a5MT94OvVdujA7vfaz1PTw/Fv2lucGIbhPi2caWYvF5Lg/1743230356249/live/oldFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Raptors vs Hornets (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/wgIn8qQlT4TA199n7Jj5wA/Fv2lucGIbhPi2caWYvF5Lg/1743225250566/live/thuongHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6weaYQ6yIvXFb8fqCY94vA/Fv2lucGIbhPi2caWYvF5Lg/1743230356249/live/thuongHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Raptors vs Hornets (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/CGRqK7nGZZVLmgKJX5rNIw/Fv2lucGIbhPi2caWYvF5Lg/1743225250566/live/thuongFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/CXSUPAEzuq8T8xzZtDj_0Q/Fv2lucGIbhPi2caWYvF5Lg/1743230356249/live/thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Raptors vs Hornets (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/i1fUbwcvojwa37gXyaXoRw/Fv2lucGIbhPi2caWYvF5Lg/1743225614256/live/thuongHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6fy3IHfTFL56x1-urJu03Q/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/thuongHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Raptors vs Hornets (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/2UAa2UGLsbHbSO0rQrcroQ/Fv2lucGIbhPi2caWYvF5Lg/1743225614256/live/thuongFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/USCoaBJWWBSQ07cvvSyWdQ/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Nets vs Clippers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/7-oPkvZMcGEnbPEGh5gzBw/Fv2lucGIbhPi2caWYvF5Lg/1743225328649/live/phepHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Mg9LCAo00hPAwpED1A_kpA/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Nets vs Clippers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/VEDUr4SSvllcuTl6nEoFkw/Fv2lucGIbhPi2caWYvF5Lg/1743225328649/live/phepFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/JPH3HEqQ8Kq7O_UzsKiMzQ/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/phepFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Nets vs Clippers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/DJe7gNw21AotiNKTciLF2g/Fv2lucGIbhPi2caWYvF5Lg/1743225614256/live/phepHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Mg9LCAo00hPAwpED1A_kpA/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/phepHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Nets vs Clippers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/N1K7tfXVf6ERCJZt1SS-4A/Fv2lucGIbhPi2caWYvF5Lg/1743225614256/live/phepFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Nublense VS Municipal Iquique (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/Snh1YTsBr9a2WDT_V91CnA/Fv2lucGIbhPi2caWYvF5Lg/1743226264984/live/sd-6MtMtP33B4N9b7fG1Z/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/JPH3HEqQ8Kq7O_UzsKiMzQ/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/phepFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Bucks vs New York Knicks (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/KrhSJjwSLTeKqM0d3kpOTg/Fv2lucGIbhPi2caWYvF5Lg/1743226793105/live/caoHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/rlov2MZz1ey1EDCzMAfsVw/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/caoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Bucks vs New York Knicks (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/tW8Zlkt6AVp29WED_NAeBQ/Fv2lucGIbhPi2caWYvF5Lg/1743226793105/live/caoFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/iKqhzOMRSOGtb7xFDBeH0g/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/caoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Bucks vs New York Knicks (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/I_Ovge2wbj-zDjq8JTqPOQ/Fv2lucGIbhPi2caWYvF5Lg/1743227400469/live/caoHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/rlov2MZz1ey1EDCzMAfsVw/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/caoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Bucks vs New York Knicks (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/eYd_CuSm9j55WmyF5gEIgw/Fv2lucGIbhPi2caWYvF5Lg/1743227400469/live/caoFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/iKqhzOMRSOGtb7xFDBeH0g/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/caoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Pelicans vs Warriors (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/O-xaAIDuJSBBx-5JY0w9yg/Fv2lucGIbhPi2caWYvF5Lg/1743226793105/live/Z2HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/dK4zPnoLXGyEGZq-1qo1Tg/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Pelicans vs Warriors (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/cODAGjucfjNJJjKjn0LsYg/Fv2lucGIbhPi2caWYvF5Lg/1743226793105/live/Z2FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/0gHisOp4K8omqdVFP3DU7A/Fv2lucGIbhPi2caWYvF5Lg/1743230356250/live/Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Pelicans vs Warriors (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ggw0mq3QT0MxGyEBebcqnQ/Fv2lucGIbhPi2caWYvF5Lg/1743227400470/live/Z2HD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/nOwr-Ye9Mq5f15VkuwIZ8A/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/Z2HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Pelicans vs Warriors (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/N44a8r8Ij1Ugz_qXnAmxNA/Fv2lucGIbhPi2caWYvF5Lg/1743227400470/live/Z2FHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/mtVjGHUjoyASvznjDiU6iw/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/Z2FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Timberwolves vs Suns (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/MJw9mt0Iq7VvJsikDN--0A/Fv2lucGIbhPi2caWYvF5Lg/1743226793105/live/hoiHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6CzGZl9IzE6nMe3nFrL0MA/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/hoiHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Timberwolves vs Suns (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/vYLOy1eEMvvPq12wnMCHfg/Fv2lucGIbhPi2caWYvF5Lg/1743226793105/live/hoiFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/G4I5XGkXG3AAMPD6t9hXBg/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/hoiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Timberwolves vs Suns (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/xV-yxl6kHOjJRYgi5lhJTg/Fv2lucGIbhPi2caWYvF5Lg/1743227400471/live/hoiHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/6CzGZl9IzE6nMe3nFrL0MA/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/hoiHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Timberwolves vs Suns (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/hfo4xlUySu6l6Vi8U-F10A/Fv2lucGIbhPi2caWYvF5Lg/1743227400471/live/hoiFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/G4I5XGkXG3AAMPD6t9hXBg/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/hoiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 CA Platense vs Atletico Tucuman (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/9x72dEsYAPWvObyPuA0zOg/Fv2lucGIbhPi2caWYvF5Lg/1743227127699/live/nuiHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Fl-72VjdpOECH35tdp6PoA/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/nuiHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 CA Platense vs Atletico Tucuman (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/Mvo468dUa2qg0wrabg7DFQ/Fv2lucGIbhPi2caWYvF5Lg/1743227127699/live/nuiFHD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/AbRb2NHfbWbTAMmKgYL7mg/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/nuiFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Velez Sarsfield vs Deportivo Riestra (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/XZRegTVNA3N4Mo9GItQu_A/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/xienHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Velez Sarsfield vs Deportivo Riestra (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/3qwGShr-Z_aJ06UGGSYh2g/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/xienFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Velez Sarsfield vs Deportivo Riestra (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/JPFR0VfV_ruel8wnap_mTg/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/dungHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Velez Sarsfield vs Deportivo Riestra (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/tTMPiXsNA_Bwg1lpQzZNVg/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/dungFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Denver Nuggets vs Jazz (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/PTM6hYt6yl7Ir7zOB3tl6Q/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/gayHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Denver Nuggets vs Jazz (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/ZEnM59S7C1cO28u6IjqcCA/Fv2lucGIbhPi2caWYvF5Lg/1743230356251/live/gayFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Necaxa vs Queretaro FC (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/-IV4C2Z7dWRxcAm8jy-04w/Fv2lucGIbhPi2caWYvF5Lg/1743230356252/live/voiHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Necaxa vs Queretaro FC (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/VgP0Jvce-bNO6JVD2uWcYA/Fv2lucGIbhPi2caWYvF5Lg/1743230356252/live/voiFHD/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/bar-28325.jpg",[0] Full match Barcelona vs Osasuna | BLV Bánh Cuốn | 28.3.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14460,34 +14652,6 @@ https://hl.eztool.xyz/hls/2light/bda/fullmatch/juve-milan-290523.mp4/playlist.m3
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo vs Lanus (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1cc8fde7becd389f88e35e0b498202bd.png",06h30 Nublense vs Municipal Iquique (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -14512,10 +14676,6 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",07h00 Barcelona SC(ECU) vs Delfin SC (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",07h00 Mazatlan FC (w) vs Club Necaxa (w) (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -14524,6 +14684,62 @@ https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/70c92764e181ce7abe6176c411a93fe3.png",07h30 Atletico Bucaramanga vs Atletico Nacional Medellin (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://ssl.gstatic.com/onebox/media/sports/logos/qvWE2FgBX0MCqFfciFBDiw_96x96.png",06h00 Pistons vs Cavaliers (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14636,26 +14852,86 @@ https://hotlivezz179536519.akainu.xyz/live/hoiSD.flv?expire=1743227408&sign=ce85
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179602324.akainu.xyz/C7OK5gdzQaQLjl1EWJk8cA/Fv2lucGIbhPi2caWYvF5Lg/1743227408215/live/hoiFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo VS Lanus (CK) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (CK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/IjLGHzSIz1I2x7kG_ME76Q/Fv2lucGIbhPi2caWYvF5Lg/1743223505387/live/sd-6MtMPLNJGAQZGrY4YK/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield VS CA Huracan (CK) Backup 1
+https://hotlivezz179536519.akainu.xyz/live/nuiHD.flv?expire=1743230106&sign=e2576969d414fd79c990df38145161c2
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (CK) HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/7YtE4HB-xxyOi_wtu52u-A/Fv2lucGIbhPi2caWYvF5Lg/1743222004883/live/sd-6MtMPLMXwL9sMrpveF/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/0a75c0dd48ab77724288dce04a15170a.png",05h00 Wydad Casablanca VS FUS Rabat (CK) Backup 1
+https://hotlivezz179602324.akainu.xyz/YoENUXgjTeQnYIBcIzc1Rw/Fv2lucGIbhPi2caWYvF5Lg/1743230106434/live/nuiHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (CK) SD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/DfdcmDf6B-gAPRexpHS-pw/Fv2lucGIbhPi2caWYvF5Lg/1743225909362/live/sd-6MuS8Q5uX4BRegCzm9/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/4764f37856fc727f70b666b8d0c4ab7a.gif",05h00 Itihad Z. Khemisset VS Maghrib Association Tetouan (CK) Backup 1
+https://hotlivezz179536519.akainu.xyz/live/nuiSD.flv?expire=1743230106&sign=f905e5601965e9991af4f248b399faae
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (CK) FullHD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/JhXGKEqa1UezNi4Jzea87w/Fv2lucGIbhPi2caWYvF5Lg/1743225909768/live/sd-6MuS8Q5urx6haYw8Hq/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/t2tSVK92jqwBkh7Gukx8UQ/Fv2lucGIbhPi2caWYvF5Lg/1743230106434/live/nuiFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/KaDN21w4Itd3sHWAkztefA/Fv2lucGIbhPi2caWYvF5Lg/1743230106434/live/sd-6MtMPLNJRngcLiNqW3/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1743230106&sign=e2806a85912f5b8b227e1e03af2709c6
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/RwpoAnICddGSBO8oWGpCLA/Fv2lucGIbhPi2caWYvF5Lg/1743230106819/live/xienHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienSD.flv?expire=1743230106&sign=9f400504f19e76781ecea5dd9330e4b9
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/suFBke_iDkqRVSmSgtxlHQ/Fv2lucGIbhPi2caWYvF5Lg/1743230106819/live/xienFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/2Pg_26eb--n2K8AEuxsoBQ/Fv2lucGIbhPi2caWYvF5Lg/1743230106819/live/sd-6MtMPLNJRkV8UEYvM9/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png",07h00 Racing de Cordoba VS Los Andes (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/3DRN9TsBVG3HAnCzObG7ZQ/Fv2lucGIbhPi2caWYvF5Lg/1743230107233/live/sd-6MtN8mCRwuzWo2DWbM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5adcdc34ff61ac0e29547a488ece122d.png",07h00 Huntsville City VS Philadelphia Union II (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/tKQHsoIJmDqZ9E7o5bBSCQ/Fv2lucGIbhPi2caWYvF5Lg/1743228306429/live/sd-6MuS8LmEMVcHkTG47m/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h00 FC Tulsa VS Sacramento Republic FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/2uYXHG5ch7fBR-dbQcETvA/Fv2lucGIbhPi2caWYvF5Lg/1743228605500/live/sd-6MtN8mAx9WhhXGcpj5/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/97b953630af2877305a6bcb90444dc72.png",07h00 Bolivar VS Real Oruro (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/tONgFEeF39SQjHYjDzMwIw/Fv2lucGIbhPi2caWYvF5Lg/1743230108776/live/sd-6MuS8LmEMXomcw5yGf/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/70c92764e181ce7abe6176c411a93fe3.png",07h30 Atletico Bucaramanga VS Atletico Nacional Medellin (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/x9NX4WqpThLtxo87vbpnzQ/Fv2lucGIbhPi2caWYvF5Lg/1743230109643/live/sd-6MtN8NNiEx2Szn7HqD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",07h00 Barcelona SC(ECU) VS Delfin SC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/b8xFeH1xp1FQCh_3sPONFQ/Fv2lucGIbhPi2caWYvF5Lg/1743228306763/live/sd-6MtMt9zJXffhGeFRmM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",07h00 Mazatlan FC (w) VS Club Necaxa (w) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/lMQxW248ZXcKPALBZOkB_w/Fv2lucGIbhPi2caWYvF5Lg/1743228907393/live/sd-6MtMPZLbV2JkKHEkpK/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/28535a49d948c5ae240e96bb49377ba9.png",07h00 Houston Dash (w) VS Gotham FC (w) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/L_TzFip2xK51xfGwDOEAeQ/Fv2lucGIbhPi2caWYvF5Lg/1743228604989/live/sd-6MtJexTBTHd3BAHehy/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1cc8fde7becd389f88e35e0b498202bd.png",06h30 Nublense VS Municipal Iquique (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/gU6KEubKGQCm0LbEdFT3_w/Fv2lucGIbhPi2caWYvF5Lg/1743227410658/live/sd-6MtMtP33B4N9b7fG1Z/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5c967f5f798b799eb926e9e5ee500f2b.jpg",07h00 Washington Spirit (w) VS Bay FC (w) (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/U8sG44ZssPW9JWk1gEd1RA/Fv2lucGIbhPi2caWYvF5Lg/1743228906285/live/sd-6MtJexTBSo3nrvYjiK/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2ba1d865f307bd026d498ddb53f300ad.png",06h00 Rampla Juniors FC VS Deportivo Maldonado (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14663,47 +14939,19 @@ https://apisportzz179528093.nsnd.live/wIVDHhX8qxfxTBi2GwbIxA/Fv2lucGIbhPi2caWYvF
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/d3be245c5465ff63fd26c25f52fc65a4.png",06h00 Charlotte Independence VS Chattanooga Red Wolves (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/IPlTNd7pBdEU5I0drfa_Cg/Fv2lucGIbhPi2caWYvF5Lg/1743227412253/live/sd-6MtJQdWZTc3HEFfURZ/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b7f3a068b301edd82ad4c56496f41063.png",05h00 Jaguares de Cordoba VS Leones (CK) Backup 1
+https://apisportzz179528093.nsnd.live/6Kz6Xl2liwsHydbswLB_Fw/Fv2lucGIbhPi2caWYvF5Lg/1743225005398/live/sd-6MtJQdWZTc3HEFfURZ/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://image-eu-na-q2h7.4shares.live/thumb/team/tc-Brazil-U17-kujkov6.image/jpeg",07h00 Brazil U17 VS Uruguay U17 (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/FnN8UtRXdEF7pOO4xUDy2A/Fv2lucGIbhPi2caWYvF5Lg/1743227412641/live/sd-6MtJeuCwBnhpoFq2hy/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/05118b5072e4b5d592e6c9bb2cb29aa9.png",05h50 East Central FC VS Middleham United FC (CK) Backup 1
+https://apisportzz179528093.nsnd.live/Bchd1GNNygxj7I1RdKofyQ/Fv2lucGIbhPi2caWYvF5Lg/1743228610427/live/sd-6MtN8mAELALjr5Utgs/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/7b4bf20f67bd2d8dd86d9a756296c64b.png",07h00 Carabobo FC VS Deportivo Rayo Zuliano (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/u8QZPssmIG7KhZseQwp6-g/Fv2lucGIbhPi2caWYvF5Lg/1743224108656/live/sd-6MuRsWWMndyXshvZnK/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo vs Lanus (CKhia) Nhà đài
+https://apisportzz179528093.nsnd.live/B20dDOK85IbdfnoRr7FykA/Fv2lucGIbhPi2caWYvF5Lg/1743228307445/live/sd-6MtN8m9UfqCGCX8rdh/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c210e6c1fadf9e292797da2cdf685555.jpg",06h30 Cerro Porteno VS Atletico Tembetary (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) Rakhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/0WMLolWuewJHJhCrW-DXkg/Fv2lucGIbhPi2caWYvF5Lg/1743226511855/live/sd-6MtN8m823VQU4RJ6Fd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1cc8fde7becd389f88e35e0b498202bd.png",06h30 Nublense vs Municipal Iquique (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -14740,50 +14988,126 @@ https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",07h00 Barcelona SC(ECU) vs Delfin SC (CKhia) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (LK) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/70c92764e181ce7abe6176c411a93fe3.png",07h30 Atletico Bucaramanga vs Atletico Nacional Medellin (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m210qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo vs Club Atlético Lanús (LK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/m207qt/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1cc8fde7becd389f88e35e0b498202bd.png",06h30 Nublense vs Municipal Iquique (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m101qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo vs Lanus (RK) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",07h00 Mazatlan FC (w) vs Club Necaxa (w) (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m201nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) SD 1
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m102qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/99bf3d153d4bf67d640051a1af322505.png",07h00 Brazil U17 vs Uruguay U17 (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) HD 1
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m103qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5adcdc34ff61ac0e29547a488ece122d.png",07h00 Huntsville City vs Philadelphia Union II (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) SD 2
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m105qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1a8729f6837d72a8092aaabd02695c2b.png",07h00 FC Tulsa vs Sacramento Republic FC (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) HD 2
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m104qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m106qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/lulusd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m107qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/70c92764e181ce7abe6176c411a93fe3.png",07h30 Atletico Bucaramanga vs Atletico Nacional Medellin (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/m108qt/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165769014887.png?win007=sell",07h00 Mazatlan FC (W) vs Club Necaxa (W) (LS) BLV ĐOÀN DỰ  m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/DOANDU/index.m3u8?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/165769014887.png?win007=sell",07h00 Mazatlan FC (W) vs Club Necaxa (W) (LS) BLV ĐOÀN DỰ  flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/DOANDU.flv?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2652/1h8ass4kvr30.png?win007=sell",07h30 Atletico Bucaramanga vs Atletico Nacional Medellin (LS) BLV BRUNO m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/BRUNO/index.m3u8?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/2652/1h8ass4kvr30.png?win007=sell",07h30 Atletico Bucaramanga vs Atletico Nacional Medellin (LS) BLV BRUNO flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/BRUNO.flv?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164940916732.png?win007=sell",07h30 Velez Sarsfield vs Deportivo Riestra (LS) BLV LÂM XUNG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/LAMXUNG/index.m3u8?expire=1861716660&sign=1c804dc12e841ebe5a05ac54c28e7411
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/164940916732.png?win007=sell",07h30 Velez Sarsfield vs Deportivo Riestra (LS) BLV LÂM XUNG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/LAMXUNG.flv?expire=1861716660&sign=1c804dc12e841ebe5a05ac54c28e7411
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/1cc8fde7becd389f88e35e0b498202bd.png",06h30 Nublense vs Municipal Iquique (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -14808,10 +15132,6 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",07h00 Barcelona SC(ECU) vs Delfin SC (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",07h00 Mazatlan FC (w) vs Club Necaxa (w) (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -14820,22 +15140,62 @@ https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m502nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b7f3a068b301edd82ad4c56496f41063.png",05h00 Jaguares de Cordoba vs Leones (VB) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/EBwikLIUZLNwf-TY5aRkdA/Fv2lucGIbhPi2caWYvF5Lg/1743221094393/live/sd-6MtJeuCwBnhpoFq2hy/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/bE9ATj6vXPTKqni0_lmYaQ/Fv2lucGIbhPi2caWYvF5Lg/1743221403392/live/sd-6MtMPLMXwL9sMrpveF/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/65d05eaf7edc601ae236107417b01cbf.png",05h15 San Lorenzo vs Lanus (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/6TZonoOmShyfuMkfUqmNfg/Fv2lucGIbhPi2caWYvF5Lg/1743221403705/live/sd-6MtMPLNJGAQZGrY4YK/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/05118b5072e4b5d592e6c9bb2cb29aa9.png",05h30 East Central FC vs Middleham United FC (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lulusd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/HzXnw92aFH2RnIl10nKfZQ/Fv2lucGIbhPi2caWYvF5Lg/1743222309455/live/sd-6MuRsWWMndyXshvZnK/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/luluhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/lulusd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/213ea593a9ffdf44c2c686234d4da5f5.png",08h00 Necaxa vs Queretaro FC (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/luluhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/cohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/cohd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m503nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/70c92764e181ce7abe6176c411a93fe3.png",07h30 Atletico Bucaramanga vs Atletico Nacional Medellin (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m504nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2ba1d865f307bd026d498ddb53f300ad.png",06h00 Rampla Juniors FC vs Deportivo Maldonado (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -14852,3 +15212,79 @@ https://apisportzz179528093.nsnd.live/TKr3xzQKYMB8ECOAD9TU1Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/j2bTL6gz0ng4004YuQcwAw/Fv2lucGIbhPi2caWYvF5Lg/1743225903919/live/sd-6MtMtP33B4N9b7fG1Z/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/7b4bf20f67bd2d8dd86d9a756296c64b.png",07h00 Carabobo FC vs Deportivo Rayo Zuliano (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/MwpwdNDgob498ZLnpH-aUQ/Fv2lucGIbhPi2caWYvF5Lg/1743227826914/live/sd-6MtN8m9UfqCGCX8rdh/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://api.sofascore.app/api/v1/team/4748/image",07h00 Brazil U17 vs Uruguay U17 (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Hd8YfZpkMnFtBnyiZ1OUyQ/Fv2lucGIbhPi2caWYvF5Lg/1743227706923/live/sd-6MtN8mAELALjr5Utgs/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6d064d1f345472d9d6bf47a5d0cc0d71.png",07h00 Barcelona SC(ECU) vs Delfin SC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/sQ66ibBNeHqXIwVIHmaDVg/Fv2lucGIbhPi2caWYvF5Lg/1743227883133/live/sd-6MtMt9zJXffhGeFRmM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Huntsville City vs Philadelphia Union II (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/l8jq83iQdnCqAXdnIimQ3Q/Fv2lucGIbhPi2caWYvF5Lg/1743228126271/live/sd-6MuS8LmEMVcHkTG47m/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/28535a49d948c5ae240e96bb49377ba9.png",07h00 Houston Dash (w) vs Gotham FC (W) (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/7Fuj2Gw_eeMIGrucIj4lNA/Fv2lucGIbhPi2caWYvF5Lg/1743227706962/live/sd-6MtJexTBTHd3BAHehy/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c87378cb2b4fd7ec95945b863e2e75c2.png",07h00 Mazatlan FC (w) vs Club Necaxa (w) (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/29-QNaRXl54MzFopn5uXtw/Fv2lucGIbhPi2caWYvF5Lg/1743228902297/live/sd-6MtMPZLbV2JkKHEkpK/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5c967f5f798b799eb926e9e5ee500f2b.jpg",07h00 Washington Spirit  (w) vs Bay FC (w) (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/-4t5U8rfJe2V89_lcfsxfg/Fv2lucGIbhPi2caWYvF5Lg/1743228917352/live/sd-6MtJexTBSo3nrvYjiK/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/de8b35be2ad3af138f74e9b8cb01d22c.png",07h00 Racing de Cordoba vs Los Andes (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/OmznhOKTfoAGXHIo9IJKog/Fv2lucGIbhPi2caWYvF5Lg/1743228969018/live/sd-6MtN8mCRwuzWo2DWbM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/97b953630af2877305a6bcb90444dc72.png",07h00 Bolivar vs Real Oruro (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/6gWNf2xcnvbZ6T9DzafPxQ/Fv2lucGIbhPi2caWYvF5Lg/1743229507610/live/sd-6MuS8LmEMXomcw5yGf/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e142922645466d58b5ad3a27570b5ac5.png",05h15 Banfield vs CA Huracan (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ezyCQi99LgAU3Tvqm6GTsA/Fv2lucGIbhPi2caWYvF5Lg/1743221403548/live/sd-6MtMPLMXwL9sMrpveF/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (VB) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1743228458&sign=6b82e12037260cf5d513cb86923ab09b
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (VB) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/L-TyUd7-F_fD-MiK50TpVA/Fv2lucGIbhPi2caWYvF5Lg/1743228458090/live/dungHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/dungSD.flv?expire=1743228458&sign=c9a3789236338a77fa20e16e63e5c7f9
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2e02d3f27830c7f3642e6592e6b922dd.png",07h30 Velez Sarsfield vs Deportivo Riestra (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/jABGN6AqTzFZZm1HEORk2g/Fv2lucGIbhPi2caWYvF5Lg/1743228458091/live/dungFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (VB) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z1HD.flv?expire=1743227282&sign=d610de3106f87bec636105788f264407
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (VB) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/1UQR05GxYZCnzp8EXNORuQ/Fv2lucGIbhPi2caWYvF5Lg/1743227282916/live/Z1HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/Z1SD.flv?expire=1743227282&sign=f20d092f7a53e97f53a241aec71750d1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/df9d41a492e324ad411a3e39c7935352.png",07h30 CA Platense vs Atletico Tucuman (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/1XjDUIJEQLbYNzIlVPXgGg/Fv2lucGIbhPi2caWYvF5Lg/1743227282916/live/Z1FHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/70c92764e181ce7abe6176c411a93fe3.png",07h30 Atletico Bucaramanga vs Atletico Nacional Medellin (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/GyS2jiKfauH6AQdOkyQBTg/Fv2lucGIbhPi2caWYvF5Lg/1743230105278/live/sd-6MtN8NNiEx2Szn7HqD/playlist.m3u8
