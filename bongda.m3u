@@ -15,34 +15,10 @@ https://live.rapid-api.icu/live/c5de85f44b0f1bf473ae32be03b2959e/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/088732e7db65704e4ac3b28ec0f73d5a/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w60",06h00 Indiana Pacers vs Sacramento Kings (CH) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/25817/1gqgpf5hqd1e.png",07h45 Arnett Gardens vs Cavalier FC 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1.flv
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/26f10da2b0a5a75d329a941c771b8e36/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/Y5qnUm5A-tt2M10fr.png",06h30 Memphis Grizzlies vs Boston Celtics (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -87,86 +63,30 @@ https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/hornets.png",06h00 Hornets vs Jazz (CK) HD NHANH
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1743482405&sign=040001c5a9087e85112427d719cfd83b
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/hornets.png",06h00 Hornets vs Jazz (CK) HD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/_LZQ-bFhGkuTf8I92gT8Dg/9f8b38d400ef6d394f2d68b3096e00f1/1743482405/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/hornets.png",06h00 Hornets vs Jazz (CK) SD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/MKdIPzheA6n650Oe6BM0Ng/Fv2lucGIbhPi2caWYvF5Lg/1743482405872/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/hornets.png",06h00 Hornets vs Jazz (CK) FullHD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/ZO5QY8nz91PvRxlzpOnrLg/74b8773ecaa9df430432c2bf2b6bd9e0/1743482405/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",06h00 Pacers vs Kings (CK) HD NHANH
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1743483608&sign=a3f0223aecb548b0cd849acdaa88cf1b
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",06h00 Pacers vs Kings (CK) HD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/yV55oJAab0S62aPw-5Ap-Q/44aad5dfa01c79ab75667d799c2e06c1/1743483608/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",06h00 Pacers vs Kings (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/4a4xRpQb6uYIvPqVBLfASA/Fv2lucGIbhPi2caWYvF5Lg/1743483608341/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",06h00 Pacers vs Kings (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/fAHAz-655UA6KVN63f4S3g/bb30dc1883f5f92057cd67eec640c4d0/1743483608/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06h00 Magic vs Clippers (CK) HD NHANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/catHD.flv?expire=1743483609&sign=d6cb92eecbb2953580729fb6aeca2864
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06h00 Magic vs Clippers (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/eRyF7BsWjXPEFd8yWoOZzg/246e8f89743405a162acda5b1306ac56/1743483609/live/_definst_/stream_1_1bda7@catHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06h00 Magic vs Clippers (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/YzQW7CR8r1nrDtcZd2tA3A/Fv2lucGIbhPi2caWYvF5Lg/1743483609109/live/catSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06h00 Magic vs Clippers (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/dEIYlp3w6ZDRE9kxrH8yfw/444a075c42c2d0e744c4509423415468/1743483609/live/_definst_/stream_1_1bda7@catFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",06h00 Wizards vs Heat (CK) HD NHANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1743482407&sign=4c7e923850531dd30eb187da3889f10a
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",06h00 Wizards vs Heat (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/AJcaluLTj5XhjGm98MKy4Q/364b95ac53bf5686ef14a09b64f6f3c1/1743482407/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",06h00 Wizards vs Heat (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/fRvRSgx3v5wDvhMFRHymLA/Fv2lucGIbhPi2caWYvF5Lg/1743482407628/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",06h00 Wizards vs Heat (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/W9x0eAp1ivRt6GjVkMZxWw/9d3c1936b065e6a3605ccd426df0ce6c/1743482407/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/voiHD.flv?expire=1743482104&sign=bc4c6236a754d491c76253521b887806
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/p34ZYa0y7ExRJGO5nDHvNA/11553a292db421b3acfd01e6b41f6c9b/1743482104/live/_definst_/stream_1_1bda7@voiHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/sUwt8yms6-WBYJYzKLYaww/Fv2lucGIbhPi2caWYvF5Lg/1743482104957/live/voiSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/6Dh7LsLto3CPARbnKicV1Q/0d429cee859d1413d31a3e1db44fd57e/1743482104/live/_definst_/stream_1_1bda7@voiFHD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/grizzlies.png",06h30 Grizzlies vs Boston Celtics (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -183,10 +103,6 @@ https://hotlivezz179602324.akainu.xyz/eMBIBHavGvNBvS8YmS8FmQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/-ZARshcehSl8dRStm48DDA/0027e56455a2e21d4e9af4c00853528e/1743484207/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/bf962535c0cf7d0505cd9aab5a83d5c5.png",06h00 Crato CE VS Quixada CE (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/YrGTv_4EeBb_NvOZKx5bWQ/Fv2lucGIbhPi2caWYvF5Lg/1743485407118/live/sd-6MuRsQ1qvZXir4dHnj/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/thunder.png",07h00 Thunder vs Bulls (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -283,38 +199,10 @@ https://hotlivezz179026907.akainu.xyz/y7umRfEPMH_d2Ck_xqHT-Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/7cQe16eVtc_X2tOKb1BnXg/Fv2lucGIbhPi2caWYvF5Lg/1743489906865/live/sd-6MtN8NNi5FMSBxcgZh/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w60",06h00 Indiana Pacers vs Sacramento Kings (CKhia) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/04d998a10ab2fd063aff16bfaa7aeb50.png",07h45 Arnett Gardens VS Cavalier FC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) Rakhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1.flv
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/yX4LR1c_SFTs1TCmKhvmrg/Fv2lucGIbhPi2caWYvF5Lg/1743492606259/live/sd-6MtJf4zeR6pvCL8PnT/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/Y5qnUm5A-tt2M10fr.png",06h30 Memphis Grizzlies vs Boston Celtics (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -363,30 +251,6 @@ https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/47e3d71d642815df9323427775b6a28d.png",07h00 Santos De Guapiles vs Municipal Liberia (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -403,22 +267,6 @@ https://qtcdn.livestreameuro.live/live/m103qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m104qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3820/1gwnk9p3w710.png?win007=sell",06h00 Bragantino vs Ceara (LS) BLV BRUNO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/BRUNO/index.m3u8?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3820/1gwnk9p3w710.png?win007=sell",06h00 Bragantino vs Ceara (LS) BLV BRUNO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/BRUNO.flv?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3820/1gwnk9p3w710.png?win007=sell",06h00 Bragantino vs Ceara (LS) BLV LÂM XUNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/LAMXUNG/index.m3u8?expire=1861716660&sign=1c804dc12e841ebe5a05ac54c28e7411
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3820/1gwnk9p3w710.png?win007=sell",06h00 Bragantino vs Ceara (LS) BLV LÂM XUNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/LAMXUNG.flv?expire=1861716660&sign=1c804dc12e841ebe5a05ac54c28e7411
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130919131305.png?win007=sell",07h00 Santos De Guapiles vs Municipal Liberia (LS) BLV THÀNH LONG  m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -459,34 +307,6 @@ https://hls.cdnokvip.com/live/DOANDU/index.m3u8?expire=1958562420&sign=68fe8de19
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
 https://flv.cdnokvip.com/live/DOANDU.flv?expire=1958562420&sign=68fe8de193c69978384281912ea4c3de
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w60",06h00 Indiana Pacers vs Sacramento Kings (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/Y5qnUm5A-tt2M10fr.png",06h30 Memphis Grizzlies vs Boston Celtics (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -531,26 +351,6 @@ https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Bragantino vs Ceara (VB) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1743482681&sign=cf3dfa43860570adde79683be59d70b1
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Bragantino vs Ceara (VB) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/dCMyKi61fBXqa_TbmMQOzA/1dae3400e4a56a95aa98d9615588b5c1/1743482681/live/_definst_/stream_1_1bda7@dungHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Bragantino vs Ceara (VB) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/eEiMOnRWhyWNLM55VBetzg/Fv2lucGIbhPi2caWYvF5Lg/1743482681183/live/dungSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Bragantino vs Ceara (VB) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/P-LjX4_tTVnCSFybMa1svQ/09b8150fd09801bcc1dbb7e4e226d0e0/1743482681/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/bf962535c0cf7d0505cd9aab5a83d5c5.png",06h00 Crato CE vs Quixada CE (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/1nk4SGe1yb_P_Y2LjHpfhQ/Fv2lucGIbhPi2caWYvF5Lg/1743485202112/live/sd-6MuRsQ1qvZXir4dHnj/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",07h00 Argentina U17 vs Paraguay U17 (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -591,330 +391,214 @@ https://apisportzz179528093.nsnd.live/H3ejgCTIwCdE2KRuk3Yaqg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/GLrPupUgTjyA_bmSNtj3mw/Fv2lucGIbhPi2caWYvF5Lg/1743489160340/live/sd-6MtN8NNi5FMSBxcgZh/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/04d998a10ab2fd063aff16bfaa7aeb50.png",07h45 Arnett Gardens vs Cavalier FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/OkrsrsVPVvJKal-726Qotg/Fv2lucGIbhPi2caWYvF5Lg/1743492577865/live/sd-6MtJf4zeR6pvCL8PnT/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 ATP250 Houston Open (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/k_FSZKDqm5HsEGZO2dnntw/Fv2lucGIbhPi2caWYvF5Lg/1743487203125/live/may6/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Hornets vs Jazz (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/hpMVXr7O1yAIBTEwnu3pJA/9f8b38d400ef6d394f2d68b3096e00f1/1743487203/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Hornets vs Jazz (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/IsEl0nMKKxZtYANOSdCY5Q/Fv2lucGIbhPi2caWYvF5Lg/1743487203126/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Hornets vs Jazz (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/H1OVWt2dJ_24cv_ozVTjDQ/74b8773ecaa9df430432c2bf2b6bd9e0/1743487203/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Hornets vs Jazz (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/hpMVXr7O1yAIBTEwnu3pJA/9f8b38d400ef6d394f2d68b3096e00f1/1743487203/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Hornets vs Jazz (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/IsEl0nMKKxZtYANOSdCY5Q/Fv2lucGIbhPi2caWYvF5Lg/1743487203126/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Hornets vs Jazz (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/H1OVWt2dJ_24cv_ozVTjDQ/74b8773ecaa9df430432c2bf2b6bd9e0/1743487203/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Magic vs Clippers (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/ov_QcU7mO3MUscnTDvpNcw/246e8f89743405a162acda5b1306ac56/1743487203/live/_definst_/stream_1_1bda7@catHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Magic vs Clippers (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ExFiFz9jm1vU1VYUyDD4TA/Fv2lucGIbhPi2caWYvF5Lg/1743487203126/live/catSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Magic vs Clippers (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/cDOKfkCqYav0fUaqFXu1zw/444a075c42c2d0e744c4509423415468/1743487203/live/_definst_/stream_1_1bda7@catFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Magic vs Clippers (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/bSIQCy-lblGdfYxkBgvfCQ/d8575e4f2bb7991d6a11b5e422c908f2/1743487203/live/_definst_/stream_1_1bda7@Z2HD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Magic vs Clippers (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/e8oJyRzABSVZCnefP1fspw/Fv2lucGIbhPi2caWYvF5Lg/1743487203126/live/Z2SD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Magic vs Clippers (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/5jecJqdfuPDcPjgAKpLCBg/2f5c86e8dcb258706feb1f79081dd77d/1743487203/live/_definst_/stream_1_1bda7@Z2FHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Pacers vs Kings (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/1z-cN4MQEzOUEGVsw7MtFg/44aad5dfa01c79ab75667d799c2e06c1/1743487203/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Pacers vs Kings (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/GH0fGDnitWsOkErkdYZE-Q/Fv2lucGIbhPi2caWYvF5Lg/1743487203126/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Pacers vs Kings (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/ne1dtn6PIWc9OYBuYSRY1w/bb30dc1883f5f92057cd67eec640c4d0/1743487203/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Pacers vs Kings (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/1z-cN4MQEzOUEGVsw7MtFg/44aad5dfa01c79ab75667d799c2e06c1/1743487203/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Pacers vs Kings (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/442_pLS4u3jhCkVikyeegg/Fv2lucGIbhPi2caWYvF5Lg/1743487203127/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Pacers vs Kings (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/ne1dtn6PIWc9OYBuYSRY1w/bb30dc1883f5f92057cd67eec640c4d0/1743487203/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Wizards vs Heat (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/aWcHN6nKuOCC4xz39VNtMw/364b95ac53bf5686ef14a09b64f6f3c1/1743487203/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Wizards vs Heat (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/mFPoIQAnNgHx7GE5eHjRAA/Fv2lucGIbhPi2caWYvF5Lg/1743487203127/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Wizards vs Heat (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/DVLLnRmy9WjwNge7lQtsew/9d3c1936b065e6a3605ccd426df0ce6c/1743487203/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Wizards vs Heat (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/aWcHN6nKuOCC4xz39VNtMw/364b95ac53bf5686ef14a09b64f6f3c1/1743487203/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Wizards vs Heat (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/mFPoIQAnNgHx7GE5eHjRAA/Fv2lucGIbhPi2caWYvF5Lg/1743487203127/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Wizards vs Heat (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/DVLLnRmy9WjwNge7lQtsew/9d3c1936b065e6a3605ccd426df0ce6c/1743487203/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Red Bull Bragantino vs Ceara (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/3Ya0M0DqgAMl-CXvJ1fRrA/11553a292db421b3acfd01e6b41f6c9b/1743487203/live/_definst_/stream_1_1bda7@voiHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Red Bull Bragantino vs Ceara (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/BpA5XkdksVo6lckh6KrRPg/Fv2lucGIbhPi2caWYvF5Lg/1743487203128/live/voiSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Red Bull Bragantino vs Ceara (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/Xv4mgAL0A3WceG4mMfxusQ/0d429cee859d1413d31a3e1db44fd57e/1743487203/live/_definst_/stream_1_1bda7@voiFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Red Bull Bragantino vs Ceara (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/HxDwRfNTWbJHgjBl9Y4emw/1dae3400e4a56a95aa98d9615588b5c1/1743487203/live/_definst_/stream_1_1bda7@dungHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Red Bull Bragantino vs Ceara (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ovW8KNoh-4d6RKKWNwAWXg/Fv2lucGIbhPi2caWYvF5Lg/1743487203128/live/dungSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Red Bull Bragantino vs Ceara (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/hjVZz3wYk0yTYX2DqugZiQ/09b8150fd09801bcc1dbb7e4e226d0e0/1743487203/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h00 Crato CE VS Quixada CE (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/JUu1CLMPR4ppWTNr-NxELg/Fv2lucGIbhPi2caWYvF5Lg/1743487203128/live/sd-6MuRsQ1qvZXir4dHnj/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/LgPfCl6NVbziw0vNVfn3Iw/Fv2lucGIbhPi2caWYvF5Lg/1743493185476/live/may6/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Grizzlies vs Boston Celtics (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/DbwtTGiUq5x7f5srm1ThKQ/fb66c70ca3f448381bbb4498056c794d/1743487203/live/_definst_/stream_1_1bda7@caoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/VtqBfh883cR6uzTHt8kL8g/fb66c70ca3f448381bbb4498056c794d/1743493185/live/_definst_/stream_1_1bda7@caoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Grizzlies vs Boston Celtics (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/YBZzbUNqQAanRmOe6IzH-Q/Fv2lucGIbhPi2caWYvF5Lg/1743487203128/live/caoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/c7hUx-hgpJT5PUl5_G53dQ/Fv2lucGIbhPi2caWYvF5Lg/1743493185477/live/caoSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Grizzlies vs Boston Celtics (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/POQnNKrdbSvepcTjwynt9Q/0027e56455a2e21d4e9af4c00853528e/1743487203/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/2vdCMLQVN7qVaUZ3Y3mkxw/0027e56455a2e21d4e9af4c00853528e/1743493185/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Grizzlies vs Boston Celtics (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/DbwtTGiUq5x7f5srm1ThKQ/fb66c70ca3f448381bbb4498056c794d/1743487203/live/_definst_/stream_1_1bda7@caoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/VtqBfh883cR6uzTHt8kL8g/fb66c70ca3f448381bbb4498056c794d/1743493185/live/_definst_/stream_1_1bda7@caoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Grizzlies vs Boston Celtics (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/2g9VGMjmX9FEyHYmhGBwUA/Fv2lucGIbhPi2caWYvF5Lg/1743487203129/live/caoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/c7hUx-hgpJT5PUl5_G53dQ/Fv2lucGIbhPi2caWYvF5Lg/1743493185477/live/caoSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h30 Grizzlies vs Boston Celtics (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/POQnNKrdbSvepcTjwynt9Q/0027e56455a2e21d4e9af4c00853528e/1743487203/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/2vdCMLQVN7qVaUZ3Y3mkxw/0027e56455a2e21d4e9af4c00853528e/1743493185/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Thunder vs Bulls (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/5XRLjd1t9BGysZKOcpoe5A/5e80ef9f7927d7fe3e2715feff063a1a/1743487203/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
+https://live-xlvb.nsnd.live/lwvZL05Io3m93fX-5GU7ZQ/5e80ef9f7927d7fe3e2715feff063a1a/1743493185/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Thunder vs Bulls (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/09n6iskRGvN72d0KkX6K0Q/Fv2lucGIbhPi2caWYvF5Lg/1743487203129/live/Z3SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/cwwfWamDdQ44jM1vWHWQDw/Fv2lucGIbhPi2caWYvF5Lg/1743493185477/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Thunder vs Bulls (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/JcE_E9gV8Su6LLGnQBcKvw/fc724b392eb664de8f0b54609b1e66f5/1743487203/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/OrFu8XywoTIBBQd9n3qniQ/fc724b392eb664de8f0b54609b1e66f5/1743493185/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Thunder vs Bulls (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/5XRLjd1t9BGysZKOcpoe5A/5e80ef9f7927d7fe3e2715feff063a1a/1743487203/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
+https://live-xlvb.nsnd.live/lwvZL05Io3m93fX-5GU7ZQ/5e80ef9f7927d7fe3e2715feff063a1a/1743493185/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Thunder vs Bulls (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/09n6iskRGvN72d0KkX6K0Q/Fv2lucGIbhPi2caWYvF5Lg/1743487203129/live/Z3SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/cwwfWamDdQ44jM1vWHWQDw/Fv2lucGIbhPi2caWYvF5Lg/1743493185477/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Thunder vs Bulls (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/JcE_E9gV8Su6LLGnQBcKvw/fc724b392eb664de8f0b54609b1e66f5/1743487203/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/OrFu8XywoTIBBQd9n3qniQ/fc724b392eb664de8f0b54609b1e66f5/1743493185/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Argentina U17 vs Paraguay U17 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/T2gU7MfFBVktl93dGnW0kw/0aafe7a6d19bfafd5e27cf7084b37d51/1743487203/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+https://live-xlvb.nsnd.live/wwquT1a1mFqmb366TNB-hg/0aafe7a6d19bfafd5e27cf7084b37d51/1743493185/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Argentina U17 vs Paraguay U17 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/npvSjGjBsPThfkI32OgSFA/Fv2lucGIbhPi2caWYvF5Lg/1743487203129/live/xienSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/BVcERxDOffFQdNKhrJAL0A/Fv2lucGIbhPi2caWYvF5Lg/1743493185477/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Argentina U17 vs Paraguay U17 (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/WYC_RqsjGd5iFs49CdziMw/cac03b136a8c356be180b4618c6bfeb5/1743487203/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/_USTkhmsVLYllj_qXwb-7g/cac03b136a8c356be180b4618c6bfeb5/1743493185/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h00 Argentina U17 vs Paraguay U17 (Thịt Xiên)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/Br7QbE9ON_x0ChOJDOAaxA/0aafe7a6d19bfafd5e27cf7084b37d51/1743489587/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+https://live-xlvb.nsnd.live/wwquT1a1mFqmb366TNB-hg/0aafe7a6d19bfafd5e27cf7084b37d51/1743493185/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h10 Atletico Atlanta vs Quilmes (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/5zV9KmkhNeKi6o9difUcZA/19c6df53af2e8e4da3153ccd33338ce9/1743487203/live/_definst_/stream_1_1bda7@thuHD/playlist.m3u8
+https://live-xlvb.nsnd.live/2fvgarxQvttzCE6PUZ517w/19c6df53af2e8e4da3153ccd33338ce9/1743493185/live/_definst_/stream_1_1bda7@thuHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h10 Atletico Atlanta vs Quilmes (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/9zRAby9tFhrVoiPCVLk_Ag/Fv2lucGIbhPi2caWYvF5Lg/1743487203130/live/thuSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Z8Bp2SqSDO0a1bmxz59hZg/Fv2lucGIbhPi2caWYvF5Lg/1743493185477/live/thuSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h10 Atletico Atlanta vs Quilmes (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/pLSXrBqXlvUYoc4TUnfRHQ/23c640f28fcd1bae0920b90a9358ecbd/1743487203/live/_definst_/stream_1_1bda7@thuFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/20m3gujr-yNFz5iqEiqclQ/23c640f28fcd1bae0920b90a9358ecbd/1743493185/live/_definst_/stream_1_1bda7@thuFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h10 Atletico Atlanta vs Quilmes (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/Hhx-sb_TCx488N7sOjNyXA/778e7779236aef8ae68b578426d0ddb4/1743489587/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/ApLZOY9hstQemeYDbJx-og/778e7779236aef8ae68b578426d0ddb4/1743493185/live/_definst_/stream_1_1bda7@meoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h10 Atletico Atlanta vs Quilmes (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/n4ZIq6W3g-RfvkyLPsKZFA/Fv2lucGIbhPi2caWYvF5Lg/1743489587124/live/meoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/iyKKrPQLVLRcpUvzE3yhtQ/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/meoSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h10 Atletico Atlanta vs Quilmes (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/Z6CXm24bu_4CEfQus43wAw/aa2414c41b563aa2e0f4a276a0f50172/1743489587/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/kw0mF7fe_pl5WsMbrer_CA/aa2414c41b563aa2e0f4a276a0f50172/1743493185/live/_definst_/stream_1_1bda7@meoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h15 Defensor Sporting Montevideo VS Miramar Misiones FC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/QyXTyFi0uKYdPdGoIV7B3g/Fv2lucGIbhPi2caWYvF5Lg/1743489587124/live/sd-6MtJQX5kXdxMUqBZDd/playlist.m3u8
+https://apisportzz179528093.nsnd.live/R0w28Hpid_iVpw_ZlmwPoA/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/sd-6MtJQX5kXdxMUqBZDd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h25 Aleksandar Kovacevic vs Tomas Martin Etcheverry (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/2PqbP-A5ZQbNsbbbZjxjlA/a9876ad3e6becc6c1302850d079b79d6/1743487203/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8
+https://live-xlvb.nsnd.live/pN8k3cHbnXaaw5h6O9QKbw/a9876ad3e6becc6c1302850d079b79d6/1743493185/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h25 Aleksandar Kovacevic vs Tomas Martin Etcheverry (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/YH-07IjhmZiU8AYpdmlC_Q/Fv2lucGIbhPi2caWYvF5Lg/1743487203129/live/may1SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/pZ2bWcqY0u7y40aaLb5U_A/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/may1SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h25 Aleksandar Kovacevic vs Tomas Martin Etcheverry (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/oRAE7NP4z80P5LK0kpWvbg/a75e9b78c79480f30c7ea83b12c71e42/1743487203/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/k__JMT534Is32N57oY1gGQ/a75e9b78c79480f30c7ea83b12c71e42/1743493185/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h25 Aleksandar Kovacevic vs Tomas Martin Etcheverry (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/AxBLLxwLXUMa6uI-RF-6RQ/Fv2lucGIbhPi2caWYvF5Lg/1743487203129/live/may6/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/yHFpcT1DyHDyCqXmJpfrhQ/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/may6/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Mavericks vs Nets (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/A9A8pqVtSN7Ij3w05RPuXA/66ae10d686c6ce5cc9ef4eeff7542f73/1743489587/live/_definst_/stream_1_1bda7@gayHD/playlist.m3u8
+https://live-xlvb.nsnd.live/YePM2zF4Gf81IA7qkU21wQ/66ae10d686c6ce5cc9ef4eeff7542f73/1743493185/live/_definst_/stream_1_1bda7@gayHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Mavericks vs Nets (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/pO5cEJbaVE14eTpSk16oVQ/Fv2lucGIbhPi2caWYvF5Lg/1743489587125/live/gaySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/CMI1z5kTZk6Wd-MuzoxRdg/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/gaySD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Mavericks vs Nets (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/A9A8pqVtSN7Ij3w05RPuXA/66ae10d686c6ce5cc9ef4eeff7542f73/1743489587/live/_definst_/stream_1_1bda7@gayHD/playlist.m3u8
+https://live-xlvb.nsnd.live/YePM2zF4Gf81IA7qkU21wQ/66ae10d686c6ce5cc9ef4eeff7542f73/1743493185/live/_definst_/stream_1_1bda7@gayHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Mavericks vs Nets (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/A9A8pqVtSN7Ij3w05RPuXA/66ae10d686c6ce5cc9ef4eeff7542f73/1743489587/live/_definst_/stream_1_1bda7@gayHD/playlist.m3u8
+https://live-xlvb.nsnd.live/YePM2zF4Gf81IA7qkU21wQ/66ae10d686c6ce5cc9ef4eeff7542f73/1743493185/live/_definst_/stream_1_1bda7@gayHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Mavericks vs Nets (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/pO5cEJbaVE14eTpSk16oVQ/Fv2lucGIbhPi2caWYvF5Lg/1743489587125/live/gaySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/CMI1z5kTZk6Wd-MuzoxRdg/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/gaySD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Mavericks vs Nets (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/74luM0ChlO-1w7fDIX0tzA/84da5215d1a1dcfaac34c074325b27a0/1743489587/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/9EFxmNFgQjs527ayU64e0w/84da5215d1a1dcfaac34c074325b27a0/1743493185/live/_definst_/stream_1_1bda7@gayFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 La Equidad VS Atletico Junior Barranquilla (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/YwsctUJSwwudPkKscgPizg/Fv2lucGIbhPi2caWYvF5Lg/1743489587125/live/sd-6MtN8NNi5FMSBxcgZh/playlist.m3u8
+https://apisportzz179528093.nsnd.live/K_S2OMr53UkwOiVnZOT0Ww/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/sd-6MtN8NNi5FMSBxcgZh/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Tomas Martin Etcheverry vs Aleksandar Kovacevic (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/1UpYt_a_5ccod3AwYLS9Gw/a9876ad3e6becc6c1302850d079b79d6/1743489587/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8
+https://live-xlvb.nsnd.live/pN8k3cHbnXaaw5h6O9QKbw/a9876ad3e6becc6c1302850d079b79d6/1743493185/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Tomas Martin Etcheverry vs Aleksandar Kovacevic (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/FhGafwTsSSfKSgS0n2jCPw/Fv2lucGIbhPi2caWYvF5Lg/1743489587125/live/may1SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/pZ2bWcqY0u7y40aaLb5U_A/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/may1SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Tomas Martin Etcheverry vs Aleksandar Kovacevic (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/iZHQLSXO1TAZd3jwdZHnrQ/a75e9b78c79480f30c7ea83b12c71e42/1743489587/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/k__JMT534Is32N57oY1gGQ/a75e9b78c79480f30c7ea83b12c71e42/1743493185/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h30 Tomas Martin Etcheverry vs Aleksandar Kovacevic (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/8qz-1uY7SAkopvDffZ73cQ/Fv2lucGIbhPi2caWYvF5Lg/1743489587125/live/may6/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Iva Jovic vs Alycia Parks (HD)
+https://hotlivezz179026907.akainu.xyz/yHFpcT1DyHDyCqXmJpfrhQ/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/may6/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",07h45 Arnett Gardens VS Cavalier FC (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/L-V2IJArybXlO1TW0JQS7A/Fv2lucGIbhPi2caWYvF5Lg/1743487203130/live/may28/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",08h00 Marie Bouzkova vs Aleksandra Krunic (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/u3XPEyj5R1ep7wAQcgW2OA/Fv2lucGIbhPi2caWYvF5Lg/1743487203130/live/may4/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h10 Emina Bektas vs Maria Camila Torres Murcia (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/L-V2IJArybXlO1TW0JQS7A/Fv2lucGIbhPi2caWYvF5Lg/1743487203130/live/may28/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",09h20 Lea Boskovic vs Irina Bara (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/u3XPEyj5R1ep7wAQcgW2OA/Fv2lucGIbhPi2caWYvF5Lg/1743487203130/live/may4/playlist.m3u8
+https://apisportzz179528093.nsnd.live/fuYjEXQpJjYcbCfzNARy8Q/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/sd-6MtJf4zeR6pvCL8PnT/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h00 Selena Janicijevic vs Sara Sorribes Tormo (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/3OaS1wXtt0geRFISTDMqyA/Fv2lucGIbhPi2caWYvF5Lg/1743489587125/live/may4/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h00 Laura Pigossi vs Laura Siegemund (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/N7gBWxHSXi_a7mJhtxHG9Q/Fv2lucGIbhPi2caWYvF5Lg/1743489587125/live/may28/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/MoSgoGDXqQY38louyXBTow/Fv2lucGIbhPi2caWYvF5Lg/1743493185478/live/may4/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h10 Sofia Kenin vs Bernarda Pera (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/T2gU7MfFBVktl93dGnW0kw/0aafe7a6d19bfafd5e27cf7084b37d51/1743487203/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+https://live-xlvb.nsnd.live/wwquT1a1mFqmb366TNB-hg/0aafe7a6d19bfafd5e27cf7084b37d51/1743493185/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h10 Sofia Kenin vs Bernarda Pera (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ynHq4_nJT1RNDzD-rka3CQ/Fv2lucGIbhPi2caWYvF5Lg/1743487203130/live/xienSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/xdYweagcVohJ6MA7HDWlfw/Fv2lucGIbhPi2caWYvF5Lg/1743493185479/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h10 Sofia Kenin vs Bernarda Pera (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/WYC_RqsjGd5iFs49CdziMw/cac03b136a8c356be180b4618c6bfeb5/1743487203/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/_USTkhmsVLYllj_qXwb-7g/cac03b136a8c356be180b4618c6bfeb5/1743493185/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h10 Sofia Kenin vs Bernarda Pera (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/Tta4nHk8ERdvzfhD59b_9g/Fv2lucGIbhPi2caWYvF5Lg/1743487203130/live/may101/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/MPV-NaAAgQlcy1UsZUcPUQ/Fv2lucGIbhPi2caWYvF5Lg/1743493185479/live/may101/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h10 Ann Li vs Anna Blinkova (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/Tta4nHk8ERdvzfhD59b_9g/Fv2lucGIbhPi2caWYvF5Lg/1743487203130/live/may101/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/q51rLuUuWXZcTwLseWcgog/Fv2lucGIbhPi2caWYvF5Lg/1743462570881/live/may101/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h10 Laura Pigossi vs Laura Siegemund (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179026907.akainu.xyz/Q5uICcqpElPjvdWf3wQK_w/Fv2lucGIbhPi2caWYvF5Lg/1743493185479/live/may28/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",23h55 Iva Jovic vs Alycia Parks (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179026907.akainu.xyz/1ydgpD8I3ocgBY40ouCCfw/Fv2lucGIbhPi2caWYvF5Lg/1743462570881/live/may28/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h05 Emina Bektas vs Maria Camila Torres Murcia (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179026907.akainu.xyz/1ydgpD8I3ocgBY40ouCCfw/Fv2lucGIbhPi2caWYvF5Lg/1743462570881/live/may28/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Marie Bouzkova vs Aleksandra Krunic (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179026907.akainu.xyz/NaFulZbhtXzLTp-ETImpVg/Fv2lucGIbhPi2caWYvF5Lg/1743462570881/live/may4/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",22h00 Lea Boskovic vs Irina Bara (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179026907.akainu.xyz/NaFulZbhtXzLTp-ETImpVg/Fv2lucGIbhPi2caWYvF5Lg/1743462570881/live/may4/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",14h00 WS Wanderers (w) vs Melbourne Victory (w) (WS Wanderers (w) vs Melbourne Victory (w))
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=
@@ -14940,34 +14624,6 @@ https://hl.eztool.xyz/hls/2light/bda/fullmatch/juve-milan-290523.mp4/playlist.m3
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w60",06h00 Indiana Pacers vs Sacramento Kings (CH) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CH) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/Y5qnUm5A-tt2M10fr.png",06h30 Memphis Grizzlies vs Boston Celtics (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -15012,86 +14668,30 @@ https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/hornets.png",06h00 Hornets vs Jazz (CK) HD NHANH
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/luaHD.flv?expire=1743482405&sign=040001c5a9087e85112427d719cfd83b
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/hornets.png",06h00 Hornets vs Jazz (CK) HD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/_LZQ-bFhGkuTf8I92gT8Dg/9f8b38d400ef6d394f2d68b3096e00f1/1743482405/live/_definst_/stream_1_1bda7@luaHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/hornets.png",06h00 Hornets vs Jazz (CK) SD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) SD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/MKdIPzheA6n650Oe6BM0Ng/Fv2lucGIbhPi2caWYvF5Lg/1743482405872/live/luaSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/hornets.png",06h00 Hornets vs Jazz (CK) FullHD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paosd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) HD 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/ZO5QY8nz91PvRxlzpOnrLg/74b8773ecaa9df430432c2bf2b6bd9e0/1743482405/live/_definst_/stream_1_1bda7@luaFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",06h00 Pacers vs Kings (CK) HD NHANH
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/paohd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) SD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/phepHD.flv?expire=1743482406&sign=9b3e9e975f64c0903ee20113b8adb683
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",06h00 Pacers vs Kings (CK) HD
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paosd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/bPdSAgtr-6y7aqqwb.png",09h00 Los Angeles Lakers vs Houston Rockets (CH) HD 3 (Nhanh)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/lxom-HxRA5KmSSI-jg3lnw/44aad5dfa01c79ab75667d799c2e06c1/1743482406/live/_definst_/stream_1_1bda7@phepHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",06h00 Pacers vs Kings (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/aexmqtBxP_iP9uRV0ajcmA/Fv2lucGIbhPi2caWYvF5Lg/1743482406712/live/phepSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/pacers.png",06h00 Pacers vs Kings (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/9YBJRYmHONB-bVNn27f9fA/bb30dc1883f5f92057cd67eec640c4d0/1743482406/live/_definst_/stream_1_1bda7@phepFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",06h00 Wizards vs Heat (CK) HD NHANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/thuongHD.flv?expire=1743482407&sign=4c7e923850531dd30eb187da3889f10a
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",06h00 Wizards vs Heat (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/AJcaluLTj5XhjGm98MKy4Q/364b95ac53bf5686ef14a09b64f6f3c1/1743482407/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",06h00 Wizards vs Heat (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/fRvRSgx3v5wDvhMFRHymLA/Fv2lucGIbhPi2caWYvF5Lg/1743482407628/live/thuongSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Wizards.png",06h00 Wizards vs Heat (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/W9x0eAp1ivRt6GjVkMZxWw/9d3c1936b065e6a3605ccd426df0ce6c/1743482407/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06h00 Magic vs Clippers (CK) HD NHANH
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/catHD.flv?expire=1743483606&sign=6c70bae17f4ced17cfc8c23587468133
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06h00 Magic vs Clippers (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/Or5AQX8heIybrKYO357t1Q/246e8f89743405a162acda5b1306ac56/1743483606/live/_definst_/stream_1_1bda7@catHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06h00 Magic vs Clippers (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/9qU2BuWK4Kww2XihMFeRKg/Fv2lucGIbhPi2caWYvF5Lg/1743483606738/live/catSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/Magic.png",06h00 Magic vs Clippers (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/K46G8wzrsknPg8QsUX9qLw/444a075c42c2d0e744c4509423415468/1743483606/live/_definst_/stream_1_1bda7@catFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/voiHD.flv?expire=1743482104&sign=bc4c6236a754d491c76253521b887806
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CK) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/p34ZYa0y7ExRJGO5nDHvNA/11553a292db421b3acfd01e6b41f6c9b/1743482104/live/_definst_/stream_1_1bda7@voiHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CK) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/sUwt8yms6-WBYJYzKLYaww/Fv2lucGIbhPi2caWYvF5Lg/1743482104957/live/voiSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CK) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/6Dh7LsLto3CPARbnKicV1Q/0d429cee859d1413d31a3e1db44fd57e/1743482104/live/_definst_/stream_1_1bda7@voiFHD/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/paohd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/grizzlies.png",06h30 Grizzlies vs Boston Celtics (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15108,10 +14708,6 @@ https://hotlivezz179602324.akainu.xyz/eMBIBHavGvNBvS8YmS8FmQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/-ZARshcehSl8dRStm48DDA/0027e56455a2e21d4e9af4c00853528e/1743484207/live/_definst_/stream_1_1bda7@caoFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/bf962535c0cf7d0505cd9aab5a83d5c5.png",06h00 Crato CE VS Quixada CE (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/27NnUgbpNTJqf1DNgyFWZg/Fv2lucGIbhPi2caWYvF5Lg/1743485106036/live/sd-6MuRsQ1qvZXir4dHnj/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/r%E1%BB%95/thunder.png",07h00 Thunder vs Bulls (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15208,38 +14804,10 @@ https://live-xlvb.nsnd.live/HMcGxcjerjnmcAEw3Kxnqw/a75e9b78c79480f30c7ea83b12c71
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/y7umRfEPMH_d2Ck_xqHT-Q/Fv2lucGIbhPi2caWYvF5Lg/1743489906141/live/may6/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w60",06h00 Indiana Pacers vs Sacramento Kings (CKhia) Nhà đài
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/04d998a10ab2fd063aff16bfaa7aeb50.png",07h45 Arnett Gardens VS Cavalier FC (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) Rakhoi TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://rakhoiz.link
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (CKhia) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1.flv
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/yX4LR1c_SFTs1TCmKhvmrg/Fv2lucGIbhPi2caWYvF5Lg/1743492606259/live/sd-6MtJf4zeR6pvCL8PnT/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/Y5qnUm5A-tt2M10fr.png",06h30 Memphis Grizzlies vs Boston Celtics (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -15288,30 +14856,6 @@ https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (LK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/47e3d71d642815df9323427775b6a28d.png",07h00 Santos De Guapiles vs Municipal Liberia (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -15328,22 +14872,6 @@ https://qtcdn.livestreameuro.live/live/m103qt/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://qtcdn.livestreameuro.live/live/m104qt/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3820/1gwnk9p3w710.png?win007=sell",06h00 Bragantino vs Ceara (LS) BLV BRUNO m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/BRUNO/index.m3u8?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3820/1gwnk9p3w710.png?win007=sell",06h00 Bragantino vs Ceara (LS) BLV BRUNO flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/BRUNO.flv?expire=1866957300&sign=59eb3d40dfebf60e8af705b3803c4b1e
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3820/1gwnk9p3w710.png?win007=sell",06h00 Bragantino vs Ceara (LS) BLV LÂM XUNG m3u
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/LAMXUNG/index.m3u8?expire=1861716660&sign=1c804dc12e841ebe5a05ac54c28e7411
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/3820/1gwnk9p3w710.png?win007=sell",06h00 Bragantino vs Ceara (LS) BLV LÂM XUNG flv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/LAMXUNG.flv?expire=1861716660&sign=1c804dc12e841ebe5a05ac54c28e7411
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/20130919131305.png?win007=sell",07h00 Santos De Guapiles vs Municipal Liberia (LS) BLV THÀNH LONG  m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -15384,34 +14912,6 @@ https://hls.cdnokvip.com/live/VANTICH/index.m3u8?expire=1852358580&sign=747277a8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
 https://flv.cdnokvip.com/live/VANTICH.flv?expire=1852358580&sign=747277a83601556552a2586590215965
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/6f313b682482799762cf60dbc30dbfae.png!w60",06h00 Indiana Pacers vs Sacramento Kings (RK) Nhà đài
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/m501nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/caysd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckhot-179939170.cdnfree.pro/live/cayhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) SD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/caysd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Red Bull Bragantino vs Ceara (RK) HD 3 (Nhanh)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
-https://ckcdn.livestreameuro.live/live/cayhd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://static.flashscore.com/res/image/data/Y5qnUm5A-tt2M10fr.png",06h30 Memphis Grizzlies vs Boston Celtics (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -15456,26 +14956,6 @@ https://ckcdn.livestreameuro.live/live/cohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m404nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Bragantino vs Ceara (VB) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179536519.akainu.xyz/live/dungHD.flv?expire=1743483063&sign=3a2b87ca05c708a939021a6413157b19
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Bragantino vs Ceara (VB) HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/LVwjTc7G2IIO2JKpqKIwQQ/1dae3400e4a56a95aa98d9615588b5c1/1743483063/live/_definst_/stream_1_1bda7@dungHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Bragantino vs Ceara (VB) SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://hotlivezz179602324.akainu.xyz/DfgHXHVz9u8Lf8prfKn8Hw/Fv2lucGIbhPi2caWYvF5Lg/1743483063871/live/dungSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9e9d18ccd36d42462fc896e22de890c2.png",06h00 Bragantino vs Ceara (VB) FullHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://live-xlvb.nsnd.live/rXWRMvndJCHI-In_f4Me0g/09b8150fd09801bcc1dbb7e4e226d0e0/1743483063/live/_definst_/stream_1_1bda7@dungFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/bf962535c0cf7d0505cd9aab5a83d5c5.png",06h00 Crato CE vs Quixada CE (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/22pznejj3UCIXcTufhua9g/Fv2lucGIbhPi2caWYvF5Lg/1743485102947/live/sd-6MuRsQ1qvZXir4dHnj/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/argentina.png",07h00 Argentina U17 vs Paraguay U17 (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15516,3 +14996,7 @@ https://apisportzz179528093.nsnd.live/w_VYHz0BUIqb-s7gIFz63g/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/Xu1rOq04PrktYqqzTKreQQ/Fv2lucGIbhPi2caWYvF5Lg/1743488703289/live/sd-6MtN8NNi5FMSBxcgZh/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/04d998a10ab2fd063aff16bfaa7aeb50.png",07h45 Arnett Gardens vs Cavalier FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/OkrsrsVPVvJKal-726Qotg/Fv2lucGIbhPi2caWYvF5Lg/1743492577865/live/sd-6MtJf4zeR6pvCL8PnT/playlist.m3u8
