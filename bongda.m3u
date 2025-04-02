@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 Aral Akademiya vs Navoiy FA 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/ff2552633d3a912932123d4b7d6ee59a/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/69798/1j262stz2n31.png",16h30 Gold Coast Knights (W) vs Sunshine Coast Wanderers Nữ 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -55,22 +51,26 @@ https://live.rapid-api.icu/live/5cfcb1c76a335e33621019884ac96ac5/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/203604cace332fea2320234ed51c2f51/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20170804115950.png",18h00 PFC Oleksandria vs FC Shakhtar Donetsk 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/4dccce9873f4736ace29c155d06a2876/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20170801160417.png",18h00 Lampang FC vs Pattaya Discovery United FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/165d0f2b77427dfed32acbda4cf1f017/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/17121/1gtqq980vs2q.png",18h00 Mahasarakham United FC vs Nakhon Si United FC 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/180f7b9f8c12dce789d5fc5c1814da7c/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/202003250945325111.gif",18h00 Khonkaen United vs Muang Thong United 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/fb450103f5e17d96fca7172cc37f71d9/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20200324004645.gif",18h15 Arda vs Cherno More Varna 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/cd54794a71702c7f2f05bf150d4d8d3a/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/202003250945324831.gif",18h30 JL Chiangmai United FC vs Ayutthaya United 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/16af933306cc4627095f738eed7dc8c4/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130412165330.jpg",18h30 Trat FC vs Kasetsart FC 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/789009cb011fdbc337464c083001727b/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20180921192230.png",18h35 Shandong Taishan vs Chengdu Rongcheng FC 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/093bba14699e87d0cbfd059108a1673e/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ab10ee503e539e55a9a11a9ff202405a.png",17h00 Cerezo Osaka vs Fagiano Okayama (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -175,14 +175,66 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/48163ffbd8fffae07cf6f3b1a9358599.png",15h30 Qujing Yibu VS Nanning Juding (CK) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/mGVFzIq_abRexJzf4i2G6w/Fv2lucGIbhPi2caWYvF5Lg/1743605106629/live/sd-6MuS84XCu9RVrzVCAf/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 Aral Akademiya VS Navoiy FA (CK) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/cLwCqQbq34tHbpkoFmB7mw/Fv2lucGIbhPi2caWYvF5Lg/1743606908943/live/sd-6MuRsQ2bb7s5iVvpmH/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live//m403nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e0080960b4e935d70f4037aaf3a0b917.png",18h35 Tianjin Jinmen Tiger FC vs Beijing Guoan FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/45f0202c733beeb43f06cb9083cbb780.png",17h00 Buasn KCC Egis vs Goyang Sono Skygunners (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -351,6 +403,66 @@ https://apisportzz179528093.nsnd.live/vN2Rgo-gTnhXXQbqxOp0fA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/MiBth8Bh-l3qHFQdAQJmpg/Fv2lucGIbhPi2caWYvF5Lg/1743610522299/live/sd-6MtMdSBmChVtXMPfWs/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/acc91add74b2c86a68722836835bcf3c.png",17h30 Urawa Red Diamonds VS Shimizu S-Pulse (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/b-FFTZc0FtNJrtbc-XcTIw/Fv2lucGIbhPi2caWYvF5Lg/1743612308436/live/sd-6MtMPH564PAizrF1xw/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/duoiHD.flv?expire=1743614108&sign=6c8cf69e3c814e424c1598877e049138
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/3eaXituRQQ1ebRpZsrcwpg/b14053af26d095bbd1a8883e12a23c70/1743614108/live/_definst_/stream_1_1bda7@duoiHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/u3Cw_R6yCsFKwgSGt_M9_w/Fv2lucGIbhPi2caWYvF5Lg/1743614108592/live/duoiSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/Ddi1fmwfW5C6rzyW6x6ehw/fe6531f5755624d362691530bec11078/1743614108/live/_definst_/stream_1_1bda7@duoiFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/b3i7_SSdh-LczMGPH4FNEA/Fv2lucGIbhPi2caWYvF5Lg/1743614108592/live/sd-6MsFuTbnuxqtdJtZRM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1743613447&sign=88857620ec6f29efcb246536ad17a481
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/srGwYnqRlpwjBUlVSSPd8g/0aafe7a6d19bfafd5e27cf7084b37d51/1743613447/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/W-VMeKX2sIyrFfYzmG2y0Q/Fv2lucGIbhPi2caWYvF5Lg/1743613447267/live/xienSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/syhEohkq3ghKWXPS8hS-xw/cac03b136a8c356be180b4618c6bfeb5/1743613447/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ZV-cmTLWQRaW0cK6eTnD2Q/Fv2lucGIbhPi2caWYvF5Lg/1743613447267/live/sd-6MsFuTbo5dKRZeZFXy/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC VS Dalian Yingbo (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Aqdn3utxUsghppTrKtBtAA/Fv2lucGIbhPi2caWYvF5Lg/1743613508332/live/sd-6MtMtKiML5wGXwXDqm/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b74f26f7b473f4ec8b310c2a1dc53d31.png",18h00 Mahasarakham SBT FC VS Nakhon Si United FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/urPlv3vHVvO497_8XIaVHw/Fv2lucGIbhPi2caWYvF5Lg/1743614112296/live/sd-6MsGPzvp7nZt1R4rpB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2a9fcaa7e2692e27d938a3154f24fed3.png",18h00 Lampang FC VS Pattaya Discovery United FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/IPkfG1Gk89TQTWvYTQKOeQ/Fv2lucGIbhPi2caWYvF5Lg/1743614113110/live/sd-6MsGPzvp7pmMsttmy5/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/a942e3ebfdb2edc917004be319429bba.png",18h00 FK Oleksandria VS FC Shakhtar Donetsk (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/znZQ_Okb8JPOq5zBYkTf1A/Fv2lucGIbhPi2caWYvF5Lg/1743614114069/live/sd-6MtMdVUF68xAK9YhiB/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",17h00 Sanfrecce Hiroshima vs Kashima Antlers (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -467,6 +579,74 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live//m403nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e0080960b4e935d70f4037aaf3a0b917.png",18h35 Tianjin Jinmen Tiger FC vs Beijing Guoan FC (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) RaKhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link/
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ab10ee503e539e55a9a11a9ff202405a.png",17h00 Cerezo Osaka vs Fagiano Okayama (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -543,14 +723,82 @@ https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1743510639.jpg",16h00 IDOL LIVE vs IDOL LIVE (LS) IDOL MIU XINH  m3u
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/MIUXINH/index.m3u8?expire=1892464380&sign=d0ab265fbf94ee4fe56b908f2975f6e2
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1743510639.jpg",16h00 IDOL LIVE vs IDOL LIVE (LS) IDOL MIU XINH  flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/MIUXINH.flv?expire=1892464380&sign=d0ab265fbf94ee4fe56b908f2975f6e2
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phangsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phanghd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/phanghd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/206/1gtzcts1qj1h.png?win007=sell",17h00 Hiroshima Sanfrecce vs Kashima Antlers (LS) BLV NGHỆ CẢ CỦ  m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -655,6 +903,30 @@ https://hls.cdnokvip.com/live/LUUBI/index.m3u8?expire=1861716660&sign=bb96616ccd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
 https://flv.cdnokvip.com/live/LUUBI.flv?expire=1861716660&sign=bb96616ccd027c7f67af3d6fcaef069a
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/188/1gtzcts2pj1a.png?win007=sell",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LS) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/TONGGIANG/index.m3u8?expire=1856940180&sign=3ada34aa52306b4bf9e65bd887832e8d
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/188/1gtzcts2pj1a.png?win007=sell",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LS) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/TONGGIANG.flv?expire=1856940180&sign=3ada34aa52306b4bf9e65bd887832e8d
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/17056/1gq931k4pd2y.png?win007=sell",18h00 Ratchaburi FC vs Bangkok United FC (LS) BLV DẾ LỬA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/DELUA/index.m3u8?expire=1873178820&sign=3dc61a8e06d0e585b8210eb9497308ca
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/17056/1gq931k4pd2y.png?win007=sell",18h00 Ratchaburi FC vs Bangkok United FC (LS) BLV DẾ LỬA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/DELUA.flv?expire=1873178820&sign=3dc61a8e06d0e585b8210eb9497308ca
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/44/1gy3vkgfwg2p.png?win007=sell",18h00 Qingdao Manatee vs Dalian Zhixing (LS) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/NGUCA/index.m3u8?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/44/1gy3vkgfwg2p.png?win007=sell",18h00 Qingdao Manatee vs Dalian Zhixing (LS) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/NGUCA.flv?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",17h00 Sanfrecce Hiroshima vs Kashima Antlers (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -759,14 +1031,70 @@ https://ckcdn.livestreameuro.live/live/lansd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/lanhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",15h30 Qujing Yibu vs Nanning Juding (VB) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/Tn9Vi0Jt04bu5c8c1XbpBA/Fv2lucGIbhPi2caWYvF5Lg/1743604737134/live/sd-6MuS84XCu9RVrzVCAf/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 Aral Akademiya vs Navoiy FA (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (RK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/v2fr5gpj9fUSjroyPn6UFw/Fv2lucGIbhPi2caWYvF5Lg/1743606176919/live/sd-6MuRsQ2bb7s5iVvpmH/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live//m403nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e0080960b4e935d70f4037aaf3a0b917.png",18h35 Tianjin Jinmen Tiger FC vs Beijing Guoan FC (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+htt1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9f067597c91323da9096df7db9995e22.png",17h00 Dynamic Herb Cebu vs Stallions FC (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -867,18 +1195,38 @@ https://live-xlvb.nsnd.live/-Lwey5sKgM5Ej6khOnc-OQ/6b78b4ff262c15bca3bdb372d5d5d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/80rWH72_INPietsJoIDIuA/Fv2lucGIbhPi2caWYvF5Lg/1743609902238/live/sd-6MuRsQ45ZVDGtRoXyM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/64b2bad694df26f27d47dfb02bb677f3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/nY8lwhybdqFdicF88mp33w/Fv2lucGIbhPi2caWYvF5Lg/1743611702597/live/sd-6MtMPH564PAizrF1xw/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/4FB59dMrZxTkhi222plEyQ/Fv2lucGIbhPi2caWYvF5Lg/1743612902930/live/sd-6MsFuTbo5dKRZeZFXy/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b0f71a1bf0cf3531dcfccbf48227835a.png",18h00 Ratchaburi FC vs Bangkok United FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/EKF6dE6MpQ-Yytb20QRuHA/Fv2lucGIbhPi2caWYvF5Lg/1743612902870/live/sd-6MsFuTbnuxqtdJtZRM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2a9fcaa7e2692e27d938a3154f24fed3.png",18h00 Lampang FC vs Pattaya Discovery United FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/NbRvWfWVXLfxuo3wPhQiwQ/Fv2lucGIbhPi2caWYvF5Lg/1743612902975/live/sd-6MsGPzvp7pmMsttmy5/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/14c0e1f37f07d4df5c09a39c9ab59707.png",18h00 Mahasarakham United FC vs Nakhon Si United FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/wgT3YNZYgXVk2Mf9C8eibQ/Fv2lucGIbhPi2caWYvF5Lg/1743612902867/live/sd-6MsGPzvp7nZt1R4rpB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/a942e3ebfdb2edc917004be319429bba.png",18h00 PFC Oleksandria vs FC Shakhtar Donetsk (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/h65PNEzDfhUXvzAQWibc9g/Fv2lucGIbhPi2caWYvF5Lg/1743614143257/live/sd-6MtMdVUF68xAK9YhiB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Manatee vs Dalian Duxing Football Club (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Tf6jtdUfcBmmBQIyY6A01Q/Fv2lucGIbhPi2caWYvF5Lg/1743614161069/live/sd-6MtMtKiML5wGXwXDqm/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",10h00 WTT Champions Incheon (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
 https://hotlivezz179026907.akainu.xyz/UMIb4FoSZsmFtjAKYLmLMw/Fv2lucGIbhPi2caWYvF5Lg/1743610791404/live/may21/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",15h30 Qujing Yibu VS Nanning Juding (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/gaFrfmJq-AgEBhSxKUDXGA/Fv2lucGIbhPi2caWYvF5Lg/1743610791404/live/sd-6MuS84XCu9RVrzVCAf/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 Aral Akademiya VS Navoiy FA (Backup 1)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/7vo9BNWGtqnqFSJvb145yA/Fv2lucGIbhPi2caWYvF5Lg/1743610791404/live/sd-6MuRsQ2bb7s5iVvpmH/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h30 Richard Gasquet vs Flavio Cobolli (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
@@ -1115,6 +1463,90 @@ https://hotlivezz179602324.akainu.xyz/putH4zl8nQznnhHDgmFi2Q/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
 https://live-xlvb.nsnd.live/ICwjRRCtDczzLKXUu1Skcg/fc724b392eb664de8f0b54609b1e66f5/1743610791/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",17h30 Urawa Red Diamonds VS Shimizu S-Pulse (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/syatH1KyhrK_IUqA869A-A/Fv2lucGIbhPi2caWYvF5Lg/1743614403006/live/sd-6MtMPH564PAizrF1xw/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Ratchaburi FC vs Bangkok United FC (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://live-xlvb.nsnd.live/-Jj5ae9JnvJSduhlFjcNNg/b14053af26d095bbd1a8883e12a23c70/1743614403/live/_definst_/stream_1_1bda7@duoiHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Ratchaburi FC vs Bangkok United FC (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/dGAxPKFkroE6P0W7Z0_nJQ/Fv2lucGIbhPi2caWYvF5Lg/1743614403007/live/duoiSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Ratchaburi FC vs Bangkok United FC (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://live-xlvb.nsnd.live/KOJzdr2dmLFLjFtuATkX_A/fe6531f5755624d362691530bec11078/1743614403/live/_definst_/stream_1_1bda7@duoiFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Khonkaen United vs Muang Thong United (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://live-xlvb.nsnd.live/gHSjwon2NMy0lu-GHSn3PA/0aafe7a6d19bfafd5e27cf7084b37d51/1743614403/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Khonkaen United vs Muang Thong United (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/hxbyhx8mqUocAnW2ZWAsqA/Fv2lucGIbhPi2caWYvF5Lg/1743614403007/live/xienSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Khonkaen United vs Muang Thong United (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://live-xlvb.nsnd.live/9dvX37WnICnwzRP9kS-8tQ/cac03b136a8c356be180b4618c6bfeb5/1743614403/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Qingdao Hainiu FC VS Dalian Yingbo (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/UpQlGKYlxeH7LYRbgkNibg/Fv2lucGIbhPi2caWYvF5Lg/1743614403007/live/sd-6MtMtKiML5wGXwXDqm/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Mahasarakham SBT FC VS Nakhon Si United FC (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/kQj-ilAVCPGVfNWyk4NXPw/Fv2lucGIbhPi2caWYvF5Lg/1743614403008/live/sd-6MsGPzvp7nZt1R4rpB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Lampang FC VS Pattaya Discovery United FC (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/zCmlXk94Cx53hdEpDNhwBg/Fv2lucGIbhPi2caWYvF5Lg/1743614403008/live/sd-6MsGPzvp7pmMsttmy5/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 FK Oleksandria VS FC Shakhtar Donetsk (Backup 1)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://apisportzz179528093.nsnd.live/_14P9VEJHJ9OUJJTlKhZqg/Fv2lucGIbhPi2caWYvF5Lg/1743614403008/live/sd-6MtMdVUF68xAK9YhiB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Luciano Darderi vs Tristan Boyer (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://live-xlvb.nsnd.live/b3xG_0WGQJWCfTWQNbhJvA/ad962176acd070100f306c790419005d/1743614403/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Luciano Darderi vs Tristan Boyer (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/IYC9Xw5wueKvYvNtKDmyBA/Fv2lucGIbhPi2caWYvF5Lg/1743614403008/live/mySD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 Luciano Darderi vs Tristan Boyer (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://live-xlvb.nsnd.live/b3xG_0WGQJWCfTWQNbhJvA/ad962176acd070100f306c790419005d/1743614403/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 ATP250 Marrakech Open (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179026907.akainu.xyz/JxbW96ATMt-80tL7Tf9WKw/Fv2lucGIbhPi2caWYvF5Lg/1743614403009/live/may6/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h15 Arda vs Cherno More Varna (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://live-xlvb.nsnd.live/Gq_7ss38CyKdFyywkiPBKw/2b6f412a8d5f1f173548083dc2d6020e/1743614403/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h15 Arda vs Cherno More Varna (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/1MW9qu3NO5buiHDmAuCm7w/Fv2lucGIbhPi2caWYvF5Lg/1743614403009/live/lungSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h15 Arda vs Cherno More Varna (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://live-xlvb.nsnd.live/cMt8IPUz8-YoHY7xabuN8Q/883ca40e5184f080c92fcfdbaf37405d/1743614403/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h15 Arda vs Cherno More Varna (HD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://live-xlvb.nsnd.live/rSIGmeP7r_dYp5lajlKjUA/22cae28023fa288f487687774823edc9/1743614403/live/_definst_/stream_1_1bda7@may2HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h15 Arda vs Cherno More Varna (SD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://hotlivezz179602324.akainu.xyz/HZhqPYqXj6e9VAUFWgFcww/Fv2lucGIbhPi2caWYvF5Lg/1743614403010/live/may2SD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h15 Arda vs Cherno More Varna (FullHD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://vebotv.tv
+https://live-xlvb.nsnd.live/Pgff3jOOLGK0mPYz4ZkDmw/d5b200387e6a5a1b18e0bf7cbe2d7615/1743614403/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/trau-2425.jpg",[0] Full match Nottingham vs Man United | BLV Trôn Lầu | 2.4.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15276,14 +15708,58 @@ https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live//m403nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/48163ffbd8fffae07cf6f3b1a9358599.png",15h30 Qujing Yibu VS Nanning Juding (CK) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/PI5aNQ4hAgGzpIuRLwQnMw/Fv2lucGIbhPi2caWYvF5Lg/1743604807365/live/sd-6MuS84XCu9RVrzVCAf/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 Aral Akademiya VS Navoiy FA (CK) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/CXVifVhr0nDmSSwvXoleyw/Fv2lucGIbhPi2caWYvF5Lg/1743606307621/live/sd-6MuRsQ2bb7s5iVvpmH/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e0080960b4e935d70f4037aaf3a0b917.png",18h35 Tianjin Jinmen Tiger FC vs Beijing Guoan FC (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CH) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/45f0202c733beeb43f06cb9083cbb780.png",17h00 Buasn KCC Egis vs Goyang Sono Skygunners (CK) HD nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15452,6 +15928,86 @@ https://live-xlvb.nsnd.live/5JVDDHxgfSaP-j0N6s-N7g/bee03a114a12e586ce1aa6c439f97
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/OWpu5Nu_G8IAnyOlaN1zKw/Fv2lucGIbhPi2caWYvF5Lg/1743610208241/live/sd-6MtMPH4LtvrQYsRJnw/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/acc91add74b2c86a68722836835bcf3c.png",17h30 Urawa Red Diamonds VS Shimizu S-Pulse (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Mhp9tzOiAqe3UzAobvsStg/Fv2lucGIbhPi2caWYvF5Lg/1743611708100/live/sd-6MtMPH564PAizrF1xw/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/duoiHD.flv?expire=1743613508&sign=8647187e9c3f1294a8ff269d2a67a4ee
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/h6hvV5_uz8wAcVJiVDDCNw/b14053af26d095bbd1a8883e12a23c70/1743613508/live/_definst_/stream_1_1bda7@duoiHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/z65VzHJv12XR3jvyprqD7A/Fv2lucGIbhPi2caWYvF5Lg/1743613508458/live/duoiSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/5hSLhDuvauO9ppF9L47n1w/fe6531f5755624d362691530bec11078/1743613508/live/_definst_/stream_1_1bda7@duoiFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi FC vs Bangkok United FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/_h8StwWGmO85ahu4-Vjg2Q/Fv2lucGIbhPi2caWYvF5Lg/1743613508458/live/sd-6MsFuTbnuxqtdJtZRM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/xienHD.flv?expire=1743613508&sign=64a08adb3344daa3b29a658d2f331ba8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/6D4_pFy5lxAa3Phc5xKtZQ/0aafe7a6d19bfafd5e27cf7084b37d51/1743613508/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/SPuXbThvbQBMjt8whOlBgQ/Fv2lucGIbhPi2caWYvF5Lg/1743613508849/live/xienSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/anVepAmg1wyX9tem2Cs8Qg/cac03b136a8c356be180b4618c6bfeb5/1743613508/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/GMScZObMFfrINUU7AKuXdg/Fv2lucGIbhPi2caWYvF5Lg/1743613508849/live/sd-6MsFuTbo5dKRZeZFXy/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC VS Dalian Yingbo (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Aqdn3utxUsghppTrKtBtAA/Fv2lucGIbhPi2caWYvF5Lg/1743613508332/live/sd-6MtMtKiML5wGXwXDqm/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b74f26f7b473f4ec8b310c2a1dc53d31.png",18h00 Mahasarakham SBT FC VS Nakhon Si United FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/8K1VXVSRu6jDYZyayidVnQ/Fv2lucGIbhPi2caWYvF5Lg/1743613509552/live/sd-6MsGPzvp7nZt1R4rpB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2a9fcaa7e2692e27d938a3154f24fed3.png",18h00 Lampang FC VS Pattaya Discovery United FC (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/ToywDqEROP9KHpRoGwVPUw/Fv2lucGIbhPi2caWYvF5Lg/1743613509919/live/sd-6MsGPzvp7pmMsttmy5/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/a942e3ebfdb2edc917004be319429bba.png",18h00 FK Oleksandria VS FC Shakhtar Donetsk (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/NOLSOESdHuseOvnH22Pzkw/Fv2lucGIbhPi2caWYvF5Lg/1743613510317/live/sd-6MtMdVUF68xAK9YhiB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/lungHD.flv?expire=1743614407&sign=ce2d51af39b5758a0c25acd19c2aa7dc
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/c2ZpFU121Uk19ZchGe724g/2b6f412a8d5f1f173548083dc2d6020e/1743614407/live/_definst_/stream_1_1bda7@lungHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/_08Dw5ewI7svubydBSmkSw/Fv2lucGIbhPi2caWYvF5Lg/1743614407763/live/lungSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/5utkYRe31sShhMyV_iO7Cg/883ca40e5184f080c92fcfdbaf37405d/1743614407/live/_definst_/stream_1_1bda7@lungFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/pBvwpp-aIJJe5quYNvB50Q/Fv2lucGIbhPi2caWYvF5Lg/1743614407763/live/sd-6MsFQXNcaNyD5Z7VDu/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",17h00 Sanfrecce Hiroshima vs Kashima Antlers (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -15576,6 +16132,66 @@ https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live//m403nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) Rakhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (CKhia) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e0080960b4e935d70f4037aaf3a0b917.png",18h35 Tianjin Jinmen Tiger FC vs Beijing Guoan FC (CKhia) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) RaKhoi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://rakhoiz.link/
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (CKhia) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ab10ee503e539e55a9a11a9ff202405a.png",17h00 Cerezo Osaka vs Fagiano Okayama (LK) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -15652,14 +16268,86 @@ https://179939170.vipcdnlive.xyz/live/duongtiensd2/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
 https://179939170.vipcdnlive.xyz/live/duongtienhd2/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1743510639.jpg",16h00 IDOL LIVE vs IDOL LIVE (LS) IDOL MIU XINH  m3u
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://hls.cdnokvip.com/live/MIUXINH/index.m3u8?expire=1892464380&sign=d0ab265fbf94ee4fe56b908f2975f6e2
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://upload-img.cdnokvip.com/uploads/team_logo/1743510639.jpg",16h00 IDOL LIVE vs IDOL LIVE (LS) IDOL MIU XINH  flv
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://ls32.live/
-https://flv.cdnokvip.com/live/MIUXINH.flv?expire=1892464380&sign=d0ab265fbf94ee4fe56b908f2975f6e2
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lansd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/lanhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lansd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca15e36551392e8c99b53b5b2f8531d3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/lanhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/m401nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phangsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phanghd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phangsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://qtcdn.livestreameuro.live/live/phanghd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/phangsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/ca2b8d70931647840c78209be51763a3.png",18h00 Ratchaburi Mitr Phol FC vs Bangkok United FC (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://179939170.vipcdnlive.xyz/live/phanghd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo FC (LK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (LK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://playerlive.xyz/
+https://ckcdn.livestreameuro.live/live//m403nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/181/1gtzcts26b1f.png?win007=sell",17h00 Nagoya Grampus vs Yokohama Marinos (LS) BLV VƯƠNG ANH m3u
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
@@ -15764,6 +16452,30 @@ https://hls.cdnokvip.com/live/LUUBI/index.m3u8?expire=1861716660&sign=bb96616ccd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ls32.live/
 https://flv.cdnokvip.com/live/LUUBI.flv?expire=1861716660&sign=bb96616ccd027c7f67af3d6fcaef069a
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/188/1gtzcts2pj1a.png?win007=sell",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LS) BLV TỐNG GIANG m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/TONGGIANG/index.m3u8?expire=1856940180&sign=3ada34aa52306b4bf9e65bd887832e8d
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/188/1gtzcts2pj1a.png?win007=sell",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (LS) BLV TỐNG GIANG flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/TONGGIANG.flv?expire=1856940180&sign=3ada34aa52306b4bf9e65bd887832e8d
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/17056/1gq931k4pd2y.png?win007=sell",18h00 Ratchaburi FC vs Bangkok United FC (LS) BLV DẾ LỬA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/DELUA/index.m3u8?expire=1873178820&sign=3dc61a8e06d0e585b8210eb9497308ca
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/17056/1gq931k4pd2y.png?win007=sell",18h00 Ratchaburi FC vs Bangkok United FC (LS) BLV DẾ LỬA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/DELUA.flv?expire=1873178820&sign=3dc61a8e06d0e585b8210eb9497308ca
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/44/1gy3vkgfwg2p.png?win007=sell",18h00 Qingdao Manatee vs Dalian Zhixing (LS) BLV NGŨ CA m3u
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://hls.cdnokvip.com/live/NGUCA/index.m3u8?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn-img.cdnokvip.com/Image/team/images/44/1gy3vkgfwg2p.png?win007=sell",18h00 Qingdao Manatee vs Dalian Zhixing (LS) BLV NGŨ CA flv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ls32.live/
+https://flv.cdnokvip.com/live/NGUCA.flv?expire=1873178820&sign=048e17f5ad626d49d56198ff1419c2e9
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c81d5ff7a33a4f6a9312a8703f619352.png",17h00 Sanfrecce Hiroshima vs Kashima Antlers (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -15876,14 +16588,62 @@ https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live//m403nd/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",15h30 Qujing Yibu vs Nanning Juding (VB) Backup 1
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/S2JVL1DZTNboGol8rpXZSw/Fv2lucGIbhPi2caWYvF5Lg/1743604801836/live/sd-6MuS84XCu9RVrzVCAf/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 Aral Akademiya vs Navoiy FA (VB) Backup 1
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) HD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/5XYGZdKfEAbZTTUpVAUpcw/Fv2lucGIbhPi2caWYvF5Lg/1743606304913/live/sd-6MuRsQ2bb7s5iVvpmH/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoisd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/chuoihd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoisd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Hainiu FC vs Dalian Yingbo (RK) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/chuoihd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/e0080960b4e935d70f4037aaf3a0b917.png",18h35 Tianjin Jinmen Tiger FC vs Beijing Guoan FC (RK) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m402nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuongsd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://179939170.vipcdnlive.xyz/live/nguumavuonghd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) SD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuongsd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://qtcdn.livestreameuro.live/live/nguumavuonghd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/85c080cf02a7161687ddd5b5800dc303.png",18h35 Shandong Taishan FC vs Chengdu Rongcheng FC (RK) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+htt1.flv
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/9f067597c91323da9096df7db9995e22.png",17h00 Dynamic Herb Cebu vs Stallions FC (VB) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -15984,3 +16744,51 @@ https://apisportzz179528093.nsnd.live/80rWH72_INPietsJoIDIuA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/JZ7kU-RiqQ6ZegEIsv63Tw/Fv2lucGIbhPi2caWYvF5Lg/1743609301734/live/sd-6MtMPH4LtvrQYsRJnw/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/64b2bad694df26f27d47dfb02bb677f3.png",17h30 Urawa Red Diamonds vs Shimizu S-Pulse (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/nY8lwhybdqFdicF88mp33w/Fv2lucGIbhPi2caWYvF5Lg/1743611702597/live/sd-6MtMPH564PAizrF1xw/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cc89f047baae7e8a28b6956014475ae.png",18h00 Khonkaen United vs Muang Thong United (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/_lRpChnk0dXwkEl1AKUdJA/Fv2lucGIbhPi2caWYvF5Lg/1743613142942/live/sd-6MsFuTbo5dKRZeZFXy/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b0f71a1bf0cf3531dcfccbf48227835a.png",18h00 Ratchaburi FC vs Bangkok United FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/jtFdR2wenUe5_vcssHFq1Q/Fv2lucGIbhPi2caWYvF5Lg/1743613022084/live/sd-6MsFuTbnuxqtdJtZRM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/2a9fcaa7e2692e27d938a3154f24fed3.png",18h00 Lampang FC vs Pattaya Discovery United FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/NbRvWfWVXLfxuo3wPhQiwQ/Fv2lucGIbhPi2caWYvF5Lg/1743612902975/live/sd-6MsGPzvp7pmMsttmy5/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/14c0e1f37f07d4df5c09a39c9ab59707.png",18h00 Mahasarakham United FC vs Nakhon Si United FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/wgT3YNZYgXVk2Mf9C8eibQ/Fv2lucGIbhPi2caWYvF5Lg/1743612902867/live/sd-6MsGPzvp7nZt1R4rpB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/a942e3ebfdb2edc917004be319429bba.png",18h00 PFC Oleksandria vs FC Shakhtar Donetsk (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/FHqBEchDJwMya2c3XOprRQ/Fv2lucGIbhPi2caWYvF5Lg/1743612904357/live/sd-6MtMdVUF68xAK9YhiB/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/c1bc80f45a0bf86310ec6e56980c1757.png",18h00 Qingdao Manatee vs Dalian Duxing Football Club (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/2s7_vFsR8jtV8NY3tOVVWw/Fv2lucGIbhPi2caWYvF5Lg/1743613535938/live/sd-6MtMtKiML5wGXwXDqm/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (VB) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/may2HD.flv?expire=1743614434&sign=a5994ed3c68a73749ca507b6e39c9bcb
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (VB) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/RihVvABuGpq91u66TZiHdA/22cae28023fa288f487687774823edc9/1743614434/live/_definst_/stream_1_1bda7@may2HD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/X3uhagdBh9XtaDzXNk7JUw/Fv2lucGIbhPi2caWYvF5Lg/1743614434261/live/may2SD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/G0dELI2pqzBsrvfqVCDrug/d5b200387e6a5a1b18e0bf7cbe2d7615/1743614434/live/_definst_/stream_1_1bda7@may2FHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/5d44958046b23355fe3bbd639f25183e.png",18h15 Arda vs Cherno More Varna (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/p9rkWPCCWjjy0QJhb0Aiuw/Fv2lucGIbhPi2caWYvF5Lg/1743614434261/live/sd-6MsFQXNcaNyD5Z7VDu/playlist.m3u8
