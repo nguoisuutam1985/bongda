@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/30425/1gqrk4a4k73.png",01h00 Godoy Cruz Reserves vs CA Platense Reserve 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/fc8d1daeaefc21fb315f7caa4074f5ae/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20130413115719.jpg",01h30 Luzern vs St. Gallen 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -75,6 +71,10 @@ https://live.rapid-api.icu/live/7826def449d35a84c5414d7dbcd3b6c1/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/cae0d0f4bb7efd2363251f9131f39940/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi//Image/team/images/20181019103010.jpg",23h00 Rapid Vienna (Youth) vs First Wien 1894 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/897112afd325051c8b51450e71b70516/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/54b45ccae7dea1e4b2d74dab279e4620.png",01h30 Luzern vs St. Gallen (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -183,10 +183,6 @@ https://ckcdn.livestreameuro.live/live/heosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/heohd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/93aab746452a7b96eee2fb4ba202a276.png",01h00 Godoy Cruz Reserves VS CA Platense Reserve (CK) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/XYlKef2CpFNSoZ218ZfEhA/Fv2lucGIbhPi2caWYvF5Lg/1743725722943/live/sd-6MuRsWcHgDxkAruA5H/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/basketball/team/7c8615fff9da2037b60ee511b970c674.png",01h05 Maccabi Tel Aviv vs Bayern Munchen (CK) HD NHANH
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -335,6 +331,26 @@ https://live-xlvb.nsnd.live/e8ObSwS98KclI4GOhzfVJA/4f331a41223542c17c4032aeaac13
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://hotlivezz179026907.akainu.xyz/9cdTrrbT3GIRVwYcKCuLLg/Fv2lucGIbhPi2caWYvF5Lg/1743730204877/live/may25/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/zambia.png",03h00 Zambia U17 vs Morocco U17 (CK) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/duoiHD.flv?expire=1743732907&sign=fcd892b0a08d09bd57fb09c02e08f584
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/zambia.png",03h00 Zambia U17 vs Morocco U17 (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/7wfMyYxuue2MQao7ZkFVSw/b14053af26d095bbd1a8883e12a23c70/1743732907/live/_definst_/stream_1_1bda7@duoiHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/zambia.png",03h00 Zambia U17 vs Morocco U17 (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/rP4OIM2vQ9m7DmHvg9afJw/Fv2lucGIbhPi2caWYvF5Lg/1743732907170/live/duoiSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/zambia.png",03h00 Zambia U17 vs Morocco U17 (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/MswtdCy_qpZ2yxniNRA1Qg/fe6531f5755624d362691530bec11078/1743732907/live/_definst_/stream_1_1bda7@duoiFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/zambia.png",03h00 Zambia U17 vs Morocco U17 (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/b9hOZ6b9tRzbzYe8bIxk4A/Fv2lucGIbhPi2caWYvF5Lg/1743732907170/live/sd-6MuRsWX7SUYmD2Xgqq/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/54b45ccae7dea1e4b2d74dab279e4620.png",01h30 Luzern vs St. Gallen (CKhia) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -759,10 +775,6 @@ https://ckcdn.livestreameuro.live/live/lusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/luhd1.flv
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/93aab746452a7b96eee2fb4ba202a276.png",01h00 Godoy Cruz Reserves vs CA Platense Reserve (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/wLnx9aar8OM1qhv4rCBVjA/Fv2lucGIbhPi2caWYvF5Lg/1743724505502/live/sd-6MuRsWcHgDxkAruA5H/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b365ad0e85e2b1bcbf63f7a0f2f70a79.png",02h00 Chelsea vs Tottenham Hotspur (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -859,346 +871,350 @@ https://hotlivezz179602324.akainu.xyz/4kV8CN-VnRXCsq5nblIAMA/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/oxxvf2tFB_o5LRyUywgHxQ/a75e9b78c79480f30c7ea83b12c71e42/1743725282/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/zambia.png",03h00 Zambia U17 vs Morocco U17 (VB) HD Nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/hawHD.flv?expire=1743732912&sign=f40d099d83a6db5f4a9f0e33951a8cef
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/zambia.png",03h00 Zambia U17 vs Morocco U17 (VB) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/5szS5VDubw9oQQ9B9-tWcg/4d0d1e99ad3bda5d7e1f8e5f36b844f6/1743732912/live/_definst_/stream_1_1bda7@hawHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/zambia.png",03h00 Zambia U17 vs Morocco U17 (VB) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/71F2Mr16pgoQYnxYq3oUJg/Fv2lucGIbhPi2caWYvF5Lg/1743732912284/live/hawSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/zambia.png",03h00 Zambia U17 vs Morocco U17 (VB) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/ekuCpX3fOFrgQWeGVQuyqA/955439f202db20328214344ad740cd5d/1743732912/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/zambia.png",03h00 Zambia U17 vs Morocco U17 (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/0Pkw9vYBfpTGJT0D8n_NRA/Fv2lucGIbhPi2caWYvF5Lg/1743732912284/live/sd-6MuRsWX7SUYmD2Xgqq/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h30 ATP250 Bucharest Open (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/9j1N_4LVIsNS6NPfxHmB-Q/Fv2lucGIbhPi2caWYvF5Lg/1743714762155/live/may20/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/Hzudj7E0SkIvYoZb3CIK-Q/Fv2lucGIbhPi2caWYvF5Lg/1743725982352/live/may20/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",18h00 ATP250 Marrakech Open (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/e1Ffxr_nCDGhQ8KHGOjiow/Fv2lucGIbhPi2caWYvF5Lg/1743714762155/live/may6/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/RwXRh2_ArZHu7io9UUuwzg/Fv2lucGIbhPi2caWYvF5Lg/1743725982352/live/may6/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",22h00 WTA500 Charleston Open (Credit One)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/BKttb7uC24pIYNSS9unaWA/Fv2lucGIbhPi2caWYvF5Lg/1743714762164/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/sy3EEx529Cm3ymO1p_1eIg/Fv2lucGIbhPi2caWYvF5Lg/1743725982352/live/may24/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",22h00 WTA500 Charleston Open (Althea Gibson)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/ae0TJh6aZdR0-l7QxvEa4w/Fv2lucGIbhPi2caWYvF5Lg/1743714762164/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/KYLv41PI7tFldb0ZDDccAw/Fv2lucGIbhPi2caWYvF5Lg/1743725982352/live/may25/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h00 WTA250 Bogota Open (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/rVOpVzG5QFUmdpdztxmG4w/Fv2lucGIbhPi2caWYvF5Lg/1743732557433/live/may26/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/7ZLVSPt-3KCXw8Ou7X_DbA/Fv2lucGIbhPi2caWYvF5Lg/1743725982356/live/may26/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h15 Stan Wawrinka vs Pedro Martinez (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/ytbJv5ev4a2R_I_fo7c_lw/295c8ca83541966399d34da8d431f57c/1743719376/live/_definst_/stream_1_1bda7@cuonHD/playlist.m3u8
+https://live-xlvb.nsnd.live/-Hsr4Rf8ZugSxzeDwouJYw/295c8ca83541966399d34da8d431f57c/1743725982/live/_definst_/stream_1_1bda7@cuonHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h15 Stan Wawrinka vs Pedro Martinez (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/pwfgx8p4eGGEgx2FDHkMbA/Fv2lucGIbhPi2caWYvF5Lg/1743719376190/live/cuonSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/varawjENREb3XVg9vGuCWw/Fv2lucGIbhPi2caWYvF5Lg/1743725982357/live/cuonSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h15 Stan Wawrinka vs Pedro Martinez (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/PiLdh8xa88QK4z171t0hkw/ecdd2fe3d570b8f38d7664bb44af6d73/1743719376/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/nFTigWp4FfXG7s_FXmpBcA/ecdd2fe3d570b8f38d7664bb44af6d73/1743725982/live/_definst_/stream_1_1bda7@cuonFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h15 Stan Wawrinka vs Pedro Martinez (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/AEKHrixXF3CUYgF5jrcD1w/Fv2lucGIbhPi2caWYvF5Lg/1743719376190/live/may20/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/DGMjFnAgLBVSXVaoGieYTQ/Fv2lucGIbhPi2caWYvF5Lg/1743725982357/live/may20/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h20 Lorenzo Sonego vs Vit Kopriva (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/jnBRNuyfXH7AvDy0WGknkw/e94fbd8082e0d1238fcf5da3554b20e5/1743732557/live/_definst_/stream_1_1bda7@hucHD/playlist.m3u8
+https://live-xlvb.nsnd.live/lQzTny4W0IY3k9j-hbbsQg/e94fbd8082e0d1238fcf5da3554b20e5/1743725982/live/_definst_/stream_1_1bda7@hucHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h20 Lorenzo Sonego vs Vit Kopriva (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/CifIhXo3eV2siHNsJ6M1Wg/Fv2lucGIbhPi2caWYvF5Lg/1743732557434/live/hucSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/eZG6Pvy8h9ES5jqFqfgVNQ/Fv2lucGIbhPi2caWYvF5Lg/1743725982357/live/hucSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h20 Lorenzo Sonego vs Vit Kopriva (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/6HR4RHhm4nhP21UAkNKcFQ/f13af37e22c82318c65a375473fc75f2/1743732557/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/F6zAd5XAWfT-eIHS7FDJwg/f13af37e22c82318c65a375473fc75f2/1743725982/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",00h20 Lorenzo Sonego vs Vit Kopriva (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/rKcVg2_90zPOePvKzJLtJA/Fv2lucGIbhPi2caWYvF5Lg/1743732557434/live/may6/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/gmpXoJe2eQoAsnNlc22Jfg/Fv2lucGIbhPi2caWYvF5Lg/1743725982358/live/may6/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Jessica Pegula vs Ajla Tomljanovic (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/aktFSk6Yw_Ci4RXLkmm2aw/0aafe7a6d19bfafd5e27cf7084b37d51/1743732557/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+https://live-xlvb.nsnd.live/YhQHIV8yiwdN6v6uHzxEhA/0aafe7a6d19bfafd5e27cf7084b37d51/1743725982/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Jessica Pegula vs Ajla Tomljanovic (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/K_sL3myM_VC9kZ0AmZsfyg/Fv2lucGIbhPi2caWYvF5Lg/1743732557434/live/xienSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/uMBAj4TrYOOTEnSIpDerhg/Fv2lucGIbhPi2caWYvF5Lg/1743725982359/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Jessica Pegula vs Ajla Tomljanovic (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/m8Nx7BKVYr0BnMcmRxNIow/cac03b136a8c356be180b4618c6bfeb5/1743732557/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Z5sQiLXz5d21Ewfs1c5hVg/cac03b136a8c356be180b4618c6bfeb5/1743725982/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h00 Jessica Pegula vs Ajla Tomljanovic (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/VGehtPodMTACtfrf_l0xnw/Fv2lucGIbhPi2caWYvF5Lg/1743732557434/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/TER75C6lZVHdXQztOVI5UA/Fv2lucGIbhPi2caWYvF5Lg/1743725982359/live/may24/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h05 Maccabi Tel Aviv vs Bayern Munchen (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/cOgWny1Hs4EERoD8QVeypA/364b95ac53bf5686ef14a09b64f6f3c1/1743732557/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
+https://live-xlvb.nsnd.live/70Cz_4NyZ4w-NjGSdjLzBQ/364b95ac53bf5686ef14a09b64f6f3c1/1743725982/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h05 Maccabi Tel Aviv vs Bayern Munchen (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/YMjctTBI-GvjsZH22sdlEg/Fv2lucGIbhPi2caWYvF5Lg/1743732557434/live/thuongSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Q5w4OcmD4ZtK7LDEhiRfTw/Fv2lucGIbhPi2caWYvF5Lg/1743725982360/live/thuongSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h05 Maccabi Tel Aviv vs Bayern Munchen (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/mdy297bk6CGHcDpSzXB96w/9d3c1936b065e6a3605ccd426df0ce6c/1743732557/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/-Dm1eGmn7Ft3-OHXEBDf8w/9d3c1936b065e6a3605ccd426df0ce6c/1743725982/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h05 Maccabi Tel Aviv vs Bayern Munchen (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/cOgWny1Hs4EERoD8QVeypA/364b95ac53bf5686ef14a09b64f6f3c1/1743732557/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
+https://live-xlvb.nsnd.live/MpJkUuydHiTNyS5cJHVPZA/364b95ac53bf5686ef14a09b64f6f3c1/1743733180/live/_definst_/stream_1_1bda7@thuongHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h05 Maccabi Tel Aviv vs Bayern Munchen (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/YMjctTBI-GvjsZH22sdlEg/Fv2lucGIbhPi2caWYvF5Lg/1743732557434/live/thuongSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/_-QoNPNrLCc-ncH-3XLGew/Fv2lucGIbhPi2caWYvF5Lg/1743733180376/live/thuongSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h05 Maccabi Tel Aviv vs Bayern Munchen (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/mdy297bk6CGHcDpSzXB96w/9d3c1936b065e6a3605ccd426df0ce6c/1743732557/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/xyB34sS9BNZ6y8DF1ou1IQ/9d3c1936b065e6a3605ccd426df0ce6c/1743733180/live/_definst_/stream_1_1bda7@thuongFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 Luzern VS St. Gallen (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/fG5z-nRLA5szd9gj-tF41A/Fv2lucGIbhPi2caWYvF5Lg/1743732557435/live/sd-6MtJer1c3Macm7zjdu/playlist.m3u8
+https://apisportzz179528093.nsnd.live/gd3VAwUqe5-qRdSKf9rQcw/Fv2lucGIbhPi2caWYvF5Lg/1743733180376/live/sd-6MtJer1c3Macm7zjdu/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",01h30 FC Basel 1893 VS Grasshopper (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/3XaRPO8oXA9l8PhIz_9GUA/Fv2lucGIbhPi2caWYvF5Lg/1743732557435/live/sd-6MtJer1c3EzB9gWzBD/playlist.m3u8
+https://apisportzz179528093.nsnd.live/HpsoHmPGgcAqDTa9W4ycRw/Fv2lucGIbhPi2caWYvF5Lg/1743733180377/live/sd-6MtJer1c3EzB9gWzBD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/MtdiqvWhzFh-oNACZkinmw/3a48eff57e81cbbf1eb526bfb73ac13c/1743732557/live/_definst_/stream_1_1bda7@soiHD/playlist.m3u8
+https://live-xlvb.nsnd.live/F_1Miido-yxwTCIHfzgR3w/3a48eff57e81cbbf1eb526bfb73ac13c/1743733180/live/_definst_/stream_1_1bda7@soiHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/SGPUGLoqGS4KzzhmPrjDrw/Fv2lucGIbhPi2caWYvF5Lg/1743732557435/live/soiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/i2tkQi9kshs-VnepbHjWZA/Fv2lucGIbhPi2caWYvF5Lg/1743733180377/live/soiSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/C8RVt8Ar_6mROv4wrfji-g/522fa8a1e6086eda6ae886e796133e2d/1743732557/live/_definst_/stream_1_1bda7@soiFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/fOhWKlyYGqenNxd68EfRjA/522fa8a1e6086eda6ae886e796133e2d/1743733180/live/_definst_/stream_1_1bda7@soiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/2MXpnYpNv6uogsh_CxBE-A/Fv2lucGIbhPi2caWYvF5Lg/1743732557435/live/may10/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/j6IwP2pLOLQOKOaltSZ3Iw/Fv2lucGIbhPi2caWYvF5Lg/1743733180377/live/may10/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/ro-AbnUWqcLMxAkavu5C_Q/c968032542c0f2ddc2f2be031c5ab09b/1743732557/live/_definst_/stream_1_1bda7@mapHD/playlist.m3u8
+https://live-xlvb.nsnd.live/qLGmeW23xeH2OUcuQnkTzw/c968032542c0f2ddc2f2be031c5ab09b/1743733180/live/_definst_/stream_1_1bda7@mapHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/71WI4mxcnGfFyoOGZr9G1Q/Fv2lucGIbhPi2caWYvF5Lg/1743732557435/live/mapSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/UdQkhNERxFQWDVHqKmiUWA/Fv2lucGIbhPi2caWYvF5Lg/1743733180377/live/mapSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/gMtiNcZDLvqzVgzgife4rA/2ab36550347e65f07744d25bb0b46764/1743732557/live/_definst_/stream_1_1bda7@mapFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/bJesISf9sJR4x2P5Cqs_PA/2ab36550347e65f07744d25bb0b46764/1743733180/live/_definst_/stream_1_1bda7@mapFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/2MXpnYpNv6uogsh_CxBE-A/Fv2lucGIbhPi2caWYvF5Lg/1743732557435/live/may10/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/j6IwP2pLOLQOKOaltSZ3Iw/Fv2lucGIbhPi2caWYvF5Lg/1743733180377/live/may10/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/6hS04F4Mq1Ozc8Bba504Yw/ad962176acd070100f306c790419005d/1743732557/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
+https://live-xlvb.nsnd.live/ppJZfhF1W9qLRs5dfrkAsA/ad962176acd070100f306c790419005d/1743733180/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/LVhRyFoo3qUiQylCloLyFA/Fv2lucGIbhPi2caWYvF5Lg/1743732557435/live/mySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/bIl-JqOuFfcce2s0IZ0pag/Fv2lucGIbhPi2caWYvF5Lg/1743733180377/live/mySD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/6hS04F4Mq1Ozc8Bba504Yw/ad962176acd070100f306c790419005d/1743732557/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
+https://live-xlvb.nsnd.live/ppJZfhF1W9qLRs5dfrkAsA/ad962176acd070100f306c790419005d/1743733180/live/_definst_/stream_1_1bda7@myHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/6wyb1BjHxiq8lj8Xxda-UQ/Fv2lucGIbhPi2caWYvF5Lg/1743732557436/live/may10/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/j6IwP2pLOLQOKOaltSZ3Iw/Fv2lucGIbhPi2caWYvF5Lg/1743733180377/live/may10/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/mX1iDBeh5TIQ8i-KA7cW6w/b3a4e09812c4bf982e7ada2e2628f1f9/1743732557/live/_definst_/stream_1_1bda7@trauHD/playlist.m3u8
+https://live-xlvb.nsnd.live/LQxRAZeX-icekFzgog7fWg/b3a4e09812c4bf982e7ada2e2628f1f9/1743733180/live/_definst_/stream_1_1bda7@trauHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/QpcCTTn9CpvY7A2_bQ_TDw/Fv2lucGIbhPi2caWYvF5Lg/1743732557436/live/trauSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/auDRDY93xHefRPbTqSOVEQ/Fv2lucGIbhPi2caWYvF5Lg/1743733180377/live/trauSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/pRefI7OeRnvlbBqc0bLaOw/847878fb5be3ca4c0539d0883bc5274a/1743732557/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/ZIuYtYxVR8tgkAdsUy0Qug/847878fb5be3ca4c0539d0883bc5274a/1743733180/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/6wyb1BjHxiq8lj8Xxda-UQ/Fv2lucGIbhPi2caWYvF5Lg/1743732557436/live/may10/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/j6IwP2pLOLQOKOaltSZ3Iw/Fv2lucGIbhPi2caWYvF5Lg/1743733180377/live/may10/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/MkCfazINj-AEmhUVx0s-Fg/205501ba1448ae306a52cba7683e6a5f/1743732557/live/_definst_/stream_1_1bda7@cunHD/playlist.m3u8
+https://live-xlvb.nsnd.live/a9vpPVI92BNn5se9iyHE9Q/205501ba1448ae306a52cba7683e6a5f/1743733180/live/_definst_/stream_1_1bda7@cunHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ME0zoqBl0geUEBSSifZBqA/Fv2lucGIbhPi2caWYvF5Lg/1743732557436/live/cunSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Kr5Fmbq3YX2iReHREen0lg/Fv2lucGIbhPi2caWYvF5Lg/1743733180377/live/cunSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/uQjtLJOwuMB8y9nwxwUBmg/317070d9a306b71c37e6ea9e37f2842f/1743732557/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/04wEZ2n_m1jTSMQW0id0yQ/317070d9a306b71c37e6ea9e37f2842f/1743733180/live/_definst_/stream_1_1bda7@cunFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Chelsea vs Tottenham Hotspur (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/6wyb1BjHxiq8lj8Xxda-UQ/Fv2lucGIbhPi2caWYvF5Lg/1743732557436/live/may10/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/dxW0UYIB8vY8MzIBsYkqxw/Fv2lucGIbhPi2caWYvF5Lg/1743733180378/live/may10/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Real Madrid Baloncesto vs Paris Basketball (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/qDNs5jHLKIM2bvFrN7NBgg/5e80ef9f7927d7fe3e2715feff063a1a/1743732557/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
+https://live-xlvb.nsnd.live/y5xASFcS1CRrURO24qdLcw/5e80ef9f7927d7fe3e2715feff063a1a/1743725982/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Real Madrid Baloncesto vs Paris Basketball (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/4WWLzoW9Ne_c4i8_DR_IuA/Fv2lucGIbhPi2caWYvF5Lg/1743732557436/live/Z3SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/s_MM3KKwK1YW02V-Dt7-Lg/Fv2lucGIbhPi2caWYvF5Lg/1743725982360/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Real Madrid Baloncesto vs Paris Basketball (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/znuFFJcnOpZISoMM3jNiuQ/fc724b392eb664de8f0b54609b1e66f5/1743732557/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/xsJEOBU4qVNwJtDYxv9RXg/fc724b392eb664de8f0b54609b1e66f5/1743725982/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Real Madrid Baloncesto vs Paris Basketball (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/qDNs5jHLKIM2bvFrN7NBgg/5e80ef9f7927d7fe3e2715feff063a1a/1743732557/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
+https://live-xlvb.nsnd.live/y5xASFcS1CRrURO24qdLcw/5e80ef9f7927d7fe3e2715feff063a1a/1743725982/live/_definst_/stream_1_1bda7@Z3HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Real Madrid Baloncesto vs Paris Basketball (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/4WWLzoW9Ne_c4i8_DR_IuA/Fv2lucGIbhPi2caWYvF5Lg/1743732557436/live/Z3SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/_velMGg4_6S-5LNKipomJA/Fv2lucGIbhPi2caWYvF5Lg/1743725982361/live/Z3SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Real Madrid Baloncesto vs Paris Basketball (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/znuFFJcnOpZISoMM3jNiuQ/fc724b392eb664de8f0b54609b1e66f5/1743732557/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/xsJEOBU4qVNwJtDYxv9RXg/fc724b392eb664de8f0b54609b1e66f5/1743725982/live/_definst_/stream_1_1bda7@Z3FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Mackenzie McDonald vs Brandon Nakashima (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/EH4TdtSpzuQZIqvgCqu5Dw/bcb43f9217ab3be1d1ab47881bede4b9/1743732557/live/_definst_/stream_1_1bda7@daoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/CMoWbJJrvyWllmZPruLfsQ/bcb43f9217ab3be1d1ab47881bede4b9/1743733180/live/_definst_/stream_1_1bda7@daoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Mackenzie McDonald vs Brandon Nakashima (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/1ufaUkitisBjT8LaZ0gblQ/Fv2lucGIbhPi2caWYvF5Lg/1743732557437/live/daoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/d0jzWNyxLF-OHgo3vAqAhw/Fv2lucGIbhPi2caWYvF5Lg/1743733180378/live/daoSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Mackenzie McDonald vs Brandon Nakashima (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/xBkyVlWbttCPbEhRNtQSlg/67544df98adad7c165ac45843eec88d6/1743732557/live/_definst_/stream_1_1bda7@daoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/XcHygdaFfdWctGcml4VR6w/67544df98adad7c165ac45843eec88d6/1743733180/live/_definst_/stream_1_1bda7@daoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Mackenzie McDonald vs Brandon Nakashima (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/f8yNZmRUggbGvYKlPmnNvw/Fv2lucGIbhPi2caWYvF5Lg/1743732557437/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/siDJpCn9XXuSj0OU0njAEw/Fv2lucGIbhPi2caWYvF5Lg/1743733180378/live/may27/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Jessica Pegula vs Ajla Tomljanovic (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/aktFSk6Yw_Ci4RXLkmm2aw/0aafe7a6d19bfafd5e27cf7084b37d51/1743732557/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+https://live-xlvb.nsnd.live/YhQHIV8yiwdN6v6uHzxEhA/0aafe7a6d19bfafd5e27cf7084b37d51/1743725982/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Jessica Pegula vs Ajla Tomljanovic (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/fccn-lCNRT1OAF0RNUS9Cw/Fv2lucGIbhPi2caWYvF5Lg/1743732557437/live/xienSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/9R-Ldwe7XfR1T2DuOzXLuw/Fv2lucGIbhPi2caWYvF5Lg/1743725982360/live/xienSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Jessica Pegula vs Ajla Tomljanovic (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/m8Nx7BKVYr0BnMcmRxNIow/cac03b136a8c356be180b4618c6bfeb5/1743732557/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Z5sQiLXz5d21Ewfs1c5hVg/cac03b136a8c356be180b4618c6bfeb5/1743725982/live/_definst_/stream_1_1bda7@xienFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Jessica Pegula vs Ajla Tomljanovic (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/-kIFVo_VK8PQfEwGqSJ8pg/Fv2lucGIbhPi2caWYvF5Lg/1743732557437/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/t_s5YUIngceJFeZtfnAoAQ/Fv2lucGIbhPi2caWYvF5Lg/1743725982360/live/may24/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Brandon Nakashima vs Mackenzie McDonald (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/EH4TdtSpzuQZIqvgCqu5Dw/bcb43f9217ab3be1d1ab47881bede4b9/1743732557/live/_definst_/stream_1_1bda7@daoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/CMoWbJJrvyWllmZPruLfsQ/bcb43f9217ab3be1d1ab47881bede4b9/1743733180/live/_definst_/stream_1_1bda7@daoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Brandon Nakashima vs Mackenzie McDonald (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/1ufaUkitisBjT8LaZ0gblQ/Fv2lucGIbhPi2caWYvF5Lg/1743732557437/live/daoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/d0jzWNyxLF-OHgo3vAqAhw/Fv2lucGIbhPi2caWYvF5Lg/1743733180378/live/daoSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Brandon Nakashima vs Mackenzie McDonald (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/xBkyVlWbttCPbEhRNtQSlg/67544df98adad7c165ac45843eec88d6/1743732557/live/_definst_/stream_1_1bda7@daoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/XcHygdaFfdWctGcml4VR6w/67544df98adad7c165ac45843eec88d6/1743733180/live/_definst_/stream_1_1bda7@daoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Brandon Nakashima vs Mackenzie McDonald (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/f8yNZmRUggbGvYKlPmnNvw/Fv2lucGIbhPi2caWYvF5Lg/1743732557437/live/may27/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Elise Mertens vs Qinwen Zheng (HD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/CTIJySjclLsFlIcSWwWUNQ/0b2e28127a2e2b232b9e60c4c837a3d2/1743732557/live/_definst_/stream_1_1bda7@phoHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Elise Mertens vs Qinwen Zheng (SD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/to5xu4KbpVjAStBaGJNXgg/Fv2lucGIbhPi2caWYvF5Lg/1743732557437/live/phoSD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Elise Mertens vs Qinwen Zheng (FullHD)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/jYigrRIzbNX9Ns3U40HKPQ/4f331a41223542c17c4032aeaac138d5/1743732557/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
-#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 Elise Mertens vs Qinwen Zheng (Nhà đài)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/vWhk3FjxTLIftkZMjgvCvA/Fv2lucGIbhPi2caWYvF5Lg/1743732557438/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/siDJpCn9XXuSj0OU0njAEw/Fv2lucGIbhPi2caWYvF5Lg/1743733180378/live/may27/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h00 ATP250 Houston Open (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/4BXKYte_bHcclE2M4il8EA/Fv2lucGIbhPi2caWYvF5Lg/1743732557438/live/may27/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/C7gz6Ej-gULgrKuEGGk5WQ/Fv2lucGIbhPi2caWYvF5Lg/1743725982361/live/may27/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h15 Sporting CP vs Rio Ave (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/5kFpWTcY8Hzx0Ou-4g_n8A/59682603c0192799f9ad86b719cb364d/1743732557/live/_definst_/stream_1_1bda7@momHD/playlist.m3u8
+https://live-xlvb.nsnd.live/KcCdJCqJHm3oPreqPI3ypQ/59682603c0192799f9ad86b719cb364d/1743733180/live/_definst_/stream_1_1bda7@momHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h15 Sporting CP vs Rio Ave (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/ELBVHUjSf55wSWfUwfKSNg/Fv2lucGIbhPi2caWYvF5Lg/1743732557438/live/momSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/loOFuf-_cJBSvEzOHW0OUw/Fv2lucGIbhPi2caWYvF5Lg/1743733180379/live/momSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h15 Sporting CP vs Rio Ave (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/wtBvtsKa2PSU4-bKPNIS6w/8ea4ad32686fd43bf1bf1c1424d75942/1743732557/live/_definst_/stream_1_1bda7@momFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/NcPzuEC6RZWQSeS8d_ZArQ/8ea4ad32686fd43bf1bf1c1424d75942/1743733180/live/_definst_/stream_1_1bda7@momFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h15 Sporting CP vs Rio Ave (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/0faSJjQpdaNuaV2aF0aJfQ/a9876ad3e6becc6c1302850d079b79d6/1743732557/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8
+https://live-xlvb.nsnd.live/_6-AXsKfkNkQI70WgoBz_Q/a9876ad3e6becc6c1302850d079b79d6/1743733180/live/_definst_/stream_1_1bda7@may1HD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h15 Sporting CP vs Rio Ave (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/VrU1eK60npOn6zBEaUqR8A/Fv2lucGIbhPi2caWYvF5Lg/1743732557438/live/may1SD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/Ef_fswiBzVwW6fIAv3r6-A/Fv2lucGIbhPi2caWYvF5Lg/1743733180379/live/may1SD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h15 Sporting CP vs Rio Ave (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/SqMB6AeAThJ-R8eOSSmj6g/a75e9b78c79480f30c7ea83b12c71e42/1743732557/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
+https://live-xlvb.nsnd.live/ac7vihjuzhNQ9ptByQyl1w/a75e9b78c79480f30c7ea83b12c71e42/1743733180/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h15 Zheng Qinwen vs Elise Mertens (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/CTIJySjclLsFlIcSWwWUNQ/0b2e28127a2e2b232b9e60c4c837a3d2/1743732557/live/_definst_/stream_1_1bda7@phoHD/playlist.m3u8
+https://live-xlvb.nsnd.live/t-xUpO_W3-qKrDok9YfwMA/0b2e28127a2e2b232b9e60c4c837a3d2/1743725982/live/_definst_/stream_1_1bda7@phoHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h15 Zheng Qinwen vs Elise Mertens (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/mUxT3OluAxKGIgzO7yvgRQ/Fv2lucGIbhPi2caWYvF5Lg/1743732557438/live/phoSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/m21ZH91dof0AjKGnDHaYHg/Fv2lucGIbhPi2caWYvF5Lg/1743725982360/live/phoSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h15 Zheng Qinwen vs Elise Mertens (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/jYigrRIzbNX9Ns3U40HKPQ/4f331a41223542c17c4032aeaac138d5/1743732557/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Q4-NclGNQqnL5KRoK8WTkA/4f331a41223542c17c4032aeaac138d5/1743725982/live/_definst_/stream_1_1bda7@phoFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",02h15 Zheng Qinwen vs Elise Mertens (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/vWhk3FjxTLIftkZMjgvCvA/Fv2lucGIbhPi2caWYvF5Lg/1743732557438/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/EuuE2PBlEW2NqtxuwMW54g/Fv2lucGIbhPi2caWYvF5Lg/1743725982360/live/may25/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Zambia U17 vs Morocco U17 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/M3BpFqa8UyNDNPghlaqv5g/b14053af26d095bbd1a8883e12a23c70/1743732557/live/_definst_/stream_1_1bda7@duoiHD/playlist.m3u8
+https://live-xlvb.nsnd.live/6aP12MMPX8G00hsx8ckXgQ/b14053af26d095bbd1a8883e12a23c70/1743733180/live/_definst_/stream_1_1bda7@duoiHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Zambia U17 vs Morocco U17 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/D72NBwpkqyZueMIJzTOyZw/Fv2lucGIbhPi2caWYvF5Lg/1743732557439/live/duoiSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/r41QUOrh3fzrk-0GBs_RPg/Fv2lucGIbhPi2caWYvF5Lg/1743733180379/live/duoiSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Zambia U17 vs Morocco U17 (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/jmO0ko5pwED3jkgomDNsvA/fe6531f5755624d362691530bec11078/1743732557/live/_definst_/stream_1_1bda7@duoiFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/Q_sfnxoPDBwefhFQQS7dUA/fe6531f5755624d362691530bec11078/1743733180/live/_definst_/stream_1_1bda7@duoiFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Zambia U17 vs Morocco U17 (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/NNeJBY0rRlX1IgsDo_n0Pg/4d0d1e99ad3bda5d7e1f8e5f36b844f6/1743732557/live/_definst_/stream_1_1bda7@hawHD/playlist.m3u8
+https://live-xlvb.nsnd.live/oAN5UI_W509D0vFbevu4_A/4d0d1e99ad3bda5d7e1f8e5f36b844f6/1743733180/live/_definst_/stream_1_1bda7@hawHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Zambia U17 vs Morocco U17 (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/PDLUzihHy9vC4ONfHoKpEQ/Fv2lucGIbhPi2caWYvF5Lg/1743732557439/live/hawSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/zvEZLadQMuXor_SGnyrTpA/Fv2lucGIbhPi2caWYvF5Lg/1743733180379/live/hawSD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",03h00 Zambia U17 vs Morocco U17 (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/SBKgcYi9UB8rs-JA61ts7g/955439f202db20328214344ad740cd5d/1743732557/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/P6W3PESlDJFnZBDeY9Dygw/955439f202db20328214344ad740cd5d/1743733180/live/_definst_/stream_1_1bda7@hawFHD/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",06h10 Daria Kasatkina vs Sofia Kenin (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/cZKUdIaMFpXYI36llDcMsQ/Fv2lucGIbhPi2caWYvF5Lg/1743719376192/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/4uc3qjMnXKF45axGILLrcA/Fv2lucGIbhPi2caWYvF5Lg/1743725982361/live/may24/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/bar34.jpg",[0] Fullmatch Atlentico Madrid vs Barcelona | BLV Người Cồn | 3.4.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
