@@ -63,6 +63,10 @@ https://live.rapid-api.icu/live/7886904f65a00b1c8de6e0e800fce3ba/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://live.rapid-api.icu/live/c2ceda85bee91f01decf2e2ac5d35135/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/1h489grpj614.png",23h30 China U16 vs Cameroon U16 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.rapid-api.icu/live/d275eb6a73b59ba526a17755e9b8f383/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://cdn.kqbd.mobi/Image/team/images/167288852074.png",23h30 VfB Oldenburg vs TuS Blau-Weiss Lohne 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -247,6 +251,34 @@ https://ckcdn.livestreameuro.live/live/paohd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/m102nd/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b0fa01690e4a5c944c861b245b42d5b4.png",23h45 Jagiellonia Bialystok vs Real Betis (CH) SD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxaysd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b0fa01690e4a5c944c861b245b42d5b4.png",23h45 Jagiellonia Bialystok vs Real Betis (CH) HD 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxayhd1/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b0fa01690e4a5c944c861b245b42d5b4.png",23h45 Jagiellonia Bialystok vs Real Betis (CH) SD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/thoxaysd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b0fa01690e4a5c944c861b245b42d5b4.png",23h45 Jagiellonia Bialystok vs Real Betis (CH) HD 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckhot-179939170.cdnfree.pro/live/thoxayhd2/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b0fa01690e4a5c944c861b245b42d5b4.png",23h45 Jagiellonia Bialystok vs Real Betis (CH) SD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxaysd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b0fa01690e4a5c944c861b245b42d5b4.png",23h45 Jagiellonia Bialystok vs Real Betis (CH) HD 3 (Nhanh)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/thoxayhd1.flv
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b0fa01690e4a5c944c861b245b42d5b4.png",23h45 Jagiellonia Bialystok vs Real Betis (CH) Nhà đài
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
+https://ckcdn.livestreameuro.live/live/m101nd/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6cd99de5c2dbdb47e3e1d6dc02dfb15f.png",22h00 FK Andijon VS Termez Surkhon (CK) Backup 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -391,6 +423,50 @@ https://hotlivezz179602324.akainu.xyz/XggWRg0M4TtBTk5_uFxdAQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/S1P82icRe71UVuiCZtqGBw/a75e9b78c79480f30c7ea83b12c71e42/1744929005/live/_definst_/stream_1_1bda7@may1FHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",23h30 Coco Gauff vs Ella Seidel (CK) HD nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/hucHD.flv?expire=1744929906&sign=afc50d826f03d700faa81b40d1176295
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",23h30 Coco Gauff vs Ella Seidel (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/VTuYFG6rRgTjFmd3FTweYg/e94fbd8082e0d1238fcf5da3554b20e5/1744929906/live/_definst_/stream_1_1bda7@hucHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",23h30 Coco Gauff vs Ella Seidel (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/lRPxlozxmNuIhkJ7rBIu-Q/Fv2lucGIbhPi2caWYvF5Lg/1744929906482/live/hucSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",23h30 Coco Gauff vs Ella Seidel (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/AAz8MWOw-pUyDlA-VXMN7A/f13af37e22c82318c65a375473fc75f2/1744929906/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png",23h00 Vakifbank Women vs Fenerbahce Women (CK) HD NHANH
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/oldHD.flv?expire=1744929906&sign=e0d05ea711832b31c35ad267b2766f40
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png",23h00 Vakifbank Women vs Fenerbahce Women (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/znATScUG9OO7SV8rUrVW4g/61b7c9f6fb3bff2f3c2273378af449b7/1744929906/live/_definst_/stream_1_1bda7@oldHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png",23h00 Vakifbank Women vs Fenerbahce Women (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/XcUXyvVkRXKOtErAsfka1A/Fv2lucGIbhPi2caWYvF5Lg/1744929906680/live/oldSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/volleyball/team/bf7d5b85601e54fc26df7d6605e3dd01.png",23h00 Vakifbank Women vs Fenerbahce Women (CK) FULLHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/JTu_HGtJ-_saFIM2n4NcEw/e56ce8a755cda33e7f050da0b700d013/1744929906/live/_definst_/stream_1_1bda7@oldFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/6f18501f6a0c458470fb41bc14799cfb.png",23h30 VfB Oldenburg VS TuS Blau-Weiss Lohne (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/kuQBCCtgO3V7kXCJi5EjJg/Fv2lucGIbhPi2caWYvF5Lg/1744929906878/live/sd-6MsGPtQqTB61ichJBM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b666da276afc9e1f650ac5879d9fd01f.png",23h30 Adams Sam Beek VS FC Eintracht Rheine (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/XeZ88-QYOcMI-2wUyf3Aqg/Fv2lucGIbhPi2caWYvF5Lg/1744929907089/live/sd-6MuRsd653MCT1xjpjm/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/china.png",23h30 China U16 VS BrasilU16 (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/-CFyT2Vl2k0Nx-3DW_A6PQ/Fv2lucGIbhPi2caWYvF5Lg/1744929907283/live/sd-6MuRsZszuRpJS2MqqV/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/381dd852484f06350b771097612cf08e.png",22h40 Al-Ettifaq FC vs Al-Riyadh (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -1175,6 +1251,18 @@ https://hotlivezz179602324.akainu.xyz/6acvgRpMDZXkKw0QYvYlhw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://live-xlvb.nsnd.live/ihDLADxDKoKq9kM_rLEDyw/847878fb5be3ca4c0539d0883bc5274a/1744923542/live/_definst_/stream_1_1bda7@trauFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/a01dfc715df9621113e91549c0ee7651.jpg",23h30 Oldenburg vs TuS Blau-Weiss Lohne (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/2hKGarUEIwTmZXLfwRiqrQ/Fv2lucGIbhPi2caWYvF5Lg/1744928708931/live/sd-6MsGPtQqTB61ichJBM/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/china.png",23h30 China U16 vs BrasilU16 (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/fqcSRGAxKj_cPm1--qJzyQ/Fv2lucGIbhPi2caWYvF5Lg/1744929916506/live/sd-6MuRsZszuRpJS2MqqV/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b666da276afc9e1f650ac5879d9fd01f.png",23h30 Adams Sam Beek vs FC Eintracht Rheine (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/Sta6VtG_bARzqaVqZ_xt9A/Fv2lucGIbhPi2caWYvF5Lg/1744929609116/live/sd-6MuRsd653MCT1xjpjm/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="",16h00 ATP500 Barcelona Open (Nhà đài)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
@@ -16220,6 +16308,26 @@ https://apisportzz179528093.nsnd.live/4yzokXvRWkCY-16NI94ocQ/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/Wm6_Q7IYVU3_sHjgTtzuIQ/Fv2lucGIbhPi2caWYvF5Lg/1744929308141/live/sd-6MuRsZszuRpJS2MqqV/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",23h30 Coco Gauff vs Ella Seidel (CK) HD nhanh
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179536519.akainu.xyz/live/hucHD.flv?expire=1744929606&sign=5c21309ed0bcbb950a55d36aafb73464
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",23h30 Coco Gauff vs Ella Seidel (CK) HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/42q9Mks7umieVDvygdsbvQ/e94fbd8082e0d1238fcf5da3554b20e5/1744929606/live/_definst_/stream_1_1bda7@hucHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",23h30 Coco Gauff vs Ella Seidel (CK) SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://hotlivezz179602324.akainu.xyz/pJlv2rc7rdKzMC2gq08Ohw/Fv2lucGIbhPi2caWYvF5Lg/1744929606795/live/hucSD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/v2/team/b1e9a31f168ea64fa99e2be05ace5f19.png",23h30 Coco Gauff vs Ella Seidel (CK) FullHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://live-xlvb.nsnd.live/rJ7dDGPYjytCOGQAn_wiGg/f13af37e22c82318c65a375473fc75f2/1744929606/live/_definst_/stream_1_1bda7@hucFHD/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b666da276afc9e1f650ac5879d9fd01f.png",23h30 Adams Sam Beek VS FC Eintracht Rheine (CK) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/rh5kR_lmbvx5BySNecJSKA/Fv2lucGIbhPi2caWYvF5Lg/1744929607341/live/sd-6MuRsd653MCT1xjpjm/playlist.m3u8
 #EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/381dd852484f06350b771097612cf08e.png",22h40 Al-Ettifaq FC vs Al-Riyadh (CKhia) SD 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
@@ -17020,3 +17128,7 @@ https://apisportzz179528093.nsnd.live/1snFvgtZbYwRI9WarxpMWw/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/X_ZuVMB9HNSEpCVcdP2nEg/Fv2lucGIbhPi2caWYvF5Lg/1744929341289/live/sd-6MuRsZszuRpJS2MqqV/playlist.m3u8
+#EXTINF:0 group-title="ĐANG LIVE" tvg-logo="https://img.thesports.com/football/team/b666da276afc9e1f650ac5879d9fd01f.png",23h30 Adams Sam Beek vs FC Eintracht Rheine (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/LcqDgsQlqoJbj4PZ2uvdRw/Fv2lucGIbhPi2caWYvF5Lg/1744929645107/live/sd-6MuRsd653MCT1xjpjm/playlist.m3u8
