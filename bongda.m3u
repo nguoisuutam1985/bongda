@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/1b3145c36b91e56bd3e1329351ad2258.png",08h05 Chivas Guadalajara (w) vs Club America (w) 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.rapid-api.icu/live/6b24d21b3416dc2c7e615fef8f147dac/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/6d11e9bed41afe576531fedf0d2a2467.png",08h30 Nhật vs Đài Loan [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -267,30 +263,6 @@ https://ckcdn.livestreameuro.live/live/paosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/paohd1.flv
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/1b3145c36b91e56bd3e1329351ad2258.png",08h05 Chivas Guadalajara (w) vs Club America (w) (LK) SD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1.flv
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/1b3145c36b91e56bd3e1329351ad2258.png",08h05 Chivas Guadalajara (w) vs Club America (w) (LK) HD Nhanh
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1.flv
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/1b3145c36b91e56bd3e1329351ad2258.png",08h05 Chivas Guadalajara (w) vs Club America (w) (LK) SD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrasd1/playlist.m3u8
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/1b3145c36b91e56bd3e1329351ad2258.png",08h05 Chivas Guadalajara (w) vs Club America (w) (LK) HD 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://qtcdn.livestreameuro.live/live/natrahd1/playlist.m3u8
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/1b3145c36b91e56bd3e1329351ad2258.png",08h05 Chivas Guadalajara (w) vs Club America (w) (LK) SD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/natrasd2/playlist.m3u8
-#EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/1b3145c36b91e56bd3e1329351ad2258.png",08h05 Chivas Guadalajara (w) vs Club America (w) (LK) HD 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://playerlive.xyz/
-https://179939170.vipcdnlive.xyz/live/natrahd2/playlist.m3u8
 #EXTINF:0 group-title="[LẤY KINH]" tvg-logo="https://img.thesports.com/football/team/31971ee832c15c1da930c9b63fa151e0.png",09h00 Cruz Azul vs Tigres UANL (LK) SD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://playerlive.xyz/
@@ -427,10 +399,6 @@ https://ckcdn.livestreameuro.live/live/paosd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/paohd1.flv
-#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/dd5a37bed9afbe09963bc9798f77d225.png",08h05 Chivas Guadalajara (w) vs Club America (w) (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/taWsO_O0zT8ILOhBPDAOLA/Fv2lucGIbhPi2caWYvF5Lg/1746170101412/live/sd-6MuScpwughWqi7jWrF/playlist.m3u8
 #EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/14b7388bfb2a0a8016dffdd520f2ba7a.png",09h00 CDSyC Cruz Azul vs Tigres UANL (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -450,51 +418,51 @@ https://live-xlvb.nsnd.live/mNc8SHPIheILDOtpMbfWgA/6b78b4ff262c15bca3bdb372d5d5d
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h05 Chivas Guadalajara (w) VS Club America (w) (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/oYgspyvJgB2C1ONTvY3t0Q/Fv2lucGIbhPi2caWYvF5Lg/1746175778406/live/sd-6MuScpwughWqi7jWrF/playlist.m3u8
+https://apisportzz179528093.nsnd.live/IiJg8r9JXnmJ44YYigsvBA/Fv2lucGIbhPi2caWYvF5Lg/1746176398141/live/sd-6MuScpwughWqi7jWrF/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h30 BWF Sudirman Cup (Thủ HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/dBwICU6J15ZZA0gMtCxWSg/19c6df53af2e8e4da3153ccd33338ce9/1746175778/live/_definst_/stream_1_1bda7@thuHD/playlist.m3u8
+https://live-xlvb.nsnd.live/9aBKx-0yPIPdeEfDJ6yE2Q/19c6df53af2e8e4da3153ccd33338ce9/1746176398/live/_definst_/stream_1_1bda7@thuHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h30 BWF Sudirman Cup (Xiên HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/6gYsA527Jfk8ZPO2u3fUEQ/0aafe7a6d19bfafd5e27cf7084b37d51/1746175778/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
+https://live-xlvb.nsnd.live/UkS11vBAotwkDQRfqgFzAA/0aafe7a6d19bfafd5e27cf7084b37d51/1746176398/live/_definst_/stream_1_1bda7@xienHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h30 BWF Sudirman Cup (Sân 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/OTcwb3Y7O89AH_rvHxUioA/Fv2lucGIbhPi2caWYvF5Lg/1746175778407/live/may24/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/gDFW161NnT0BvJQp0nHayQ/Fv2lucGIbhPi2caWYvF5Lg/1746176398142/live/may24/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h30 BWF Sudirman Cup (Sân 2)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179026907.akainu.xyz/ewb7cI8B2gW_nNUe889jTw/Fv2lucGIbhPi2caWYvF5Lg/1746175778407/live/may25/playlist.m3u8
+https://hotlivezz179026907.akainu.xyz/Hjyd7wZo9UXvshJS5LvfIw/Fv2lucGIbhPi2caWYvF5Lg/1746176398142/live/may25/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h35 Los Angeles Angels vs Detroit Tigers (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/6ObvAsthWUkIqVwY52rxhw/fc78fc174aa2842a71350738a7720538/1746175778/live/_definst_/stream_1_1bda7@cayHD/playlist.m3u8
+https://live-xlvb.nsnd.live/W8829iWvl2dW6vpobp-80Q/fc78fc174aa2842a71350738a7720538/1746176398/live/_definst_/stream_1_1bda7@cayHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h35 Los Angeles Angels vs Detroit Tigers (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/QbixE0FDa00UTzo-Jmbbdw/Fv2lucGIbhPi2caWYvF5Lg/1746175778408/live/caySD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/_0dbYHZSj7GNbZcm-7bJ2g/Fv2lucGIbhPi2caWYvF5Lg/1746176398142/live/caySD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",08h35 Los Angeles Angels vs Detroit Tigers (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/qsoV8fgA1VM3pw2vl5IABw/0fb55f7bffe944b07b26e92c54cb3c98/1746175778/live/_definst_/stream_1_1bda7@cayFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/pPWuFZrvwtBtZYl2DlBXbw/0fb55f7bffe944b07b26e92c54cb3c98/1746176398/live/_definst_/stream_1_1bda7@cayFHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",09h00 Cruz Azul vs Tigres UANL (Backup 1)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://apisportzz179528093.nsnd.live/ddRZTl5GjZyOfRByWTGG8g/Fv2lucGIbhPi2caWYvF5Lg/1746175778408/live/sd-6MuRsgJqzysgVNgqNb/playlist.m3u8
+https://apisportzz179528093.nsnd.live/TqWxSO8iff8ezbHvdjioFg/Fv2lucGIbhPi2caWYvF5Lg/1746176398143/live/sd-6MuRsgJqzysgVNgqNb/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",09h00 Cruz Azul vs Tigres UANL (HD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/RjzsGlYUlHmYB7QniJgngg/5c978519fd4da0d4f4d7d1181446e6c9/1746175778/live/_definst_/stream_1_1bda7@satHD/playlist.m3u8
+https://live-xlvb.nsnd.live/X77A7LL3_TKjAfHuK52sfg/5c978519fd4da0d4f4d7d1181446e6c9/1746176398/live/_definst_/stream_1_1bda7@satHD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",09h00 Cruz Azul vs Tigres UANL (SD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://hotlivezz179602324.akainu.xyz/93MMntYrHKHlkw_uXL3n9Q/Fv2lucGIbhPi2caWYvF5Lg/1746175778408/live/satSD/playlist.m3u8
+https://hotlivezz179602324.akainu.xyz/1EhBCa6-j78p8xOTqbNbtg/Fv2lucGIbhPi2caWYvF5Lg/1746176398143/live/satSD/playlist.m3u8
 #EXTINF:0 group-title="[VEBO TV]" tvg-logo="",09h00 Cruz Azul vs Tigres UANL (FullHD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://vebotv.tv
-https://live-xlvb.nsnd.live/Iiz4yB_AivamOJkxNHuLQw/6b78b4ff262c15bca3bdb372d5d5d695/1746175778/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
+https://live-xlvb.nsnd.live/pQYrM3JqLtgJPuQk8nl1tQ/6b78b4ff262c15bca3bdb372d5d5d695/1746176398/live/_definst_/stream_1_1bda7@satFHD/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/news/che-2525.jpg",[0] Full match Djurgarden vs Chelsea | BLV Người Cún | 2.5.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
