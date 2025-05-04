@@ -1,4 +1,7 @@
 #EXTM3U
+#EXTINF:0 group-title="[  ]" tvg-logo="",1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+https://raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda_2.m3u
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/509785a43a4bfb836e0a1d0874952b2a.png",18h00 ALG Spor (w) vs Fenerbahce SK (w) 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
