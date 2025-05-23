@@ -63,6 +63,22 @@ https://2893254555.global.cdnfastest.com/live/682fb90e5d992_4733/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/682fb90e5d992_4733.flv?expire=1748562830&sign=8af8ff0f69fd710f36a7a898fff41a75
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/54099ae694c45ae7fd881e321a2e31c8.jpg",08h00 Dechapol PUAVARANUKROH vs FENG Yan Zhe [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/682fc6985d992_5160/index.m3u8?expire=1748566296&sign=417a20a02fefc7830e974cde178d0e41
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/54099ae694c45ae7fd881e321a2e31c8.jpg",08h00 Dechapol PUAVARANUKROH vs FENG Yan Zhe [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/682fc6985d992_5160.flv?expire=1748566296&sign=417a20a02fefc7830e974cde178d0e41
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/53202ebfa040ad4ce3f86807461217b8.jpg",08h10 Dejan FERDINANSYAH vs CHENG Xing [hls]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893254555.global.cdnfastest.com/live/682fc8205d6d1_6315/index.m3u8?expire=1748566688&sign=65ad43021c41a2aa65eb87dec62fcd26
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://cdn-live.taoxanh.biz/live-dev/cms/53202ebfa040ad4ce3f86807461217b8.jpg",08h10 Dejan FERDINANSYAH vs CHENG Xing [flv]
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://2893950149.global.cdnfastest.com/live/682fc8205d6d1_6315.flv?expire=1748566688&sign=65ad43021c41a2aa65eb87dec62fcd26
 #EXTINF:0 group-title="[CÁ HEO]" tvg-logo="https://img.thesports.com/football/team/49a35dd00c51fc958ebf44054bce4c48.png",07h10 Defensa Y Justicia vs Newell's Old Boys (CH) Nhà đài
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
