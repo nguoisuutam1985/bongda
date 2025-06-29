@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/0e877d710876c7518aed3d5b2c721aab.jpg",09h00 Oakland Roots vs Monterey Bay FC 1 (Bc)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://bunchatv1.com/
-https://live.alilicloud.com/live/9342038922adceb43494f3a613f75654/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/e2f7aa9acaea085ee66204e753fc9560.png",09h00 Orange County Blues FC vs Sacramento Republic FC 1 (Bc)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -75,6 +71,10 @@ https://2893254555.global.cdnfastest.com/live/68607ade17efe_4733/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/68607ade17efe_4733.flv?expire=1751758174&sign=5add30a9036ad75c6b062d528a7657d6
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f3d654ef6112d441e56b0561a2b7cb9f.png",11h00 Newcastle Olympic vs Broadmeadow Magic 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/b4eff4fbbb520f5048b8ce6468140716/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f3d654ef6112d441e56b0561a2b7cb9f.png",11h00 Newcastle Olympic vs Broadmeadow Magic [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -83,6 +83,10 @@ https://2893254555.global.cdnfastest.com/live/6860b41182772_8884/index.m3u8?expi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
 https://2893950149.global.cdnfastest.com/live/6860b41182772_8884.flv?expire=1751772817&sign=0006492fd3827b1c2cca21d30fdf44e1
+#EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/f34ddc8a4e8f38543ebe794975b0b3ee.png",11h00 NGU Nagoya (w) vs Viamaterras Miyazaki (w) 1 (Bc)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://bunchatv1.com/
+https://live.alilicloud.com/live/718c76c0b8a3b24dbdfaa282d6a1e8a7/playlist.m3u8
 #EXTINF:0 group-title="[BÚN CHẢ]" tvg-logo="https://img.thesports.com/football/team/a2f47271892fb491ffab880158419ca0.png",12h00 Sydney United 58 FC vs Spirit FC [hls]
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://bunchatv1.com/
@@ -667,10 +671,6 @@ https://ckcdn.livestreameuro.live/live/lulusd1.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://watch.rkplayer.xyz/
 https://ckcdn.livestreameuro.live/live/luluhd1.flv
-#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/0e877d710876c7518aed3d5b2c721aab.jpg",09h00 Oakland Roots vs Monterey Bay FC (VB) Backup 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
-#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
-https://apisportzz179528093.nsnd.live/yUaXrY4LrejldXGM2A3pVg/Fv2lucGIbhPi2caWYvF5Lg/1751184610626/live/sd-6MuT7hniQYLeX1chfR/playlist.m3u8
 #EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://g7w1r.4shares.live/teams/C%E1%BB%9D%20qu%E1%BB%91c%20gia/MX.png",09h15 Mexico vs Saudi Arabia (VB) HD Nhanh
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
@@ -707,6 +707,14 @@ https://apisportzz179528093.nsnd.live/G8r0hxss2j1iTgAdKIPLOg/Fv2lucGIbhPi2caWYvF
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
 https://apisportzz179528093.nsnd.live/DqoiDTFEjFW67eAYKqMUkg/Fv2lucGIbhPi2caWYvF5Lg/1751189714174/live/sd-6MuT7bJvswcp5yEveo/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/2a8bf2c74642824b6a0862bcfb4e42d8.png",09h00 Orange County Blues FC vs Sacramento Republic FC (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/7CUSaP1FUJzLjdb-mv5hmg/Fv2lucGIbhPi2caWYvF5Lg/1751191206493/live/sd-6MuT7hniFBSxYWZLmy/playlist.m3u8
+#EXTINF:0 group-title="[VỀ BỜ]" tvg-logo="https://img.thesports.com/football/team/10f9058c0b9e30baddd944056e5416b3.png",09h30 Las Vegas Lights vs Spokane Velocity (VB) Backup 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
+#EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
+https://apisportzz179528093.nsnd.live/N9_o1ryxHpyUnEMVsfi6RQ/Fv2lucGIbhPi2caWYvF5Lg/1751186416523/live/sd-6MuT7hniF9FUg2jRd5/playlist.m3u8
 #EXTINF:0 group-title=" [XEM LạI]" tvg-logo="https://g7w1r.4shares.live/images/20250627-RBS-RMA-1.jpg",[0] Fullmatch Red Bull Salzburg vs Real Madrid | BLV Mun Nai | 27.6.25
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 AppleWebKit/537.36 Chrome/81.0.4044.138 Safari/537.36
 #EXTVLCOPT:http-referrer=https://m10.ldplayer.xyz/
